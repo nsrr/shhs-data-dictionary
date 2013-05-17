@@ -1,0 +1,21 @@
+{
+  "id": "sh307a",
+  "display_name": "Sleep Habits (SHHS2): Nap due to not enough sleep at night",
+  "description": "7. What are your reasons for regular napping in the afternoon? (check all that apply)  a. I do not get enough sleep at night.",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "sh307a"
+  ],
+  "hybrid": {
+    "VARNUM": "42",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 7a  Not enough sleep at night",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

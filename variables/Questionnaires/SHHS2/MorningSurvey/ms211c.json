@@ -1,0 +1,21 @@
+{
+  "id": "ms211c",
+  "display_name": "Morning Survey (SHHS2): cigars before bed",
+  "description": "11. How much did you smoke during the 4 hours before you went to sleep last night? (Please write \"0\" for each that you did not smoke last night.)  c. ____ number of cigars",
+  "type": "numeric",
+  "units": "cigars",
+  "labels": [
+    "ms211c"
+  ],
+  "hybrid": {
+    "VARNUM": "127",
+    "TABLE": "SHHS2",
+    "LABEL": "MS 11c Number of cigars",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

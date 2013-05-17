@@ -1,0 +1,22 @@
+{
+  "id": "tto_angdate",
+  "display_name": "Days to First Angina Since Baseline (SHHSCVD)",
+  "description": "Time since SHHS 1 Sleep Study to date of first angina pectoris (days) since bl psg",
+  "type": "numeric",
+  "units": "days_from_index_date",
+  "labels": [
+    "tto_angdate",
+    "angina"
+  ],
+  "hybrid": {
+    "VARNUM": "28",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Days to First Angina Since Baseline",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ess_s2",
+  "display_name": "Epworth Sleepiness Score (SHHS2)",
+  "description": "Epworth Sleepiness Scale total score (SHHS2)",
+  "type": "numeric",
+  "units": "score",
+  "labels": [
+    "ess_s2"
+  ],
+  "hybrid": {
+    "VARNUM": "74",
+    "TABLE": "SHHS2",
+    "LABEL": "Epworth Sleepiness Score SHHS2",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

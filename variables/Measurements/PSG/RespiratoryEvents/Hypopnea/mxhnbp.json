@@ -1,0 +1,21 @@
+{
+  "id": "mxhnbp",
+  "display_name": "Max. Hypopnea length (NREM, Back, all desats) (SHHS2)",
+  "description": "Max. Hypopnea length (NREM, Back, all desats) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "mxhnbp"
+  ],
+  "hybrid": {
+    "VARNUM": "361",
+    "TABLE": "SHHS2",
+    "LABEL": "Max. Hypopnea length (NREM, Back, all desats) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

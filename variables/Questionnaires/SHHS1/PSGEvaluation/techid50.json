@@ -1,0 +1,20 @@
+{
+  "id": "techid50",
+  "display_name": "PSG Evaluation (SHHS1): Technician ID",
+  "description": "Technician ID",
+  "type": "text",
+  "labels": [
+    "TECHID50"
+  ],
+  "hybrid": {
+    "VARNUM": "285",
+    "TABLE": "SHHS1",
+    "LABEL": "SR Tech ID 50",
+    "access level": "1",
+    "SOURCE": "PSG Evaluation (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "twuwea02",
+  "display_name": "Sleep Habits (SHHS1): weekend wake time - AM or PM",
+  "description": "At what time do you usually wake up on weekends or your non-work days - AM or PM",
+  "type": "choices",
+  "domain": "ampmf",
+  "labels": [
+    "TWUWEA02"
+  ],
+  "hybrid": {
+    "VARNUM": "309",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Wake Wkend AMPM 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

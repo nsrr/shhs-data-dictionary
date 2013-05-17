@@ -1,0 +1,21 @@
+{
+  "id": "hslptawp",
+  "display_name": "# of sleep to awake shifts per hour (SHHS2)",
+  "description": "# of sleep to awake shifts per hour",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "hslptawp"
+  ],
+  "hybrid": {
+    "VARNUM": "323",
+    "TABLE": "SHHS2",
+    "LABEL": "# of sleep to awake shifts per hour",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "educatdt",
+  "display_name": "Date collected: Education level (SHHS1)",
+  "description": "Date Educational level collected (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "EducatDT"
+  ],
+  "hybrid": {
+    "VARNUM": "11",
+    "TABLE": "SHHS1",
+    "LABEL": "AV Education level Date",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

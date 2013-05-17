@@ -1,0 +1,21 @@
+{
+  "id": "avsao2nh",
+  "display_name": "Avg. SaO2 % during NREM sleep (SHHS2)",
+  "description": "Avg. SaO2 % during NREM sleep",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avsao2nh"
+  ],
+  "hybrid": {
+    "VARNUM": "295",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. SaO2 % during NREM sleep",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:avgsat"
+  }
+}

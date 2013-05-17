@@ -1,0 +1,21 @@
+{
+  "id": "hrembp2",
+  "display_name": "# of Hypopnea (REM, Back, 2% desat) (SHHS2)",
+  "description": "# of Hypopnea (REM, Back, 2% desat)",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "hrembp2"
+  ],
+  "hybrid": {
+    "VARNUM": "470",
+    "TABLE": "SHHS2",
+    "LABEL": "# of Hypopnea (REM, Back, 2% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:hypopnea"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "oai0p",
+  "display_name": "Obstructive Apnea Index all desats (SHHS2)",
+  "description": "Obstructive Apnea Index at all desats  [(Total number of obstructive apneas associated with all desats) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "calculation": "oai0p  = 60*(oarbp +  oarop  + oanbp  + oanop ) / slpprdp",
+  "labels": [
+    "oai0p"
+  ],
+  "hybrid": {
+    "VARNUM": "569",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - Obstructive Apnea Index all desats",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "psg:oai"
+  }
+}

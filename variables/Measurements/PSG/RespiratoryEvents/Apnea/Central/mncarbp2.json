@@ -1,0 +1,21 @@
+{
+  "id": "mncarbp2",
+  "display_name": "Min. Cent. Apnea length (REM, Back, 2% desat) (SHHS2)",
+  "description": "Min. Cent. Apnea length (REM, Back, 2% desat) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "mncarbp2"
+  ],
+  "hybrid": {
+    "VARNUM": "488",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. Cent. Apnea length (REM, Back, 2% desat) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

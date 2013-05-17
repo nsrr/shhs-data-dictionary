@@ -1,0 +1,21 @@
+{
+  "id": "pm227",
+  "display_name": "Site of Arm AAI Measurement (SHHS2)",
+  "description": "27. Arm BP site for AAI:",
+  "type": "choices",
+  "domain": "armbp",
+  "labels": [
+    "pm227"
+  ],
+  "hybrid": {
+    "VARNUM": "152",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 27  Arm BP site for AAI",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

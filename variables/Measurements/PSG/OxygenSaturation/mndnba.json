@@ -1,0 +1,21 @@
+{
+  "id": "mndnba",
+  "display_name": "Min. SaO2 w/ arousals (NREM, Back, all desats) (SHHS2)",
+  "description": "Min. SaO2 w/ arousals (NREM, Back, all desats) (%)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mndnba"
+  ],
+  "hybrid": {
+    "VARNUM": "468",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. SaO2 w/ arousals (NREM, Back, all desats) (%)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:minsat"
+  }
+}

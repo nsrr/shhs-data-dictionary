@@ -1,0 +1,21 @@
+{
+  "id": "avdroa4",
+  "display_name": "Avg. Desat w/ arousals (REM, Other, 4% desat) (SHHS2)",
+  "description": "Avg. Desat w/ arousals (REM, Other, 4% desat)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avdroa4"
+  ],
+  "hybrid": {
+    "VARNUM": "115",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. Desat w/ arousals (REM, Other, 4% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

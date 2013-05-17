@@ -1,0 +1,21 @@
+{
+  "id": "shlg10",
+  "display_name": "Morning Survey (SHHS1): Quality of sleep: short/long",
+  "description": "Quality of sleep: short/long (1=short to 5=long)",
+  "type": "choices",
+  "domain": "SHORLON5",
+  "labels": [
+    "SHLG10"
+  ],
+  "hybrid": {
+    "VARNUM": "215",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Length Slp 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

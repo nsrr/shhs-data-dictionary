@@ -1,0 +1,21 @@
+{
+  "id": "whenpd15",
+  "display_name": "Health Interview (SHHS1): when prevalent disease data collected",
+  "description": "Prevalent disease data collected today at home visit or before at clinic? (date=[PDCLDT15])",
+  "type": "choices",
+  "domain": "HOMCLIN",
+  "labels": [
+    "WHENPD15"
+  ],
+  "hybrid": {
+    "VARNUM": "95",
+    "TABLE": "SHHS1",
+    "LABEL": "HI WHENPD15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

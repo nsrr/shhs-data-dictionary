@@ -1,0 +1,21 @@
+{
+  "id": "tripae",
+  "display_name": "Adverse Events (SHHS1): Tripping/falling?",
+  "description": "Tripping/falling?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "TRIPAE"
+  ],
+  "hybrid": {
+    "VARNUM": "61",
+    "TABLE": "SHHS1",
+    "LABEL": "AE TripFall",
+    "access level": "1",
+    "SOURCE": "Adverse Events Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Adverse Events (AE).pdf",
+    "PARENT TERM": null
+  }
+}

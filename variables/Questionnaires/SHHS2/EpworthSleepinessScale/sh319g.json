@@ -1,0 +1,21 @@
+{
+  "id": "sh319g",
+  "display_name": "Sleep Habits (SHHS2): Fall asleep while sitting quietly after lunch",
+  "description": "19. What is the chance that you would doze off or fall asleep (not just \"feel tired\") in each of the following situations? (Check one box for each situation.  If you are never or rarely in the situation, please give your best guess for what would happen.)  g. Sitting quietly after a lunch without alcohol.",
+  "type": "choices",
+  "domain": "NHCHAN4",
+  "labels": [
+    "sh319g"
+  ],
+  "hybrid": {
+    "VARNUM": "66",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 19g Sitting quietly after lunch",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

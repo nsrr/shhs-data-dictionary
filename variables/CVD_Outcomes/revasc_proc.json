@@ -1,0 +1,23 @@
+{
+  "id": "revasc_proc",
+  "display_name": "Number of Revascularization Procedures Since Baseline (SHHSCVD)",
+  "description": "Revascularization procedure since baseline PSG (as recorded in parent studies datasets)",
+  "type": "numeric",
+  "units": "number_of_events",
+  "labels": [
+    "revasc_proc",
+    "revascularization procedure",
+    "stent"
+  ],
+  "hybrid": {
+    "VARNUM": "17",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Number of Revascularizations Procedures Since to Baseline",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

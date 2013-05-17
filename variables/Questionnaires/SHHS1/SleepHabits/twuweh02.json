@@ -1,0 +1,21 @@
+{
+  "id": "twuweh02",
+  "display_name": "Sleep Habits (SHHS1): weekend wake time - hour",
+  "description": "At what time do you usually wake up on weekends or your non-work days - hour? (hours component of time, 1 to 12)",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "TWUWEH02"
+  ],
+  "hybrid": {
+    "VARNUM": "307",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Hr Wake Wkend 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

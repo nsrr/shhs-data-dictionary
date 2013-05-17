@@ -1,0 +1,21 @@
+{
+  "id": "nsaid1",
+  "display_name": "Non-Steroidal Anti-Inflammatory Agents, Excluding Aspirin (SHHS1)",
+  "description": "Patient taking NON-STEROIDAL ANTI-INFLAMMATORY AGENTS, EXCLUDING ASPIRIN within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "NSAID2"
+  ],
+  "hybrid": {
+    "VARNUM": "172",
+    "TABLE": "SHHS1",
+    "LABEL": "MU Non-steroidal anti-inflammatory agents, excluding aspirin",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": "SHHS1 Medications.pdf",
+    "PARENT TERM": null
+  }
+}

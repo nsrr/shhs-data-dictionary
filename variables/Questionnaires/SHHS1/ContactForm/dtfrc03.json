@@ -1,0 +1,21 @@
+{
+  "id": "dtfrc03",
+  "display_name": "Contact Form (SHHS1): Date of Final Recruitment Contact",
+  "description": "Date of Final Recruitment Contact (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "DtFRC03"
+  ],
+  "hybrid": {
+    "VARNUM": "86",
+    "TABLE": "SHHS1",
+    "LABEL": "CF DT FinalRecrCont 03",
+    "access level": "0",
+    "SOURCE": "Contact Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Contact Form (CF).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ql208",
+  "display_name": "Quality of Life (SHHS2): Pain interferes with work",
+  "description": "8. During the past four weeks, how much did pain interfere with your normal work (including both work outside the home and housework? (Check one box.)",
+  "type": "choices",
+  "domain": "notextr5",
+  "labels": [
+    "ql208"
+  ],
+  "hybrid": {
+    "VARNUM": "193",
+    "TABLE": "SHHS2",
+    "LABEL": "QL 8   Pain interferred with work in past 4",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

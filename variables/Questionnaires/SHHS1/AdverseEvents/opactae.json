@@ -1,0 +1,20 @@
+{
+  "id": "opactae",
+  "display_name": "Adverse Events (SHHS1): Action taken to address other problem",
+  "description": "Action taken to address other problem",
+  "type": "text",
+  "labels": [
+    "OPACTAE"
+  ],
+  "hybrid": {
+    "VARNUM": "64",
+    "TABLE": "SHHS1",
+    "LABEL": "AE OthProb Action",
+    "access level": "1",
+    "SOURCE": "Adverse Events Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Adverse Events (AE).pdf",
+    "PARENT TERM": null
+  }
+}

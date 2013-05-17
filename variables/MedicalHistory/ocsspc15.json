@@ -1,0 +1,20 @@
+{
+  "id": "ocsspc15",
+  "display_name": "Specify other Heart Surgery (SHHS1)",
+  "description": "Specify other surgery, if yes on question 2d [OTHRCS15]",
+  "type": "text",
+  "labels": [
+    "OCSSPC15"
+  ],
+  "hybrid": {
+    "VARNUM": "104",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Specify Heart Surg 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

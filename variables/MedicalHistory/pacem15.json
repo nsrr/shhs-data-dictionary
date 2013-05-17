@@ -1,0 +1,21 @@
+{
+  "id": "pacem15",
+  "display_name": "History of Pacemaker (SHHS1)",
+  "description": "MD said pt had pace maker?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "PACEM15"
+  ],
+  "hybrid": {
+    "VARNUM": "105",
+    "TABLE": "SHHS1",
+    "LABEL": "HI PaceMkr 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

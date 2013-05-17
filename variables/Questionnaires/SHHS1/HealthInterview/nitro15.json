@@ -1,0 +1,21 @@
+{
+  "id": "nitro15",
+  "display_name": "Health Interview (SHHS1): MD prescribed nitro in last year",
+  "description": "MD prescribed nitro in last year?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "NITRO15"
+  ],
+  "hybrid": {
+    "VARNUM": "142",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Nitro 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

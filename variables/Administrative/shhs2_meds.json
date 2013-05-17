@@ -1,0 +1,21 @@
+{
+  "id": "shhs2_meds",
+  "display_name": "Has SHHS2 Medications form",
+  "description": "Categorized Medications form present 0-No, 1-Yes",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs2_meds"
+  ],
+  "hybrid": {
+    "VARNUM": "331",
+    "TABLE": "SHHS2",
+    "LABEL": "Categorized Medications form present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

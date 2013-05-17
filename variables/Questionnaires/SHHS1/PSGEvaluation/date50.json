@@ -1,0 +1,21 @@
+{
+  "id": "date50",
+  "display_name": "PSG Evaluation (SHHS1): Date of PSG",
+  "description": "Date of Study (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "DATE50"
+  ],
+  "hybrid": {
+    "VARNUM": "283",
+    "TABLE": "SHHS1",
+    "LABEL": "SR Date 50",
+    "access level": "0",
+    "SOURCE": "PSG Evaluation (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

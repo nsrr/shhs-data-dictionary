@@ -1,0 +1,21 @@
+{
+  "id": "pcstah3d",
+  "display_name": "% Sleep time in Apnea+Hypopnea with >3% desat (SHHS2)",
+  "description": "% Sleep time in Apnea+Hypopnea with >3% desat",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pcstah3d"
+  ],
+  "hybrid": {
+    "VARNUM": "451",
+    "TABLE": "SHHS2",
+    "LABEL": "% Sleep time in Apnea+Hypopnea with >3% desat",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:pctsleeptime"
+  }
+}

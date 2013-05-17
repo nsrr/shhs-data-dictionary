@@ -1,0 +1,21 @@
+{
+  "id": "sh322a",
+  "display_name": "Sleep Habits (SHHS2): Number of years did not smoke",
+  "description": "22a. If \"Yes\" how many years did you NOT Smoke?",
+  "type": "numeric",
+  "units": "year",
+  "labels": [
+    "sh322a"
+  ],
+  "hybrid": {
+    "VARNUM": "70",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 22a Number of years did not smoke",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

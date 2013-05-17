@@ -1,0 +1,21 @@
+{
+  "id": "hi213",
+  "display_name": "Health Interview (SHHS2): restless leg symptoms improve with walking",
+  "description": "C. Restless legs  [Questions #11-15 refer to all symptoms you checked as present in item #8.11.] 13. Do the symptoms improve if you get up\r\rand start walking?",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "hi213"
+  ],
+  "hybrid": {
+    "VARNUM": "89",
+    "TABLE": "SHHS2",
+    "LABEL": "13  Symptoms improve with walking",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

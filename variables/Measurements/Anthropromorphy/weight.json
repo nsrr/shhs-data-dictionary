@@ -1,0 +1,21 @@
+{
+  "id": "weight",
+  "display_name": "Weight (SHHS1)",
+  "description": "Weight in kilograms",
+  "type": "numeric",
+  "units": "kilogram",
+  "labels": [
+    "Weight"
+  ],
+  "hybrid": {
+    "VARNUM": "27",
+    "TABLE": "SHHS1",
+    "LABEL": "AV Weight",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "anthropromorphy:weight"
+  }
+}

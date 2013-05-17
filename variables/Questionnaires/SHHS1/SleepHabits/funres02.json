@@ -1,0 +1,21 @@
+{
+  "id": "funres02",
+  "display_name": "Sleep Habits (SHHS1): Frequency of feeling unrested",
+  "description": "How often do you feel unrested during the day, no matter how many hours of sleep you had?",
+  "type": "choices",
+  "domain": "NEVRALW5",
+  "labels": [
+    "FUnres02"
+  ],
+  "hybrid": {
+    "VARNUM": "316",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Feel Unrest 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tfa02",
+  "display_name": "Sleep Habits (SHHS1): Frequency of trouble falling asleep",
+  "description": "How often do you have trouble falling asleep?",
+  "type": "choices",
+  "domain": "NEVRALW5",
+  "labels": [
+    "TFA02"
+  ],
+  "hybrid": {
+    "VARNUM": "313",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Prob Slp 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

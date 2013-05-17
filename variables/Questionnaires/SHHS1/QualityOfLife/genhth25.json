@@ -1,0 +1,21 @@
+{
+  "id": "genhth25",
+  "display_name": "Quality of Life (SHHS1): General health",
+  "description": "In general, would you say your health is (exc, v.good, good, fair, poor)?",
+  "type": "choices",
+  "domain": "EXCPOOR5",
+  "labels": [
+    "GENHTH25"
+  ],
+  "hybrid": {
+    "VARNUM": "244",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Gen Hlth 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

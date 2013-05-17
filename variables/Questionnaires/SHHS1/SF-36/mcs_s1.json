@@ -1,0 +1,21 @@
+{
+  "id": "mcs_s1",
+  "display_name": "SF-36 Calculated (SHHS1): Mental Component Scale Standardized Score",
+  "description": "",
+  "type": "numeric",
+  "units": "score",
+  "labels": [
+    "mcs_s1"
+  ],
+  "hybrid": {
+    "VARNUM": "719",
+    "TABLE": "SHHS1",
+    "LABEL": "STANDARDIZED MENTAL COMPONENT SCALE-00",
+    "access level": "0",
+    "SOURCE": "SF-36 Calculated (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

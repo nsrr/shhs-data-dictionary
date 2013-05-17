@@ -1,0 +1,21 @@
+{
+  "id": "pctsa80h",
+  "display_name": "% sleep time SaO2 is below < 80% (SHHS2)",
+  "description": "% sleep time SaO2 is below < 80%",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctsa80h"
+  ],
+  "hybrid": {
+    "VARNUM": "456",
+    "TABLE": "SHHS2",
+    "LABEL": "% sleep time SaO2 is below < 80%",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:pctsleeptime"
+  }
+}

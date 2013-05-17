@@ -1,0 +1,24 @@
+{
+  "id": "rdi4ps",
+  "display_name": "Overall RDI (Supine) at 4% desat (SHHS2)",
+  "description": "Supine RDI at 4% desat  [(Total number of apneas and hypopneas in supine body position associated with >= 4% desat) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "calculation": "rdi4ps  = 60*(hrembp4 + hnrbp4 + carbp4 + canbp4 + oarbp4 + oanbp4)/(remepbp+nremepbp)",
+  "labels": [
+    "rdi4ps",
+    "rdi",
+    "ahi"
+  ],
+  "hybrid": {
+    "VARNUM": "551",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - Overall Supine RDI at 4% desat",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:ahi_supine"
+  }
+}

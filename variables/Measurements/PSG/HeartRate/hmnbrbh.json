@@ -1,0 +1,21 @@
+{
+  "id": "hmnbrbh",
+  "display_name": "Min. Heart Rate (REM, Back, 3% desat) (SHHS2)",
+  "description": "Min. Heart Rate (REM, Back, 3% desat) (bpm)",
+  "type": "numeric",
+  "units": "beats_per_minute",
+  "labels": [
+    "hmnbrbh"
+  ],
+  "hybrid": {
+    "VARNUM": "267",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. Heart Rate (REM, Back, 3% desat) (bpm)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:minheartrate"
+  }
+}

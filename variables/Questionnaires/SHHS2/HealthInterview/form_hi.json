@@ -1,0 +1,21 @@
+{
+  "id": "form_hi",
+  "display_name": "Health Interview (SHHS2): Form ID and revision number",
+  "description": "Form ID and revision number",
+  "type": "choices",
+  "domain": "FRMID",
+  "labels": [
+    "form_hi"
+  ],
+  "hybrid": {
+    "VARNUM": "77",
+    "TABLE": "SHHS2",
+    "LABEL": "Form ID and revision number",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

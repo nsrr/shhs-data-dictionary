@@ -1,0 +1,21 @@
+{
+  "id": "stroke15",
+  "display_name": "Self-reported Stroke? (SHHSCVD)",
+  "description": "Self-reported stroke (as reported on SHHS 1 baseline health interviews)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "stroke15"
+  ],
+  "hybrid": {
+    "VARNUM": "25",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Self-reported stroke?",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

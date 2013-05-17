@@ -1,0 +1,21 @@
+{
+  "id": "higrad15",
+  "display_name": "Health Interview (SHHS1): Highest grade or year of school",
+  "description": "Highest grade or year of school",
+  "type": "numeric",
+  "units": "grade",
+  "labels": [
+    "HIGRAD15"
+  ],
+  "hybrid": {
+    "VARNUM": "138",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Hi Grade 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

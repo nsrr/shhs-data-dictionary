@@ -1,0 +1,21 @@
+{
+  "id": "eeg2dur",
+  "display_name": "PSG Quality Assessment (SHHS2): hours of usable EEG2",
+  "description": "Number of hours of usable signal from EEG2 lead as assessed by scorer.",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "EEG2dur"
+  ],
+  "hybrid": {
+    "VARNUM": "462",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - hours of usable EEG2",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mxcarba",
+  "display_name": "Max. Cent. Apnea length w/ arousals (REM, Back, all desats) (SHHS2)",
+  "description": "Max. Cent. Apnea length w/ arousals (REM, Back, all desats) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "mxcarba"
+  ],
+  "hybrid": {
+    "VARNUM": "429",
+    "TABLE": "SHHS2",
+    "LABEL": "Max. Cent. Apnea length w/ arousals (REM, Back, all desats) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

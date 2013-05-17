@@ -1,0 +1,21 @@
+{
+  "id": "weight20",
+  "display_name": "Weight at Blood Pressure measurement (SHHS1)",
+  "description": "Weight in kilograms (kilograms, up to 3 digits to the left of the decimal, 1 digit to the right of the decimal)",
+  "type": "numeric",
+  "units": "kilograms",
+  "labels": [
+    "WEIGHT20"
+  ],
+  "hybrid": {
+    "VARNUM": "77",
+    "TABLE": "SHHS1",
+    "LABEL": "BP Weight 20",
+    "access level": "0",
+    "SOURCE": "Blood Pressure Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Blood Pressure Form (BP).pdf",
+    "PARENT TERM": "anthropromorphy:weight"
+  }
+}

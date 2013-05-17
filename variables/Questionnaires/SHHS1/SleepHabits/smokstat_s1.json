@@ -1,0 +1,21 @@
+{
+  "id": "smokstat_s1",
+  "display_name": "Smoking Status at SHHS1",
+  "description": "Current Smoking Status at the SHHS1 visit",
+  "type": "choices",
+  "domain": "smoker",
+  "labels": [
+    "smokstat_s1"
+  ],
+  "hybrid": {
+    "VARNUM": "722",
+    "TABLE": "SHHS1",
+    "LABEL": "Derived Smoking Status SHHS 1 0=never 1=current 2=former",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "comorb:smoking"
+  }
+}

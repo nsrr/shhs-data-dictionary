@@ -1,0 +1,19 @@
+{
+  "id": "sttimep",
+  "display_name": "PSG (SHHS1): PSG Start Time",
+  "description": "Start time of PSG recording",
+  "type": "numeric",
+  "domain": "DATETIME",
+  "units": "minute",
+  "hybrid": {
+    "VARNUM": "500",
+    "TABLE": "SHHS1",
+    "LABEL": "StTimeP",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

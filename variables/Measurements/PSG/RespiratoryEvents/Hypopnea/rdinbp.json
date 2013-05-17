@@ -1,0 +1,21 @@
+{
+  "id": "rdinbp",
+  "display_name": "Hypopnea per hour (NREM, Back, all desats) (SHHS2)",
+  "description": "Hypopnea per hour (NREM, Back, all desats)",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "labels": [
+    "rdinbp"
+  ],
+  "hybrid": {
+    "VARNUM": "330",
+    "TABLE": "SHHS2",
+    "LABEL": "Hypopnea per hour (NREM, Back, all desats)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:hi"
+  }
+}

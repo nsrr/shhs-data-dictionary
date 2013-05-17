@@ -1,0 +1,21 @@
+{
+  "id": "sinus15",
+  "display_name": "Sinus trouble (SHHS1)",
+  "description": "Do you usually have sinus trouble?",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "SINUS15"
+  ],
+  "hybrid": {
+    "VARNUM": "115",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Sinus 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

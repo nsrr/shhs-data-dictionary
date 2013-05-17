@@ -1,0 +1,21 @@
+{
+  "id": "eeg2tr51",
+  "display_name": "PSG Signal Verification (SHHS1): Number of sensor replacements: EEG2 (C3/A2)",
+  "description": "Number of times EEG2 (C3/A2) electrode replaced (0 if first check = final check)",
+  "type": "numeric",
+  "units": "replacements",
+  "labels": [
+    "EEG2TR51"
+  ],
+  "hybrid": {
+    "VARNUM": "633",
+    "TABLE": "SHHS1",
+    "LABEL": "Number of sensor replacements: EEG2 (C3/A2)",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "evsmok15",
+  "display_name": "Health Interview (SHHS1): smoked cigarettes",
+  "description": "Have you ever smoked cigarettes ('ever' = at least 20 packs in lifetime)?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "EVSMOK15"
+  ],
+  "hybrid": {
+    "VARNUM": "123",
+    "TABLE": "SHHS1",
+    "LABEL": "HI EverSmoke 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

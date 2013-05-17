@@ -1,0 +1,21 @@
+{
+  "id": "tfawdh02",
+  "display_name": "Sleep Habits (SHHS1): weekday bedtime - hour",
+  "description": "At what time do you usually fall asleep on weekdays or workdays - hour? (hours component of time, 1 to 12)",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "TFAWDH02"
+  ],
+  "hybrid": {
+    "VARNUM": "297",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Hr toSleep Wrkday 2",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "formdate_hi",
+  "display_name": "Health Interview (SHHS2): Date completed",
+  "description": "Date of Health Interview form",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "formdate_hi"
+  ],
+  "hybrid": {
+    "VARNUM": "75",
+    "TABLE": "SHHS2",
+    "LABEL": "Date of Health Interview form",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

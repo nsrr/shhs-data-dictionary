@@ -1,0 +1,21 @@
+{
+  "id": "mxdrbp3",
+  "display_name": "Max. Desat (REM, Back, 3% desat) (SHHS2)",
+  "description": "Max. Desat (REM, Back, 3% desat)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mxdrbp3"
+  ],
+  "hybrid": {
+    "VARNUM": "638",
+    "TABLE": "SHHS2",
+    "LABEL": "Max. Desat (REM, Back, 3% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

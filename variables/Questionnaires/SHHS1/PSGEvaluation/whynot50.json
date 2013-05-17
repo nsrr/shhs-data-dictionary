@@ -1,0 +1,21 @@
+{
+  "id": "whynot50",
+  "display_name": "PSG Evaluation (SHHS1): Why data not sent to Reading Center",
+  "description": "If data file not sent, why not?",
+  "type": "choices",
+  "domain": "PROB3",
+  "labels": [
+    "WHYNOT50"
+  ],
+  "hybrid": {
+    "VARNUM": "293",
+    "TABLE": "SHHS1",
+    "LABEL": "SR Why Not Sent 50",
+    "access level": "0",
+    "SOURCE": "PSG Evaluation (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

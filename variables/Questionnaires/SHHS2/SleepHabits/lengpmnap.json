@@ -1,0 +1,21 @@
+{
+  "id": "lengpmnap",
+  "display_name": "Sleep Habits (SHHS2): Total nap time",
+  "description": "",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "LengPMNap"
+  ],
+  "hybrid": {
+    "VARNUM": "19",
+    "TABLE": "SHHS2",
+    "LABEL": "6 Total minutes napped in afternoon",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

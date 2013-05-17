@@ -1,0 +1,21 @@
+{
+  "id": "cgpkyr",
+  "display_name": "Cigarette pack-years (SHHS1)",
+  "description": "Lifetime cigarette smoking: pack years",
+  "type": "numeric",
+  "units": "pack_years",
+  "labels": [
+    "CgPkYr"
+  ],
+  "hybrid": {
+    "VARNUM": "18",
+    "TABLE": "SHHS1",
+    "LABEL": "AV CigPackYr",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

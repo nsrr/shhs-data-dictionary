@@ -1,0 +1,18 @@
+{
+  "id": "outliercheck2",
+  "display_name": "PSG Scoring Notes (SHHS1): Extreme values remain after review",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "hybrid": {
+    "VARNUM": "709",
+    "TABLE": "SHHS1",
+    "LABEL": "Extreme values remain after review",
+    "access level": "0",
+    "SOURCE": "PSG Scoring Notes (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Scoring Notes (SN).pdf",
+    "PARENT TERM": null
+  }
+}

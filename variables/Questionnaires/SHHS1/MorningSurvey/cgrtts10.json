@@ -1,0 +1,21 @@
+{
+  "id": "cgrtts10",
+  "display_name": "Morning Survey (SHHS1): cigarettes before bed",
+  "description": "How many cigarettes 4 hours before going to sleep last night? (number, up to 2 digits)",
+  "type": "numeric",
+  "units": "cigarettes",
+  "labels": [
+    "CGRTTS10"
+  ],
+  "hybrid": {
+    "VARNUM": "227",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Cigs 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

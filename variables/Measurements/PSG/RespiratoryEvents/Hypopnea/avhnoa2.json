@@ -1,0 +1,21 @@
+{
+  "id": "avhnoa2",
+  "display_name": "Avg. Hypopnea length w/ arousals (NREM, Other, 2% desat) (SHHS2)",
+  "description": "Avg. Hypopnea length w/ arousals (NREM, Other, 2% desat) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "avhnoa2"
+  ],
+  "hybrid": {
+    "VARNUM": "543",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. Hypopnea length w/ arousals (NREM, Other, 2% desat) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

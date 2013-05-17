@@ -1,0 +1,21 @@
+{
+  "id": "smnbroh",
+  "display_name": "Min. Heart Rate (REM, Other, all desats) (SHHS2)",
+  "description": "Min. Heart Rate (REM, Other, all desats) (bpm)",
+  "type": "numeric",
+  "units": "beats_per_minute",
+  "labels": [
+    "smnbroh"
+  ],
+  "hybrid": {
+    "VARNUM": "246",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. Heart Rate (REM, Other, all desats) (bpm)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:minheartrate"
+  }
+}

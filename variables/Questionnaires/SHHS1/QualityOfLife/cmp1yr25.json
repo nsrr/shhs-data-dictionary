@@ -1,0 +1,21 @@
+{
+  "id": "cmp1yr25",
+  "display_name": "Quality of Life (SHHS1): Health compared to one year ago",
+  "description": "Compared to one year ago, how would you rate your health (much better now-much worse now)?",
+  "type": "choices",
+  "domain": "BETWRS5",
+  "labels": [
+    "CMP1YR25"
+  ],
+  "hybrid": {
+    "VARNUM": "245",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Hlth v 1YR 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

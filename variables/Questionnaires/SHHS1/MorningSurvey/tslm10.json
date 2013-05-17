@@ -1,0 +1,21 @@
+{
+  "id": "tslm10",
+  "display_name": "Morning Survey (SHHS1): Time went to sleep - minute",
+  "description": "Time went to sleep - minute (minutes component of time, 0 to 59)",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "TSLM10"
+  ],
+  "hybrid": {
+    "VARNUM": "207",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Min to Sleep 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

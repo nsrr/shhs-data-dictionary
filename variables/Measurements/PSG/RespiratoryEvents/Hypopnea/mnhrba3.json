@@ -1,0 +1,21 @@
+{
+  "id": "mnhrba3",
+  "display_name": "Min. Hypopnea length w/ arousals (REM, Back, 3% desat) (SHHS2)",
+  "description": "Min. Hypopnea length w/ arousals (REM, Back, 3% desat) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "mnhrba3"
+  ],
+  "hybrid": {
+    "VARNUM": "652",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. Hypopnea length w/ arousals (REM, Back, 3% desat) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

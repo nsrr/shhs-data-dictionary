@@ -1,0 +1,22 @@
+{
+  "id": "timest2p",
+  "display_name": "Percent Time in Stage 2 (SHHS2)",
+  "description": "Percent of sleep time in stage 2 [100*(Number of minutes scored as stage 2) / (total sleep time)]",
+  "type": "numeric",
+  "units": "percent",
+  "calculation": "timest2p = tmstg2p",
+  "labels": [
+    "timest2p"
+  ],
+  "hybrid": {
+    "VARNUM": "526",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - pct time stage 2",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "psg:pctsleeptime"
+  }
+}

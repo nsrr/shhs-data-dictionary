@@ -1,0 +1,18 @@
+{
+  "id": "slptime",
+  "display_name": "PSG Quality Assessment (SHHS1): Total Sleep Time",
+  "description": "Total sleep time as assessed by scorer",
+  "type": "numeric",
+  "units": "minute",
+  "hybrid": {
+    "VARNUM": "589",
+    "TABLE": "SHHS1",
+    "LABEL": "Total Sleep Time",
+    "access level": "0",
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "PARENT TERM": null
+  }
+}

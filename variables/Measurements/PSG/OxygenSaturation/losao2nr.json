@@ -1,0 +1,22 @@
+{
+  "id": "losao2nr",
+  "display_name": "Minimum SaO2 in non-REM sleep (SHHS2)",
+  "description": "Minimum SaO2% in non-REM sleep.  The minimum of all oxygen saturation values in epochs scored as stages other than REM (i.e., 1,2,3/4).  [Min(all SaO2 values in NREM sleep)]",
+  "type": "numeric",
+  "units": "percent",
+  "calculation": "losao2nr = mnsao2nh",
+  "labels": [
+    "losao2nr"
+  ],
+  "hybrid": {
+    "VARNUM": "582",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - min sao2 nrem",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:minsat"
+  }
+}

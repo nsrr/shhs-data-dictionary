@@ -1,0 +1,21 @@
+{
+  "id": "queeg2",
+  "display_name": "PSG Quality Assessment (SHHS2): Signal Quality (EEG 2)",
+  "description": "Overall quality of signal from EEG2 lead during sleep as assessed by scorer.",
+  "type": "choices",
+  "domain": "sigqus2",
+  "labels": [
+    "QuEEG2"
+  ],
+  "hybrid": {
+    "VARNUM": "472",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - quality of EEG 2",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

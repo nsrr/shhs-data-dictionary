@@ -1,0 +1,21 @@
+{
+  "id": "mxdnop",
+  "display_name": "Max. Desat (NREM, Other, all desats) (SHHS2)",
+  "description": "Max. Desat (NREM, Other, all desats)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mxdnop"
+  ],
+  "hybrid": {
+    "VARNUM": "401",
+    "TABLE": "SHHS2",
+    "LABEL": "Max. Desat (NREM, Other, all desats)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

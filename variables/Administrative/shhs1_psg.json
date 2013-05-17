@@ -1,0 +1,21 @@
+{
+  "id": "shhs1_psg",
+  "display_name": "Has SHHS1 PSG record",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs1_psg"
+  ],
+  "hybrid": {
+    "VARNUM": "736",
+    "TABLE": "SHHS1",
+    "LABEL": "PSG Variables present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rdi3p",
+  "display_name": "Overall RDI at 3% desat (SHHS2)",
+  "description": "Respiratory Disturbance Index at 3% desat.  Ratio of the count of all apneas (central and obstructive) and hypopneas associated with at least a 3% oxygen desaturation to the total sleep time expressed in hours.",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "calculation": "[(Total number of apneas and hypopneas associated with >= 3% desat) / (hours of sleep)].   rdi3p = 60*(hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp3 + carop3 + canbp3 + canop3 +oarbp3 +oarop3 + oanbp3 + oanop3) / slpprdp",
+  "labels": [
+    "rdi3p",
+    "rdi",
+    "ahi"
+  ],
+  "hybrid": {
+    "VARNUM": "540",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - Overall RDI at 3% desat",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "psg:ahi"
+  }
+}

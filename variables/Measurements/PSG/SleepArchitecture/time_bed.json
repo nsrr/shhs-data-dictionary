@@ -1,0 +1,22 @@
+{
+  "id": "time_bed",
+  "display_name": "Total Time in Bed (SHHS2)",
+  "description": "Time from lights out to lights on, rounded to nearest minute",
+  "type": "numeric",
+  "units": "minute",
+  "calculation": "time_bed = timebedp",
+  "labels": [
+    "time_bed"
+  ],
+  "hybrid": {
+    "VARNUM": "522",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - time in bed (minutes)",
+    "access level": "2",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

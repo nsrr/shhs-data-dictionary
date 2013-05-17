@@ -1,0 +1,21 @@
+{
+  "id": "vital",
+  "display_name": "Vital Status (SHHSCVD)",
+  "description": "Vital status",
+  "type": "choices",
+  "domain": "vitalstat",
+  "labels": [
+    "vital"
+  ],
+  "hybrid": {
+    "VARNUM": "3",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Vital Status (0 = dead, 1 = alive)",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

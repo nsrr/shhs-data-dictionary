@@ -1,0 +1,21 @@
+{
+  "id": "wtls2",
+  "display_name": "Weight Loss Drugs (SHHS2)",
+  "description": "Patient taking WEIGHT LOSS DRUGS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "WTLS2"
+  ],
+  "hybrid": {
+    "VARNUM": "321",
+    "TABLE": "SHHS2",
+    "LABEL": "WEIGHT LOSS DRUGS",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

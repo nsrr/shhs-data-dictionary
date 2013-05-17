@@ -1,0 +1,21 @@
+{
+  "id": "cigday15",
+  "display_name": "Health Interview (SHHS1): cigarettes smoked per day",
+  "description": "If yes to [SMKNOW15]: How many cigarettes do you smoke per day now? (number per day, up to 2 digits)",
+  "type": "numeric",
+  "units": "year",
+  "labels": [
+    "CIGDAY15"
+  ],
+  "hybrid": {
+    "VARNUM": "130",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Cigs a Day 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

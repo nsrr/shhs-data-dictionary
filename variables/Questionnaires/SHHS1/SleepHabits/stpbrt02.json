@@ -1,0 +1,21 @@
+{
+  "id": "stpbrt02",
+  "display_name": "Sleep Habits (SHHS1): Stop breathing during sleep",
+  "description": "Are there times when you stop breathing during your sleep?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "StpBrt02"
+  ],
+  "hybrid": {
+    "VARNUM": "327",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Stop Brth 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

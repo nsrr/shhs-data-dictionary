@@ -1,0 +1,21 @@
+{
+  "id": "pm220b1",
+  "display_name": "Systolic BP (measurement 2) (SHHS2)",
+  "description": "20. Seated Blood Pressure: b. Second reading: systolic",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "pm220b1"
+  ],
+  "hybrid": {
+    "VARNUM": "161",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 20b 2nd reading systolic",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": "bp:systolic"
+  }
+}

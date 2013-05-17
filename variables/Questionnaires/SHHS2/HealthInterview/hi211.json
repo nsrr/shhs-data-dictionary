@@ -1,0 +1,21 @@
+{
+  "id": "hi211",
+  "display_name": "Health Interview (SHHS2): When do restless legs happen",
+  "description": "C. Restless legs  [Questions #11-15 refer to all symptoms you checked as present in item #8.11.] These symptoms are most likely to occur when you are (check the one best answer):",
+  "type": "choices",
+  "domain": "rlegocc",
+  "labels": [
+    "hi211"
+  ],
+  "hybrid": {
+    "VARNUM": "87",
+    "TABLE": "SHHS2",
+    "LABEL": "11  When do symptoms happen",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

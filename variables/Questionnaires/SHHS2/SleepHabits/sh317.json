@@ -1,0 +1,21 @@
+{
+  "id": "sh317",
+  "display_name": "Sleep Habits (SHHS2): MD diagnosed sleep disorder",
+  "description": "17. Have you ever been told by a doctor that you have a sleep disorder (other\r\rthan sleep apnea)?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "sh317"
+  ],
+  "hybrid": {
+    "VARNUM": "30",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 17  Doctor said had sleep disorder",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

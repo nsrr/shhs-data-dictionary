@@ -1,0 +1,22 @@
+{
+  "id": "tto_chfdate",
+  "display_name": "Days to First CHF Since Baseline (SHHSCVD)",
+  "description": "Time since SHHS 1 Sleep Study to date of first CHF (days) since bl psg",
+  "type": "numeric",
+  "units": "days_from_index_date",
+  "labels": [
+    "tto_chfdate",
+    "congestive heart failure"
+  ],
+  "hybrid": {
+    "VARNUM": "32",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Days to First CHF Since Baseline",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

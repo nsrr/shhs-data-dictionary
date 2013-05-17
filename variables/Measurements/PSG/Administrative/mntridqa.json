@@ -1,0 +1,21 @@
+{
+  "id": "mntridqa",
+  "display_name": "PSG Quality Assessment (SHHS1): Monitor ID",
+  "description": "",
+  "type": "choices",
+  "domain": "MONTRID",
+  "labels": [
+    "MntrIDqa"
+  ],
+  "hybrid": {
+    "VARNUM": "581",
+    "TABLE": "SHHS1",
+    "LABEL": "Monitor ID",
+    "access level": "1",
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "PARENT TERM": null
+  }
+}

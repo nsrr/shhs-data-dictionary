@@ -1,0 +1,21 @@
+{
+  "id": "whenal15",
+  "display_name": "Health Interview (SHHS1): when Alcohol data collected",
+  "description": "Alcohol data collected on date? 1=today at home visit, 2=data collected in clinic (date=[ALCLDT15])",
+  "type": "choices",
+  "domain": "HOMCLIN",
+  "labels": [
+    "WHENAL15"
+  ],
+  "hybrid": {
+    "VARNUM": "132",
+    "TABLE": "SHHS1",
+    "LABEL": "HI DT Alc Coll 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

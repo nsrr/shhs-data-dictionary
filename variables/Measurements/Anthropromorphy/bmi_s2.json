@@ -1,0 +1,21 @@
+{
+  "id": "bmi_s2",
+  "display_name": "BMI (SHHS2)",
+  "description": "Body Mass Index at SHHS2",
+  "type": "numeric",
+  "units": "kilogram_per_square_meter",
+  "labels": [
+    "bmi_s2"
+  ],
+  "hybrid": {
+    "VARNUM": "133",
+    "TABLE": "SHHS2",
+    "LABEL": "Body Mass Index SHHS2",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": "anthropromorphy:bmi"
+  }
+}

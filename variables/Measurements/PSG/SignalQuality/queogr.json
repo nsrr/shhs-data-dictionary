@@ -1,0 +1,21 @@
+{
+  "id": "queogr",
+  "display_name": "PSG Quality Assessment (SHHS2): Signal Quality (EOG R)",
+  "description": "Overall quality of signal from right eye (EOG) lead during sleep as assessed by scorer.",
+  "type": "choices",
+  "domain": "sigqus2",
+  "labels": [
+    "QuEOGR"
+  ],
+  "hybrid": {
+    "VARNUM": "474",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - quality of EOG R",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

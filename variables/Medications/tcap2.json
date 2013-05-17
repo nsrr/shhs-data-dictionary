@@ -1,0 +1,21 @@
+{
+  "id": "tcap2",
+  "display_name": "Tri-Cyclic Anti-Depressants Plus Anti-Psychotics Combinations (SHHS2)",
+  "description": "Patient taking TRI-CYCLIC ANTI-DEPRESSANTS PLUS ANTI-PSYCHOTICS COMBINATIONS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "TCAP2"
+  ],
+  "hybrid": {
+    "VARNUM": "312",
+    "TABLE": "SHHS2",
+    "LABEL": "TRI-CYCLIC ANTI-DEPRESSANTS PLUS ANTI-PSYCHOTICS COMBINATIONS",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

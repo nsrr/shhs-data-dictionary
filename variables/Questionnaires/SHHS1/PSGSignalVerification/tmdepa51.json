@@ -1,0 +1,21 @@
+{
+  "id": "tmdepa51",
+  "display_name": "PSG Signal Verification (SHHS1): Time of Departure (am/pm)",
+  "description": "",
+  "type": "choices",
+  "domain": "ampmf",
+  "labels": [
+    "TMDEPA51"
+  ],
+  "hybrid": {
+    "VARNUM": "630",
+    "TABLE": "SHHS1",
+    "LABEL": "Time of Departure (am/pm)",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

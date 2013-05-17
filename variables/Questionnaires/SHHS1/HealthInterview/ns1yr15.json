@@ -1,0 +1,21 @@
+{
+  "id": "ns1yr15",
+  "display_name": "Health Interview (SHHS1): Since smoking began, non-smoker for one year or more",
+  "description": "If yes to [AGESMK15]: Since smoking began, were you a non-smoker for one year or more?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "NS1YR15"
+  ],
+  "hybrid": {
+    "VARNUM": "125",
+    "TABLE": "SHHS1",
+    "LABEL": "HI NonSmker1YR 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rdate10",
+  "display_name": "Morning Survey (SHHS1): Interview/review date",
+  "description": "Interview/review date (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "RDATE10"
+  ],
+  "hybrid": {
+    "VARNUM": "241",
+    "TABLE": "SHHS1",
+    "LABEL": "MS DT Intrvw 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

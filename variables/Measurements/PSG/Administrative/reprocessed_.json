@@ -1,0 +1,18 @@
+{
+  "id": "reprocessed_",
+  "display_name": "Study reprocessed by reading center",
+  "description": "A selection of studies were reprocessed by the Reading Center in order to correct the output report.  This variable indicates which studies underwent this reprocessing.",
+  "type": "choices",
+  "domain": "YESNOn",
+  "hybrid": {
+    "VARNUM": "423",
+    "TABLE": "SHHS1",
+    "LABEL": "Reprocessed?",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

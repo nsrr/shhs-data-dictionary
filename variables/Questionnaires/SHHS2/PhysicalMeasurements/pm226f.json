@@ -1,0 +1,21 @@
+{
+  "id": "pm226f",
+  "display_name": "Physical Measurements (SHHS2): 2nd: Left leg posterior systolic BP",
+  "description": "Wait 30 seconds before second readings. Second readings: Record in order shown (If no second reading, code as \"n__\".) f. Left leg posterior tibial systolic BP:",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "pm226f"
+  ],
+  "hybrid": {
+    "VARNUM": "183",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 26f 2nd: Left leg posterior systolic BP",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

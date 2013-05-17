@@ -1,0 +1,21 @@
+{
+  "id": "ql211b",
+  "display_name": "Quality of Life (SHHS2): As healthy as anybody",
+  "description": "11. Please choose the answer that best describes how true or false each of the following statements is for you.  b. I am as healthy as anybody I know.",
+  "type": "choices",
+  "domain": "trufals5",
+  "labels": [
+    "ql211b"
+  ],
+  "hybrid": {
+    "VARNUM": "222",
+    "TABLE": "SHHS2",
+    "LABEL": "QL 11b As healthy as anybody I know",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

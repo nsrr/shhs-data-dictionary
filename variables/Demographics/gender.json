@@ -1,0 +1,21 @@
+{
+  "id": "gender",
+  "display_name": "Gender (SHHS2)",
+  "description": "Gender as reported by Parent Cohort",
+  "type": "choices",
+  "domain": "gendermf",
+  "labels": [
+    "gender"
+  ],
+  "hybrid": {
+    "VARNUM": "4",
+    "TABLE": "SHHS2",
+    "LABEL": "Gender as reported by Parent Cohort",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "demo:gender"
+  }
+}

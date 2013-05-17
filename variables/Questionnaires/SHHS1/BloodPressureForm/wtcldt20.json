@@ -1,0 +1,21 @@
+{
+  "id": "wtcldt20",
+  "display_name": "Blood Pressure (SHHS1): Date, if weight measured at clinic on other date (days from index day)",
+  "description": "Date, if weight measured at clinic on other date (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "WTCLDT20"
+  ],
+  "hybrid": {
+    "VARNUM": "79",
+    "TABLE": "SHHS1",
+    "LABEL": "BP Wt Cl DT 20",
+    "access level": "0",
+    "SOURCE": "Blood Pressure Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Blood Pressure Form (BP).pdf",
+    "PARENT TERM": null
+  }
+}

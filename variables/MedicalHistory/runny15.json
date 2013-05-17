@@ -1,0 +1,21 @@
+{
+  "id": "runny15",
+  "display_name": "Runny or stuffy nose (SHHS1)",
+  "description": "Do you usually have a runny or stuffy nose?",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "RUNNY15"
+  ],
+  "hybrid": {
+    "VARNUM": "114",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Runny 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

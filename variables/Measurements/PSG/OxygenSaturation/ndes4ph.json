@@ -1,0 +1,21 @@
+{
+  "id": "ndes4ph",
+  "display_name": "# of desat with >= 4% desat (SHHS2)",
+  "description": "# of desat with >= 4% desat",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "ndes4ph"
+  ],
+  "hybrid": {
+    "VARNUM": "292",
+    "TABLE": "SHHS2",
+    "LABEL": "# of desat with >= 4% desat",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:desaturations"
+  }
+}

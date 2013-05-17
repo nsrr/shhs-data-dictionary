@@ -1,0 +1,21 @@
+{
+  "id": "pm207",
+  "display_name": "Height (SHHS2)",
+  "description": "7. Height measurement in centimeters",
+  "type": "numeric",
+  "units": "centimeter",
+  "labels": [
+    "pm207"
+  ],
+  "hybrid": {
+    "VARNUM": "146",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 7 Height in cm",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": "anthropromorphy:height"
+  }
+}

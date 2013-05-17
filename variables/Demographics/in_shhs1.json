@@ -1,0 +1,21 @@
+{
+  "id": "in_shhs1",
+  "display_name": "Participant in SHHS1",
+  "description": "Patient has record in SHHS1",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "in_shhs1"
+  ],
+  "hybrid": {
+    "VARNUM": "8",
+    "TABLE": "SHHS1",
+    "LABEL": "SHHS1 Participant",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mxhnoa2",
+  "display_name": "Max. Hypopnea length w/ arousals (NREM, Other 2% desat) (SHHS2)",
+  "description": "Max. Hypopnea length w/ arousals (NREM, Other 2% desat) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "mxhnoa2"
+  ],
+  "hybrid": {
+    "VARNUM": "545",
+    "TABLE": "SHHS2",
+    "LABEL": "Max. Hypopnea length w/ arousals (NREM, Other 2% desat) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

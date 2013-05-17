@@ -1,0 +1,21 @@
+{
+  "id": "pm202",
+  "display_name": "Weight (SHHS2)",
+  "description": "A. Weight measurement  2. Weight: ____ ____ ____ . ____ (kg)",
+  "type": "numeric",
+  "units": "kilogram",
+  "labels": [
+    "pm202"
+  ],
+  "hybrid": {
+    "VARNUM": "144",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 2 Weight in kg",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": "anthropromorphy:weight"
+  }
+}

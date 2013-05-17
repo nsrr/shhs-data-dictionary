@@ -1,0 +1,21 @@
+{
+  "id": "sickez25",
+  "display_name": "Quality of Life (SHHS1): Gget sick easier than other people",
+  "description": "Choose (definitely True-definitely False): I seem to get sick a little easier than other people.",
+  "type": "choices",
+  "domain": "TRUFALS5",
+  "labels": [
+    "SICKEZ25"
+  ],
+  "hybrid": {
+    "VARNUM": "276",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Easy Sick 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

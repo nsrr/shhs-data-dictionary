@@ -1,0 +1,21 @@
+{
+  "id": "imhihrae",
+  "display_name": "Adverse Events (SHHS1): Heart Rate > 150",
+  "description": "Heart rate > 150 for > 2 minutes at rest?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "IMHIHRAE"
+  ],
+  "hybrid": {
+    "VARNUM": "50",
+    "TABLE": "SHHS1",
+    "LABEL": "AE HR>150",
+    "access level": "0",
+    "SOURCE": "Adverse Events Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Adverse Events (AE).pdf",
+    "PARENT TERM": null
+  }
+}

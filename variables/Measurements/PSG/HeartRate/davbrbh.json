@@ -1,0 +1,21 @@
+{
+  "id": "davbrbh",
+  "display_name": "Avg. Heart Rate with arousal (REM, Back, 3% desat) (SHHS2)",
+  "description": "Avg. Heart Rate with arousal (REM, Back, 3% desat) (bpm)",
+  "type": "numeric",
+  "units": "beats_per_minute",
+  "labels": [
+    "davbrbh"
+  ],
+  "hybrid": {
+    "VARNUM": "278",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. Heart Rate with arousal (REM, Back, 3% desat) (bpm)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:avgheartrate"
+  }
+}

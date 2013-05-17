@@ -1,0 +1,22 @@
+{
+  "id": "tto_revprodt",
+  "display_name": "Days to First Revascularization Procedure Since Baseline (SHHSCVD)",
+  "description": "Time since SHHS 1 Sleep Study to date of first revascularization procedure (days) since bl psg",
+  "type": "numeric",
+  "units": "days_from_index_date",
+  "labels": [
+    "tto_revprodt",
+    "revascularization procedure"
+  ],
+  "hybrid": {
+    "VARNUM": "37",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Days to First Revascularization Procedure Since Baseline",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

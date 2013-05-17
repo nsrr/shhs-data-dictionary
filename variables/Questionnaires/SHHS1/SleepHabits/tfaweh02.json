@@ -1,0 +1,21 @@
+{
+  "id": "tfaweh02",
+  "display_name": "Sleep Habits (SHHS1): weekend bedtime - hour",
+  "description": "At what time do you usually fall asleep on weekends or your non-work days - hour? (hours component of time, 1 to 12)",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "TFAWEH02"
+  ],
+  "hybrid": {
+    "VARNUM": "300",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Hr toSleep Wkend 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

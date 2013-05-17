@@ -1,0 +1,21 @@
+{
+  "id": "benzod2",
+  "display_name": "Benzodiazepines (SHHS2)",
+  "description": "Patient taking BENZODIAZEPINES within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "BENZOD2"
+  ],
+  "hybrid": {
+    "VARNUM": "260",
+    "TABLE": "SHHS2",
+    "LABEL": "BENZODIAZEPINES",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tmremp",
+  "display_name": "Pct. sleep time in REM sleep (SHHS2)",
+  "description": "Pct. sleep time in REM sleep (%)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "tmremp"
+  ],
+  "hybrid": {
+    "VARNUM": "317",
+    "TABLE": "SHHS2",
+    "LABEL": "Pct. sleep time in REM sleep (%)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:pctsleeptime"
+  }
+}

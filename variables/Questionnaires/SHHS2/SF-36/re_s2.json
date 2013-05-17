@@ -1,0 +1,21 @@
+{
+  "id": "re_s2",
+  "display_name": "SF-36 Calculated (SHHS2): Role-Emotional Standardized Score",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "RE_s2"
+  ],
+  "hybrid": {
+    "VARNUM": "238",
+    "TABLE": "SHHS2",
+    "LABEL": "SF-36 ROLE-EMOTIONAL (0-100)",
+    "access level": "0",
+    "SOURCE": "SF-36 Calculated (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

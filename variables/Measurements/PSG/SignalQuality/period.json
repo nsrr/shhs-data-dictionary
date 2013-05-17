@@ -1,0 +1,21 @@
+{
+  "id": "period",
+  "display_name": "PSG Quality Assessment (SHHS2): Periodic breathign (5 min)",
+  "description": "Scorer observed periodic breathing for a period of at least 5 minutes during study.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "Period"
+  ],
+  "hybrid": {
+    "VARNUM": "511",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Unusual Occurrences - Periodic breathing > 5 min",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

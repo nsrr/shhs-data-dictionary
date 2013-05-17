@@ -1,0 +1,21 @@
+{
+  "id": "scoredt",
+  "display_name": "Date study scored (SHHS2)",
+  "description": "Date study scored",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "scoredt"
+  ],
+  "hybrid": {
+    "VARNUM": "337",
+    "TABLE": "SHHS2",
+    "LABEL": "Date study scored",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "lton51",
+  "display_name": "PSG Signal Verification (SHHS1): Light sensor calibration: lights on",
+  "description": "",
+  "type": "choices",
+  "domain": "YESNOF",
+  "labels": [
+    "LTON51"
+  ],
+  "hybrid": {
+    "VARNUM": "674",
+    "TABLE": "SHHS1",
+    "LABEL": "Light sensor calibration: lights on",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

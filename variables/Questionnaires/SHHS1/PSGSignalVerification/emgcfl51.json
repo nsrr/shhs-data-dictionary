@@ -1,0 +1,21 @@
+{
+  "id": "emgcfl51",
+  "display_name": "PSG Signal Verification (SHHS1): Fuzzy line on EMG",
+  "description": "Fuzzy line observed on EMG signal",
+  "type": "choices",
+  "domain": "YESNOF",
+  "labels": [
+    "EMGCFL51"
+  ],
+  "hybrid": {
+    "VARNUM": "653",
+    "TABLE": "SHHS1",
+    "LABEL": "Fuzzy line on EMG",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ca15",
+  "display_name": "MD Reported Coronary Angioplasty (SHHS1)",
+  "description": "MD said pt had coronary angioplasty?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "CA15"
+  ],
+  "hybrid": {
+    "VARNUM": "102",
+    "TABLE": "SHHS1",
+    "LABEL": "HI CA15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

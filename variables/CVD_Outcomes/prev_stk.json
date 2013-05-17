@@ -1,0 +1,22 @@
+{
+  "id": "prev_stk",
+  "display_name": "Number of Strokes Prior to Baseline (SHHSCVD)",
+  "description": "Stroke prior to baseline PSG (as recorded in parent studies datasets)",
+  "type": "numeric",
+  "units": "number_of_events",
+  "labels": [
+    "prev_stk",
+    "stroke"
+  ],
+  "hybrid": {
+    "VARNUM": "6",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Number of Strokes Prior to Baseline",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

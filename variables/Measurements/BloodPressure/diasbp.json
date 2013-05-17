@@ -1,0 +1,21 @@
+{
+  "id": "diasbp",
+  "display_name": "Average Diastolic BP (SHHS1)",
+  "description": "Seated Diastolic Blood Pressure",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "DiasBP"
+  ],
+  "hybrid": {
+    "VARNUM": "23",
+    "TABLE": "SHHS1",
+    "LABEL": "AV DiasBP",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "bp:diastolic"
+  }
+}

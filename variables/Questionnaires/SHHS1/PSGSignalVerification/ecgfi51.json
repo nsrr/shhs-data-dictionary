@@ -1,0 +1,21 @@
+{
+  "id": "ecgfi51",
+  "display_name": "PSG Signal Verification (SHHS1): Impedence check 2: ECG",
+  "description": "Final impedency check of ECG (kohms)",
+  "type": "numeric",
+  "units": "kohms",
+  "labels": [
+    "ECGFI51"
+  ],
+  "hybrid": {
+    "VARNUM": "635",
+    "TABLE": "SHHS1",
+    "LABEL": "Impedence check 2: ECG",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tca2",
+  "display_name": "Tricylic Anti-Depressants (SHHS2)",
+  "description": "Patient taking TRICYLIC ANTI-DEPRESSANTS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "TCA2"
+  ],
+  "hybrid": {
+    "VARNUM": "311",
+    "TABLE": "SHHS2",
+    "LABEL": "TRICYLIC ANTI-DEPRESSANTS",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

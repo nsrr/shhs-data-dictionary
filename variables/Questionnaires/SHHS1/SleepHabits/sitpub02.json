@@ -1,0 +1,21 @@
+{
+  "id": "sitpub02",
+  "display_name": "Sleep Habits (SHHS1): Fall asleep while sitting inactive in a public place",
+  "description": "What is the chance that you would doze off or fall asleep while sitting inactive in a public place?",
+  "type": "choices",
+  "domain": "NHCHAN4",
+  "labels": [
+    "SitPub02"
+  ],
+  "hybrid": {
+    "VARNUM": "344",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Sit inactive in a public place",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

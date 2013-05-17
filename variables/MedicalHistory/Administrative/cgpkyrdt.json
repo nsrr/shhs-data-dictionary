@@ -1,0 +1,21 @@
+{
+  "id": "cgpkyrdt",
+  "display_name": "Date collected: Cigarette use (SHHS1)",
+  "description": "Date Lifetime cigarette smoking collected (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "CgPkYrDT"
+  ],
+  "hybrid": {
+    "VARNUM": "19",
+    "TABLE": "SHHS1",
+    "LABEL": "AV CigPackYrDT",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

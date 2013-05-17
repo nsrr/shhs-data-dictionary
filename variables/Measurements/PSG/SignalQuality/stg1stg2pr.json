@@ -1,0 +1,21 @@
+{
+  "id": "stg1stg2pr",
+  "display_name": "PSG Quality Assessment (SHHS2): Stage1/Stage2 Scoring unreliable",
+  "description": "Scorer noted that there was a problem differentiating stage 1 and stage 2 sleep.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "Stg1Stg2Pr"
+  ],
+  "hybrid": {
+    "VARNUM": "498",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Sleep Staging Problem - scoring stage1/stage2 unreliable",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pm213",
+  "display_name": "Physical Measurements (SHHS2): Date of neck measurement",
+  "description": "C. Neck circumference measurement  13. Date of measurement:",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "pm213"
+  ],
+  "hybrid": {
+    "VARNUM": "139",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 13  Date of neck measurement",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

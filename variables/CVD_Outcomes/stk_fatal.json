@@ -1,0 +1,22 @@
+{
+  "id": "stk_fatal",
+  "display_name": "Fatal Stroke Since Baseline? (SHHSCVD)",
+  "description": "Fatal stroke since baseline PSG (as recorded in parent studies datasets)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "stk_fatal",
+    "stroke"
+  ],
+  "hybrid": {
+    "VARNUM": "11",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Fatal Stroke since Baseline?",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

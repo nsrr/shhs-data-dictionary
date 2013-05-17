@@ -1,0 +1,21 @@
+{
+  "id": "asalw15",
+  "display_name": "Health Interview (SHHS1): days taken aspirin in last week",
+  "description": "How many days did you take aspirin or aspirin containing meds in last week? (number of days, 1 to 14)",
+  "type": "numeric",
+  "units": "day",
+  "labels": [
+    "ASALW15"
+  ],
+  "hybrid": {
+    "VARNUM": "140",
+    "TABLE": "SHHS1",
+    "LABEL": "HI AsprinLastWk 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

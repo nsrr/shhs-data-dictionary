@@ -1,0 +1,21 @@
+{
+  "id": "emgcgd51",
+  "display_name": "PSG Signal Verification (SHHS1): Good deflection on EMG",
+  "description": "Good deflection observed on EMG signal",
+  "type": "choices",
+  "domain": "YESNOF",
+  "labels": [
+    "EMGCGD51"
+  ],
+  "hybrid": {
+    "VARNUM": "652",
+    "TABLE": "SHHS1",
+    "LABEL": "Good deflection on EMG",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

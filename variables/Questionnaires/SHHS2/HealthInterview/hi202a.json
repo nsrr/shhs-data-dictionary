@@ -1,0 +1,21 @@
+{
+  "id": "hi202a",
+  "display_name": "Health Interview (SHHS2): Number of days took aspirin",
+  "description": "a. If \"Yes,\" on how many days during the last two weeks did you take this\r\rmedicine?",
+  "type": "numeric",
+  "units": "day",
+  "labels": [
+    "hi202a"
+  ],
+  "hybrid": {
+    "VARNUM": "99",
+    "TABLE": "SHHS2",
+    "LABEL": "2a  Number of days took aspirin",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

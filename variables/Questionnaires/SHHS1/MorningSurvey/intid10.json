@@ -1,0 +1,21 @@
+{
+  "id": "intid10",
+  "display_name": "Morning Survey (SHHS1): Numeric ID of interviewer/reviewer",
+  "description": "Numeric ID of interviewer/reviewer",
+  "type": "choices",
+  "domain": "TECHID",
+  "labels": [
+    "INTID10"
+  ],
+  "hybrid": {
+    "VARNUM": "240",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Intvr ID 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

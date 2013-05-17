@@ -1,0 +1,21 @@
+{
+  "id": "formdate_ql",
+  "display_name": "Quality of Life (SHHS2): Date completed",
+  "description": "Date of Quality of Life form",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "formdate_ql"
+  ],
+  "hybrid": {
+    "VARNUM": "186",
+    "TABLE": "SHHS2",
+    "LABEL": "Date of Quality of Life form",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

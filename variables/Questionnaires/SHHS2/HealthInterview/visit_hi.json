@@ -1,0 +1,21 @@
+{
+  "id": "visit_hi",
+  "display_name": "Health Interview (SHHS2): Visit ID code",
+  "description": "",
+  "type": "choices",
+  "domain": "VISITCD",
+  "labels": [
+    "visit_hi"
+  ],
+  "hybrid": {
+    "VARNUM": "76",
+    "TABLE": "SHHS2",
+    "LABEL": "Visit ID code",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

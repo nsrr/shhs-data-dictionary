@@ -1,0 +1,22 @@
+{
+  "id": "stonsetp",
+  "display_name": "Sleep onset time (SHHS2)",
+  "description": "Sleep onset time (hh:mm:ss)",
+  "type": "numeric",
+  "domain": "time",
+  "units": "time",
+  "labels": [
+    "stonsetp"
+  ],
+  "hybrid": {
+    "VARNUM": "339",
+    "TABLE": "SHHS2",
+    "LABEL": "Sleep onset time (hh:mm:ss)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

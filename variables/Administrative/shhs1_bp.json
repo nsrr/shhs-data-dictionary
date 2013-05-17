@@ -1,0 +1,21 @@
+{
+  "id": "shhs1_bp",
+  "display_name": "Has SHHS1 Blook Pressure form",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs1_bp"
+  ],
+  "hybrid": {
+    "VARNUM": "726",
+    "TABLE": "SHHS1",
+    "LABEL": "Blood Pressure form present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 Blood Pressure Form (BP).pdf",
+    "PARENT TERM": null
+  }
+}

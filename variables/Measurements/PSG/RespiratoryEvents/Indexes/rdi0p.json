@@ -1,0 +1,24 @@
+{
+  "id": "rdi0p",
+  "display_name": "Overall RDI all desats (SHHS2)",
+  "description": "RDI at all desats  [(Total number of apneas and hypopneas) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "calculation": "rdi0p = 60*(hrembp + hrop + hnrbp + hnrop + carbp + carop + canbp + canop +oarbp +oarop + oanbp +oanop) / slpprdp",
+  "labels": [
+    "rdi0p",
+    "rdi",
+    "ahi"
+  ],
+  "hybrid": {
+    "VARNUM": "538",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - Overall RDI at 0% desat",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "psg:ahi"
+  }
+}

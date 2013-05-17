@@ -1,0 +1,21 @@
+{
+  "id": "hnrbp5",
+  "display_name": "# of Hypopnea (NREM, Back, 5% desat) (SHHS2)",
+  "description": "# of Hypopnea (NREM, Back, 5% desat)",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "hnrbp5"
+  ],
+  "hybrid": {
+    "VARNUM": "130",
+    "TABLE": "SHHS2",
+    "LABEL": "# of Hypopnea (NREM, Back, 5% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:hypopnea"
+  }
+}

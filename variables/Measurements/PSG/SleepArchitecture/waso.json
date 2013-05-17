@@ -1,0 +1,22 @@
+{
+  "id": "waso",
+  "display_name": "Wake After Sleep Onset (SHHS2)",
+  "description": "Total amount of time spent awake after going to sleep [(time in bed) - (sleep latency) - (total sleep time)]",
+  "type": "numeric",
+  "units": "minute",
+  "calculation": "waso = timebedp - slpprdp - slplatp",
+  "labels": [
+    "waso"
+  ],
+  "hybrid": {
+    "VARNUM": "518",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - Wake after sleep onset (minutes)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

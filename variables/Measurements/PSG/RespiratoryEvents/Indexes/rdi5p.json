@@ -1,0 +1,24 @@
+{
+  "id": "rdi5p",
+  "display_name": "Overall RDI at 5% desat (SHHS2)",
+  "description": "RDI at 5% desat  [(Total number of apneas and hypopneas associated with >= 5% desat) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "calculation": "rdi5p = 60*(hrembp5 + hrop5 + hnrbp5 + hnrop5 + carbp5 + carop5 + canbp5 + canop5 +oarbp5 +oarop5 + oanbp5 +oanop5) / slpprdp",
+  "labels": [
+    "rdi5p",
+    "rdi",
+    "ahi"
+  ],
+  "hybrid": {
+    "VARNUM": "542",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - Overall RDI at 5% desat",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:ahi"
+  }
+}

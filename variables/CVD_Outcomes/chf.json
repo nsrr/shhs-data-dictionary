@@ -1,0 +1,22 @@
+{
+  "id": "chf",
+  "display_name": "Number of CHFs Since to Baseline (SHHSCVD)",
+  "description": "Congestive Heart Failure (CHF) since baseline PSG (as recorded in parent studies datasets)",
+  "type": "numeric",
+  "units": "number_of_events",
+  "labels": [
+    "chf",
+    "congestive heart failure"
+  ],
+  "hybrid": {
+    "VARNUM": "21",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Number of CHF Since to Baseline",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

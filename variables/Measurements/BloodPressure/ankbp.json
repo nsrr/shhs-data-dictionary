@@ -1,0 +1,21 @@
+{
+  "id": "ankbp",
+  "display_name": "Supine ankle blood pressure (SHHS1)",
+  "description": "Supine Ankle Blood Pressure",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "AnkBP"
+  ],
+  "hybrid": {
+    "VARNUM": "41",
+    "TABLE": "SHHS1",
+    "LABEL": "AV AnkBP",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

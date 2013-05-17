@@ -1,0 +1,21 @@
+{
+  "id": "tmdepm51",
+  "display_name": "PSG Signal Verification (SHHS1): Time of Departure (minutes)",
+  "description": "",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "TMDEPM51"
+  ],
+  "hybrid": {
+    "VARNUM": "629",
+    "TABLE": "SHHS1",
+    "LABEL": "Time of Departure (minutes)",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

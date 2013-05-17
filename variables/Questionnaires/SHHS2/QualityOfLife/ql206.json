@@ -1,0 +1,21 @@
+{
+  "id": "ql206",
+  "display_name": "Quality of Life (SHHS2): Health or emotional problems limit social activities",
+  "description": "6. During the past four weeks, to what extent has your physical health or emotional problems interfered with your normal social activities with family, friends, neighbors, or groups? (Check one box.)",
+  "type": "choices",
+  "domain": "notextr5",
+  "labels": [
+    "ql206"
+  ],
+  "hybrid": {
+    "VARNUM": "191",
+    "TABLE": "SHHS2",
+    "LABEL": "QL 6   Problems interfered with social acti",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

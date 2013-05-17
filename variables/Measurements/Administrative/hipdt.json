@@ -1,0 +1,21 @@
+{
+  "id": "hipdt",
+  "display_name": "Date collected: Hip Circumference (SHHS1)",
+  "description": "Date Hip circumference measured (days from index day)]",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "HipDT"
+  ],
+  "hybrid": {
+    "VARNUM": "32",
+    "TABLE": "SHHS1",
+    "LABEL": "AV HipDT",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

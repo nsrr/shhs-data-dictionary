@@ -1,0 +1,21 @@
+{
+  "id": "weightdt",
+  "display_name": "Date collected: Weight (SHHS1)",
+  "description": "Date Weight measured (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "WeightDT"
+  ],
+  "hybrid": {
+    "VARNUM": "28",
+    "TABLE": "SHHS1",
+    "LABEL": "AV WeightDT",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pm206",
+  "display_name": "Physical Measurements (SHHS2): Height collected within window",
+  "description": "B.  Height measurement  6. Height measurement within the data collection window?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "pm206"
+  ],
+  "hybrid": {
+    "VARNUM": "145",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 6   Height collected within window",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

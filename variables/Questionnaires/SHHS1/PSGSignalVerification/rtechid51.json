@@ -1,0 +1,20 @@
+{
+  "id": "rtechid51",
+  "display_name": "PSG Signal Verification (SHHS1): Recorder Technician ID",
+  "description": "Technician ID",
+  "type": "text",
+  "labels": [
+    "RTECHID51"
+  ],
+  "hybrid": {
+    "VARNUM": "685",
+    "TABLE": "SHHS1",
+    "LABEL": "Recorder Technician ID",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

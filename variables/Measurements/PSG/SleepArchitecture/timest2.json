@@ -1,0 +1,22 @@
+{
+  "id": "timest2",
+  "display_name": "Time in Stage 2 (SHHS2)",
+  "description": "Total time scored as stage 2 rounded to nearest minute",
+  "type": "numeric",
+  "units": "minute",
+  "calculation": "timest2 = minstg2p",
+  "labels": [
+    "timest2"
+  ],
+  "hybrid": {
+    "VARNUM": "527",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - time stage 2 minutes",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:sleeptime"
+  }
+}

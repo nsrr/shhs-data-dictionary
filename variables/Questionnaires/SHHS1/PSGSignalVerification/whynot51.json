@@ -1,0 +1,20 @@
+{
+  "id": "whynot51",
+  "display_name": "PSG Signal Verification (SHHS1): Reason hookup not completed",
+  "description": "If not completed, why not?",
+  "type": "text",
+  "labels": [
+    "WHYNOT51"
+  ],
+  "hybrid": {
+    "VARNUM": "697",
+    "TABLE": "SHHS1",
+    "LABEL": "Reason hookup not completed",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

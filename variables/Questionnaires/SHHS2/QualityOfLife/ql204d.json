@@ -1,0 +1,21 @@
+{
+  "id": "ql204d",
+  "display_name": "Quality of Life (SHHS2): Health causes difficulty performing work",
+  "description": "4. During the past four weeks, have you had any of the following problems with your work or other regular daily activities as a result of your PHYSICAL HEALTH? d. Had difficulty performing the work or other activities. (For example, it took extra effort).",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "ql204d"
+  ],
+  "hybrid": {
+    "VARNUM": "208",
+    "TABLE": "SHHS2",
+    "LABEL": "QL 4d  Difficulty in doing  work/other acti",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

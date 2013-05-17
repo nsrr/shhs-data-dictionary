@@ -1,0 +1,21 @@
+{
+  "id": "lift25",
+  "display_name": "Quality of Life (SHHS1): Health limits lifting or carrying groceries",
+  "description": "Does your health now limit you in this activity, and if so, how much: Lifting or carrying groceries",
+  "type": "choices",
+  "domain": "LOTLIT3",
+  "labels": [
+    "LIFT25"
+  ],
+  "hybrid": {
+    "VARNUM": "248",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Lift Groc Lmt 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

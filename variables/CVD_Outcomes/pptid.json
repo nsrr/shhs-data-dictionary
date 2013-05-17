@@ -1,0 +1,21 @@
+{
+  "id": "pptid",
+  "display_name": "Participant Records from SHHSCVD",
+  "description": "Unique participant ID number",
+  "type": "identifier",
+  "labels": [
+    "pptid",
+    "id"
+  ],
+  "hybrid": {
+    "VARNUM": "1",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Participant Identification Number",
+    "access level": "1",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "oai4pa",
+  "display_name": "Obstructive Apnea Index 4% desat or arousal (SHHS2)",
+  "description": "Obstructive Apnea Index with Arousal at 4% desat  [(Total number of obstructive apneas associated with arousals or >= 4% desat) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "calculation": "oai4pa = 60*(oarba4 + oaroa4 + oanba4 + oanoa4 ) / slpprdp",
+  "labels": [
+    "oai4pa"
+  ],
+  "hybrid": {
+    "VARNUM": "571",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - Obstructive Apnea Index 4% or arousal",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:oai"
+  }
+}

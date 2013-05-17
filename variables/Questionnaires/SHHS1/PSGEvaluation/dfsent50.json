@@ -1,0 +1,21 @@
+{
+  "id": "dfsent50",
+  "display_name": "PSG Evaluation (SHHS1): data file sent to Reading Center",
+  "description": "Was data file sent to Cleveland? 0=No (reason=[WHYNOT50]), 1=Yes-complete, 2=Yes-partial",
+  "type": "choices",
+  "domain": "COMPL2",
+  "labels": [
+    "DFSENT50"
+  ],
+  "hybrid": {
+    "VARNUM": "292",
+    "TABLE": "SHHS1",
+    "LABEL": "SR Data to Clev 50",
+    "access level": "0",
+    "SOURCE": "PSG Evaluation (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

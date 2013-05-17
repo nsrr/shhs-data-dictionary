@@ -1,0 +1,21 @@
+{
+  "id": "posn",
+  "display_name": "PSG Quality Assessment (SHHS2): Position Sensor status",
+  "description": "Position sensor was working properly as assessed by scorer.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "Posn"
+  ],
+  "hybrid": {
+    "VARNUM": "484",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Position working",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

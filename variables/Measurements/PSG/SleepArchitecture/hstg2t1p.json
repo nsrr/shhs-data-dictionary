@@ -1,0 +1,21 @@
+{
+  "id": "hstg2t1p",
+  "display_name": "# of stage 2 to stage 1 shifts per hour of sleep (SHHS2)",
+  "description": "# of stage 2 to stage 1 shifts per hour of sleep",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "hstg2t1p"
+  ],
+  "hybrid": {
+    "VARNUM": "318",
+    "TABLE": "SHHS2",
+    "LABEL": "# of stage 2 to stage 1 shifts per hour of sleep",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

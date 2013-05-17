@@ -1,0 +1,21 @@
+{
+  "id": "hi201a",
+  "display_name": "History of Emphysema (SHHS2)",
+  "description": "1. Has a doctor ever told you that you have the\r\rfollowing?  a. Emphysema",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "hi201a"
+  ],
+  "hybrid": {
+    "VARNUM": "94",
+    "TABLE": "SHHS2",
+    "LABEL": "1a  Emphysema",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

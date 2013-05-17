@@ -1,0 +1,21 @@
+{
+  "id": "sleepy02",
+  "display_name": "Sleep Habits (SHHS1): Frequency of excessive daytime sleepiness",
+  "description": "How often do you feel excessively (overly) sleepy during the day?",
+  "type": "choices",
+  "domain": "NEVRALW5",
+  "labels": [
+    "Sleepy02"
+  ],
+  "hybrid": {
+    "VARNUM": "317",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Sleepy 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

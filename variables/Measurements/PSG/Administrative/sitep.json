@@ -1,0 +1,18 @@
+{
+  "id": "sitep",
+  "display_name": "PSG (SHHS1): Site ID",
+  "description": "Field center/site ID",
+  "type": "choices",
+  "domain": "siteid",
+  "hybrid": {
+    "VARNUM": "497",
+    "TABLE": "SHHS1",
+    "LABEL": "SiteP",
+    "access level": "1",
+    "SOURCE": "PSG Report (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

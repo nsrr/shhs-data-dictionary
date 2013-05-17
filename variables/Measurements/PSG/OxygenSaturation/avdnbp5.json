@@ -1,0 +1,21 @@
+{
+  "id": "avdnbp5",
+  "display_name": "Avg. Desat (NREM, Back, 5% desat) (SHHS2)",
+  "description": "Avg. Desat (NREM, Back, 5% desat)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avdnbp5"
+  ],
+  "hybrid": {
+    "VARNUM": "176",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. Desat (NREM, Back, 5% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

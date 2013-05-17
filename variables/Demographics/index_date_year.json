@@ -1,0 +1,21 @@
+{
+  "id": "index_date_year",
+  "display_name": "Year of index date (SHHS2)",
+  "description": "Index date has been withheld to maintain deidentification.  The year of the index date is maintained",
+  "type": "numeric",
+  "units": "year",
+  "labels": [
+    "index_date_year"
+  ],
+  "hybrid": {
+    "VARNUM": "6",
+    "TABLE": "SHHS2",
+    "LABEL": "Year in which index date occurred",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

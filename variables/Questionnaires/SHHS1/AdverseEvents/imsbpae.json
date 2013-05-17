@@ -1,0 +1,21 @@
+{
+  "id": "imsbpae",
+  "display_name": "Adverse Events (SHHS1): Systolic BP > 200",
+  "description": "Systolic blood pressure > 200 (and not on BP meds)?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "IMSBPAE"
+  ],
+  "hybrid": {
+    "VARNUM": "47",
+    "TABLE": "SHHS1",
+    "LABEL": "AE Syst BP>200",
+    "access level": "0",
+    "SOURCE": "Adverse Events Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Adverse Events (AE).pdf",
+    "PARENT TERM": null
+  }
+}

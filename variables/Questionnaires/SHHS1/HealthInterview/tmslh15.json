@@ -1,0 +1,21 @@
+{
+  "id": "tmslh15",
+  "display_name": "Health Interview (SHHS1): Time went to sleep last night - hour",
+  "description": "Time went to sleep last night - hour (hours component of time, 1 to 12)",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "TMSLH15"
+  ],
+  "hybrid": {
+    "VARNUM": "143",
+    "TABLE": "SHHS1",
+    "LABEL": "HI HourSlp LstNight 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

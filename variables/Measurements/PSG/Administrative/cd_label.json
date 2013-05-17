@@ -1,0 +1,21 @@
+{
+  "id": "cd_label",
+  "display_name": "PSG Quality Assessment (SHHS1): CD label",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "CDLabel",
+    " CD_Label"
+  ],
+  "hybrid": {
+    "VARNUM": "621",
+    "TABLE": "SHHS1",
+    "LABEL": "CD label",
+    "access level": "0",
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "PARENT TERM": null
+  }
+}

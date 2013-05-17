@@ -1,0 +1,22 @@
+{
+  "id": "slp_eff",
+  "display_name": "Sleep Efficiency (SHHS2)",
+  "description": "Percentage of time in bed that was spent sleeping, or the ratio of total sleep time to total time in bed, expressed as a percentage.   [100*(total sleep time) / (total time in bed)]",
+  "type": "numeric",
+  "units": "percent",
+  "calculation": "slp_eff = 100*(slpprdp)/timebedp",
+  "labels": [
+    "slp_eff"
+  ],
+  "hybrid": {
+    "VARNUM": "523",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - sleep efficiency %",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

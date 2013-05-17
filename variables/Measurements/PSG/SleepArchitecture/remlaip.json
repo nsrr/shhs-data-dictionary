@@ -1,0 +1,21 @@
+{
+  "id": "remlaip",
+  "display_name": "REM Latency I - including wake time (SHHS2)",
+  "description": "REM Latency I - including wake time (minutes)",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "remlaip"
+  ],
+  "hybrid": {
+    "VARNUM": "301",
+    "TABLE": "SHHS2",
+    "LABEL": "REM Latency I - including wake time (minutes)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "slp_lat",
+  "display_name": "Sleep latency (SHHS2)",
+  "description": "Time from lights out time to beginning of sleep, rounded to nearest minute",
+  "type": "numeric",
+  "units": "minute",
+  "calculation": "slp_lat = slplatp",
+  "labels": [
+    "slp_lat"
+  ],
+  "hybrid": {
+    "VARNUM": "519",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - sleep latency (minutes)",
+    "access level": "2",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

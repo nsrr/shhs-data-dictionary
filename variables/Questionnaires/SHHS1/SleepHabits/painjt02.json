@@ -1,0 +1,21 @@
+{
+  "id": "painjt02",
+  "display_name": "Sleep Habits (SHHS1): Frequency of being awakened with pain",
+  "description": "In the past year, how often, on average, have you been awakened with pain in your joints, muscles, or back?",
+  "type": "choices",
+  "domain": "NEVRALW5",
+  "labels": [
+    "PainJt02"
+  ],
+  "hybrid": {
+    "VARNUM": "337",
+    "TABLE": "SHHS1",
+    "LABEL": "SH PainJoint 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

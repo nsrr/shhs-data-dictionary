@@ -1,0 +1,20 @@
+{
+  "id": "refrsn03",
+  "display_name": "Contact Form (SHHS1): Reason refused to participate",
+  "description": "Reason refused to participate",
+  "type": "text",
+  "labels": [
+    "RefRsn03"
+  ],
+  "hybrid": {
+    "VARNUM": "90",
+    "TABLE": "SHHS1",
+    "LABEL": "CF RefuseRsn 03",
+    "access level": "0",
+    "SOURCE": "Contact Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Contact Form (CF).pdf",
+    "PARENT TERM": null
+  }
+}

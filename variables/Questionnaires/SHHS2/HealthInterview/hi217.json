@@ -1,0 +1,21 @@
+{
+  "id": "hi217",
+  "display_name": "Health Interview (SHHS2): Language of interview",
+  "description": "Field Site Use Only\r\r17. Interviewer administered in:",
+  "type": "choices",
+  "domain": "lang6",
+  "labels": [
+    "hi217"
+  ],
+  "hybrid": {
+    "VARNUM": "93",
+    "TABLE": "SHHS2",
+    "LABEL": "17  Interview administered in",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

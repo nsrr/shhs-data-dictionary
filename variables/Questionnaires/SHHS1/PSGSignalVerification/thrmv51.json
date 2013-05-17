@@ -1,0 +1,21 @@
+{
+  "id": "thrmv51",
+  "display_name": "PSG Signal Verification (SHHS1): Value observed on Thermistor",
+  "description": "",
+  "type": "choices",
+  "domain": "YESNOF",
+  "labels": [
+    "THRMV51"
+  ],
+  "hybrid": {
+    "VARNUM": "666",
+    "TABLE": "SHHS1",
+    "LABEL": "Value observed on Thermistor",
+    "access level": "1",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

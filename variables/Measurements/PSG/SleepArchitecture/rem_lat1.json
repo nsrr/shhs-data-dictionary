@@ -1,0 +1,22 @@
+{
+  "id": "rem_lat1",
+  "display_name": "REM Latency I (SHHS2)",
+  "description": "Total time from beginning of sleep to first epoch of REM, rounded to nearest minute",
+  "type": "numeric",
+  "units": "minute",
+  "calculation": "rem_lat1 = remlaip",
+  "labels": [
+    "rem_lat1"
+  ],
+  "hybrid": {
+    "VARNUM": "532",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - rem latency I in minutes slp onset to first rem",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "alcohdt",
+  "display_name": "Date collected: Alcohol use (SHHS1)",
+  "description": "Date Usual Alcohol Intake collected (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "AlcohDT"
+  ],
+  "hybrid": {
+    "VARNUM": "21",
+    "TABLE": "SHHS1",
+    "LABEL": "AV AlcohDT",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

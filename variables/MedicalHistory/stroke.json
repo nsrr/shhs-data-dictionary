@@ -1,0 +1,21 @@
+{
+  "id": "stroke",
+  "display_name": "History of Stroke (SHHS1)",
+  "description": "Prevalent stroke",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "Stroke"
+  ],
+  "hybrid": {
+    "VARNUM": "357",
+    "TABLE": "SHHS1",
+    "LABEL": "CVD Stroke",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "emacls25",
+  "display_name": "Quality of Life (SHHS1): Emotional problems limit accomplishment",
+  "description": "During the past 4 weeks, have you had this problem with work or other regular daily activities because of emotional problems: Accomplished less than you would like",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "EMACLS25"
+  ],
+  "hybrid": {
+    "VARNUM": "261",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Less Done EmoProb 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

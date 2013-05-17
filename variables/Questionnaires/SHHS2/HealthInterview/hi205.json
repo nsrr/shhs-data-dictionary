@@ -1,0 +1,21 @@
+{
+  "id": "hi205",
+  "display_name": "Health Interview (SHHS2): How well slept last night",
+  "description": "5. How well did you sleep last night?",
+  "type": "choices",
+  "domain": "WRSBET5",
+  "labels": [
+    "hi205"
+  ],
+  "hybrid": {
+    "VARNUM": "83",
+    "TABLE": "SHHS2",
+    "LABEL": "5   How well slept last night",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

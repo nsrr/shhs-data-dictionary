@@ -1,0 +1,21 @@
+{
+  "id": "form_pm",
+  "display_name": "Physical Measurements (SHHS2): Form ID and revision number",
+  "description": "Form ID and revision number",
+  "type": "choices",
+  "domain": "FRMID",
+  "labels": [
+    "form_pm"
+  ],
+  "hybrid": {
+    "VARNUM": "131",
+    "TABLE": "SHHS2",
+    "LABEL": "Form ID and revision number",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

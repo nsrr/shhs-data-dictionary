@@ -1,0 +1,21 @@
+{
+  "id": "imdbpae",
+  "display_name": "Adverse Events (SHHS1): Diastolic BP > 120",
+  "description": "Diastolic blood pressure > 120 (and not on BP meds)?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "IMDBPAE"
+  ],
+  "hybrid": {
+    "VARNUM": "48",
+    "TABLE": "SHHS1",
+    "LABEL": "AE Dsyt BP>120",
+    "access level": "0",
+    "SOURCE": "Adverse Events Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Adverse Events (AE).pdf",
+    "PARENT TERM": null
+  }
+}

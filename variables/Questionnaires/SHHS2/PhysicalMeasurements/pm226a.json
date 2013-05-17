@@ -1,0 +1,21 @@
+{
+  "id": "pm226a",
+  "display_name": "Doppler Systolic blood pressure (SHHS2)",
+  "description": "26. AAI  Doppler Obliteration Pressure a. Doppler Systolic:",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "pm226a"
+  ],
+  "hybrid": {
+    "VARNUM": "178",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 26a Doppler systolic AAI BP",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": "bp:systolic"
+  }
+}

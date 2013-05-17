@@ -1,0 +1,21 @@
+{
+  "id": "maoi2",
+  "display_name": "Mao Inhibitors (SHHS2)",
+  "description": "Patient taking MAO INHIBITORS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "MAOI2"
+  ],
+  "hybrid": {
+    "VARNUM": "288",
+    "TABLE": "SHHS2",
+    "LABEL": "MAO INHIBITORS",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

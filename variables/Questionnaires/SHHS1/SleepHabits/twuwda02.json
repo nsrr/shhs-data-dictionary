@@ -1,0 +1,21 @@
+{
+  "id": "twuwda02",
+  "display_name": "Sleep Habits (SHHS1): weekday wake time - AM or PM",
+  "description": "At what time do you usually wake up on weekdays or your work days - AM or PM",
+  "type": "choices",
+  "domain": "ampmf",
+  "labels": [
+    "TWUWDA02"
+  ],
+  "hybrid": {
+    "VARNUM": "306",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Wake Wrkday AMPM 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

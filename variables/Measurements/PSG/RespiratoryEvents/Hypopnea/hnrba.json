@@ -1,0 +1,21 @@
+{
+  "id": "hnrba",
+  "display_name": "# of Hypopnea w/ arousals (NREM, Back, all desats) (SHHS2)",
+  "description": "# of Hypopnea w/ arousals (NREM, Back, all desats)",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "hnrba"
+  ],
+  "hybrid": {
+    "VARNUM": "418",
+    "TABLE": "SHHS2",
+    "LABEL": "# of Hypopnea w/ arousals (NREM, Back, all desats)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:hypopnea"
+  }
+}

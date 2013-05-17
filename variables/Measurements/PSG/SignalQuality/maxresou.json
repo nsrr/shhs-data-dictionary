@@ -1,0 +1,21 @@
+{
+  "id": "maxresou",
+  "display_name": "PSG Quality Assessment (SHHS2): Long respiratory events verified",
+  "description": "If a respiratory event greater than 150 seconds in duration was observed, scorer has verified that this value is real.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "MaxResOu"
+  ],
+  "hybrid": {
+    "VARNUM": "515",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Outlier - max length respiratory event > 150s verified",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

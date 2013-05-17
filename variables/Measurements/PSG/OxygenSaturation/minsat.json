@@ -1,0 +1,22 @@
+{
+  "id": "minsat",
+  "display_name": "Minimum SaO2 in sleep (SHHS2)",
+  "description": "Lowest SaO2% during sleep  [Min(all SaO2 values in sleep)]",
+  "type": "numeric",
+  "units": "percent",
+  "calculation": "minsat = min(losao2r,losao2nr)",
+  "labels": [
+    "minsat"
+  ],
+  "hybrid": {
+    "VARNUM": "584",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - min SaO2 in sleep",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "psg:minsat"
+  }
+}

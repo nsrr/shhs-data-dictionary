@@ -1,0 +1,21 @@
+{
+  "id": "carop5",
+  "display_name": "# of Cent. Apnea (REM, Other, 5% desat) (SHHS2)",
+  "description": "# of Cent. Apnea (REM, Other, 5% desat)",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "carop5"
+  ],
+  "hybrid": {
+    "VARNUM": "142",
+    "TABLE": "SHHS2",
+    "LABEL": "# of Cent. Apnea (REM, Other, 5% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:ca"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eogltr51",
+  "display_name": "PSG Signal Verification (SHHS1): Number of sensor replacements: EOG (L)",
+  "description": "Number of times EOG (L) electrode replaced (0 if first check = final check)",
+  "type": "numeric",
+  "units": "replacements",
+  "labels": [
+    "EOGLTR51"
+  ],
+  "hybrid": {
+    "VARNUM": "645",
+    "TABLE": "SHHS1",
+    "LABEL": "Number of sensor replacements: EOG (L)",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "abdoqual",
+  "display_name": "PSG Quality Assessment (SHHS1): Signal Quality (abdomen effort)",
+  "description": "Overall quality of signal from abdominal effort belt as assessed by scorer.",
+  "type": "choices",
+  "domain": "SIGQUS1",
+  "labels": [
+    "Abdoqual"
+  ],
+  "hybrid": {
+    "VARNUM": "604",
+    "TABLE": "SHHS1",
+    "LABEL": "Abdoqual",
+    "access level": "0",
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "method03",
+  "display_name": "Contact Form (SHHS1): Method of contact",
+  "description": "Method of contact",
+  "type": "choices",
+  "domain": "CONTACT4",
+  "labels": [
+    "Method03"
+  ],
+  "hybrid": {
+    "VARNUM": "87",
+    "TABLE": "SHHS1",
+    "LABEL": "CF Method03",
+    "access level": "0",
+    "SOURCE": "Contact Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Contact Form (CF).pdf",
+    "PARENT TERM": null
+  }
+}

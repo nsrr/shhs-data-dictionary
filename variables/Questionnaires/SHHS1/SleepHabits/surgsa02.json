@@ -1,0 +1,21 @@
+{
+  "id": "surgsa02",
+  "display_name": "Sleep Habits (SHHS1): Surgery as treatment for sleep apnea",
+  "description": "Have you had surgery as treatment for your sleep apnea?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "SurgSA02"
+  ],
+  "hybrid": {
+    "VARNUM": "331",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Surg Slp Apn 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "agdi2",
+  "display_name": "Alpha-Glucosidase Inhibitors (SHHS2)",
+  "description": "Patient taking ALPHA-GLUCOSIDASE INHIBITORS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "AGDI2"
+  ],
+  "hybrid": {
+    "VARNUM": "248",
+    "TABLE": "SHHS2",
+    "LABEL": "ALPHA-GLUCOSIDASE INHIBITORS",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

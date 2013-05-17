@@ -1,0 +1,21 @@
+{
+  "id": "twuwdm02",
+  "display_name": "Sleep Habits (SHHS1): weekday wake time - minute",
+  "description": "At what time do you usually wake up on weekdays or your work days - minute?",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "TWUWDM02"
+  ],
+  "hybrid": {
+    "VARNUM": "305",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Min Wake Wrkday 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

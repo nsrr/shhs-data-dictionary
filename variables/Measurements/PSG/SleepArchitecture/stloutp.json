@@ -1,0 +1,22 @@
+{
+  "id": "stloutp",
+  "display_name": "Lights out time (SHHS2)",
+  "description": "Lights out time (hh:mm:ss)",
+  "type": "numeric",
+  "domain": "time",
+  "units": "time",
+  "labels": [
+    "stloutp"
+  ],
+  "hybrid": {
+    "VARNUM": "338",
+    "TABLE": "SHHS2",
+    "LABEL": "Lights out time (hh:mm:ss)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

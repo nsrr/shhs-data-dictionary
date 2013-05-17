@@ -1,0 +1,21 @@
+{
+  "id": "whensm15",
+  "display_name": "Health Interview (SHHS1): when smoking data collected",
+  "description": "Data on smoking collected when? (date=[SMCLDT15])",
+  "type": "choices",
+  "domain": "HOMCLIN",
+  "labels": [
+    "WHENSM15"
+  ],
+  "hybrid": {
+    "VARNUM": "121",
+    "TABLE": "SHHS1",
+    "LABEL": "HI WhenSM15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

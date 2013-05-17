@@ -1,0 +1,22 @@
+{
+  "id": "ca15",
+  "display_name": "Self-reported Coronary Angioplasty? (SHHSCVD)",
+  "description": "Self-reported coronary angioplasty (as reported in SHHS 1 baseline health interviews)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "ca15",
+    "coronary angioplasty"
+  ],
+  "hybrid": {
+    "VARNUM": "27",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Self-reported coronary angioplasty?",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

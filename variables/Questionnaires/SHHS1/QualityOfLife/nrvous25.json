@@ -1,0 +1,21 @@
+{
+  "id": "nrvous25",
+  "display_name": "Quality of Life (SHHS1): Been a very nervous person",
+  "description": "During the past 4 weeks, how much of the time: Have you been a very nervous person?",
+  "type": "choices",
+  "domain": "ALLNONE6",
+  "labels": [
+    "NRVOUS25"
+  ],
+  "hybrid": {
+    "VARNUM": "267",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Nervous 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "asth1215",
+  "display_name": "Asthma attack in last 12 months (SHHS1)",
+  "description": "pt had attack of asthma in last 12 months?",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "ASTH1215"
+  ],
+  "hybrid": {
+    "VARNUM": "111",
+    "TABLE": "SHHS1",
+    "LABEL": "HI AsthAttack12mo 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

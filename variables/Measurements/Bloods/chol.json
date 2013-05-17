@@ -1,0 +1,21 @@
+{
+  "id": "chol",
+  "display_name": "Cholesterol (SHHS1)",
+  "description": "Cholesterol mg/dl",
+  "type": "numeric",
+  "units": "milligram_per_deciliter",
+  "labels": [
+    "Chol"
+  ],
+  "hybrid": {
+    "VARNUM": "33",
+    "TABLE": "SHHS1",
+    "LABEL": "AV Chol",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

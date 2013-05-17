@@ -1,0 +1,21 @@
+{
+  "id": "totminnap",
+  "display_name": "Health Interview (SHHS2): Total minutes slept during nap",
+  "description": "",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "TotMinNap"
+  ],
+  "hybrid": {
+    "VARNUM": "81",
+    "TABLE": "SHHS2",
+    "LABEL": "6 Total minutes slept during nap",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

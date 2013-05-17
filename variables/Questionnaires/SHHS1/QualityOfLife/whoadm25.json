@@ -1,0 +1,21 @@
+{
+  "id": "whoadm25",
+  "display_name": "Quality of Life (SHHS1): Administered by",
+  "description": "Who administered questionnaire?",
+  "type": "choices",
+  "domain": "ADM1",
+  "labels": [
+    "WHOADM25"
+  ],
+  "hybrid": {
+    "VARNUM": "280",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Who Admin 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

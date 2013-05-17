@@ -1,0 +1,23 @@
+{
+  "id": "cabg",
+  "display_name": "Number of CABGs Since Baseline (SHHSCVD)",
+  "description": "CABG since baseline PSG (as recorded in parent studies datasets)",
+  "type": "numeric",
+  "units": "number_of_events",
+  "labels": [
+    "cabg",
+    "stent",
+    "coronary artery bypass graft"
+  ],
+  "hybrid": {
+    "VARNUM": "19",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Number of CABGs Since Baseline",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

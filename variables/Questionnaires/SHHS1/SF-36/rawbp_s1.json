@@ -1,0 +1,21 @@
+{
+  "id": "rawbp_s1",
+  "display_name": "SF-36 Calculated (SHHS1): Pain Index Raw Score",
+  "description": "",
+  "type": "numeric",
+  "units": "score",
+  "labels": [
+    "RAWBP_s1"
+  ],
+  "hybrid": {
+    "VARNUM": "706",
+    "TABLE": "SHHS1",
+    "LABEL": "RAW SF-36 PAIN INDEX",
+    "access level": "0",
+    "SOURCE": "SF-36 Calculated (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "schdt03",
+  "display_name": "Contact Form (SHHS1): Date sleep study scheduled",
+  "description": "Date sleep study scheduled (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "SchDt03"
+  ],
+  "hybrid": {
+    "VARNUM": "89",
+    "TABLE": "SHHS1",
+    "LABEL": "CF Sched DT 03",
+    "access level": "0",
+    "SOURCE": "Contact Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Contact Form (CF).pdf",
+    "PARENT TERM": null
+  }
+}

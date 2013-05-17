@@ -1,0 +1,22 @@
+{
+  "id": "site03",
+  "display_name": "Contact Form (SHHS1): Site ID",
+  "description": "Field center/site ID",
+  "type": "choices",
+  "domain": "SITEID",
+  "labels": [
+    "Site03",
+    "site"
+  ],
+  "hybrid": {
+    "VARNUM": "84",
+    "TABLE": "SHHS1",
+    "LABEL": "CF Site03",
+    "access level": "1",
+    "SOURCE": "Contact Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Contact Form (CF).pdf",
+    "PARENT TERM": null
+  }
+}

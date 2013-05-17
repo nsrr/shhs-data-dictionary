@@ -1,0 +1,20 @@
+{
+  "id": "comm",
+  "display_name": "PSG Quality Assessment (SHHS2): Signal Quality comments",
+  "description": "Scorer comments on signal quality issues observed.",
+  "type": "text",
+  "labels": [
+    "Comm"
+  ],
+  "hybrid": {
+    "VARNUM": "485",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Signal Quality Issues",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

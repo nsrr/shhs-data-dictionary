@@ -1,0 +1,20 @@
+{
+  "id": "othres03",
+  "display_name": "Contact Form (SHHS1): Other result of final recruitment contact",
+  "description": "Result of final recruitment contact, other",
+  "type": "text",
+  "labels": [
+    "OthRes03"
+  ],
+  "hybrid": {
+    "VARNUM": "92",
+    "TABLE": "SHHS1",
+    "LABEL": "CF OtherResult 03",
+    "access level": "0",
+    "SOURCE": "Contact Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Contact Form (CF).pdf",
+    "PARENT TERM": null
+  }
+}

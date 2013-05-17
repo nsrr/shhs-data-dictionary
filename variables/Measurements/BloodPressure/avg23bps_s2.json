@@ -1,0 +1,21 @@
+{
+  "id": "avg23bps_s2",
+  "display_name": "Average Systolic BP (SHHS2)",
+  "description": "Average of 2nd and 3rd Systolic BP measures",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "avg23bps_s2"
+  ],
+  "hybrid": {
+    "VARNUM": "135",
+    "TABLE": "SHHS2",
+    "LABEL": "Average of 2nd and 3rd Systolic BP measures",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": "bp:systolic"
+  }
+}

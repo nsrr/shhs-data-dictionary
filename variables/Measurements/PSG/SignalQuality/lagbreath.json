@@ -1,0 +1,21 @@
+{
+  "id": "lagbreath",
+  "display_name": "PSG Quality Assessment (SHHS2): Periodic large breaths",
+  "description": "Scorer observed periodic large breaths during study.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "LagBreath"
+  ],
+  "hybrid": {
+    "VARNUM": "512",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Unusual Occurrences - Periodic large breaths",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

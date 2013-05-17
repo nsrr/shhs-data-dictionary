@@ -1,0 +1,20 @@
+{
+  "id": "problm51",
+  "display_name": "PSG Signal Verification (SHHS1): Problems with hookup",
+  "description": "Describe any problems with hook-up or sensor checks",
+  "type": "text",
+  "labels": [
+    "PROBLM51"
+  ],
+  "hybrid": {
+    "VARNUM": "683",
+    "TABLE": "SHHS1",
+    "LABEL": "Problems with hookup",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

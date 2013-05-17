@@ -1,0 +1,21 @@
+{
+  "id": "eeg2fs51",
+  "display_name": "PSG Signal Verification (SHHS1): Impedence check 1: EEG2 (C3/A2)",
+  "description": "First impedency check of EEG2 (C3/A2) (kohms)",
+  "type": "numeric",
+  "units": "kohms",
+  "labels": [
+    "EEG2FS51"
+  ],
+  "hybrid": {
+    "VARNUM": "631",
+    "TABLE": "SHHS1",
+    "LABEL": "Impedence check 1: EEG2 (C3/A2)",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

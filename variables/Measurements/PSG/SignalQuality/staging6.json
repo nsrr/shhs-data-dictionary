@@ -1,0 +1,18 @@
+{
+  "id": "staging6",
+  "display_name": "PSG Scoring Notes (SHHS1): Staging 6",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "hybrid": {
+    "VARNUM": "700",
+    "TABLE": "SHHS1",
+    "LABEL": "Staging 6",
+    "access level": "0",
+    "SOURCE": "PSG Scoring Notes (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Scoring Notes (SN).pdf",
+    "PARENT TERM": null
+  }
+}

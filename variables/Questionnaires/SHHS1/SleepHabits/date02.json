@@ -1,0 +1,21 @@
+{
+  "id": "date02",
+  "display_name": "Sleep Habits (SHHS1): Date completed",
+  "description": "Date form filled out (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "Date02"
+  ],
+  "hybrid": {
+    "VARNUM": "296",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Date 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

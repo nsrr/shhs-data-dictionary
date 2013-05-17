@@ -1,0 +1,21 @@
+{
+  "id": "siteae",
+  "display_name": "Adverse Events (SHHS1): Site ID",
+  "description": "Field center/site ID",
+  "type": "choices",
+  "domain": "SITEID",
+  "labels": [
+    "SiteAE"
+  ],
+  "hybrid": {
+    "VARNUM": "46",
+    "TABLE": "SHHS1",
+    "LABEL": "AE SiteID",
+    "access level": "1",
+    "SOURCE": "Adverse Events Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Adverse Events (AE).pdf",
+    "PARENT TERM": null
+  }
+}

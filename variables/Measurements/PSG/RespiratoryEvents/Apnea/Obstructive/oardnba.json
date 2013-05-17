@@ -1,0 +1,21 @@
+{
+  "id": "oardnba",
+  "display_name": "Obs. Apnea per hour w/ arousals (NREM, Back, all desats) (SHHS2)",
+  "description": "Obs. Apnea per hour w/ arousals (NREM, Back, all desats)",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "labels": [
+    "oardnba"
+  ],
+  "hybrid": {
+    "VARNUM": "350",
+    "TABLE": "SHHS2",
+    "LABEL": "Obs. Apnea per hour w/ arousals (NREM, Back, all desats)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:oai"
+  }
+}

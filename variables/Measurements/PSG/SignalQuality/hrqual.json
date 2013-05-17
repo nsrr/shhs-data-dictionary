@@ -1,0 +1,21 @@
+{
+  "id": "hrqual",
+  "display_name": "PSG Quality Assessment (SHHS1): Signal Quality (hr)",
+  "description": "Overall quality of signal from heart rate (ECG) leads as assessed by scorer.",
+  "type": "choices",
+  "domain": "SIGQUS1",
+  "labels": [
+    "HRqual"
+  ],
+  "hybrid": {
+    "VARNUM": "601",
+    "TABLE": "SHHS1",
+    "LABEL": "HRqual",
+    "access level": "0",
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "PARENT TERM": null
+  }
+}

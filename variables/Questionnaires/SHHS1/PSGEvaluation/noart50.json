@@ -1,0 +1,21 @@
+{
+  "id": "noart50",
+  "display_name": "PSG Evaluation (SHHS1): each channel clear of artifact",
+  "description": "Is each channel mostly clear of artifact (thick fuzzy lines)?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "NOART50"
+  ],
+  "hybrid": {
+    "VARNUM": "287",
+    "TABLE": "SHHS1",
+    "LABEL": "SR No Artif 50",
+    "access level": "0",
+    "SOURCE": "PSG Evaluation (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

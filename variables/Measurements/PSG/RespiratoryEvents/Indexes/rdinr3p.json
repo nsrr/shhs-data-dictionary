@@ -1,0 +1,24 @@
+{
+  "id": "rdinr3p",
+  "display_name": "Overall RDI (NREM) at 3% desat (SHHS2)",
+  "description": "Non-REM RDI at 3% desat  [(Total number of apneas and hypopneas in non-REM sleep associated with >= 3% desat) / (hours of NREM sleep)]",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "calculation": "rdinr3p  = 60*(hnrbp3 + hnrop3 + canbp3 + canop3 + oanbp3 + oanop3) / (slpprdp - minremp)",
+  "labels": [
+    "rdinr3p",
+    "rdi",
+    "ahi"
+  ],
+  "hybrid": {
+    "VARNUM": "566",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - Overall Non-rem RDI at 3% desat",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "psg:ahi_nrem"
+  }
+}

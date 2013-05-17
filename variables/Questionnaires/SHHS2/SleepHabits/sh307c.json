@@ -1,0 +1,21 @@
+{
+  "id": "sh307c",
+  "display_name": "Sleep Habits (SHHS2): Nap to feel refreshed",
+  "description": "7. What are your reasons for regular napping in the afternoon? (check all that apply)  c. I nap because it makes me feel refreshed in general.",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "sh307c"
+  ],
+  "hybrid": {
+    "VARNUM": "44",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 7c  Nap to feel refreshed",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

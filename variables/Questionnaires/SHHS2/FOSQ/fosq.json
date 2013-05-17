@@ -1,0 +1,21 @@
+{
+  "id": "fosq",
+  "display_name": "FOSQ Score",
+  "description": "Functional Outcomes of Sleep Questionnaire (FOSQ) score",
+  "type": "numeric",
+  "units": "score",
+  "labels": [
+    "fosq"
+  ],
+  "hybrid": {
+    "VARNUM": "586",
+    "TABLE": "SHHS2",
+    "LABEL": "FOSQ Score",
+    "access level": "0",
+    "SOURCE": "FOSQ Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

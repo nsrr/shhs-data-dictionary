@@ -1,0 +1,21 @@
+{
+  "id": "avdnop4",
+  "display_name": "Avg. Desat (NREM, Other, 4% desat) (SHHS2)",
+  "description": "Avg. Desat (NREM, Other, 4% desat)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avdnop4"
+  ],
+  "hybrid": {
+    "VARNUM": "57",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. Desat (NREM, Other, 4% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

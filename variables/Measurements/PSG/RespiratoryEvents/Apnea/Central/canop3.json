@@ -1,0 +1,21 @@
+{
+  "id": "canop3",
+  "display_name": "# of Cent. Apnea (NREM, Other, 3% desat) (SHHS2)",
+  "description": "# of Cent. Apnea (NREM, Other, 3% desat)",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "canop3"
+  ],
+  "hybrid": {
+    "VARNUM": "618",
+    "TABLE": "SHHS2",
+    "LABEL": "# of Cent. Apnea (NREM, Other, 3% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:ca"
+  }
+}

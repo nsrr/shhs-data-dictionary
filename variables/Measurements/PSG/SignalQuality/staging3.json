@@ -1,0 +1,18 @@
+{
+  "id": "staging3",
+  "display_name": "PSG Scoring Notes (SHHS1): Scored Wake, Non-REM, REM only",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "hybrid": {
+    "VARNUM": "697",
+    "TABLE": "SHHS1",
+    "LABEL": "Scored Wake, Non-REM, REM only",
+    "access level": "0",
+    "SOURCE": "PSG Scoring Notes (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Scoring Notes (SN).pdf",
+    "PARENT TERM": null
+  }
+}

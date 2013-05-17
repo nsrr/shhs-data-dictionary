@@ -1,0 +1,21 @@
+{
+  "id": "sh323a",
+  "display_name": "Sleep Habits (SHHS2): Years since stopped smoking",
+  "description": "23a. If \"No\" how many years ago did you STOP smoking?",
+  "type": "numeric",
+  "units": "year",
+  "labels": [
+    "sh323a"
+  ],
+  "hybrid": {
+    "VARNUM": "71",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 23a Years since stopped smoking",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

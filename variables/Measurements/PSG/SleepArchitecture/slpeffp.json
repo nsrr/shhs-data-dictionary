@@ -1,0 +1,21 @@
+{
+  "id": "slpeffp",
+  "display_name": "PSG Report (SHHS2): Sleep Efficiency",
+  "description": "Sleep Efficiency (%)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "slpeffp"
+  ],
+  "hybrid": {
+    "VARNUM": "313",
+    "TABLE": "SHHS2",
+    "LABEL": "Sleep Efficiency (%)",
+    "access level": "2",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

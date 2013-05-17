@@ -1,0 +1,21 @@
+{
+  "id": "mnhnop",
+  "display_name": "Min. Hypopnea length (NREM, Other, all desats) (SHHS2)",
+  "description": "Min. Hypopnea length (NREM, Other, all desats) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "mnhnop"
+  ],
+  "hybrid": {
+    "VARNUM": "364",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. Hypopnea length (NREM, Other, all desats) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

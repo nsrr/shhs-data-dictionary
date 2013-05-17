@@ -1,0 +1,21 @@
+{
+  "id": "tmarra51",
+  "display_name": "PSG Signal Verification (SHHS1): Time of Arrival (am/pm)",
+  "description": "",
+  "type": "choices",
+  "domain": "ampmf",
+  "labels": [
+    "TMARRA51"
+  ],
+  "hybrid": {
+    "VARNUM": "627",
+    "TABLE": "SHHS1",
+    "LABEL": "Time of Arrival (am/pm)",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

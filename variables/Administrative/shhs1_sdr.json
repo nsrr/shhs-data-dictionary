@@ -1,0 +1,21 @@
+{
+  "id": "shhs1_sdr",
+  "display_name": "Has SHHS1 Sleep Data Retrieval form",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs1_sdr"
+  ],
+  "hybrid": {
+    "VARNUM": "733",
+    "TABLE": "SHHS1",
+    "LABEL": "Sleep Data Retrieval form present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

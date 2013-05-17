@@ -1,0 +1,21 @@
+{
+  "id": "respevpr",
+  "display_name": "PSG Quality Assessment (SHHS2): Respiratory scoring problems",
+  "description": "Due to signal problems, scorer noted that there was a problem scoring respiratory events.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "RespEvPr"
+  ],
+  "hybrid": {
+    "VARNUM": "505",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Problems with resp. events",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

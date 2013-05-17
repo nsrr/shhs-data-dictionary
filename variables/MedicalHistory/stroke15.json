@@ -1,0 +1,21 @@
+{
+  "id": "stroke15",
+  "display_name": "MD Reported Stroke (SHHS1)",
+  "description": "MD said pt had stroke?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "STROKE15"
+  ],
+  "hybrid": {
+    "VARNUM": "99",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Stroke 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

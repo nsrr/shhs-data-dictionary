@@ -1,0 +1,21 @@
+{
+  "id": "form_sh",
+  "display_name": "Sleep Habits (SHHS2): Form ID and revision number",
+  "description": "Form ID and revision number",
+  "type": "choices",
+  "domain": "FRMID",
+  "labels": [
+    "form_sh"
+  ],
+  "hybrid": {
+    "VARNUM": "13",
+    "TABLE": "SHHS2",
+    "LABEL": "Form ID and revision number",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dias320",
+  "display_name": "Diastolic BP: reading 3 of 3 (SHHS1)",
+  "description": "Seated diastolic BP- third reading (number, up to 3 digits)",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "DIAS320"
+  ],
+  "hybrid": {
+    "VARNUM": "76",
+    "TABLE": "SHHS1",
+    "LABEL": "BP Dias 3rd 20",
+    "access level": "0",
+    "SOURCE": "Blood Pressure Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Blood Pressure Form (BP).pdf",
+    "PARENT TERM": "bp:diastolic"
+  }
+}

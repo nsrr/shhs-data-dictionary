@@ -1,0 +1,21 @@
+{
+  "id": "monid50",
+  "display_name": "PSG Evaluation (SHHS1): Monitor ID",
+  "description": "Monitor ID",
+  "type": "choices",
+  "domain": "MONTRID",
+  "labels": [
+    "MONID50"
+  ],
+  "hybrid": {
+    "VARNUM": "291",
+    "TABLE": "SHHS1",
+    "LABEL": "SR Mon ID 50",
+    "access level": "0",
+    "SOURCE": "PSG Evaluation (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

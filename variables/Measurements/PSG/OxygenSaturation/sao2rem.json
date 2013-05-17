@@ -1,0 +1,22 @@
+{
+  "id": "sao2rem",
+  "display_name": "Average SaO2 in REM sleep (SHHS2)",
+  "description": "Average SaO2% in REM sleep.  The mean of all oxygen saturation values in epochs scored as stage REM.  [Mean(all SaO2 values in REM sleep)]",
+  "type": "numeric",
+  "units": "percent",
+  "calculation": "sao2rem = avsao2rh",
+  "labels": [
+    "sao2rem"
+  ],
+  "hybrid": {
+    "VARNUM": "579",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - avg sao2 rem",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:avgsat"
+  }
+}

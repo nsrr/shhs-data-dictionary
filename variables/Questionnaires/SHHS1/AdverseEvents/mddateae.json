@@ -1,0 +1,21 @@
+{
+  "id": "mddateae",
+  "display_name": "Adverse Events (SHHS1): Date physician notified (days from index day)",
+  "description": "Date physician notified (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "MDDATEAE"
+  ],
+  "hybrid": {
+    "VARNUM": "58",
+    "TABLE": "SHHS1",
+    "LABEL": "AE Date MD Notif",
+    "access level": "1",
+    "SOURCE": "Adverse Events Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Adverse Events (AE).pdf",
+    "PARENT TERM": null
+  }
+}

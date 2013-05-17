@@ -1,0 +1,21 @@
+{
+  "id": "angina15",
+  "display_name": "MD Reported Angina (SHHS1)",
+  "description": "MD said pt had angina?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "ANGINA15"
+  ],
+  "hybrid": {
+    "VARNUM": "97",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Angina 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

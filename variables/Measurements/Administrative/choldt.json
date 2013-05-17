@@ -1,0 +1,21 @@
+{
+  "id": "choldt",
+  "display_name": "Date collected: Cholesterol (SHHS1)",
+  "description": "Date Cholesterol/HDL/Triglycerides collected (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "CholDT"
+  ],
+  "hybrid": {
+    "VARNUM": "36",
+    "TABLE": "SHHS1",
+    "LABEL": "AV CholestDT",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ql209b",
+  "display_name": "Quality of Life (SHHS2): Been a very nervous person",
+  "description": "9. These questions are about how you feel and how things have been with you during the past 4 weeks.  For each question, check the box for the one answer that comes closest to the way you have been feeling.  During the past 4 weeks, how much of the time. b. Have you been a very nervous person?",
+  "type": "choices",
+  "domain": "allnone6",
+  "labels": [
+    "ql209b"
+  ],
+  "hybrid": {
+    "VARNUM": "213",
+    "TABLE": "SHHS2",
+    "LABEL": "QL 9b  Been very nervous",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

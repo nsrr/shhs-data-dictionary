@@ -1,0 +1,21 @@
+{
+  "id": "exclnt25",
+  "display_name": "Quality of Life (SHHS1): Health is excellent",
+  "description": "Choose (definitely True-definitely False): My health is excellent.",
+  "type": "choices",
+  "domain": "TRUFALS5",
+  "labels": [
+    "EXCLNT25"
+  ],
+  "hybrid": {
+    "VARNUM": "279",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Hlth Exclnt 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

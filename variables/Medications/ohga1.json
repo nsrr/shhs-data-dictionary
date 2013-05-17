@@ -1,0 +1,21 @@
+{
+  "id": "ohga1",
+  "display_name": "Oral Hypoglycemic Agents (SHHS1)",
+  "description": "Patient taking ORAL HYPOGLYCEMIC AGENTS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "OHGA2"
+  ],
+  "hybrid": {
+    "VARNUM": "164",
+    "TABLE": "SHHS1",
+    "LABEL": "MU Oral hypoglycemic agents",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": "SHHS1 Medications.pdf",
+    "PARENT TERM": null
+  }
+}

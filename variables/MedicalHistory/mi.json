@@ -1,0 +1,21 @@
+{
+  "id": "mi",
+  "display_name": "History of Heart Attack (SHHS1)",
+  "description": "Prevalent heart attacks (TucsonCVD) 0=no previous history 1=previous history",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "MI"
+  ],
+  "hybrid": {
+    "VARNUM": "356",
+    "TABLE": "SHHS1",
+    "LABEL": "CVD Heart Attack",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

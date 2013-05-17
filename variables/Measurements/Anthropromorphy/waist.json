@@ -1,0 +1,21 @@
+{
+  "id": "waist",
+  "display_name": "Waist Circumference (SHHS1)",
+  "description": "Waist measurement in centimeters",
+  "type": "numeric",
+  "units": "centimeter",
+  "labels": [
+    "Waist"
+  ],
+  "hybrid": {
+    "VARNUM": "29",
+    "TABLE": "SHHS1",
+    "LABEL": "AV Waist",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "anthropromorphy:waistcf"
+  }
+}

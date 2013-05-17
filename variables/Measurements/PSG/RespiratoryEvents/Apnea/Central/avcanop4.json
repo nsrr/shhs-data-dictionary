@@ -1,0 +1,21 @@
+{
+  "id": "avcanop4",
+  "display_name": "Avg. Cent. Apnea length (NREM, Other, 4% desat) (SHHS2)",
+  "description": "Avg. Cent. Apnea length (NREM, Other, 4% desat) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "avcanop4"
+  ],
+  "hybrid": {
+    "VARNUM": "31",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. Cent. Apnea length (NREM, Other, 4% desat) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "niac1",
+  "display_name": "Niacin and nicotinic acid (SHHS1)",
+  "description": "Patient taking NIACIN AND NICOTINIC ACID within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "NIAC1"
+  ],
+  "hybrid": {
+    "VARNUM": "190",
+    "TABLE": "SHHS1",
+    "LABEL": "MU Niacin and nicotinic acid",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Medications.pdf",
+    "PARENT TERM": null
+  }
+}

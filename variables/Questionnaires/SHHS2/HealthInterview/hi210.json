@@ -1,0 +1,21 @@
+{
+  "id": "hi210",
+  "display_name": "Health Interview (SHHS2): How bothersome is restless legs",
+  "description": "C. Restless legs  [Questions #9-10 are about your MOST FREQUENT symptom you checked as yes in item #8.]  10. How bothersome or troublesome is this symptom? (answer based on most frequent symptom) Does it bother you: (check one)",
+  "type": "choices",
+  "domain": "bothr5",
+  "labels": [
+    "hi210"
+  ],
+  "hybrid": {
+    "VARNUM": "86",
+    "TABLE": "SHHS2",
+    "LABEL": "10  How bothersome is symptom",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "battck51",
+  "display_name": "PSG Signal Verification (SHHS1): Battery check value",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "BATTCK51"
+  ],
+  "hybrid": {
+    "VARNUM": "695",
+    "TABLE": "SHHS1",
+    "LABEL": "Battery check value",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "techidae",
+  "display_name": "Adverse Events (SHHS1): Technician ID",
+  "description": "Technician ID",
+  "type": "choices",
+  "domain": "TECHID",
+  "labels": [
+    "TECHIDAE"
+  ],
+  "hybrid": {
+    "VARNUM": "65",
+    "TABLE": "SHHS1",
+    "LABEL": "AE TechID",
+    "access level": "1",
+    "SOURCE": "Adverse Events Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Adverse Events (AE).pdf",
+    "PARENT TERM": null
+  }
+}

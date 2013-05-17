@@ -1,0 +1,21 @@
+{
+  "id": "saqli",
+  "display_name": "SAQLI Score",
+  "description": "The Short Sleep Apnea Quality of Life Index (Short SAQLI) score",
+  "type": "numeric",
+  "units": "score",
+  "labels": [
+    "saqli"
+  ],
+  "hybrid": {
+    "VARNUM": "585",
+    "TABLE": "SHHS2",
+    "LABEL": "SAQLI Score",
+    "access level": "0",
+    "SOURCE": "Short SAQLI (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

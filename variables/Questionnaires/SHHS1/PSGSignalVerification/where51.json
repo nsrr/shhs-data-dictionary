@@ -1,0 +1,20 @@
+{
+  "id": "where51",
+  "display_name": "PSG Signal Verification (SHHS1): Location(s) of alternate placement sites",
+  "description": "If yes [alternate placement sites needed], which ones and where placed",
+  "type": "text",
+  "labels": [
+    "WHERE51"
+  ],
+  "hybrid": {
+    "VARNUM": "680",
+    "TABLE": "SHHS1",
+    "LABEL": "Location(s) of alternate placement sites",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

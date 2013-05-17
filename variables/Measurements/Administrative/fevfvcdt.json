@@ -1,0 +1,21 @@
+{
+  "id": "fevfvcdt",
+  "display_name": "Date collected: Lung Function (SHHS1)",
+  "description": "Date Forced Expiratory Volume in One Second (Litres), Forced Vital Capacity (Litres) collected (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "FEVFVCDT"
+  ],
+  "hybrid": {
+    "VARNUM": "39",
+    "TABLE": "SHHS1",
+    "LABEL": "AV FEVolFVCapDT",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

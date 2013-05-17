@@ -1,0 +1,21 @@
+{
+  "id": "sh316",
+  "display_name": "Sleep Habits (SHHS2): Frequency of being household members in or near sleeping area",
+  "description": "16. During the past year, how often have one or more members of your\r\rhousehold been in or near the room where you have slept?",
+  "type": "choices",
+  "domain": "nevrusu3",
+  "labels": [
+    "sh316"
+  ],
+  "hybrid": {
+    "VARNUM": "29",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 16  How often someone in room during sleep",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rdate50",
+  "display_name": "PSG Evaluation (SHHS1): Date Reviewed",
+  "description": "Date Reviewed (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "RDATE50"
+  ],
+  "hybrid": {
+    "VARNUM": "294",
+    "TABLE": "SHHS1",
+    "LABEL": "SR Rview DT 50",
+    "access level": "0",
+    "SOURCE": "PSG Evaluation (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

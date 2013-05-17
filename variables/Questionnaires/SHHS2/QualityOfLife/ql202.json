@@ -1,0 +1,21 @@
+{
+  "id": "ql202",
+  "display_name": "Quality of Life (SHHS2): Health compared to one year ago",
+  "description": "2. Compared to one year ago, how would you rate your health\r\rin general now? (Check one box.)",
+  "type": "choices",
+  "domain": "BETWRS5",
+  "labels": [
+    "ql202"
+  ],
+  "hybrid": {
+    "VARNUM": "190",
+    "TABLE": "SHHS2",
+    "LABEL": "QL 2   Health compared to one year ago",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

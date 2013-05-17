@@ -1,0 +1,21 @@
+{
+  "id": "rdirba4",
+  "display_name": "Hypopnea per hour w/ arousals (REM, Back, 4% desat) (SHHS2)",
+  "description": "Hypopnea per hour w/ arousals (REM, Back, 4% desat)",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "labels": [
+    "rdirba4"
+  ],
+  "hybrid": {
+    "VARNUM": "412",
+    "TABLE": "SHHS2",
+    "LABEL": "Hypopnea per hour w/ arousals (REM, Back, 4% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:hi"
+  }
+}

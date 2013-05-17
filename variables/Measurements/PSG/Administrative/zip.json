@@ -1,0 +1,20 @@
+{
+  "id": "zip",
+  "display_name": "PSG Quality Assessment (SHHS1): Zip Cartridge #",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "Zip"
+  ],
+  "hybrid": {
+    "VARNUM": "587",
+    "TABLE": "SHHS1",
+    "LABEL": "Zip Cartridge #",
+    "access level": "1",
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "PARENT TERM": null
+  }
+}

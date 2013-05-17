@@ -1,0 +1,21 @@
+{
+  "id": "slewake",
+  "display_name": "PSG Quality Assessment (SHHS2): Sleep Wake Scoring",
+  "description": "Study was scored sleep/wake rathen than with full sleep staging.  This assessment is made by the scorer if there is not sufficient quality on EEG leads to do full R&K scoring.  (0=no (full scoring); 1=yes (sleep/wake only))",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "SleWake"
+  ],
+  "hybrid": {
+    "VARNUM": "496",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Study scored sleep wake",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

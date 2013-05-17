@@ -1,0 +1,21 @@
+{
+  "id": "mnstg34p",
+  "display_name": "Time in stage 3-4 sleep (SHHS2)",
+  "description": "Time in stage 3-4 sleep (minutes)",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "mnstg34p"
+  ],
+  "hybrid": {
+    "VARNUM": "307",
+    "TABLE": "SHHS2",
+    "LABEL": "Time in stage 3-4 sleep (minutes)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:sleeptime"
+  }
+}

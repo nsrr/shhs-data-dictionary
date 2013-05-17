@@ -1,0 +1,21 @@
+{
+  "id": "hostbr02",
+  "display_name": "Sleep Habits (SHHS1): Frequency of stopping breathing during sleep",
+  "description": "How often do you have times when you stop breathing during your sleep? 1=Rarely-less than 1night/wk, 2=Sometimes-1 or 2nights/wk, 3=Frequently-3 to 5nights/wk, 4=Always or almost always-6 or 7nights/wk, 8=Don't know",
+  "type": "choices",
+  "domain": "RARALW5",
+  "labels": [
+    "HOStBr02"
+  ],
+  "hybrid": {
+    "VARNUM": "328",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Often Stp Brth 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

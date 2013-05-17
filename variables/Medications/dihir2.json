@@ -1,0 +1,21 @@
+{
+  "id": "dihir2",
+  "display_name": "Immediate-Release Dihyropryidines Other Than Nifedipine (SHHS2)",
+  "description": "Patient taking IMMEDIATE-RELEASE DIHYROPRYIDINES OTHER THAN NIFEDIPINE within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "DIHIR2"
+  ],
+  "hybrid": {
+    "VARNUM": "270",
+    "TABLE": "SHHS2",
+    "LABEL": "IMMEDIATE-RELEASE DIHYROPRYIDINES OTHER THAN NIFEDIPINE",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

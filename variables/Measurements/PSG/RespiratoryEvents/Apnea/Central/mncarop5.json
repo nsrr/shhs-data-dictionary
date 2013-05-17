@@ -1,0 +1,21 @@
+{
+  "id": "mncarop5",
+  "display_name": "Min. Cent. Apnea length (REM, Other, 5% desat) (SHHS2)",
+  "description": "Min. Cent. Apnea length (REM, Other, 5% desat) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "mncarop5"
+  ],
+  "hybrid": {
+    "VARNUM": "144",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. Cent. Apnea length (REM, Other, 5% desat) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

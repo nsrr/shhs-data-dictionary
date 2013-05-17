@@ -1,0 +1,21 @@
+{
+  "id": "remepop",
+  "display_name": "Sleep Time (REM, Other) (SHHS2)",
+  "description": "Sleep Time (REM, Other) (minutes)",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "remepop"
+  ],
+  "hybrid": {
+    "VARNUM": "310",
+    "TABLE": "SHHS2",
+    "LABEL": "Sleep Time (REM, Other) (minutes)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:sleeptime"
+  }
+}

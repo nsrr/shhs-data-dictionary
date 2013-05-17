@@ -1,0 +1,21 @@
+{
+  "id": "airqual",
+  "display_name": "PSG Quality Assessment (SHHS1): Signal Quality (airflow)",
+  "description": "Overall quality of signal from airflow sensor (thermistor) as assessed by scorer.",
+  "type": "choices",
+  "domain": "SIGQUS1",
+  "labels": [
+    "Airqual"
+  ],
+  "hybrid": {
+    "VARNUM": "602",
+    "TABLE": "SHHS1",
+    "LABEL": "Airqual",
+    "access level": "0",
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "PARENT TERM": null
+  }
+}

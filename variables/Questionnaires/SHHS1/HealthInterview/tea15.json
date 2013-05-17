@@ -1,0 +1,21 @@
+{
+  "id": "tea15",
+  "display_name": "Health Interview (SHHS1): cups of tea on a regular day",
+  "description": "How many cups of tea (with caffeine) do you drink on a regular day? (Number of cups of tea, up to 2 digits)",
+  "type": "numeric",
+  "units": "cups",
+  "labels": [
+    "TEA15"
+  ],
+  "hybrid": {
+    "VARNUM": "119",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Tea 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

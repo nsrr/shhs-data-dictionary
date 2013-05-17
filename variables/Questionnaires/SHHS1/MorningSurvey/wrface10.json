@@ -1,0 +1,21 @@
+{
+  "id": "wrface10",
+  "display_name": "Morning Survey (SHHS1): discomfort from wires on face",
+  "description": "How much discomfort caused by these parts of the monitor: wires on face?",
+  "type": "choices",
+  "domain": "NONE4",
+  "labels": [
+    "WRFACE10"
+  ],
+  "hybrid": {
+    "VARNUM": "231",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Face Wires 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

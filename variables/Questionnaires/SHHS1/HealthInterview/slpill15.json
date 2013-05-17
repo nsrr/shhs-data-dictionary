@@ -1,0 +1,21 @@
+{
+  "id": "slpill15",
+  "display_name": "Health Interview (SHHS1): Sleeping pills at least 1 day per week",
+  "description": "Do you take sleeping pills at least 1 day per week? 1=Yes; 0=No; 8=Unsure",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "SLPILL15"
+  ],
+  "hybrid": {
+    "VARNUM": "141",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Slp Pill 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

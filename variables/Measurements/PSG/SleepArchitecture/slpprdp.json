@@ -1,0 +1,21 @@
+{
+  "id": "slpprdp",
+  "display_name": "Sleep Time (SHHS2)",
+  "description": "Sleep Time (minutes)",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "slpprdp"
+  ],
+  "hybrid": {
+    "VARNUM": "304",
+    "TABLE": "SHHS2",
+    "LABEL": "Sleep Time (minutes)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:sleeptime"
+  }
+}

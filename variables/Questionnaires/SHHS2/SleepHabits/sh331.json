@@ -1,0 +1,21 @@
+{
+  "id": "sh331",
+  "display_name": "Sleep Habits (SHHS2): Date interview completed",
+  "description": "",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "sh331"
+  ],
+  "hybrid": {
+    "VARNUM": "15",
+    "TABLE": "SHHS2",
+    "LABEL": "31  Date interview completed",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

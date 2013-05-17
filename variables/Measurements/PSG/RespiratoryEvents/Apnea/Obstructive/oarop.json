@@ -1,0 +1,21 @@
+{
+  "id": "oarop",
+  "display_name": "# of Obs. Apnea (REM, Other, all desats) (SHHS2)",
+  "description": "# of Obs. Apnea (REM, Other, all desats)",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "oarop"
+  ],
+  "hybrid": {
+    "VARNUM": "386",
+    "TABLE": "SHHS2",
+    "LABEL": "# of Obs. Apnea (REM, Other, all desats)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:oa"
+  }
+}

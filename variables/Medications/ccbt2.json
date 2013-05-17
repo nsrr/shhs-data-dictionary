@@ -1,0 +1,21 @@
+{
+  "id": "ccbt2",
+  "display_name": "T-Type Calcium-Channel Blocker (SHHS2)",
+  "description": "Patient taking T-TYPE CALCIUM-CHANNEL BLOCKER within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "CCBT2"
+  ],
+  "hybrid": {
+    "VARNUM": "267",
+    "TABLE": "SHHS2",
+    "LABEL": "T-TYPE CALCIUM-CHANNEL BLOCKER",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

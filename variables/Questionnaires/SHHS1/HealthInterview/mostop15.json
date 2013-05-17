@@ -1,0 +1,21 @@
+{
+  "id": "mostop15",
+  "display_name": "Health Interview (SHHS1): month stopped smoking",
+  "description": "If no to [SMKNOW15]: month stopped smoking? (month, 1 to 12)",
+  "type": "choices",
+  "domain": "MONTHF",
+  "labels": [
+    "MOSTOP15"
+  ],
+  "hybrid": {
+    "VARNUM": "128",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Month Stop Smk 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

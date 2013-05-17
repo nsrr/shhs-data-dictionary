@@ -1,0 +1,21 @@
+{
+  "id": "formseq_ms",
+  "display_name": "Morning Survey (SHHS2): Form sequence number",
+  "description": "Form sequence number",
+  "type": "choices",
+  "domain": "FRMSEQ",
+  "labels": [
+    "formseq_ms"
+  ],
+  "hybrid": {
+    "VARNUM": "106",
+    "TABLE": "SHHS2",
+    "LABEL": "Form sequence number",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "stress15",
+  "display_name": "Health Interview (SHHS1): How stressful was day today",
+  "description": "How stressful was your day today?",
+  "type": "choices",
+  "domain": "STRESS3",
+  "labels": [
+    "STRESS15"
+  ],
+  "hybrid": {
+    "VARNUM": "154",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Stress 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

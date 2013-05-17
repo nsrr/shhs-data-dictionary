@@ -1,0 +1,21 @@
+{
+  "id": "cdlabel",
+  "display_name": "PSG Quality Assessment (SHHS2): CD Label",
+  "description": "Number of CD on which PSG with scored data was archived.  For SHHS2 all completed sleep studies were archived in batches to CD.",
+  "type": "text",
+  "labels": [
+    "CDLabel",
+    " CD_Label"
+  ],
+  "hybrid": {
+    "VARNUM": "460",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - CD Label",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

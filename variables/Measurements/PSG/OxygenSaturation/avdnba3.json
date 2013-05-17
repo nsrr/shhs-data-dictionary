@@ -1,0 +1,21 @@
+{
+  "id": "avdnba3",
+  "display_name": "Avg. Desat w/ arousals (NREM, Back, 3% desat) (SHHS2)",
+  "description": "Avg. Desat w/ arousals (NREM, Back, 3% desat)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avdnba3"
+  ],
+  "hybrid": {
+    "VARNUM": "704",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. Desat w/ arousals (NREM, Back, 3% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

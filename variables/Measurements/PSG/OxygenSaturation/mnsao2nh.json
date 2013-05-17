@@ -1,0 +1,21 @@
+{
+  "id": "mnsao2nh",
+  "display_name": "Min. SaO2 % during NREM sleep (SHHS2)",
+  "description": "Min. SaO2 % during NREM sleep",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mnsao2nh"
+  ],
+  "hybrid": {
+    "VARNUM": "297",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. SaO2 % during NREM sleep",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:minsat"
+  }
+}

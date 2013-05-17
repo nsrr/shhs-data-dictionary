@@ -1,0 +1,21 @@
+{
+  "id": "carba5",
+  "display_name": "# of Cent. Apnea w/ arousals (REM, Back, 5% desat) (SHHS2)",
+  "description": "# of Cent. Apnea w/ arousals (REM, Back, 5% desat)",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "carba5"
+  ],
+  "hybrid": {
+    "VARNUM": "198",
+    "TABLE": "SHHS2",
+    "LABEL": "# of Cent. Apnea w/ arousals (REM, Back, 5% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:ca"
+  }
+}

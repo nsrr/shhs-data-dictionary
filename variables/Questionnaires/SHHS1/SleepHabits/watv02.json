@@ -1,0 +1,21 @@
+{
+  "id": "watv02",
+  "display_name": "Sleep Habits (SHHS1): Fall asleep while watching TV",
+  "description": "What is chance that you would doze off or fall asleep while watching TV?",
+  "type": "choices",
+  "domain": "NHCHAN4",
+  "labels": [
+    "WaTV02"
+  ],
+  "hybrid": {
+    "VARNUM": "343",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Watching TV",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

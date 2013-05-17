@@ -1,0 +1,21 @@
+{
+  "id": "energ25",
+  "display_name": "Quality of Life (SHHS1): Have a lot of energy",
+  "description": "During the past 4 weeks, how much of the time: Did you have a lot of energy?",
+  "type": "choices",
+  "domain": "ALLNONE6",
+  "labels": [
+    "ENERG25"
+  ],
+  "hybrid": {
+    "VARNUM": "270",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Energy 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nges02",
+  "display_name": "Sleep Habits (SHHS1): Frequency of not getting enough sleep",
+  "description": "How often do you not get enough sleep?",
+  "type": "choices",
+  "domain": "NEVRALW5",
+  "labels": [
+    "NGES02"
+  ],
+  "hybrid": {
+    "VARNUM": "319",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Not Enough Slp 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

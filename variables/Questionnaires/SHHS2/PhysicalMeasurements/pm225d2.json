@@ -1,0 +1,21 @@
+{
+  "id": "pm225d2",
+  "display_name": "Physical Measurements (SHHS2): Left -  Amputation",
+  "description": "25. Reason AAI not done, or not done using both legs (Check all that apply.) d. Amputation Left",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "pm225d2"
+  ],
+  "hybrid": {
+    "VARNUM": "171",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 25d Left -  Amputation",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

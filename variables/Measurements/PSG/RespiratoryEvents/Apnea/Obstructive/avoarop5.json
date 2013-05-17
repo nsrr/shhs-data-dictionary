@@ -1,0 +1,21 @@
+{
+  "id": "avoarop5",
+  "display_name": "Avg. Obs. Apnea length (REM, Other, 5% desat) (SHHS2)",
+  "description": "Avg. Obs. Apnea length (REM, Other, 5% desat) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "avoarop5"
+  ],
+  "hybrid": {
+    "VARNUM": "159",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. Obs. Apnea length (REM, Other, 5% desat) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rdi4pns",
+  "display_name": "Overall RDI (non-Supine) at 4% desat (SHHS2)",
+  "description": "Non-Supine RDI at 4% desat  [(Total number of apneas and hypopneas in non-supine body position associated with >= 4% desat) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "calculation": "rdi4pns = 60*(hrop4 +   hnrop4 + carop4 + canop4 + oarop4 + oanop4)/(remepop+nremepop)",
+  "labels": [
+    "rdi4pns",
+    "rdi",
+    "ahi"
+  ],
+  "hybrid": {
+    "VARNUM": "556",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - Overall Non-Supine RDI at 4% desat",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:ahi_nonsupine"
+  }
+}

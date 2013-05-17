@@ -1,0 +1,21 @@
+{
+  "id": "ccbsr1",
+  "display_name": "Slow-release CCBS = NIFSR or DIHSR or VERSR or DLTSR or AMLOD (SHHS1)",
+  "description": "Patient taking SLOW-RELEASE CCBS = NIFSR OR DIHSR OR VERSR OR DLTSR OR AMLOD within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "CCBSR1"
+  ],
+  "hybrid": {
+    "VARNUM": "182",
+    "TABLE": "SHHS1",
+    "LABEL": "MU Slow-release CCBS = NIFSR or DIHSR or VERSR or DLTSR or AMLOD",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Medications.pdf",
+    "PARENT TERM": null
+  }
+}

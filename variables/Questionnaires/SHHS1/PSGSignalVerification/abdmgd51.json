@@ -1,0 +1,21 @@
+{
+  "id": "abdmgd51",
+  "display_name": "PSG Signal Verification (SHHS1): Good deflection on Abdomen",
+  "description": "Good deflection observed on Abdomen signal",
+  "type": "choices",
+  "domain": "YESNOF",
+  "labels": [
+    "ABDMGD51"
+  ],
+  "hybrid": {
+    "VARNUM": "661",
+    "TABLE": "SHHS1",
+    "LABEL": "Good deflection on Abdomen",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

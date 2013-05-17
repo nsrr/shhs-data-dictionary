@@ -1,0 +1,21 @@
+{
+  "id": "mxdroa3",
+  "display_name": "Max. Desat w/ arousals (REM, Other, 3% desat) (SHHS2)",
+  "description": "Max. Desat w/ arousals (REM, Other, 3% desat)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mxdroa3"
+  ],
+  "hybrid": {
+    "VARNUM": "699",
+    "TABLE": "SHHS2",
+    "LABEL": "Max. Desat w/ arousals (REM, Other, 3% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

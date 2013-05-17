@@ -1,0 +1,20 @@
+{
+  "id": "ssrcmt50",
+  "display_name": "PSG Evaluation (SHHS1): Comments by Sleep Study Resource",
+  "description": "Comments by Sleep Study Resource",
+  "type": "text",
+  "labels": [
+    "SSRCMT50"
+  ],
+  "hybrid": {
+    "VARNUM": "290",
+    "TABLE": "SHHS1",
+    "LABEL": "SR Cmmnts SSR 50",
+    "access level": "0",
+    "SOURCE": "PSG Evaluation (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

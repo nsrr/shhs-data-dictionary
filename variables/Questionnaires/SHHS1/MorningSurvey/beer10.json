@@ -1,0 +1,21 @@
+{
+  "id": "beer10",
+  "display_name": "Morning Survey (SHHS1): bottles or cans of beer before bed",
+  "description": "How many bottles or cans of beer 4 hours before going to sleep last night? (number, up to 2 digits)",
+  "type": "numeric",
+  "units": "bottles",
+  "labels": [
+    "BEER10"
+  ],
+  "hybrid": {
+    "VARNUM": "223",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Beer 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

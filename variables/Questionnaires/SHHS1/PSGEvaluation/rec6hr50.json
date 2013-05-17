@@ -1,0 +1,21 @@
+{
+  "id": "rec6hr50",
+  "display_name": "PSG Evaluation (SHHS1): at least 6 hours of recorded data",
+  "description": "Is there at least 6 hours of recorded data?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "REC6HR50"
+  ],
+  "hybrid": {
+    "VARNUM": "288",
+    "TABLE": "SHHS1",
+    "LABEL": "SR Rec 6 Hrs 50",
+    "access level": "0",
+    "SOURCE": "PSG Evaluation (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

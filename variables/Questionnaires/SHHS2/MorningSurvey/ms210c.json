@@ -1,0 +1,21 @@
+{
+  "id": "ms210c",
+  "display_name": "Morning Survey (SHHS2): glasses or cans of soda before bed",
+  "description": "10. How many of the following drinks with caffeine did you have during the 4 hours before you went to sleep last night? (Please write \"0\" if you did not drink any of that beverage.)  c. ____ glasses or cans of cola or other soda (with caffeine)",
+  "type": "numeric",
+  "units": "drinks",
+  "labels": [
+    "ms210c"
+  ],
+  "hybrid": {
+    "VARNUM": "124",
+    "TABLE": "SHHS2",
+    "LABEL": "MS 10c Glasses/cans of caffeinated soda",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

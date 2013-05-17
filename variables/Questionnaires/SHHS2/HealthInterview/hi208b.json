@@ -1,0 +1,21 @@
+{
+  "id": "hi208b",
+  "display_name": "Health Interview (SHHS2): Unpleasant feeling in legs",
+  "description": "C. Restless legs  8. In the past year, while SITTING OR LYING DOWN, have you had any of the following symptoms?  b. Unpleasant or uncomfortable feelings in your legs",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "hi208b"
+  ],
+  "hybrid": {
+    "VARNUM": "101",
+    "TABLE": "SHHS2",
+    "LABEL": "8b  Unpleasant feeling in legs",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

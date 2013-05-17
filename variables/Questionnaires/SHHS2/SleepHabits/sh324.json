@@ -1,0 +1,21 @@
+{
+  "id": "sh324",
+  "display_name": "Sleep Habits (SHHS2): Average number of cigarettes/day",
+  "description": "24. On average, during the entire time you smoked, how many cigarettes did\r\ryou usually smoke per day?",
+  "type": "numeric",
+  "units": "cigarettes",
+  "labels": [
+    "sh324"
+  ],
+  "hybrid": {
+    "VARNUM": "35",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 24  Average number of cigarettes/day",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

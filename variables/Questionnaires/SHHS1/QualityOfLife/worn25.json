@@ -1,0 +1,21 @@
+{
+  "id": "worn25",
+  "display_name": "Quality of Life (SHHS1): Felt worn out",
+  "description": "During the past 4 weeks, how much of the time: Did you feel worn out?",
+  "type": "choices",
+  "domain": "ALLNONE6",
+  "labels": [
+    "WORN25"
+  ],
+  "hybrid": {
+    "VARNUM": "272",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Worn Out 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

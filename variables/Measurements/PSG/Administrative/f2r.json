@@ -1,0 +1,20 @@
+{
+  "id": "f2r",
+  "display_name": "Raw data txt file name (SHHS2)",
+  "description": "Raw data txt file name",
+  "type": "text",
+  "labels": [
+    "f2r"
+  ],
+  "hybrid": {
+    "VARNUM": "334",
+    "TABLE": "SHHS2",
+    "LABEL": "Raw data txt file name",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

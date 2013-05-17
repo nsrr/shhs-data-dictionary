@@ -1,0 +1,21 @@
+{
+  "id": "hmxbroh",
+  "display_name": "Max. Heart Rate (REM, Other, 3% desat) (SHHS2)",
+  "description": "Max. Heart Rate (REM, Other, 3% desat) (bpm)",
+  "type": "numeric",
+  "units": "beats_per_minute",
+  "labels": [
+    "hmxbroh"
+  ],
+  "hybrid": {
+    "VARNUM": "271",
+    "TABLE": "SHHS2",
+    "LABEL": "Max. Heart Rate (REM, Other, 3% desat) (bpm)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:maxheartrate"
+  }
+}

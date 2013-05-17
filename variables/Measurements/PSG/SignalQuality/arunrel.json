@@ -1,0 +1,21 @@
+{
+  "id": "arunrel",
+  "display_name": "PSG Quality Assessment (SHHS2): Arousals unreliable",
+  "description": "Due to signal problems, scorer was unable to reliably assess arousals.  The scoring of arousals was determined to be unreliable.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "ArUnrel"
+  ],
+  "hybrid": {
+    "VARNUM": "503",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Arousals unreliable",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

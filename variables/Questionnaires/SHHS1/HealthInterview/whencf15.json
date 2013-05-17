@@ -1,0 +1,21 @@
+{
+  "id": "whencf15",
+  "display_name": "Health Interview (SHHS1): when Caffeine data collected",
+  "description": "Caffeine data collected (when) 1=today at home visit, 2=data collected in clinic (date= [CFCLDT15])",
+  "type": "choices",
+  "domain": "HOMCLIN",
+  "labels": [
+    "WHENCF15"
+  ],
+  "hybrid": {
+    "VARNUM": "116",
+    "TABLE": "SHHS1",
+    "LABEL": "HI WhenCaffiene 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

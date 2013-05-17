@@ -1,0 +1,22 @@
+{
+  "id": "any_chd",
+  "display_name": "Any CHD Since Baseline? (SHHSCVD)",
+  "description": "Any Coronary Heart Disease (CHD) since baseline PSG (as recorded in parent studies datasets)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "any_chd",
+    "coronary heart disease"
+  ],
+  "hybrid": {
+    "VARNUM": "22",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Any CHD Since Baseline?",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

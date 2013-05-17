@@ -1,0 +1,21 @@
+{
+  "id": "beard51",
+  "display_name": "PSG Signal Verification (SHHS1): Participant had beard",
+  "description": "3. Does participant have a beard?",
+  "type": "choices",
+  "domain": "YESNOF",
+  "labels": [
+    "BEARD51"
+  ],
+  "hybrid": {
+    "VARNUM": "678",
+    "TABLE": "SHHS1",
+    "LABEL": "Participant had beard",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

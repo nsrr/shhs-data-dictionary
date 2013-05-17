@@ -1,0 +1,21 @@
+{
+  "id": "ql203d",
+  "display_name": "Quality of Life (SHHS2): Health limits climbing several flights of stairs",
+  "description": "3. The following questions are about activities you might do during a typical day. Does your health now limit you in these activities? If so, how much? (Check one box for each question.) d. Climbing several flights of stairs.",
+  "type": "choices",
+  "domain": "LOTLITN",
+  "labels": [
+    "ql203d"
+  ],
+  "hybrid": {
+    "VARNUM": "198",
+    "TABLE": "SHHS2",
+    "LABEL": "QL 3d  Climbing several flights of stairs",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

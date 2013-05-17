@@ -1,0 +1,21 @@
+{
+  "id": "mi15",
+  "display_name": "MD Reported MI (SHHS1)",
+  "description": "MD said pt had heart attack?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "MI15"
+  ],
+  "hybrid": {
+    "VARNUM": "98",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Heart Attack 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

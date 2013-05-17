@@ -1,0 +1,21 @@
+{
+  "id": "bathe25",
+  "display_name": "Quality of Life (SHHS1): Health limits bathing and dressing",
+  "description": "Does your health now limit you in this activity, and if so, how much: Bathing and dressing yourself",
+  "type": "choices",
+  "domain": "LOTLIT3",
+  "labels": [
+    "BATHE25"
+  ],
+  "hybrid": {
+    "VARNUM": "255",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Bath Lmt 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

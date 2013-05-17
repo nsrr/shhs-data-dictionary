@@ -1,0 +1,21 @@
+{
+  "id": "rptelaptimslpwak",
+  "display_name": "Morning Survey (SHHS2): Reported elapsed time between sleep and wakening",
+  "description": "",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "RptElapTimSlpWak"
+  ],
+  "hybrid": {
+    "VARNUM": "109",
+    "TABLE": "SHHS2",
+    "LABEL": "Reported elapsed time between sleep and wakening",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

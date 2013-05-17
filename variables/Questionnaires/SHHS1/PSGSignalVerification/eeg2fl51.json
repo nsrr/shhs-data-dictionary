@@ -1,0 +1,21 @@
+{
+  "id": "eeg2fl51",
+  "display_name": "PSG Signal Verification (SHHS1): Fuzzy line on EEG2 (C3/A2)",
+  "description": "Fuzzy line observed on EEG2 (C3/A2) signal",
+  "type": "choices",
+  "domain": "YESNOF",
+  "labels": [
+    "EEG2FL51"
+  ],
+  "hybrid": {
+    "VARNUM": "649",
+    "TABLE": "SHHS1",
+    "LABEL": "Fuzzy line on EEG2 (C3/A2)",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

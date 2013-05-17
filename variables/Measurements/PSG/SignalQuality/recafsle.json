@@ -1,0 +1,21 @@
+{
+  "id": "recafsle",
+  "display_name": "PSG Quality Assessment (SHHS2): Data Lost - Recording began after sleep",
+  "description": "Data was lost at the beginning of sleep period because recording began after sleep onset.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "RecAfSle"
+  ],
+  "hybrid": {
+    "VARNUM": "491",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Data Lost - Recording began after sleep",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

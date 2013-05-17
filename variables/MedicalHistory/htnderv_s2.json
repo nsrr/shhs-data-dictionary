@@ -1,0 +1,21 @@
+{
+  "id": "htnderv_s2",
+  "display_name": "Hypertension (SHHS2)",
+  "description": "Derived Hypertension classification (based on blood pressure measurements, history of HTN dx, and medication use)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "HTNDerv_s2"
+  ],
+  "hybrid": {
+    "VARNUM": "134",
+    "TABLE": "SHHS2",
+    "LABEL": "Classified as having Hypertension SHHS2",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": "comorb:htn"
+  }
+}

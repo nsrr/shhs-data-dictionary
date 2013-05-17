@@ -1,0 +1,22 @@
+{
+  "id": "supinep",
+  "display_name": "Percent Time supine (SHHS2)",
+  "description": "Percent of sleep time in supine body position  [100*(Number of minutes of sleep in supine body position) / (total sleep time)] ",
+  "type": "numeric",
+  "units": "percent",
+  "calculation": "supinep = 100*(remepbp+nremepbp)/slpprdp",
+  "labels": [
+    "supinep"
+  ],
+  "hybrid": {
+    "VARNUM": "533",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - pct time supine",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "psg:pctsleeptime"
+  }
+}

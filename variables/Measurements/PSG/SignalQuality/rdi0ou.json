@@ -1,0 +1,21 @@
+{
+  "id": "rdi0ou",
+  "display_name": "PSG Quality Assessment (SHHS2): RDI=0 real",
+  "description": "If RDI = 0, scorer has verified that this value is real.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "RDI0Ou"
+  ],
+  "hybrid": {
+    "VARNUM": "514",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Outlier - RDI=0 real",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

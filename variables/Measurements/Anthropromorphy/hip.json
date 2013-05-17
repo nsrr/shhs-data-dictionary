@@ -1,0 +1,21 @@
+{
+  "id": "hip",
+  "display_name": "Hip Circumference (SHHS1)",
+  "description": "Hip measurement in centimeters",
+  "type": "numeric",
+  "units": "centimeter",
+  "labels": [
+    "Hip"
+  ],
+  "hybrid": {
+    "VARNUM": "31",
+    "TABLE": "SHHS1",
+    "LABEL": "AV Hip",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "anthropromorphy:hipcf"
+  }
+}

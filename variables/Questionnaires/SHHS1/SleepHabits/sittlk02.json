@@ -1,0 +1,21 @@
+{
+  "id": "sittlk02",
+  "display_name": "Sleep Habits (SHHS1): Fall asleep while sitting and talking",
+  "description": "What is the chance that you would doze off or fall asleep while sitting and talking to someone?",
+  "type": "choices",
+  "domain": "NHCHAN4",
+  "labels": [
+    "SitTlk02"
+  ],
+  "hybrid": {
+    "VARNUM": "347",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Sitting and talking with someone",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

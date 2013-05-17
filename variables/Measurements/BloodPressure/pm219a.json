@@ -1,0 +1,21 @@
+{
+  "id": "pm219a",
+  "display_name": "Palpated Systolic pulse pressure (SHHS2)",
+  "description": "D. Seated Blood Pressure 19. Pulse Obliteration Pressure  a. Palpated Systolic:",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "pm219a"
+  ],
+  "hybrid": {
+    "VARNUM": "157",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 19a Palpated Systolic pulse pressure",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

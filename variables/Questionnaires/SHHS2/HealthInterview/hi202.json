@@ -1,0 +1,21 @@
+{
+  "id": "hi202",
+  "display_name": "Health Interview (SHHS2): Aspirin in last 2 weeks",
+  "description": "2. During the last two weeks, did you take any aspirin or aspirin-containing medicines such as Bufferin, Anacin, or Ascriptin?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "hi202"
+  ],
+  "hybrid": {
+    "VARNUM": "82",
+    "TABLE": "SHHS2",
+    "LABEL": "2   Aspirin in last 2 weeks",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

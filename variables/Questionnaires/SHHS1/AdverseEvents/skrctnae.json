@@ -1,0 +1,21 @@
+{
+  "id": "skrctnae",
+  "display_name": "Adverse Events (SHHS1): Skin reaction?",
+  "description": "Skin reaction?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "SKRCTNAE"
+  ],
+  "hybrid": {
+    "VARNUM": "60",
+    "TABLE": "SHHS1",
+    "LABEL": "AE Skin Rctn",
+    "access level": "1",
+    "SOURCE": "Adverse Events Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Adverse Events (AE).pdf",
+    "PARENT TERM": null
+  }
+}

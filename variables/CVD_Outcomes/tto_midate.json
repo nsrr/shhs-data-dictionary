@@ -1,0 +1,22 @@
+{
+  "id": "tto_midate",
+  "display_name": "Days to First MI Since Baseline (SHHSCVD)",
+  "description": "Time since SHHS 1 Sleep Study to date of first mi (days) since bl psg",
+  "type": "numeric",
+  "units": "days_from_index_date",
+  "labels": [
+    "tto_midate",
+    "myocardial infarction"
+  ],
+  "hybrid": {
+    "VARNUM": "34",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Days to First MI Since Baseline",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

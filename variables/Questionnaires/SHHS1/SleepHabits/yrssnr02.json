@@ -1,0 +1,21 @@
+{
+  "id": "yrssnr02",
+  "display_name": "Sleep Habits (SHHS1): Years of snoring",
+  "description": "For how many years have you been snoring? (number of years, up to 2 digits) Don't know=88",
+  "type": "numeric",
+  "units": "year",
+  "labels": [
+    "YrsSnr02"
+  ],
+  "hybrid": {
+    "VARNUM": "323",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Yrs Snore 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

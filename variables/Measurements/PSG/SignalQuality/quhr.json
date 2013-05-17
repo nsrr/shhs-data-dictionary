@@ -1,0 +1,21 @@
+{
+  "id": "quhr",
+  "display_name": "PSG Quality Assessment (SHHS2): Signal Quality (hr)",
+  "description": "Overall quality of signal from heart rate (ECG) leads during sleep as assessed by scorer.",
+  "type": "choices",
+  "domain": "sigqus2",
+  "labels": [
+    "QuHR"
+  ],
+  "hybrid": {
+    "VARNUM": "476",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - quality of hr",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

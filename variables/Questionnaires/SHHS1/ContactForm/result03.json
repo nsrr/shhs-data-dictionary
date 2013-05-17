@@ -1,0 +1,21 @@
+{
+  "id": "result03",
+  "display_name": "Contact Form (SHHS1): Result of final recruitment contact",
+  "description": "Result of final recruitment contact",
+  "type": "choices",
+  "domain": "RESULT",
+  "labels": [
+    "Result03"
+  ],
+  "hybrid": {
+    "VARNUM": "88",
+    "TABLE": "SHHS1",
+    "LABEL": "CF Result 03",
+    "access level": "0",
+    "SOURCE": "Contact Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Contact Form (CF).pdf",
+    "PARENT TERM": null
+  }
+}

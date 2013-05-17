@@ -1,0 +1,21 @@
+{
+  "id": "hdl",
+  "display_name": "HDL (SHHS1)",
+  "description": "AV HDL cholesterol (mg/dl)",
+  "type": "numeric",
+  "units": "milligram_per_deciliter",
+  "labels": [
+    "HDL"
+  ],
+  "hybrid": {
+    "VARNUM": "34",
+    "TABLE": "SHHS1",
+    "LABEL": "AV HDL",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

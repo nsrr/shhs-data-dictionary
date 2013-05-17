@@ -1,0 +1,21 @@
+{
+  "id": "pm212b",
+  "display_name": "Neck circumference (measurement 2) (SHHS2)",
+  "description": "12. Neck circumference (Round up to nearest 1/2 cm, i.e, measurement should end with .0 or .5)  b. Second reading:",
+  "type": "numeric",
+  "units": "centimeter",
+  "labels": [
+    "pm212b"
+  ],
+  "hybrid": {
+    "VARNUM": "155",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 12b Neck circumference (cm) - 2nd read",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": "anthropromorphy:neckcf"
+  }
+}

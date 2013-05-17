@@ -1,0 +1,21 @@
+{
+  "id": "drink15",
+  "display_name": "Health Interview (SHHS1): presently drink alcoholic beverages",
+  "description": "***Do you presently drink alcoholic beverages? [var completed for NY sites only; cannot find this variable on NY Health Interview form]",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "DRINK15"
+  ],
+  "hybrid": {
+    "VARNUM": "134",
+    "TABLE": "SHHS1",
+    "LABEL": "HI DrinkAlc 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

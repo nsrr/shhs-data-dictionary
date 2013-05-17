@@ -1,0 +1,21 @@
+{
+  "id": "rdinop3",
+  "display_name": "Hypopnea per hour (NREM, Other, 3% desat) (SHHS2)",
+  "description": "Hypopnea per hour (NREM, Other, 3% desat)",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "labels": [
+    "rdinop3"
+  ],
+  "hybrid": {
+    "VARNUM": "379",
+    "TABLE": "SHHS2",
+    "LABEL": "Hypopnea per hour (NREM, Other, 3% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:hi"
+  }
+}

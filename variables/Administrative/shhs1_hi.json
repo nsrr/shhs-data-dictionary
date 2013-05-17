@@ -1,0 +1,21 @@
+{
+  "id": "shhs1_hi",
+  "display_name": "Has SHHS1 Health Interview form",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs1_hi"
+  ],
+  "hybrid": {
+    "VARNUM": "728",
+    "TABLE": "SHHS1",
+    "LABEL": "Health Interview form present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

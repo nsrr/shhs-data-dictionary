@@ -1,0 +1,21 @@
+{
+  "id": "plpsys20",
+  "display_name": "Blood Pressure (SHHS1): Palpated Systolic BP (number, up to 3 digits)",
+  "description": "Palpated Systolic BP (number, up to 3 digits)",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "PLPSYS20"
+  ],
+  "hybrid": {
+    "VARNUM": "69",
+    "TABLE": "SHHS1",
+    "LABEL": "BP Palp Syst BP20",
+    "access level": "0",
+    "SOURCE": "Blood Pressure Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Blood Pressure Form (BP).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "down25",
+  "display_name": "Quality of Life (SHHS1): Felt down in the dumps",
+  "description": "During the past 4 weeks, how much of the time: Have you felt so down in the dumps that nothing could cheer you up?",
+  "type": "choices",
+  "domain": "ALLNONE6",
+  "labels": [
+    "DOWN25"
+  ],
+  "hybrid": {
+    "VARNUM": "268",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Feel Down 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

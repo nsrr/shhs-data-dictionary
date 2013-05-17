@@ -1,0 +1,21 @@
+{
+  "id": "oanop5",
+  "display_name": "# of Obs. Apnea (NREM, Other, 5% desat) (SHHS2)",
+  "description": "# of Obs. Apnea (NREM, Other, 5% desat)",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "oanop5"
+  ],
+  "hybrid": {
+    "VARNUM": "166",
+    "TABLE": "SHHS2",
+    "LABEL": "# of Obs. Apnea (NREM, Other, 5% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:oa"
+  }
+}

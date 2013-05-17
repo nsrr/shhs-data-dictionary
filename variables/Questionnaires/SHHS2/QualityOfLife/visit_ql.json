@@ -1,0 +1,21 @@
+{
+  "id": "visit_ql",
+  "display_name": "Quality of Life (SHHS2): Visit ID code",
+  "description": "",
+  "type": "choices",
+  "domain": "VISITCD",
+  "labels": [
+    "visit_ql"
+  ],
+  "hybrid": {
+    "VARNUM": "187",
+    "TABLE": "SHHS2",
+    "LABEL": "Visit ID code",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

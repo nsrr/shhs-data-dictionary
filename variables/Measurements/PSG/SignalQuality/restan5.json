@@ -1,0 +1,18 @@
+{
+  "id": "restan5",
+  "display_name": "PSG Scoring Notes (SHHS1): Intervening period bad Resp./Oximetry",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "hybrid": {
+    "VARNUM": "707",
+    "TABLE": "SHHS1",
+    "LABEL": "Intervening period bad Resp./Oximetry",
+    "access level": "0",
+    "SOURCE": "PSG Scoring Notes (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Scoring Notes (SN).pdf",
+    "PARENT TERM": null
+  }
+}

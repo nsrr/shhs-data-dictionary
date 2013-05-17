@@ -1,0 +1,21 @@
+{
+  "id": "age_s1",
+  "display_name": "Age at SHHS1",
+  "description": "Age at time of study in years, based on start date of SHHS1 PSG recording.  [((PSG start date) - (date of birth)) / 365.25]",
+  "type": "numeric",
+  "units": "year",
+  "labels": [
+    "age_s1"
+  ],
+  "hybrid": {
+    "VARNUM": "720",
+    "TABLE": "SHHS1",
+    "LABEL": "Derived age for SHHS 1",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "demo:age"
+  }
+}

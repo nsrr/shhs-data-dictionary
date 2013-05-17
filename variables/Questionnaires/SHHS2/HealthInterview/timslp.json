@@ -1,0 +1,20 @@
+{
+  "id": "timslp",
+  "display_name": "Health Interview (SHHS2): Time went to sleep last night",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "TimSlp"
+  ],
+  "hybrid": {
+    "VARNUM": "79",
+    "TABLE": "SHHS2",
+    "LABEL": "3 Time went to sleep last night",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

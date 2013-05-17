@@ -1,0 +1,21 @@
+{
+  "id": "wrhead10",
+  "display_name": "Morning Survey (SHHS1): discomfort from wires on head",
+  "description": "How much discomfort caused by these parts of the monitor: wires on your head?",
+  "type": "choices",
+  "domain": "NONE4",
+  "labels": [
+    "WRHEAD10"
+  ],
+  "hybrid": {
+    "VARNUM": "230",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Head Wires 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

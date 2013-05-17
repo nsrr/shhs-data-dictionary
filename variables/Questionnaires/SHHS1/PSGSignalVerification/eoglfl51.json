@@ -1,0 +1,21 @@
+{
+  "id": "eoglfl51",
+  "display_name": "PSG Signal Verification (SHHS1): Fuzzy line on EOG (L)",
+  "description": "Fuzzy line observed on EOG (L) signal",
+  "type": "choices",
+  "domain": "YESNOF",
+  "labels": [
+    "EOGLFL51"
+  ],
+  "hybrid": {
+    "VARNUM": "657",
+    "TABLE": "SHHS1",
+    "LABEL": "Fuzzy line on EOG (L)",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

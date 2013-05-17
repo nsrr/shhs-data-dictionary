@@ -1,0 +1,21 @@
+{
+  "id": "parentstudy",
+  "display_name": "Parent Cohort (SHHS2)",
+  "description": "Assigned Parent Cohort ID",
+  "type": "choices",
+  "domain": "PRNTSTDY",
+  "labels": [
+    "parentstudy"
+  ],
+  "hybrid": {
+    "VARNUM": "2",
+    "TABLE": "SHHS2",
+    "LABEL": "Assigned Parent Cohort ID",
+    "access level": "1",
+    "SOURCE": null,
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

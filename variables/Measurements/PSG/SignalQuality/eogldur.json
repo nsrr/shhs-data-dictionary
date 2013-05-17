@@ -1,0 +1,21 @@
+{
+  "id": "eogldur",
+  "display_name": "PSG Quality Assessment (SHHS2): hours of usable EOG L",
+  "description": "Number of hours of usable signal from left eye (EOG) lead as assessed by scorer.",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "EOGLdur"
+  ],
+  "hybrid": {
+    "VARNUM": "463",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Hours of usable EOG L",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

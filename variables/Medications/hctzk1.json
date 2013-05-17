@@ -1,0 +1,21 @@
+{
+  "id": "hctzk1",
+  "display_name": "Thiazide diuretics with k-sparing agents (SHHS1)",
+  "description": "Patient taking THIAZIDE DIURETICS WITH K-SPARING AGENTS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "HCTZK1"
+  ],
+  "hybrid": {
+    "VARNUM": "180",
+    "TABLE": "SHHS1",
+    "LABEL": "MU Thiazide diuretics with k-sparing agents",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Medications.pdf",
+    "PARENT TERM": null
+  }
+}

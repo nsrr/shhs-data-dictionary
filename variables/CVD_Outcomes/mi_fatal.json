@@ -1,0 +1,23 @@
+{
+  "id": "mi_fatal",
+  "display_name": "Fatal Heart Attack Since Baseline? (SHHS CVD)",
+  "description": "Fatal MI since baseline PSG  (as recorded in parent studies datasets)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "mi_fatal",
+    "heart attack",
+    "myocardial infarction"
+  ],
+  "hybrid": {
+    "VARNUM": "9",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Fatal MI since Baseline?",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tmarrh51",
+  "display_name": "PSG Signal Verification (SHHS1): Time of Arrival (hours)",
+  "description": "",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "TMARRH51"
+  ],
+  "hybrid": {
+    "VARNUM": "625",
+    "TABLE": "SHHS1",
+    "LABEL": "Time of Arrival (hours)",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

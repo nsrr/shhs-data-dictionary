@@ -1,0 +1,21 @@
+{
+  "id": "ms207",
+  "display_name": "Morning Survey (SHHS2): Sleeping arrangement last night",
+  "description": "7. What was your sleeping arrangement last night? (check one)",
+  "type": "choices",
+  "domain": "perbed3",
+  "labels": [
+    "ms207"
+  ],
+  "hybrid": {
+    "VARNUM": "113",
+    "TABLE": "SHHS2",
+    "LABEL": "MS 7   Sleeping arrangement last night",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

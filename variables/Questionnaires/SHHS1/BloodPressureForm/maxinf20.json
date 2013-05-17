@@ -1,0 +1,21 @@
+{
+  "id": "maxinf20",
+  "display_name": "Blood Pressure (SHHS1): Max Inflation Level (PLPSYS20/Palpated Systolic BP + 30)",
+  "description": "Max Inflation Level (PLPSYS20/Palpated Systolic BP + 30)",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "MAXINF20"
+  ],
+  "hybrid": {
+    "VARNUM": "70",
+    "TABLE": "SHHS1",
+    "LABEL": "BP Max Infl Lev20",
+    "access level": "0",
+    "SOURCE": "Blood Pressure Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Blood Pressure Form (BP).pdf",
+    "PARENT TERM": null
+  }
+}

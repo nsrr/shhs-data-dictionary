@@ -1,0 +1,21 @@
+{
+  "id": "othrcs15",
+  "display_name": "MD Reported Other Heart Surgery (SHHS1)",
+  "description": "MD said pt had other heart/cardiac surgery?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "OTHRCS15"
+  ],
+  "hybrid": {
+    "VARNUM": "103",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Othr Heart Surg 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pctstapn",
+  "display_name": "% Sleep time in Apnea (SHHS2)",
+  "description": "% Sleep time in Apnea",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctstapn"
+  ],
+  "hybrid": {
+    "VARNUM": "448",
+    "TABLE": "SHHS2",
+    "LABEL": "% Sleep time in Apnea",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:pctsleeptime"
+  }
+}

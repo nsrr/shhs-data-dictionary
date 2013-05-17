@@ -1,0 +1,21 @@
+{
+  "id": "membhh02",
+  "display_name": "Sleep Habits (SHHS1): Frequency of being household members in or near sleeping area",
+  "description": "During the past year, how often have one or more members of your household been in or near the room where you slept?",
+  "type": "choices",
+  "domain": "NEVRUSU3",
+  "labels": [
+    "MembHH02"
+  ],
+  "hybrid": {
+    "VARNUM": "341",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Member in Rm HH02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ntg1",
+  "display_name": "Nitrates (SHHS1)",
+  "description": "Patient taking NITRATES within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "NTG1"
+  ],
+  "hybrid": {
+    "VARNUM": "203",
+    "TABLE": "SHHS1",
+    "LABEL": "MU Nitrates",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": "SHHS1 Medications.pdf",
+    "PARENT TERM": null
+  }
+}

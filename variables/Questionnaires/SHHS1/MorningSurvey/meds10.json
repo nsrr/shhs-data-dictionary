@@ -1,0 +1,21 @@
+{
+  "id": "meds10",
+  "display_name": "Morning Survey (SHHS1): medications before bed",
+  "description": "Did you take any meds that you didn't tell us about yesterday? 0=No, 1=Yes, 2=Unsure (enter med names, digitized using meds software)",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "MEDS10"
+  ],
+  "hybrid": {
+    "VARNUM": "220",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Meds 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

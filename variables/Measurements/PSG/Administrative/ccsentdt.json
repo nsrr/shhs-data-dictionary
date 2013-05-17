@@ -1,0 +1,18 @@
+{
+  "id": "ccsentdt",
+  "display_name": "PSG Scoring Notes (SHHS1): CCsentDt",
+  "description": "",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "hybrid": {
+    "VARNUM": "686",
+    "TABLE": "SHHS1",
+    "LABEL": "CCsentDt",
+    "access level": "1",
+    "SOURCE": "PSG Scoring Notes (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Scoring Notes (SN).pdf",
+    "PARENT TERM": null
+  }
+}

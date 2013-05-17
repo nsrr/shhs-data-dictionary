@@ -1,0 +1,21 @@
+{
+  "id": "losdur",
+  "display_name": "PSG Quality Assessment (SHHS2): Data Lost during study",
+  "description": "Data was lost during the study.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "LosDur"
+  ],
+  "hybrid": {
+    "VARNUM": "495",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Data Lost - loss during study",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

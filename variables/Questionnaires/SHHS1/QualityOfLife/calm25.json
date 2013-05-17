@@ -1,0 +1,21 @@
+{
+  "id": "calm25",
+  "display_name": "Quality of Life (SHHS1): Felt calm and peaceful",
+  "description": "During the past 4 weeks, how much of the time: Have you felt calm and peaceful?",
+  "type": "choices",
+  "domain": "ALLNONE6",
+  "labels": [
+    "CALM25"
+  ],
+  "hybrid": {
+    "VARNUM": "269",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Feel Calm 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

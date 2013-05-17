@@ -1,0 +1,18 @@
+{
+  "id": "scremp",
+  "display_name": "Time in REM sleep (SHHS1)",
+  "description": "",
+  "type": "numeric",
+  "units": "second",
+  "hybrid": {
+    "VARNUM": "516",
+    "TABLE": "SHHS1",
+    "LABEL": "ScREMP",
+    "access level": "2",
+    "SOURCE": "PSG Report (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:sleeptime"
+  }
+}

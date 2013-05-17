@@ -1,0 +1,20 @@
+{
+  "id": "commnt20",
+  "display_name": "Blood Pressure (SHHS1): Comments",
+  "description": "Comments",
+  "type": "text",
+  "labels": [
+    "COMMNT20"
+  ],
+  "hybrid": {
+    "VARNUM": "83",
+    "TABLE": "SHHS1",
+    "LABEL": "BP Comment 20",
+    "access level": "1",
+    "SOURCE": "Blood Pressure Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Blood Pressure Form (BP).pdf",
+    "PARENT TERM": null
+  }
+}

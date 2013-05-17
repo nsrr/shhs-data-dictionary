@@ -1,0 +1,21 @@
+{
+  "id": "pm226d",
+  "display_name": "Physical Measurements (SHHS2): 1st: Rt leg posterior systolic BP",
+  "description": "First readings: Record in order shown (If reading for one leg not available, code as \"n__\".) d. Right leg posterior tibial systolic BP:",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "pm226d"
+  ],
+  "hybrid": {
+    "VARNUM": "181",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 26d 1st: Rt leg posterior systolic BP",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

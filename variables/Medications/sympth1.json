@@ -1,0 +1,21 @@
+{
+  "id": "sympth1",
+  "display_name": "Sympathomimetics, Oral And Inhaled (SHHS1)",
+  "description": "Patient taking SYMPATHOMIMETICS, ORAL AND INHALED within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "SYMPTH2"
+  ],
+  "hybrid": {
+    "VARNUM": "166",
+    "TABLE": "SHHS1",
+    "LABEL": "MU Sympathomimetics, oral and inhaled",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Medications.pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "finm10",
+  "display_name": "Morning Survey (SHHS1): Time finished filling out survey - minute",
+  "description": "Time finished filling out survey - minute (minutes component of time, 0 to 59)",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "FINM10"
+  ],
+  "hybrid": {
+    "VARNUM": "237",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Min Finish 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

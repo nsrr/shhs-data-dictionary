@@ -1,0 +1,21 @@
+{
+  "id": "sh318d",
+  "display_name": "Sleep Habits (SHHS2): MD Diagnosed Other sleep disorder",
+  "description": "Have you ever been told by a doctor that you have a sleep disorder (other\r\rthan sleep apnea)?  18. What other sleep disorder? (check all that apply) d. Other: please specify",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "sh318d"
+  ],
+  "hybrid": {
+    "VARNUM": "59",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 18d Other sleep disorder",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

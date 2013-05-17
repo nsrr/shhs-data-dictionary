@@ -1,0 +1,21 @@
+{
+  "id": "vigact25",
+  "display_name": "Quality of Life (SHHS1): Health limits vigorous activities",
+  "description": "Does your health now limit you in this activity, and if so, how much: Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports",
+  "type": "choices",
+  "domain": "LOTLIT3",
+  "labels": [
+    "VIGACT25"
+  ],
+  "hybrid": {
+    "VARNUM": "246",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Vig Act Lmt 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

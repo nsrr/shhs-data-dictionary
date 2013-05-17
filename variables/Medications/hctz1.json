@@ -1,0 +1,21 @@
+{
+  "id": "hctz1",
+  "display_name": "Thiazide diuretics without k-sparing agents (SHHS1)",
+  "description": "Patient taking THIAZIDE DIURETICS WITHOUT K-SPARING AGENTS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "HCTZ1"
+  ],
+  "hybrid": {
+    "VARNUM": "179",
+    "TABLE": "SHHS1",
+    "LABEL": "MU Thiazide diuretics without k-sparing agents",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Medications.pdf",
+    "PARENT TERM": null
+  }
+}

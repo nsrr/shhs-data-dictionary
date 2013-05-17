@@ -1,0 +1,21 @@
+{
+  "id": "ms212a",
+  "display_name": "Morning Survey (SHHS2): Nasal stuffiness interfered with sleep",
+  "description": "12. Did you have nasal stuffiness, obstruction, or discharge last night?  a. If yes, did this interfere with your sleep last night? (check one)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "ms212a"
+  ],
+  "hybrid": {
+    "VARNUM": "128",
+    "TABLE": "SHHS2",
+    "LABEL": "MS 12a Nasal stuffiness interfered w/sleep",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

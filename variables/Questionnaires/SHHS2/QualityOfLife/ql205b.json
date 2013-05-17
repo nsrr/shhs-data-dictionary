@@ -1,0 +1,21 @@
+{
+  "id": "ql205b",
+  "display_name": "Quality of Life (SHHS2): Emotional problems limit accomplishment",
+  "description": "5. During the past four weeks, have you had any of the following problems with regular daily activities as a result of EMOTIONAL PROBLEMS (such as feeling depressed or anxious)?  (Please check either Yes or No for each question) b. Accomplished less than you would like.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "ql205b"
+  ],
+  "hybrid": {
+    "VARNUM": "210",
+    "TABLE": "SHHS2",
+    "LABEL": "QL 5b  Accomplished less than liked",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

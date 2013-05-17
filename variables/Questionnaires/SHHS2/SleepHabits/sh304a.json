@@ -1,0 +1,21 @@
+{
+  "id": "sh304a",
+  "display_name": "Sleep Habits (SHHS2): Number of 5+ minute naps during week",
+  "description": "a. Number of times during a usual week that you nap for 5 minutes\r\ror more:",
+  "type": "numeric",
+  "units": "naps",
+  "labels": [
+    "sh304a"
+  ],
+  "hybrid": {
+    "VARNUM": "41",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 4a  Number of 5+ minute naps during week",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fvc",
+  "display_name": "FVC (SHHS1)",
+  "description": "Forced Vital Capacity (Litres)",
+  "type": "numeric",
+  "units": "liter",
+  "labels": [
+    "FVC"
+  ],
+  "hybrid": {
+    "VARNUM": "38",
+    "TABLE": "SHHS1",
+    "LABEL": "AV ForcVitalCap",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

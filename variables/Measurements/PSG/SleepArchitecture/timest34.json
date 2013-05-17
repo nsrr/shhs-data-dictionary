@@ -1,0 +1,22 @@
+{
+  "id": "timest34",
+  "display_name": "Time in Stage 3/4 (SHHS2)",
+  "description": "Total time scored as stage 3/4 rounded to nearest minute",
+  "type": "numeric",
+  "units": "minute",
+  "calculation": "timest34= mnstg34p",
+  "labels": [
+    "timest34"
+  ],
+  "hybrid": {
+    "VARNUM": "529",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - time stage 3-4 minutes",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:sleeptime"
+  }
+}

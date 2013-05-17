@@ -1,0 +1,21 @@
+{
+  "id": "alphad1",
+  "display_name": "Alpha-Blockers With Diuretics (SHHS1)",
+  "description": "Patient taking ALPHA-BLOCKERS WITH DIURETICS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "ALPHAD2"
+  ],
+  "hybrid": {
+    "VARNUM": "184",
+    "TABLE": "SHHS1",
+    "LABEL": "MU Alpha-blockers with diuretics",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Medications.pdf",
+    "PARENT TERM": null
+  }
+}

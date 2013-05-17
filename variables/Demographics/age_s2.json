@@ -1,0 +1,21 @@
+{
+  "id": "age_s2",
+  "display_name": "Age at SHHS2",
+  "description": "Age in years at the time of the SHHS2 visit",
+  "type": "numeric",
+  "units": "year",
+  "labels": [
+    "age_s2"
+  ],
+  "hybrid": {
+    "VARNUM": "10",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated Age SHHS2",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "demo:age"
+  }
+}

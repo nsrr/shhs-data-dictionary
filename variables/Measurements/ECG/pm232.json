@@ -1,0 +1,21 @@
+{
+  "id": "pm232",
+  "display_name": "ECG Position (SHHS2)",
+  "description": "32. ECG done in:",
+  "type": "choices",
+  "domain": "ecgposi",
+  "labels": [
+    "pm232"
+  ],
+  "hybrid": {
+    "VARNUM": "153",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 32  ECG position",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

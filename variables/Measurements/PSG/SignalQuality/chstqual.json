@@ -1,0 +1,21 @@
+{
+  "id": "chstqual",
+  "display_name": "PSG Quality Assessment (SHHS1): Signal Quality (chest effort)",
+  "description": "Overall quality of signal from thoracic effort belt as assessed by scorer.",
+  "type": "choices",
+  "domain": "SIGQUS1",
+  "labels": [
+    "Chstqual"
+  ],
+  "hybrid": {
+    "VARNUM": "603",
+    "TABLE": "SHHS1",
+    "LABEL": "Chstqual",
+    "access level": "0",
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pm221",
+  "display_name": "Physical Measurements (SHHS2): Date of BP measurement",
+  "description": "D. Seated Blood Pressure  21. Date of measurement:",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "pm221"
+  ],
+  "hybrid": {
+    "VARNUM": "140",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 21  Date of BP measurement",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

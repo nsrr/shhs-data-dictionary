@@ -1,0 +1,21 @@
+{
+  "id": "hwlghr15",
+  "display_name": "Health Interview (SHHS1): Hours slept last night",
+  "description": "Hours slept last night- hours (hours component of time, 1 to 12)",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "HWLGHR15"
+  ],
+  "hybrid": {
+    "VARNUM": "149",
+    "TABLE": "SHHS1",
+    "LABEL": "HI HoursSlp LstNight 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

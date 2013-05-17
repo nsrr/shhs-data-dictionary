@@ -1,0 +1,21 @@
+{
+  "id": "bdpain25",
+  "display_name": "Quality of Life (SHHS1): bodily pain",
+  "description": "How much bodily pain have you had during the past 4 weeks?",
+  "type": "choices",
+  "domain": "NONVSEV6",
+  "labels": [
+    "BDPAIN25"
+  ],
+  "hybrid": {
+    "VARNUM": "264",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Body Pain 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

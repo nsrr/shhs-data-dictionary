@@ -1,0 +1,20 @@
+{
+  "id": "othactae",
+  "display_name": "Adverse Events (SHHS1): Other action taken if alert noted",
+  "description": "Other action taken if alert noted",
+  "type": "text",
+  "labels": [
+    "OTHACTAE"
+  ],
+  "hybrid": {
+    "VARNUM": "59",
+    "TABLE": "SHHS1",
+    "LABEL": "AE Other Action",
+    "access level": "1",
+    "SOURCE": "Adverse Events Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Adverse Events (AE).pdf",
+    "PARENT TERM": null
+  }
+}

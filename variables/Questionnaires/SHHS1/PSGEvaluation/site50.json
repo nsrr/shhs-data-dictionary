@@ -1,0 +1,21 @@
+{
+  "id": "site50",
+  "display_name": "PSG Evaluation (SHHS1): Field center/site ID",
+  "description": "Field center/site ID",
+  "type": "choices",
+  "domain": "siteid",
+  "labels": [
+    "SITE50"
+  ],
+  "hybrid": {
+    "VARNUM": "284",
+    "TABLE": "SHHS1",
+    "LABEL": "SR Site 50",
+    "access level": "1",
+    "SOURCE": "PSG Evaluation (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

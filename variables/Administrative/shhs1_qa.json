@@ -1,0 +1,21 @@
+{
+  "id": "shhs1_qa",
+  "display_name": "Has SHHS1 Quality form",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs1_qa"
+  ],
+  "hybrid": {
+    "VARNUM": "731",
+    "TABLE": "SHHS1",
+    "LABEL": "Quality All form present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Scoring Notes (SN).pdf",
+    "PARENT TERM": null
+  }
+}

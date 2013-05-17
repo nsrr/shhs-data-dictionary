@@ -1,0 +1,21 @@
+{
+  "id": "anar1c2",
+  "display_name": "Anti-Arrhythmics, Class 1C (SHHS2)",
+  "description": "Patient taking ANTI-ARRHYTHMICS, CLASS 1C within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "ANAR1C2"
+  ],
+  "hybrid": {
+    "VARNUM": "255",
+    "TABLE": "SHHS2",
+    "LABEL": "ANTI-ARRHYTHMICS, CLASS 1C",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

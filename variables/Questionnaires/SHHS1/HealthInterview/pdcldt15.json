@@ -1,0 +1,21 @@
+{
+  "id": "pdcldt15",
+  "display_name": "Health Interview (SHHS1): date of clinic visit",
+  "description": "if prevalent disease data collected at clinic, date of clinic visit (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "PDCLDT15"
+  ],
+  "hybrid": {
+    "VARNUM": "96",
+    "TABLE": "SHHS1",
+    "LABEL": "HI PrevalentDisease DT 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "aai",
+  "display_name": "Ankle-arm BP Index (SHHS1)",
+  "description": "Ankle Arm Index",
+  "type": "numeric",
+  "units": "index",
+  "labels": [
+    "AAI"
+  ],
+  "hybrid": {
+    "VARNUM": "40",
+    "TABLE": "SHHS1",
+    "LABEL": "AV AnkArmInd",
+    "access level": "0",
+    "SOURCE": "A-variables",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

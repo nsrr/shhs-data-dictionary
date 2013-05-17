@@ -1,0 +1,21 @@
+{
+  "id": "pm226b",
+  "display_name": "Physical Measurements (SHHS2): Max inflation level AAI BP",
+  "description": "26. AAI  Doppler Obliteration Pressure  b. Max inflation level: (palpated +30)",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "pm226b"
+  ],
+  "hybrid": {
+    "VARNUM": "179",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 26b Max inflation level AAI BP",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

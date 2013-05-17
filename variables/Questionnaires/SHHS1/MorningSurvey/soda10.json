@@ -1,0 +1,21 @@
+{
+  "id": "soda10",
+  "display_name": "Morning Survey (SHHS1): glasses or cans of soda before bed",
+  "description": "How many glasses or cans of soda (with caffeine) 4 hours before going to sleep last night? (number, up to 2 digits)",
+  "type": "numeric",
+  "units": "glasses",
+  "labels": [
+    "SODA10"
+  ],
+  "hybrid": {
+    "VARNUM": "226",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Soda 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ligh",
+  "display_name": "PSG Quality Assessment (SHHS2): Light calibration appropriate",
+  "description": "QS - Lights calibration appropriate.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "ligh"
+  ],
+  "hybrid": {
+    "VARNUM": "482",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Lights calibration appropriate (1=yes,0=no)",
+    "access level": "2",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

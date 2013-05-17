@@ -1,0 +1,21 @@
+{
+  "id": "ntca1",
+  "display_name": "Non-Tricyclic Antidepressants Other Than Maoi (SHHS1)",
+  "description": "Patient taking NON-TRICYCLIC ANTIDEPRESSANTS OTHER THAN MAOI within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "NTCA2"
+  ],
+  "hybrid": {
+    "VARNUM": "176",
+    "TABLE": "SHHS1",
+    "LABEL": "MU Non-tricyclic antidepressants other than MAOI",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": "SHHS1 Medications.pdf",
+    "PARENT TERM": null
+  }
+}

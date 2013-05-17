@@ -1,0 +1,21 @@
+{
+  "id": "formdate_ms",
+  "display_name": "Morning Survey (SHHS2): Date completed",
+  "description": "Date of Morning Survey form",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "formdate_ms"
+  ],
+  "hybrid": {
+    "VARNUM": "103",
+    "TABLE": "SHHS2",
+    "LABEL": "Date of Morning Survey form",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

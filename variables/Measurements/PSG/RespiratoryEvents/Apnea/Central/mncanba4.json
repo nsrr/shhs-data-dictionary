@@ -1,0 +1,21 @@
+{
+  "id": "mncanba4",
+  "display_name": "Min. Cent. Apnea length w/ arousals (NREM, Back, 4% desat) (SHHS2)",
+  "description": "Min. Cent. Apnea length w/ arousals (NREM, Back, 4% desat) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "mncanba4"
+  ],
+  "hybrid": {
+    "VARNUM": "88",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. Cent. Apnea length w/ arousals (NREM, Back, 4% desat) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

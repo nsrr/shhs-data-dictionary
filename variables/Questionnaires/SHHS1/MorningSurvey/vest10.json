@@ -1,0 +1,21 @@
+{
+  "id": "vest10",
+  "display_name": "Morning Survey (SHHS1): discomfort from vest",
+  "description": "How much discomfort caused by these parts of the monitor: vest?",
+  "type": "choices",
+  "domain": "NONE4",
+  "labels": [
+    "VEST10"
+  ],
+  "hybrid": {
+    "VARNUM": "234",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Vest 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

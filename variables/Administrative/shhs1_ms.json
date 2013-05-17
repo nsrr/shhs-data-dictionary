@@ -1,0 +1,21 @@
+{
+  "id": "shhs1_ms",
+  "display_name": "Has SHHS1 Morning Survey form",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs1_ms"
+  ],
+  "hybrid": {
+    "VARNUM": "730",
+    "TABLE": "SHHS1",
+    "LABEL": "Morning Survey form present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

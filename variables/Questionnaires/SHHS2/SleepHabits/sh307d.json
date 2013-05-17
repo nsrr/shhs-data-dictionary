@@ -1,0 +1,21 @@
+{
+  "id": "sh307d",
+  "display_name": "Sleep Habits (SHHS2): Other reason for nap",
+  "description": "7. What are your reasons for regular napping in the afternoon? (check all that apply)  d. Other (please explain).",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "sh307d"
+  ],
+  "hybrid": {
+    "VARNUM": "45",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 7d  Other reason for nap",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

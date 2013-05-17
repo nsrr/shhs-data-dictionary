@@ -1,0 +1,21 @@
+{
+  "id": "tmsla15",
+  "display_name": "Health Interview (SHHS1): Time went to sleep last night - AM/PM",
+  "description": "Time went to sleep last night - AM/PM",
+  "type": "choices",
+  "domain": "ampmf",
+  "labels": [
+    "TMSLA15"
+  ],
+  "hybrid": {
+    "VARNUM": "145",
+    "TABLE": "SHHS1",
+    "LABEL": "HI AMPM Slp LstNight 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

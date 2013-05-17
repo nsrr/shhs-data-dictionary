@@ -1,0 +1,21 @@
+{
+  "id": "minfa10",
+  "display_name": "Morning Survey (SHHS1): minutes to fall asleep",
+  "description": "How many minutes did it take for you to fall asleep at bedtime last night? (number of minutes, up to 3 digits)",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "MINFA10"
+  ],
+  "hybrid": {
+    "VARNUM": "219",
+    "TABLE": "SHHS1",
+    "LABEL": "MS Mins falling aslp 10",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

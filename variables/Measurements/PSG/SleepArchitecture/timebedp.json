@@ -1,0 +1,21 @@
+{
+  "id": "timebedp",
+  "display_name": "Time in bed (SHHS2)",
+  "description": "Time in bed (minutes)",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "timebedp"
+  ],
+  "hybrid": {
+    "VARNUM": "303",
+    "TABLE": "SHHS2",
+    "LABEL": "Time in bed (minutes)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

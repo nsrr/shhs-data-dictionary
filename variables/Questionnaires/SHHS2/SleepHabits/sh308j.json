@@ -1,0 +1,21 @@
+{
+  "id": "sh308j",
+  "display_name": "Sleep Habits (SHHS2): Frequency of Leg cramps",
+  "description": "8. Please indicate how often you experience each of the following. (check one box for each in items a through j)  j. Leg cramps.",
+  "type": "choices",
+  "domain": "nevralw5",
+  "labels": [
+    "sh308j"
+  ],
+  "hybrid": {
+    "VARNUM": "55",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 8j  Leg cramps",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

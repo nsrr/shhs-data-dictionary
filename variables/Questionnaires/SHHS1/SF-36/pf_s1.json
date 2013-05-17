@@ -1,0 +1,21 @@
+{
+  "id": "pf_s1",
+  "display_name": "SF-36 Calculated (SHHS1): Physical Functioning Standardized Score",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pf_s1"
+  ],
+  "hybrid": {
+    "VARNUM": "703",
+    "TABLE": "SHHS1",
+    "LABEL": "SF-36 PHYSICAL FUNCTIONING (0-100)",
+    "access level": "0",
+    "SOURCE": "SF-36 Calculated (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

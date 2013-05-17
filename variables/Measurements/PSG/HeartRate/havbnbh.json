@@ -1,0 +1,21 @@
+{
+  "id": "havbnbh",
+  "display_name": "Avg. Heart Rate (NREM, Back, 3% desat) (SHHS2)",
+  "description": "Avg. Heart Rate (NREM, Back, 3% desat) (bpm)",
+  "type": "numeric",
+  "units": "beats_per_minute",
+  "labels": [
+    "havbnbh"
+  ],
+  "hybrid": {
+    "VARNUM": "272",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. Heart Rate (NREM, Back, 3% desat) (bpm)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:avgheartrate"
+  }
+}

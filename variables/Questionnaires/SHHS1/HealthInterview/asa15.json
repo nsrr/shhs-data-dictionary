@@ -1,0 +1,21 @@
+{
+  "id": "asa15",
+  "display_name": "Health Interview (SHHS1): Aspirin in last 2 weeks",
+  "description": "In last two weeks, did you take any aspirin or aspirin containing meds?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "ASA15"
+  ],
+  "hybrid": {
+    "VARNUM": "139",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Apirin 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

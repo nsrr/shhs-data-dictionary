@@ -1,0 +1,22 @@
+{
+  "id": "ai_rem",
+  "display_name": "Arousal Index (REM) (SHHS2)",
+  "description": "REM Arousal Index - total arousals in REM sleep per hours of REM sleep(Total number of arousals in REM sleep) / (hours of REM sleep)",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "calculation": "ai_rem = 60*(arrembp + arremop) / minremp",
+  "labels": [
+    "ai_rem"
+  ],
+  "hybrid": {
+    "VARNUM": "536",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - arousal index rem sleep",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:ai"
+  }
+}

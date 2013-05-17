@@ -1,0 +1,21 @@
+{
+  "id": "sh314",
+  "display_name": "Sleep Habits (SHHS2): Stop breathing during sleep",
+  "description": "Questions 9 through 15 are about snoring and breathing during sleep. To answer these questions, please consider both what others have told you AND what you know about yourself.  14. Are there times when you stop breathing during your sleep?ng",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "sh314"
+  ],
+  "hybrid": {
+    "VARNUM": "27",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 14  Ever stop breathing during sleep",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

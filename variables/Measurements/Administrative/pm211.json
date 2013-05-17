@@ -1,0 +1,21 @@
+{
+  "id": "pm211",
+  "display_name": "Physical Measurements (SHHS2): Neck circumference within window",
+  "description": "11.Neck circumference measurement\r\rwithin the data collection window?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "pm211"
+  ],
+  "hybrid": {
+    "VARNUM": "147",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 11  Neck circumference within window",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

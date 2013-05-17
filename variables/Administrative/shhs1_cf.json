@@ -1,0 +1,21 @@
+{
+  "id": "shhs1_cf",
+  "display_name": "Has SHHS1 Contact form",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs1_cf"
+  ],
+  "hybrid": {
+    "VARNUM": "727",
+    "TABLE": "SHHS1",
+    "LABEL": "Contact form present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 Contact Form (CF).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ql207",
+  "display_name": "Quality of Life (SHHS2): bodily pain",
+  "description": "7. How much bodily pain have you had during the past four weeks? (Check one box.)",
+  "type": "choices",
+  "domain": "nonvsev6",
+  "labels": [
+    "ql207"
+  ],
+  "hybrid": {
+    "VARNUM": "192",
+    "TABLE": "SHHS2",
+    "LABEL": "QL 7   Bodily pain in past 4 weeks",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

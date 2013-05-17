@@ -1,0 +1,21 @@
+{
+  "id": "site02",
+  "display_name": "Sleep Habits (SHHS1): Field center/site ID",
+  "description": "Field center/site ID",
+  "type": "choices",
+  "domain": "siteid",
+  "labels": [
+    "Site02"
+  ],
+  "hybrid": {
+    "VARNUM": "295",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Site ID 02",
+    "access level": "1",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

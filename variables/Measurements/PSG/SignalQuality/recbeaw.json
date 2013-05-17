@@ -1,0 +1,21 @@
+{
+  "id": "recbeaw",
+  "display_name": "PSG Quality Assessment (SHHS2): Data Lost - Recording ended before wake",
+  "description": "Data was lost at the end of sleep period because recording ended before wake.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "RecBeAw"
+  ],
+  "hybrid": {
+    "VARNUM": "492",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Data Lost - Recording ended before wake",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

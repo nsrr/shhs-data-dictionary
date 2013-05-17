@@ -1,0 +1,21 @@
+{
+  "id": "formseq_pm",
+  "display_name": "Physical Measurements (SHHS2): Form sequence number",
+  "description": "Form sequence number",
+  "type": "choices",
+  "domain": "FRMSEQ",
+  "labels": [
+    "formseq_pm"
+  ],
+  "hybrid": {
+    "VARNUM": "132",
+    "TABLE": "SHHS2",
+    "LABEL": "Form sequence number",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

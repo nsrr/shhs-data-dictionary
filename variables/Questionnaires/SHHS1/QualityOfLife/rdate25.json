@@ -1,0 +1,21 @@
+{
+  "id": "rdate25",
+  "display_name": "Quality of Life (SHHS1): Date of Interview/Review",
+  "description": "Date of Interview/Review (days from index day)",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "RDATE25"
+  ],
+  "hybrid": {
+    "VARNUM": "282",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Date 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

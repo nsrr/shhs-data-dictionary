@@ -1,0 +1,21 @@
+{
+  "id": "carbp",
+  "display_name": "# of Cent. Apnea (REM, Back, all desats) (SHHS2)",
+  "description": "# of Cent. Apnea (REM, Back, all desats)",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "carbp"
+  ],
+  "hybrid": {
+    "VARNUM": "366",
+    "TABLE": "SHHS2",
+    "LABEL": "# of Cent. Apnea (REM, Back, all desats)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:ca"
+  }
+}

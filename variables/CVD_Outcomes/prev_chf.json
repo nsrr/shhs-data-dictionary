@@ -1,0 +1,22 @@
+{
+  "id": "prev_chf",
+  "display_name": "Number of CHFs Prior to Baseline (SHHSCVD)",
+  "description": "Congestive Heart Failure (CHF) prior to baseline PSG (as recorded in parent studies datasets)",
+  "type": "numeric",
+  "units": "number_of_events",
+  "labels": [
+    "prev_chf",
+    "congestive heart failure"
+  ],
+  "hybrid": {
+    "VARNUM": "20",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Number of CHF Prior to Baseline",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

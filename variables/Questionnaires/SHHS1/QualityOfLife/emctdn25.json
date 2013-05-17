@@ -1,0 +1,21 @@
+{
+  "id": "emctdn25",
+  "display_name": "Quality of Life (SHHS1): Emotional problems limit time on work",
+  "description": "During the past 4 weeks, have you had this problem with work or other regular daily activities because of emotional problems: Cut down on the amount of time you spend on work",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "EMCTDN25"
+  ],
+  "hybrid": {
+    "VARNUM": "260",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Cut Wrk EmoProb 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

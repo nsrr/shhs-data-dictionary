@@ -1,0 +1,21 @@
+{
+  "id": "hrswe02",
+  "display_name": "Sleep Habits (SHHS1): sleep time on weekends",
+  "description": "How many hours of sleep do you usually get at night (or your main sleep period) on weekends or your non-workdays? (number of hours, up to 2 digits)",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "HrsWE02"
+  ],
+  "hybrid": {
+    "VARNUM": "311",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Hrs Slp Wkend 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

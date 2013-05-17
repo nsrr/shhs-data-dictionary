@@ -1,0 +1,21 @@
+{
+  "id": "htnderv_s1",
+  "display_name": "Hypertension (SHHS1)",
+  "description": "Hypertension Status based on 2nd and 3rd BP readings OR being treated with HTN meds",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "HTNDerv_s1"
+  ],
+  "hybrid": {
+    "VARNUM": "723",
+    "TABLE": "SHHS1",
+    "LABEL": "Hypertension Status based on 2nd and 3rd BP readings OR being treated with HTN meds",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "comorb:htn"
+  }
+}

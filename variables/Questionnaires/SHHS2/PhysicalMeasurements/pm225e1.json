@@ -1,0 +1,21 @@
+{
+  "id": "pm225e1",
+  "display_name": "Physical Measurements (SHHS2): Right - Unable to reach occlusion BP",
+  "description": "25. Reason AAI not done, or not done using both legs (Check all that apply.) e. Unable to reach occlusion blood pressure Right",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "pm225e1"
+  ],
+  "hybrid": {
+    "VARNUM": "172",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 25e Right - Unable to reach occlusion BP",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mdsa02",
+  "display_name": "Sleep Habits (SHHS1): MD diagnosed Sleep Apnea",
+  "description": "Have you ever been told by a doctor that you have sleep apnea?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "MDSA02"
+  ],
+  "hybrid": {
+    "VARNUM": "329",
+    "TABLE": "SHHS1",
+    "LABEL": "SH MD Apnea 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

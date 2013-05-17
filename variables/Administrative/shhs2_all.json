@@ -1,0 +1,21 @@
+{
+  "id": "shhs2_all",
+  "display_name": "Has all SHHS2 Forms",
+  "description": "All SHHS2 forms present 0-No, 1-Yes",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs2_all"
+  ],
+  "hybrid": {
+    "VARNUM": "333",
+    "TABLE": "SHHS2",
+    "LABEL": "All SHHS2 forms present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "insln2",
+  "display_name": "Insulins (SHHS2)",
+  "description": "Patient taking INSULINS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "INSLN2"
+  ],
+  "hybrid": {
+    "VARNUM": "281",
+    "TABLE": "SHHS2",
+    "LABEL": "INSULINS",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

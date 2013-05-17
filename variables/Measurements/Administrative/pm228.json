@@ -1,0 +1,21 @@
+{
+  "id": "pm228",
+  "display_name": "Physical Measurements (SHHS2): Date of arm BP for AAI measurement",
+  "description": "E. Ankle-Arm Index  28. Date of measurement:",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "pm228"
+  ],
+  "hybrid": {
+    "VARNUM": "141",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 28  Date of arm BP for AAI measurement",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

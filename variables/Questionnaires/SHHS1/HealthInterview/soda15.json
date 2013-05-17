@@ -1,0 +1,21 @@
+{
+  "id": "soda15",
+  "display_name": "Health Interview (SHHS1): cups of soda (with caffeine) on a regular day",
+  "description": "How many cups/glasses of cola/soda (with caffeine) do you drink on a regular day?  (Number of cups/glasses of soda, up to 2 digits)",
+  "type": "numeric",
+  "units": "cups",
+  "labels": [
+    "SODA15"
+  ],
+  "hybrid": {
+    "VARNUM": "120",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Soda 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

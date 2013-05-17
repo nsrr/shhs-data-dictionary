@@ -1,0 +1,21 @@
+{
+  "id": "altplc51",
+  "display_name": "PSG Signal Verification (SHHS1): Alternate placement sites needed",
+  "description": "If yes [participant has beard], were alternative placement sites needed?",
+  "type": "choices",
+  "domain": "YESNOF",
+  "labels": [
+    "ALTPLC51"
+  ],
+  "hybrid": {
+    "VARNUM": "679",
+    "TABLE": "SHHS1",
+    "LABEL": "Alternate placement sites needed",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

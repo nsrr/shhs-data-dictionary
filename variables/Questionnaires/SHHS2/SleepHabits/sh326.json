@@ -1,0 +1,21 @@
+{
+  "id": "sh326",
+  "display_name": "Sleep Habits (SHHS2): Cups of tea per day",
+  "description": "26. How many cups of regular tea (with caffeine) do you drink on a typical day?",
+  "type": "numeric",
+  "units": "cups",
+  "labels": [
+    "sh326"
+  ],
+  "hybrid": {
+    "VARNUM": "37",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 26  Cups of tea per day",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

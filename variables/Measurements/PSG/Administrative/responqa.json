@@ -1,0 +1,21 @@
+{
+  "id": "responqa",
+  "display_name": "PSG Quality Assessment (SHHS1): Responqa",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "Responqa"
+  ],
+  "hybrid": {
+    "VARNUM": "619",
+    "TABLE": "SHHS1",
+    "LABEL": "Responqa",
+    "access level": "0",
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "PARENT TERM": null
+  }
+}

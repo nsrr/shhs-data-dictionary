@@ -1,0 +1,21 @@
+{
+  "id": "cardrba3",
+  "display_name": "Cent. Apnea per hour w/ arousals (REM, Back, 3% desat) (SHHS2)",
+  "description": "Cent. Apnea per hour w/ arousals (REM, Back, 3% desat)",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "labels": [
+    "cardrba3"
+  ],
+  "hybrid": {
+    "VARNUM": "392",
+    "TABLE": "SHHS2",
+    "LABEL": "Cent. Apnea per hour w/ arousals (REM, Back, 3% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:cai"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "avhnbp4",
+  "display_name": "Avg. Hypopnea length (NREM, Back, 4% desat) (SHHS2)",
+  "description": "Avg. Hypopnea length (NREM, Back, 4% desat) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "avhnbp4"
+  ],
+  "hybrid": {
+    "VARNUM": "11",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. Hypopnea length (NREM, Back, 4% desat) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hnrop4",
+  "display_name": "# of Hypopnea (NREM, Other, 4% desat) (SHHS2)",
+  "description": "# of Hypopnea (NREM, Other, 4% desat)",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "hnrop4"
+  ],
+  "hybrid": {
+    "VARNUM": "14",
+    "TABLE": "SHHS2",
+    "LABEL": "# of Hypopnea (NREM, Other, 4% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:hypopnea"
+  }
+}

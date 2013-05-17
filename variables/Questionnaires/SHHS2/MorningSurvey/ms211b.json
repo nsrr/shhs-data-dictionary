@@ -1,0 +1,21 @@
+{
+  "id": "ms211b",
+  "display_name": "Morning Survey (SHHS2): pipe bowls before bed",
+  "description": "11. How much did you smoke during the 4 hours before you went to sleep last night? (Please write \"0\" for each that you did not smoke last night.)  b. ____ number of pipe bowls",
+  "type": "numeric",
+  "units": "bowls",
+  "labels": [
+    "ms211b"
+  ],
+  "hybrid": {
+    "VARNUM": "126",
+    "TABLE": "SHHS2",
+    "LABEL": "MS 11b Number of pipe bowls",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "staging2",
+  "display_name": "PSG Scoring Notes (SHHS1): REM/NREM unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "hybrid": {
+    "VARNUM": "696",
+    "TABLE": "SHHS1",
+    "LABEL": "REM/NREM unreliable",
+    "access level": "0",
+    "SOURCE": "PSG Scoring Notes (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Scoring Notes (SN).pdf",
+    "PARENT TERM": null
+  }
+}

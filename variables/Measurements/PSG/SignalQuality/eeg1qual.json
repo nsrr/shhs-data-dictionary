@@ -1,0 +1,21 @@
+{
+  "id": "eeg1qual",
+  "display_name": "PSG Quality Assessment (SHHS1): Signal Quality (EEG 1)",
+  "description": "Overall quality of signal from EEG1 lead as assessed by scorer.",
+  "type": "choices",
+  "domain": "SIGQUS1",
+  "labels": [
+    "EEG1qual"
+  ],
+  "hybrid": {
+    "VARNUM": "605",
+    "TABLE": "SHHS1",
+    "LABEL": "EEG1qual",
+    "access level": "0",
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "PARENT TERM": null
+  }
+}

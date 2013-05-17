@@ -1,0 +1,21 @@
+{
+  "id": "sweats02",
+  "display_name": "Sleep Habits (SHHS1): Frequency of being awakened with sweats or hot flashes",
+  "description": "In the past year, how often, on average, have you been awakened with sweats or hot flashes?",
+  "type": "choices",
+  "domain": "NEVRALW5",
+  "labels": [
+    "Sweats02"
+  ],
+  "hybrid": {
+    "VARNUM": "335",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Sweats 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "totminslpwe",
+  "display_name": "Sleep Habits (SHHS2): sleep time on weekends",
+  "description": "",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "TotMinSlpWE"
+  ],
+  "hybrid": {
+    "VARNUM": "17",
+    "TABLE": "SHHS2",
+    "LABEL": "2 Total minutes slept on weekends",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

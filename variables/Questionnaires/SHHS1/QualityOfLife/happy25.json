@@ -1,0 +1,21 @@
+{
+  "id": "happy25",
+  "display_name": "Quality of Life (SHHS1): Been a happy person",
+  "description": "During the past 4 weeks, how much of the time: Have you been a happy person?",
+  "type": "choices",
+  "domain": "ALLNONE6",
+  "labels": [
+    "HAPPY25"
+  ],
+  "hybrid": {
+    "VARNUM": "273",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Happy 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

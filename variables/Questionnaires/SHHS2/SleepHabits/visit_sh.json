@@ -1,0 +1,21 @@
+{
+  "id": "visit_sh",
+  "display_name": "Sleep Habits (SHHS2): Visit ID code",
+  "description": "",
+  "type": "choices",
+  "domain": "VISITCD",
+  "labels": [
+    "visit_sh"
+  ],
+  "hybrid": {
+    "VARNUM": "12",
+    "TABLE": "SHHS2",
+    "LABEL": "Visit ID code",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

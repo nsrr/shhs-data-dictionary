@@ -1,0 +1,20 @@
+{
+  "id": "langot15",
+  "display_name": "Health Interview (SHHS1): Other language of interview",
+  "description": "Language of interview, other (if not specified in [LANG15])",
+  "type": "text",
+  "labels": [
+    "LANGOT15"
+  ],
+  "hybrid": {
+    "VARNUM": "156",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Othr Int Lang 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

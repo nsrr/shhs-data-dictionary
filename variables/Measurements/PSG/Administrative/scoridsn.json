@@ -1,0 +1,18 @@
+{
+  "id": "scoridsn",
+  "display_name": "PSG Scoring Notes (SHHS1): Scorer ID",
+  "description": "Scorer ID",
+  "type": "choices",
+  "domain": "SCORIDF",
+  "hybrid": {
+    "VARNUM": "687",
+    "TABLE": "SHHS1",
+    "LABEL": "Scorer ID",
+    "access level": "1",
+    "SOURCE": "PSG Scoring Notes (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Scoring Notes (SN).pdf",
+    "PARENT TERM": null
+  }
+}

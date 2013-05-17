@@ -1,0 +1,21 @@
+{
+  "id": "sh315",
+  "display_name": "Sleep Habits (SHHS2): Frequency of stopping breathing during sleep",
+  "description": "To answer these questions, please consider both what others have told you AND what you know about yourself.  15. How often do you have times when you stop breathing during your sleep?",
+  "type": "choices",
+  "domain": "raralw5",
+  "labels": [
+    "sh315"
+  ],
+  "hybrid": {
+    "VARNUM": "28",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 15  How often stop breathing during slee",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

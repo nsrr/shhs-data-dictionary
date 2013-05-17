@@ -1,0 +1,21 @@
+{
+  "id": "a2a2",
+  "display_name": "Angiotensin Type 2 Antagonists (SHHS2)",
+  "description": "Patient taking ANGIOTENSIN TYPE 2 ANTAGONISTS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "A2A2"
+  ],
+  "hybrid": {
+    "VARNUM": "243",
+    "TABLE": "SHHS2",
+    "LABEL": "ANGIOTENSIN TYPE 2 ANTAGONISTS",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

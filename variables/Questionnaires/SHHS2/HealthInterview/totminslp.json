@@ -1,0 +1,21 @@
+{
+  "id": "totminslp",
+  "display_name": "Health Interview (SHHS2): Total minutes slept last night",
+  "description": "",
+  "type": "numeric",
+  "units": "minute",
+  "labels": [
+    "TotMinSlp"
+  ],
+  "hybrid": {
+    "VARNUM": "80",
+    "TABLE": "SHHS2",
+    "LABEL": "4 Total minutes slept last night",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

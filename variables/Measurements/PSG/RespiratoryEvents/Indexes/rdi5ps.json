@@ -1,0 +1,24 @@
+{
+  "id": "rdi5ps",
+  "display_name": "Overall RDI (Supine) at 5% desat (SHHS2)",
+  "description": "Supine RDI at 5% desat  [(Total number of apneas and hypopneas in supine body position associated with >= 5% desat) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "calculation": "rdi5ps  = 60*(hrembp5 + hnrbp5 + carbp5 + canbp5 + oarbp5 + oanbp5)/(remepbp+nremepbp)",
+  "labels": [
+    "rdi5ps",
+    "rdi",
+    "ahi"
+  ],
+  "hybrid": {
+    "VARNUM": "552",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - Overall Supine RDI at 5% desat",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:ahi_supine"
+  }
+}

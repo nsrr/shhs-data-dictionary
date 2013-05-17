@@ -1,0 +1,21 @@
+{
+  "id": "worse25",
+  "display_name": "Quality of Life (SHHS1): Expect health to get worse",
+  "description": "Choose (definitely True-definitely False): I expect my health to get worse.",
+  "type": "choices",
+  "domain": "TRUFALS5",
+  "labels": [
+    "WORSE25"
+  ],
+  "hybrid": {
+    "VARNUM": "278",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Get Worse 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

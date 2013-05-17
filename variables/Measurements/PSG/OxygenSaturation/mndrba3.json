@@ -1,0 +1,21 @@
+{
+  "id": "mndrba3",
+  "display_name": "Min. SaO2 w/ arousals (REM, Back, 3% desat) (SHHS2)",
+  "description": "Min. SaO2 w/ arousals (REM, Back, 3% desat) (%)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mndrba3"
+  ],
+  "hybrid": {
+    "VARNUM": "706",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. SaO2 w/ arousals (REM, Back, 3% desat) (%)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:minsat"
+  }
+}

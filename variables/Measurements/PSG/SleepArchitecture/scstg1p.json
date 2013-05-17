@@ -1,0 +1,18 @@
+{
+  "id": "scstg1p",
+  "display_name": "Time in stage 1 sleep (SHHS1)",
+  "description": "",
+  "type": "numeric",
+  "units": "second",
+  "hybrid": {
+    "VARNUM": "510",
+    "TABLE": "SHHS1",
+    "LABEL": "ScStg1P",
+    "access level": "2",
+    "SOURCE": "PSG Report (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:sleeptime"
+  }
+}

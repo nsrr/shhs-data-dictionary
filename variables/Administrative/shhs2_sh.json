@@ -1,0 +1,21 @@
+{
+  "id": "shhs2_sh",
+  "display_name": "Has SHHS2 Sleep Habits form",
+  "description": "Sleep Habits form present 0-No, 1-Yes",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs2_sh"
+  ],
+  "hybrid": {
+    "VARNUM": "327",
+    "TABLE": "SHHS2",
+    "LABEL": "Sleep Habits form present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

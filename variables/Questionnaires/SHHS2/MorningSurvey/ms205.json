@@ -1,0 +1,21 @@
+{
+  "id": "ms205",
+  "display_name": "Morning Survey (SHHS2): Quality of sleep compared to usual",
+  "description": "5. Compared to your usual night's sleep, how well did you sleep last night?\r\r(check one)",
+  "type": "choices",
+  "domain": "BETWRS5",
+  "labels": [
+    "ms205"
+  ],
+  "hybrid": {
+    "VARNUM": "112",
+    "TABLE": "SHHS2",
+    "LABEL": "MS 5   Last night compared to usual sleep",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

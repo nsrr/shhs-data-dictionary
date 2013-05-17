@@ -1,0 +1,21 @@
+{
+  "id": "arremop",
+  "display_name": "# of Arousals (REM, Other, all desats) (SHHS2)",
+  "description": "# of Arousals (REM, Other, all desats)",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "arremop"
+  ],
+  "hybrid": {
+    "VARNUM": "341",
+    "TABLE": "SHHS2",
+    "LABEL": "# of Arousals (REM, Other, all desats)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:arousals"
+  }
+}

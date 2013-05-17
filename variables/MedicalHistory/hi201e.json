@@ -1,0 +1,21 @@
+{
+  "id": "hi201e",
+  "display_name": "Current Asthma (SHHS2)",
+  "description": "e. Do you still have asthma?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "hi201e"
+  ],
+  "hybrid": {
+    "VARNUM": "98",
+    "TABLE": "SHHS2",
+    "LABEL": "1e  Still have asthma",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": "SHHS2 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

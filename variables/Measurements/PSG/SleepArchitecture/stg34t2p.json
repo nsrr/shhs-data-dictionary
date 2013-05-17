@@ -1,0 +1,21 @@
+{
+  "id": "stg34t2p",
+  "display_name": "# of stage 3/4 to stage 1/2 shifts during sleep (SHHS2)",
+  "description": "# of stage 3/4 to stage 1/2 shifts during sleep",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "stg34t2p"
+  ],
+  "hybrid": {
+    "VARNUM": "345",
+    "TABLE": "SHHS2",
+    "LABEL": "# of stage 3/4 to stage 1/2 shifts during sleep",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

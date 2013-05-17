@@ -1,0 +1,21 @@
+{
+  "id": "avesmk15",
+  "display_name": "Health Interview (SHHS1): cigarettes per day on average",
+  "description": "How many cigarettes per day did you average over all the time you smoked? (number per day, up to 2 digits)",
+  "type": "numeric",
+  "units": "cigarettes",
+  "labels": [
+    "AVESMK15"
+  ],
+  "hybrid": {
+    "VARNUM": "131",
+    "TABLE": "SHHS1",
+    "LABEL": "HI AveSmk a day15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

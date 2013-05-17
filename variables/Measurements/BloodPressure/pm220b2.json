@@ -1,0 +1,21 @@
+{
+  "id": "pm220b2",
+  "display_name": "Diastolic BP (measurement 2) (SHHS2)",
+  "description": "20. Seated Blood Pressure: b. Second reading: diastolic",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "pm220b2"
+  ],
+  "hybrid": {
+    "VARNUM": "162",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 20b 2nd reading diastolic",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": "bp:diastolic"
+  }
+}

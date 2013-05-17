@@ -1,0 +1,21 @@
+{
+  "id": "ql201",
+  "display_name": "Quality of Life (SHHS2): General health",
+  "description": "1. In general, would you say your health is: (Check one box.)",
+  "type": "choices",
+  "domain": "excpoor5",
+  "labels": [
+    "ql201"
+  ],
+  "hybrid": {
+    "VARNUM": "189",
+    "TABLE": "SHHS2",
+    "LABEL": "QL 1   Health, in general",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

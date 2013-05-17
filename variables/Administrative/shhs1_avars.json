@@ -1,0 +1,21 @@
+{
+  "id": "shhs1_avars",
+  "display_name": "Has SHHS1 A-variables",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs1_avars"
+  ],
+  "hybrid": {
+    "VARNUM": "737",
+    "TABLE": "SHHS1",
+    "LABEL": "A-variables present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

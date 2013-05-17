@@ -1,0 +1,21 @@
+{
+  "id": "avdrba5",
+  "display_name": "Avg. Desat w/ arousals (REM, Back, 5% desat) (SHHS2)",
+  "description": "Avg. Desat w/ arousals (REM, Back, 5% desat)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avdrba5"
+  ],
+  "hybrid": {
+    "VARNUM": "234",
+    "TABLE": "SHHS2",
+    "LABEL": "Avg. Desat w/ arousals (REM, Back, 5% desat)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

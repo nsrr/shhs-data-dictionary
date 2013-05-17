@@ -1,0 +1,21 @@
+{
+  "id": "ms208",
+  "display_name": "Morning Survey (SHHS2): Usual sleeping arrangement",
+  "description": "8. What is your usual sleeping arrangement? (check one)",
+  "type": "choices",
+  "domain": "perbed3",
+  "labels": [
+    "ms208"
+  ],
+  "hybrid": {
+    "VARNUM": "114",
+    "TABLE": "SHHS2",
+    "LABEL": "MS 8   Usual sleeping arrangement",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

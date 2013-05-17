@@ -1,0 +1,24 @@
+{
+  "id": "rdirem0p",
+  "display_name": "Overall RDI (REM) all desats (SHHS2)",
+  "description": "REM RDI at all desats  [(Total number of apneas and hypopneas in REM sleep) / (hours of REM sleep)]",
+  "type": "numeric",
+  "units": "events_per_hour",
+  "calculation": "rdirem0p = 60*(hrembp + hrop + carbp + carop + oarbp +oarop ) / minremp",
+  "labels": [
+    "rdirem0p",
+    "rdi",
+    "ahi"
+  ],
+  "hybrid": {
+    "VARNUM": "559",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - Overall rem RDI at 0% desat",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:ahi_rem"
+  }
+}

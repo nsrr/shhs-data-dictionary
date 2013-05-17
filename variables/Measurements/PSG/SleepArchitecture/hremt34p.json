@@ -1,0 +1,21 @@
+{
+  "id": "hremt34p",
+  "display_name": "# of REM to stage 3/4 shifts per hour of sleep (SHHS2)",
+  "description": "# of REM to stage 3/4 shifts per hour of sleep",
+  "type": "numeric",
+  "units": "event_count",
+  "labels": [
+    "hremt34p"
+  ],
+  "hybrid": {
+    "VARNUM": "322",
+    "TABLE": "SHHS2",
+    "LABEL": "# of REM to stage 3/4 shifts per hour of sleep",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

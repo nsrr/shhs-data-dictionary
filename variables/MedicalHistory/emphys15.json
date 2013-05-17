@@ -1,0 +1,21 @@
+{
+  "id": "emphys15",
+  "display_name": "History of Emphysema (SHHS1)",
+  "description": "MD said pt had emphysema?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "EMPHYS15"
+  ],
+  "hybrid": {
+    "VARNUM": "107",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Emphysema 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

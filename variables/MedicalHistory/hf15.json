@@ -1,0 +1,21 @@
+{
+  "id": "hf15",
+  "display_name": "MD Reported Heart Failure (SHHS1)",
+  "description": "MD said pt had heart failure?",
+  "type": "choices",
+  "domain": "YESNOd",
+  "labels": [
+    "HF15"
+  ],
+  "hybrid": {
+    "VARNUM": "100",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Heart Failure 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

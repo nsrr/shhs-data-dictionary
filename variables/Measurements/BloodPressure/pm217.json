@@ -1,0 +1,21 @@
+{
+  "id": "pm217",
+  "display_name": "Site of Arm BP Measurement (SHHS2)",
+  "description": "17. Arm BP site:",
+  "type": "choices",
+  "domain": "armbp",
+  "labels": [
+    "pm217"
+  ],
+  "hybrid": {
+    "VARNUM": "149",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 17  Site of arm BP measurement",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

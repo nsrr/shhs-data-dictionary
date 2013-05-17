@@ -1,0 +1,21 @@
+{
+  "id": "ccb1",
+  "display_name": "Any calcium-channel blocker = CCIR or CCBSR or CCBT (SHHS1)",
+  "description": "Patient taking ANY CALCIUM-CHANNEL BLOCKER = CCIR OR CCBSR OR CCBT within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "CCB1"
+  ],
+  "hybrid": {
+    "VARNUM": "196",
+    "TABLE": "SHHS1",
+    "LABEL": "MU Any calcium-channel blocker = CCIR or CCBSR or CCBT",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": "1",
+    "filename": "SHHS1 Medications.pdf",
+    "PARENT TERM": null
+  }
+}

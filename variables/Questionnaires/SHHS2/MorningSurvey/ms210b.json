@@ -1,0 +1,21 @@
+{
+  "id": "ms210b",
+  "display_name": "Morning Survey (SHHS2): cups of tea before bed",
+  "description": "10. How many of the following drinks with caffeine did you have during the 4 hours before you went to sleep last night? (Please write \"0\" if you did not drink any of that beverage.)  b. ____ cups of tea (with caffeine)",
+  "type": "numeric",
+  "units": "cups",
+  "labels": [
+    "ms210b"
+  ],
+  "hybrid": {
+    "VARNUM": "123",
+    "TABLE": "SHHS2",
+    "LABEL": "MS 10b Cups of caffeinated tea",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "intid02",
+  "display_name": "Sleep Habits (SHHS1): Interviewer or Reviewer ID",
+  "description": "Interviewer or Reviewer ID",
+  "type": "text",
+  "labels": [
+    "IntID02"
+  ],
+  "hybrid": {
+    "VARNUM": "353",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Interviewer  ID 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

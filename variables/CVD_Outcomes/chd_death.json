@@ -1,0 +1,22 @@
+{
+  "id": "chd_death",
+  "display_name": "Fatal CHD Since Baseline? (SHHSCVD)",
+  "description": "Coronary Heart Disease (CHD) death (as recorded in parent studies datasets)",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "chd_death",
+    "coronary heart disease"
+  ],
+  "hybrid": {
+    "VARNUM": "12",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Died from CHD?",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

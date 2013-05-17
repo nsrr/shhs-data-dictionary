@@ -1,0 +1,21 @@
+{
+  "id": "beer15",
+  "display_name": "Health Interview (SHHS1): cans of beer per week",
+  "description": "How many 12 oz. cans of beer do you usually have per week? (number of cans of beer, up to 2 digits)",
+  "type": "numeric",
+  "units": "cans",
+  "labels": [
+    "BEER15"
+  ],
+  "hybrid": {
+    "VARNUM": "136",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Beer Wk 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

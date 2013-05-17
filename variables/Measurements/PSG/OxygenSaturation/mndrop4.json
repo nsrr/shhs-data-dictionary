@@ -1,0 +1,21 @@
+{
+  "id": "mndrop4",
+  "display_name": "Min. SaO2 (REM, Other, 4% desat) (SHHS2)",
+  "description": "Min. SaO2 (REM, Other, 4% desat) (%)",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mndrop4"
+  ],
+  "hybrid": {
+    "VARNUM": "59",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. SaO2 (REM, Other, 4% desat) (%)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": "psg:minsat"
+  }
+}

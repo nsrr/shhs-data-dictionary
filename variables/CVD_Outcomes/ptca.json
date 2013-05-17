@@ -1,0 +1,23 @@
+{
+  "id": "ptca",
+  "display_name": "Number of PTCAs Since Baseline (SHHSCVD)",
+  "description": "PTCA since baseline PSG (as recorded in parent studies datasets)",
+  "type": "numeric",
+  "units": "number_of_events",
+  "labels": [
+    "ptca",
+    "stent",
+    "percutaneous transluminal coronary angioplasty"
+  ],
+  "hybrid": {
+    "VARNUM": "18",
+    "TABLE": "SHHSCVD",
+    "LABEL": "Number of PTCAs Since Baseline",
+    "access level": "0",
+    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "MEMNAME": "shhs_cvd",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

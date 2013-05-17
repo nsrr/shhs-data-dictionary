@@ -1,0 +1,21 @@
+{
+  "id": "ms204c",
+  "display_name": "Morning Survey (SHHS2): Quality of sleep: restless/restful",
+  "description": "4. Rate the actual quality of your sleep last night (Do not compare to usual sleep\r\rquality). My sleep last night was (circle a number for each): c. [5 point Likert scale from \"Restless\" to \"Restful\"]",
+  "type": "choices",
+  "domain": "restlf5",
+  "labels": [
+    "ms204c"
+  ],
+  "hybrid": {
+    "VARNUM": "118",
+    "TABLE": "SHHS2",
+    "LABEL": "MS 4c  Restless vs Restful sleep",
+    "access level": "0",
+    "SOURCE": "Morning Survey (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "PARENT TERM": null
+  }
+}

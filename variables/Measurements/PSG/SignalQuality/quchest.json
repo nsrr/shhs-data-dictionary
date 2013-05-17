@@ -1,0 +1,21 @@
+{
+  "id": "quchest",
+  "display_name": "PSG Quality Assessment (SHHS2): Signal Quality (chest effort)",
+  "description": "Overall quality of signal from thoracic effort belt during sleep as assessed by scorer.",
+  "type": "choices",
+  "domain": "sigqus2",
+  "labels": [
+    "QuChest"
+  ],
+  "hybrid": {
+    "VARNUM": "478",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - quality of chest effort",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

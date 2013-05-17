@@ -1,0 +1,21 @@
+{
+  "id": "chindur",
+  "display_name": "PSG Quality Assessment (SHHS2): hours of usable chin",
+  "description": "Number of hours of usable signal from chin (EMG) lead as assessed by scorer.",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "Chindur"
+  ],
+  "hybrid": {
+    "VARNUM": "465",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - hours of usable chin",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

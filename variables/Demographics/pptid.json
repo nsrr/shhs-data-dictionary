@@ -1,0 +1,21 @@
+{
+  "id": "pptid",
+  "display_name": "Participant records from SHHS2",
+  "description": "Participant records from the SHHS2 visit, including questionnaire data, polysomnography results, and demographic information obtained from the SHHS1 visit.",
+  "type": "identifier",
+  "labels": [
+    "pptid",
+    "id"
+  ],
+  "hybrid": {
+    "VARNUM": "1",
+    "TABLE": "SHHS2",
+    "LABEL": "Participant Identification Number",
+    "access level": "1",
+    "SOURCE": null,
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

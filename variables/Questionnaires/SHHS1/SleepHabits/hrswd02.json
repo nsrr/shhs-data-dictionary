@@ -1,0 +1,21 @@
+{
+  "id": "hrswd02",
+  "display_name": "Sleep Habits (SHHS1): sleep time on weekdays",
+  "description": "How many hours of sleep do you usually get at night (or your main sleep period) on weekdays or workdays? (number of hours, up to 2 digits)",
+  "type": "numeric",
+  "units": "hour",
+  "labels": [
+    "HrsWD02"
+  ],
+  "hybrid": {
+    "VARNUM": "310",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Hrs Slp Wkday 02",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

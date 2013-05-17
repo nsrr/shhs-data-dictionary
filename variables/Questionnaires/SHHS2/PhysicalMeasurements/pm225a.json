@@ -1,0 +1,21 @@
+{
+  "id": "pm225a",
+  "display_name": "Physical Measurements (SHHS2): Unable to lie at 45 degrees",
+  "description": "25. Reason AAI not done, or not done using both legs (Check all that apply.) a. Unable to lie at 45 degrees or less",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "pm225a"
+  ],
+  "hybrid": {
+    "VARNUM": "165",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 25a Unable to lie at 45 degrees",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mnoanba3",
+  "display_name": "Min. Obs. Apnea length w/ arousals (NREM, Back, 3% desat) (SHHS2)",
+  "description": "Min. Obs. Apnea length w/ arousals (NREM, Back, 3% desat) (seconds)",
+  "type": "numeric",
+  "units": "second",
+  "labels": [
+    "mnoanba3"
+  ],
+  "hybrid": {
+    "VARNUM": "692",
+    "TABLE": "SHHS2",
+    "LABEL": "Min. Obs. Apnea length w/ arousals (NREM, Back, 3% desat) (seconds)",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

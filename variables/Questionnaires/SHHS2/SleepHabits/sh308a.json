@@ -1,0 +1,21 @@
+{
+  "id": "sh308a",
+  "display_name": "Sleep Habits (SHHS2): Frequency of trouble falling asleep",
+  "description": "8. Please indicate how often you experience each of the following.  (check one box for each in items a through j)  a. Have trouble falling asleep.",
+  "type": "choices",
+  "domain": "nevralw5",
+  "labels": [
+    "sh308a"
+  ],
+  "hybrid": {
+    "VARNUM": "46",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 8a  Have trouble falling asleep",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

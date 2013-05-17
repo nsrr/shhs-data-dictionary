@@ -1,0 +1,21 @@
+{
+  "id": "quchin",
+  "display_name": "PSG Quality Assessment (SHHS2): Signal Quality (chin)",
+  "description": "Overall quality of signal from chin (EMG) lead during sleep as assessed by scorer.",
+  "type": "choices",
+  "domain": "sigqus2",
+  "labels": [
+    "QuChin"
+  ],
+  "hybrid": {
+    "VARNUM": "475",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - quality of chin",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": null,
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

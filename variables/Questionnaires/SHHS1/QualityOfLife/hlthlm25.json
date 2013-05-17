@@ -1,0 +1,21 @@
+{
+  "id": "hlthlm25",
+  "display_name": "Quality of Life (SHHS1): Health limited your social activities",
+  "description": "During the past 4 weeks, how much of the time: Has your health limited your social activities (like visiting with friends or close relatives)?",
+  "type": "choices",
+  "domain": "ALLNONE5",
+  "labels": [
+    "HLTHLM25"
+  ],
+  "hybrid": {
+    "VARNUM": "275",
+    "TABLE": "SHHS1",
+    "LABEL": "QL Hlth Lmt Soc 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

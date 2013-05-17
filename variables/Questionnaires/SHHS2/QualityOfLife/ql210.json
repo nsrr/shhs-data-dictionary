@@ -1,0 +1,21 @@
+{
+  "id": "ql210",
+  "display_name": "Quality of Life (SHHS2): Health limited your social activities",
+  "description": "10. During the past 4 weeks, how much of the time has your health limited your social activities (like visiting with friends or close relatives)? (Check one box.)",
+  "type": "choices",
+  "domain": "allnone5",
+  "labels": [
+    "ql210"
+  ],
+  "hybrid": {
+    "VARNUM": "194",
+    "TABLE": "SHHS2",
+    "LABEL": "QL 10  Health limited social activities",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

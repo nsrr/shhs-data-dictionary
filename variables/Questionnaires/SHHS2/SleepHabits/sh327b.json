@@ -1,0 +1,21 @@
+{
+  "id": "sh327b",
+  "display_name": "Sleep Habits (SHHS2): Cans of cola per day",
+  "description": "27. How many glasses or cans of cola or other soda with caffeine do you drink on a typical day? _________ cans",
+  "type": "numeric",
+  "units": "cans",
+  "labels": [
+    "sh327b"
+  ],
+  "hybrid": {
+    "VARNUM": "73",
+    "TABLE": "SHHS2",
+    "LABEL": "SH 27  Cans of cola per day",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

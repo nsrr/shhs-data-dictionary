@@ -1,0 +1,21 @@
+{
+  "id": "rcvddtqa",
+  "display_name": "PSG Quality Assessment (SHHS1): Date Received at RC",
+  "description": "",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "RcvdDtqa"
+  ],
+  "hybrid": {
+    "VARNUM": "585",
+    "TABLE": "SHHS1",
+    "LABEL": "Date Received at RC",
+    "access level": "0",
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "PARENT TERM": null
+  }
+}

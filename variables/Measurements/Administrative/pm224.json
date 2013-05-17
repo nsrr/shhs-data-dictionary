@@ -1,0 +1,21 @@
+{
+  "id": "pm224",
+  "display_name": "Physical Measurements (SHHS2): AAI collected within window",
+  "description": "24. Ankle-Arm index measurement within the data collection window?",
+  "type": "choices",
+  "domain": "aaiwin",
+  "labels": [
+    "pm224"
+  ],
+  "hybrid": {
+    "VARNUM": "151",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 24  AAI collected within window",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

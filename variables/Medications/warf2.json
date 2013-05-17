@@ -1,0 +1,21 @@
+{
+  "id": "warf2",
+  "display_name": "Oral Anticoagulants Including Warfarin, Coumadin, And Anisindione (SHHS2)",
+  "description": "Patient taking ORAL ANTICOAGULANTS INCLUDING WARFARIN, COUMADIN, AND ANISINDIONE within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "WARF2"
+  ],
+  "hybrid": {
+    "VARNUM": "320",
+    "TABLE": "SHHS2",
+    "LABEL": "ORAL ANTICOAGULANTS INCLUDING WARFARIN, COUMADIN, AND ANISINDIONE",
+    "access level": "0",
+    "SOURCE": "Medication Form (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Medications (MD).pdf",
+    "PARENT TERM": null
+  }
+}

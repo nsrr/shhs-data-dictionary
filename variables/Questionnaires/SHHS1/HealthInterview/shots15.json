@@ -1,0 +1,21 @@
+{
+  "id": "shots15",
+  "display_name": "Health Interview (SHHS1): drinks with hard liquor per week",
+  "description": "How many drinks with hard liquor (1 shot) do you usually have per week? (number of drinks, up to 2 digits)",
+  "type": "numeric",
+  "units": "drinks",
+  "labels": [
+    "SHOTS15"
+  ],
+  "hybrid": {
+    "VARNUM": "137",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Shots Wk 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

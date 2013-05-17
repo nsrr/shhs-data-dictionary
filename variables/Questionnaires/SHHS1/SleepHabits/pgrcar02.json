@@ -1,0 +1,21 @@
+{
+  "id": "pgrcar02",
+  "display_name": "Sleep Habits (SHHS1): Fall asleep while a passenger in a car",
+  "description": "What is chance that you would doze off or fall asleep while as a passenger in a car for an hour without a break?",
+  "type": "choices",
+  "domain": "NHCHAN4",
+  "labels": [
+    "PgrCar02"
+  ],
+  "hybrid": {
+    "VARNUM": "345",
+    "TABLE": "SHHS1",
+    "LABEL": "SH Riding as passenger in a car",
+    "access level": "0",
+    "SOURCE": "Sleep Habits (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "PARENT TERM": null
+  }
+}

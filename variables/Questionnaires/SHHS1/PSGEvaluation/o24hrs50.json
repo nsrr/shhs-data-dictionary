@@ -1,0 +1,21 @@
+{
+  "id": "o24hrs50",
+  "display_name": "PSG Evaluation (SHHS1): at least 4 hours of oximetry AND airflow data",
+  "description": "Is there at least 4 hours of oximetry AND airflow data?",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "O24HRS50"
+  ],
+  "hybrid": {
+    "VARNUM": "289",
+    "TABLE": "SHHS1",
+    "LABEL": "SR 4hrs Ox AF 50",
+    "access level": "0",
+    "SOURCE": "PSG Evaluation (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "PARENT TERM": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "clinic",
+  "display_name": "Collection Site ID (SHHS2)",
+  "description": "Site ID number as reported by Parent Cohort",
+  "type": "choices",
+  "domain": "siteid",
+  "labels": [
+    "clinic"
+  ],
+  "hybrid": {
+    "VARNUM": "3",
+    "TABLE": "SHHS2",
+    "LABEL": "Site ID number as reported by Parent Cohort",
+    "access level": "1",
+    "SOURCE": null,
+    "MEMNAME": "shhs2_1",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": null
+  }
+}

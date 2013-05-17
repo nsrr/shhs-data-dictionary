@@ -1,0 +1,21 @@
+{
+  "id": "dias120",
+  "display_name": "Diastolic BP: reading 1 of 3 (SHHS1)",
+  "description": "Seated diastolic BP- first reading (number, up to 3 digits)",
+  "type": "numeric",
+  "units": "millimeters_of_mercury",
+  "labels": [
+    "DIAS120"
+  ],
+  "hybrid": {
+    "VARNUM": "72",
+    "TABLE": "SHHS1",
+    "LABEL": "BP Dias 1st 20",
+    "access level": "0",
+    "SOURCE": "Blood Pressure Form (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Blood Pressure Form (BP).pdf",
+    "PARENT TERM": "bp:diastolic"
+  }
+}

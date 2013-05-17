@@ -1,0 +1,21 @@
+{
+  "id": "pm203",
+  "display_name": "Physical Measurements (SHHS2): Date of weight measurement",
+  "description": "A. Weight measurement  3. Date of measurement: [month-day-year]",
+  "type": "numeric",
+  "units": "days_from_index_day",
+  "labels": [
+    "pm203"
+  ],
+  "hybrid": {
+    "VARNUM": "137",
+    "TABLE": "SHHS2",
+    "LABEL": "PM 3   Date of weight measurement",
+    "access level": "0",
+    "SOURCE": "Physical Measurements (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "PARENT TERM": null
+  }
+}

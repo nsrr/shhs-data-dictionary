@@ -1,0 +1,21 @@
+{
+  "id": "shhs2_ql",
+  "display_name": "Has SHHS2 Quality of Life form",
+  "description": "Quality of Life form present 0-No, 1-Yes",
+  "type": "choices",
+  "domain": "yesnof",
+  "labels": [
+    "shhs2_ql"
+  ],
+  "hybrid": {
+    "VARNUM": "330",
+    "TABLE": "SHHS2",
+    "LABEL": "Quality of Life form present 0-No, 1-Yes",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

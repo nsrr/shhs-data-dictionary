@@ -1,0 +1,21 @@
+{
+  "id": "climb125",
+  "display_name": "Quality of Life (SHHS1): Health limits climbing one flight of stairs",
+  "description": "Does your health now limit you in this activity, and if so, how much: Climbing one flight of stairs",
+  "type": "choices",
+  "domain": "LOTLIT3",
+  "labels": [
+    "CLIMB125"
+  ],
+  "hybrid": {
+    "VARNUM": "250",
+    "TABLE": "SHHS1",
+    "LABEL": "QL 1Stair Lmt 25",
+    "access level": "0",
+    "SOURCE": "Quality of Life (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

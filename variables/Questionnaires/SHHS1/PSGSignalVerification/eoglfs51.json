@@ -1,0 +1,21 @@
+{
+  "id": "eoglfs51",
+  "display_name": "PSG Signal Verification (SHHS1): Impedence check 1: EOG (L)",
+  "description": "First impedency check of EOG (L) (kohms)",
+  "type": "numeric",
+  "units": "kohms",
+  "labels": [
+    "EOGLFS51"
+  ],
+  "hybrid": {
+    "VARNUM": "643",
+    "TABLE": "SHHS1",
+    "LABEL": "Impedence check 1: EOG (L)",
+    "access level": "0",
+    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "MEMNAME": "shhs1_2",
+    "most commonly used": null,
+    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "PARENT TERM": null
+  }
+}

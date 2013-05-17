@@ -1,0 +1,22 @@
+{
+  "id": "pctlt85",
+  "display_name": "Percent Sleep time with < 85% SaO2 (SHHS2)",
+  "description": "Percent of sleep time with oxygen saturation < 85%  [100*(Total Number of minutes with SaO2 < 85) / (total sleep time)]",
+  "type": "numeric",
+  "units": "percent",
+  "calculation": "pctlt85 = pctsa85h",
+  "labels": [
+    "pctlt85"
+  ],
+  "hybrid": {
+    "VARNUM": "576",
+    "TABLE": "SHHS2",
+    "LABEL": "Calculated - pct time < 85% desat",
+    "access level": "0",
+    "SOURCE": "PSG Report (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": null,
+    "PARENT TERM": "psg:pctsleeptime"
+  }
+}

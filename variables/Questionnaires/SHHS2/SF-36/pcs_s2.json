@@ -1,0 +1,21 @@
+{
+  "id": "pcs_s2",
+  "display_name": "SF-36 Calculated (SHHS2): Physical Component Scale Standardized Score",
+  "description": "",
+  "type": "numeric",
+  "units": "score",
+  "labels": [
+    "PCS_s2"
+  ],
+  "hybrid": {
+    "VARNUM": "241",
+    "TABLE": "SHHS2",
+    "LABEL": "STANDARDIZED PHYSICAL COMPONENT SCALE-00",
+    "access level": "0",
+    "SOURCE": "SF-36 Calculated (SHHS2)",
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "PARENT TERM": null
+  }
+}

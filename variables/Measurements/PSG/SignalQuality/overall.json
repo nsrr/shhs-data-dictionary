@@ -1,0 +1,21 @@
+{
+  "id": "overall",
+  "display_name": "PSG Quality Assessment (SHHS2): Overall signal quality",
+  "description": "Overall study grade as assigned by scorer.  The overall quality grade is based on the quality and duration of EEG, respiratory and oximetry signals.",
+  "type": "choices",
+  "domain": "ovqus2",
+  "labels": [
+    "Overall"
+  ],
+  "hybrid": {
+    "VARNUM": "481",
+    "TABLE": "SHHS2",
+    "LABEL": "QS - Overall study grade",
+    "access level": "0",
+    "SOURCE": "PSG QS Form (SHHS2)",
+    "MEMNAME": "shhs2_2",
+    "most commonly used": "1",
+    "filename": "SHHS2 PSG QS form.pdf",
+    "PARENT TERM": null
+  }
+}

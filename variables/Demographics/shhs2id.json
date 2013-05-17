@@ -1,0 +1,21 @@
+{
+  "id": "shhs2id",
+  "display_name": "SHHS2 ID",
+  "description": "SHHS2ID - identifies sleep study from SHHS2",
+  "type": "identifier",
+  "labels": [
+    "shhs2id"
+  ],
+  "hybrid": {
+    "VARNUM": "7",
+    "TABLE": "SHHS2",
+    "LABEL": "SHHS2ID - identifies sleep study from SHHS2",
+    "access level": "0",
+    "SOURCE": null,
+    "MEMNAME": "shhs2_1",
+    "most commonly used": null,
+    "filename": null,
+    "PARENT TERM": null,
+    "type": "file locator"
+  }
+}

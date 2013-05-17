@@ -1,0 +1,21 @@
+{
+  "id": "agesmk15",
+  "display_name": "Health Interview (SHHS1): Age started smoking",
+  "description": "Age started smoking? (years) (number of years, up to 2 digits)",
+  "type": "numeric",
+  "units": "year",
+  "labels": [
+    "AGESMK15"
+  ],
+  "hybrid": {
+    "VARNUM": "124",
+    "TABLE": "SHHS1",
+    "LABEL": "HI AgeSmoke 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

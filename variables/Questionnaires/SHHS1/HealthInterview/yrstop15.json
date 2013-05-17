@@ -1,0 +1,21 @@
+{
+  "id": "yrstop15",
+  "display_name": "Health Interview (SHHS1): year stopped smoking",
+  "description": "If no to [SMKNOW15]: year stopped smoking? (4 digit year)",
+  "type": "numeric",
+  "units": "year",
+  "labels": [
+    "YRSTOP15"
+  ],
+  "hybrid": {
+    "VARNUM": "129",
+    "TABLE": "SHHS1",
+    "LABEL": "HI Year Stop Smk 15",
+    "access level": "0",
+    "SOURCE": "Health Interview (SHHS1)",
+    "MEMNAME": "shhs1_1",
+    "most commonly used": null,
+    "filename": "SHHS1 Health Interview (HI).pdf",
+    "PARENT TERM": null
+  }
+}

@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "ACE1"
+    "ace1"
   ],
   "hybrid": {
     "VARNUM": "197",

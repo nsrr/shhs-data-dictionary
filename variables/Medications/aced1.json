@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "ACED1"
+    "aced1",
+    "angiotensin-converting-enzyme"
   ],
   "hybrid": {
     "VARNUM": "198",

@@ -1,11 +1,11 @@
 {
   "id": "ace2",
-  "display_name": "Ace Inhibitors Without Diuretics (SHHS2)",
+  "display_name": "ACE inhibitors without diuretics (SHHS2)",
   "description": "Patient taking ACE INHIBITORS WITHOUT DIURETICS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "ACE2"
+    "ace2"
   ],
   "hybrid": {
     "VARNUM": "245",

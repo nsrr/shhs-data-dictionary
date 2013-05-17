@@ -1,7 +1,7 @@
 {
   "id": "gender",
   "display_name": "Gender (SHHS2)",
-  "description": "Gender as reported by Parent Cohort",
+  "description": "Gender as reported by parent cohort",
   "type": "choices",
   "domain": "gendermf",
   "labels": [

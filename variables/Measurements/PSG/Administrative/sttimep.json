@@ -3,7 +3,6 @@
   "display_name": "PSG (SHHS1): PSG Start Time",
   "description": "Start time of PSG recording",
   "type": "numeric",
-  "domain": "DATETIME",
   "units": "minute",
   "hybrid": {
     "VARNUM": "500",

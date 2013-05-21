@@ -2,9 +2,7 @@
   "id": "stloutp",
   "display_name": "Lights out time (SHHS2)",
   "description": "Lights out time (hh:mm:ss)",
-  "type": "numeric",
-  "domain": "time",
-  "units": "time",
+  "type": "time",
   "labels": [
     "stloutp"
   ],

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "regular (arm circumference= 22.6-30.0 cm)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "large arm (arm circumference= 30.1-37.5 cm)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "pediatric (arm circumference= 16.0-22.5 cm)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "thigh (arm circumference = 37.6-43.7 cm)",
+    "description": ""
+  }
+]

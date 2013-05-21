@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Resting, sitting or lying down",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Exercising or just stopped exercising",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Standing or walking",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Having a leg cramp or \"charlie horse\"",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

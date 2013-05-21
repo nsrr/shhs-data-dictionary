@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Yes",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Not applicable",
+    "description": ""
+  }
+]

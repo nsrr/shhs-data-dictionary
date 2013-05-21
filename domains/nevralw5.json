@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "NEVER (0)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "RARELY (1x/month or less)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "SOMETIMES (2-4x/month)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "OFTEN (5-15x/month)",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "ALMOST ALWAYS (16-30x/month)",
+    "description": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Daytime only (before 6 PM)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Bedtime only",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Evening or nighttime only (after 6 PM)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Both day and night",
+    "description": ""
+  }
+]

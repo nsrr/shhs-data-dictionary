@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Signal good for <25% of sleep time",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Signal good for 25-49% of sleep time",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Signal good for 50-74% of sleep time",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Signal good for 75-94% of sleep time",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Signal good for >95% of sleep time",
+    "description": ""
+  }
+]

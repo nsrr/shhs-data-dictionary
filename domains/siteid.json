@@ -1,0 +1,67 @@
+[
+  {
+    "value": "11",
+    "display_name": "11: FRA (Framingham)",
+    "description": ""
+  },
+  {
+    "value": "21",
+    "display_name": "21: HAG (Hagerstown)",
+    "description": ""
+  },
+  {
+    "value": "22",
+    "display_name": "22: HAG (Hagerstown)",
+    "description": ""
+  },
+  {
+    "value": "31",
+    "display_name": "31: MIN (Minneapolis)",
+    "description": ""
+  },
+  {
+    "value": "40",
+    "display_name": "40: NY",
+    "description": ""
+  },
+  {
+    "value": "41",
+    "display_name": "41: NY",
+    "description": ""
+  },
+  {
+    "value": "42",
+    "display_name": "42: NY",
+    "description": ""
+  },
+  {
+    "value": "51",
+    "display_name": "51: PIT (Pittsburgh)",
+    "description": ""
+  },
+  {
+    "value": "52",
+    "display_name": "52: SAC (Sacramento)",
+    "description": ""
+  },
+  {
+    "value": "61",
+    "display_name": "61: SD (South Dakota)",
+    "description": ""
+  },
+  {
+    "value": "62",
+    "display_name": "62: OK (Oklahoma)",
+    "description": ""
+  },
+  {
+    "value": "63",
+    "display_name": "63: PHX (Phoenix)",
+    "description": ""
+  },
+  {
+    "value": "64",
+    "display_name": "64: TUC (Tuscon)",
+    "description": ""
+  }
+]

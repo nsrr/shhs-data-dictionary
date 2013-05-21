@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "married",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "widowed",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "divorced/separated",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "never married",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "unknown/refused",
+    "description": ""
+  }
+]

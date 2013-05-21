@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Never or rarely",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Sometimes",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Often",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Everyday or almost everyday",
+    "description": ""
+  }
+]

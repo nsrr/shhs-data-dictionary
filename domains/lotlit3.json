@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Yes, limited a lot",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Yes, limited a little",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "No, not limited at all",
+    "description": ""
+  }
+]

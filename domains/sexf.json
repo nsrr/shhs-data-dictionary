@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "Female",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Male",
+    "description": ""
+  },
+  {
+    "value": ".D",
+    "display_name": "Data not collected",
+    "description": ""
+  },
+  {
+    "value": ".M",
+    "display_name": "Missing data",
+    "description": ""
+  },
+  {
+    "value": ".N",
+    "display_name": "Not Applicable",
+    "description": ""
+  }
+]

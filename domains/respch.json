@@ -1,0 +1,37 @@
+[
+  {
+    "value": "1",
+    "display_name": "Thermistor",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Chest",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Abdomen",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Combination of chest and abdomen",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Combination of thermistor and chest",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Combination of thermistor and abdomen",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Combination of all 3 channels",
+    "description": ""
+  }
+]

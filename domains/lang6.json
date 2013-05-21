@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "English",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Spanish",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Lakota",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Pima",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other, specify:",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Unknown",
+    "description": ""
+  }
+]

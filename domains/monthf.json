@@ -1,0 +1,77 @@
+[
+  {
+    "value": "1",
+    "display_name": "January",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "February",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "March",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "April",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "May",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "June",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "July",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "August",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "September",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "October",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "November",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "December",
+    "description": ""
+  },
+  {
+    "value": ".D",
+    "display_name": "Data not collected",
+    "description": ""
+  },
+  {
+    "value": ".M",
+    "display_name": "Missing data",
+    "description": ""
+  },
+  {
+    "value": ".N",
+    "display_name": "Not Applicable",
+    "description": ""
+  }
+]

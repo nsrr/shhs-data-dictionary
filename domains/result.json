@@ -1,0 +1,42 @@
+[
+  {
+    "value": "1",
+    "display_name": "scheduled sleep study for date [SCHDT03]",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Refused for reason [REFRSN03]",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "unable to participate due to illness",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "participant out of the area for extended time-may call back later,after this date [CBDT03]",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Unable to locate",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "participant deceased",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Did not respond to mail contact",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Other",
+    "description": ""
+  }
+]

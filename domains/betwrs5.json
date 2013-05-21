@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Much better now",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Somewhat better now",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "About the same",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Somewhat worse now",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Much worse now",
+    "description": ""
+  }
+]

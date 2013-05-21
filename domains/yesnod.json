@@ -1,0 +1,32 @@
+[
+  {
+    "value": "0",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Yes",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Unsure",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Don't know",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Unknown",
+    "description": ""
+  },
+  {
+    "value": "9999",
+    "display_name": "Unknown",
+    "description": ""
+  }
+]

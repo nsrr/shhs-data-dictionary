@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Supine position",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Semi-supine position",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

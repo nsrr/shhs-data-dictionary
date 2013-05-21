@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Definitely true",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Mostly true",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Not sure",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Mostly false",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Definitely false",
+    "description": ""
+  }
+]

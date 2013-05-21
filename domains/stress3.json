@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "A typical day",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Less stressful than usual",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "More stressful than usual",
+    "description": ""
+  }
+]

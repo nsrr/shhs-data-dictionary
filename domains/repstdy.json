@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "First Study",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Repeat Study",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Second Repeat",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Third Repeat",
+    "description": ""
+  }
+]

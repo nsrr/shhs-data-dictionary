@@ -1,0 +1,37 @@
+[
+  {
+    "value": "0",
+    "display_name": "Would Never Doze",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Slight Chance of Dozing",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Moderate Chance of Dozing",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "High Chance of Dozing",
+    "description": ""
+  },
+  {
+    "value": ".D",
+    "display_name": "Data not collected",
+    "description": ""
+  },
+  {
+    "value": ".M",
+    "display_name": "Missing",
+    "description": ""
+  },
+  {
+    "value": ".N",
+    "display_name": "Not applicable (does not drive)",
+    "description": ""
+  }
+]

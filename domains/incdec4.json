@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Increasing over time?",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Decreasing over time?",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Staying the same?",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

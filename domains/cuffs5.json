@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Regular",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Large arm",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Pediatric",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Thigh",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

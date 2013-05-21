@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Another person in same bed",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Another person in same room but different bed",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Alone in room",
+    "description": ""
+  }
+]

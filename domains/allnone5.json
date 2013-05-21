@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "All of the time",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Most of the time",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Some of the time",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "A little of the time",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "None of the time",
+    "description": ""
+  }
+]

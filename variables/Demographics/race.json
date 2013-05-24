@@ -1,6 +1,6 @@
 {
   "id": "race",
-  "display_name": "Race (SHHS2)",
+  "display_name": "Race",
   "description": "Race category as reported by Parent Cohort",
   "type": "choices",
   "domain": "race6",
@@ -8,14 +8,9 @@
     "race"
   ],
   "hybrid": {
-    "VARNUM": "5",
-    "TABLE": "SHHS2",
-    "LABEL": "Race as reported by Parent Cohort",
     "access level": "0",
     "SOURCE": null,
-    "MEMNAME": "shhs2_1",
     "most commonly used": "1",
-    "filename": null,
-    "PARENT TERM": "demo:race"
+    "filename": null
   }
 }

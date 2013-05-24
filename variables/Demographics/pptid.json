@@ -8,14 +8,10 @@
     "id"
   ],
   "hybrid": {
-    "VARNUM": "1",
-    "TABLE": "SHHS2",
     "LABEL": "Participant Identification Number",
     "access level": "1",
     "SOURCE": null,
-    "MEMNAME": "shhs2_1",
     "most commonly used": "1",
-    "filename": null,
-    "PARENT TERM": null
+    "filename": null
   }
 }

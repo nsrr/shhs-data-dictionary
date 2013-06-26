@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "BENZOD2"
+    "BENZOD1"
   ],
   "hybrid": {
     "VARNUM": "173",

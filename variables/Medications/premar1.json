@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "PRMRN2"
+    "PREMAR1"
   ],
   "hybrid": {
     "VARNUM": "174",

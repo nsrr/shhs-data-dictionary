@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "TCAP2"
+    "TCAP1"
   ],
   "hybrid": {
     "VARNUM": "169",

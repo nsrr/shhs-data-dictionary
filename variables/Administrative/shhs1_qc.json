@@ -12,7 +12,7 @@
     "TABLE": "SHHS1",
     "LABEL": "Sleep Study QC form present 0-No, 1-Yes",
     "access level": "0",
-    "SOURCE": null,
+    "SOURCE": "PSG Quality Assessment (SHHS1)",
     "MEMNAME": "shhs1_2",
     "most commonly used": null,
     "filename": "SHHS1 PSG Quality Assessment (QC).pdf",

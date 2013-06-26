@@ -5,17 +5,13 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "in_shhs2"
+    "in_shhs2", "SHHS2 Participant"
   ],
   "hybrid": {
     "VARNUM": "9",
-    "TABLE": "SHHS1",
-    "LABEL": "SHHS2 Participant",
     "access level": "0",
     "SOURCE": null,
-    "MEMNAME": "shhs1_1",
     "most commonly used": "1",
-    "filename": null,
-    "PARENT TERM": null
+    "filename": null
   }
 }

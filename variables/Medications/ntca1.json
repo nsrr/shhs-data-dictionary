@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "NTCA2"
+    "NTCA1"
   ],
   "hybrid": {
     "VARNUM": "176",

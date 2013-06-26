@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "INSLN2"
+    "INSULN2"
   ],
   "hybrid": {
     "VARNUM": "281",

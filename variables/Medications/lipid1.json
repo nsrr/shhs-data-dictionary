@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "LIPID2"
+    "LIPID1"
   ],
   "hybrid": {
     "VARNUM": "163",

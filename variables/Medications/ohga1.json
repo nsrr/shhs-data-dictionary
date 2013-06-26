@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "OHGA2"
+    "OHGA1"
   ],
   "hybrid": {
     "VARNUM": "164",

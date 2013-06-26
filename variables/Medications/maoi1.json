@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "MAOI2"
+    "MAOI1"
   ],
   "hybrid": {
     "VARNUM": "168",

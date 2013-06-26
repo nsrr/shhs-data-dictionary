@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "NSAID2"
+    "NSAID1"
   ],
   "hybrid": {
     "VARNUM": "172",

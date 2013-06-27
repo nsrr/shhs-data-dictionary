@@ -1,5 +1,5 @@
 {
-  "id": "mi",
+  "id": "mi_hx",
   "display_name": "History of Heart Attack (SHHS1)",
   "description": "Prevalent heart attacks (TucsonCVD) 0=no previous history 1=previous history",
   "type": "choices",

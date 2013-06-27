@@ -1,5 +1,5 @@
 {
-  "id": "mi",
+  "id": "post_mi",
   "display_name": "Number of MIs Since Baseline (SHHSCVD)",
   "description": "MI since baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",

@@ -1,5 +1,5 @@
 {
-  "id": "slptime",
+  "id": "slp_time_shhs1",
   "display_name": "PSG Quality Assessment (SHHS1): Total Sleep Time",
   "description": "Total sleep time as assessed by scorer",
   "type": "numeric",

@@ -1,11 +1,11 @@
 {
-  "id": "cd_label",
+  "id": "cd_label_shhs1",
   "display_name": "PSG Quality Assessment (SHHS1): CD label",
   "description": "",
   "type": "text",
   "labels": [
     "CDLabel",
-    " CD_Label"
+    "CD_Label"
   ],
   "hybrid": {
     "VARNUM": "621",

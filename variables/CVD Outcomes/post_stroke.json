@@ -1,5 +1,5 @@
 {
-  "id": "stroke",
+  "id": "post_stroke",
   "display_name": "Number of Strokes Since Baseline (SHHSCVD)",
   "description": "Stroke since baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",

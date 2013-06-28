@@ -5,8 +5,7 @@
   "type": "numeric",
   "units": "days_from_index_date",
   "labels": [
-    "tto_angdate",
-    "angina"
+    "tto_angdate"
   ],
   "hybrid": {
     "VARNUM": "28",

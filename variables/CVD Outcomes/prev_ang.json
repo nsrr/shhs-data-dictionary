@@ -5,8 +5,7 @@
   "type": "numeric",
   "units": "number_of_events",
   "labels": [
-    "prev_ang",
-    "angina"
+    "prev_ang"
   ],
   "hybrid": {
     "VARNUM": "14",

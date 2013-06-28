@@ -1,9 +1,12 @@
 {
-  "id": "sleep_latency",
-  "display_name": "PSG Scoring Notes (SHHS1): Sleep Latency",
+  "id": "latreliable1",
+  "display_name": "PSG Scoring Notes (SHHS1): Sleep Latency reliability",
   "description": "",
   "type": "choices",
   "domain": "LATREL",
+  "labels": [
+    "latreliable1"
+  ],
   "hybrid": {
     "VARNUM": "694",
     "TABLE": "SHHS1",

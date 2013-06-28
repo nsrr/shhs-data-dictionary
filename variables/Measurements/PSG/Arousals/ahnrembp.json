@@ -1,7 +1,7 @@
 {
   "id": "ahnrembp",
-  "display_name": "Arousals per hour (NREM, Back, all desats) (SHHS2)",
-  "description": "Arousals per hour (NREM, Back, all desats)",
+  "display_name": "Arousals per hour (NREM, Back, all desats)",
+  "description": "",
   "type": "numeric",
   "units": "events_per_hour",
   "labels": [
@@ -9,11 +9,8 @@
   ],
   "hybrid": {
     "VARNUM": "326",
-    "TABLE": "SHHS2",
-    "LABEL": "Arousals per hour (NREM, Back, all desats)",
     "access level": "0",
     "SOURCE": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
     "most commonly used": null,
     "filename": null,
     "PARENT TERM": "psg:ai"

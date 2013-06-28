@@ -1,6 +1,6 @@
 {
   "id": "ai_all",
-  "display_name": "Arousal Index (SHHS2)",
+  "display_name": "Arousal Index",
   "description": "Total number of arousals per hour of sleep.  Ratio of count of arousals to total sleep time in hours.   [(Total number of arousals) / (hours of sleep)]",
   "type": "numeric",
   "units": "events_per_hour",
@@ -10,11 +10,9 @@
   ],
   "hybrid": {
     "VARNUM": "535",
-    "TABLE": "SHHS2",
     "LABEL": "Calculated - arousal index all",
     "access level": "0",
     "SOURCE": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
     "most commonly used": "1",
     "filename": null,
     "PARENT TERM": "psg:ai"

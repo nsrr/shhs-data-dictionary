@@ -1,6 +1,6 @@
 {
   "id": "ai_nrem",
-  "display_name": "Arousal Index (NREM) (SHHS2)",
+  "display_name": "Arousal Index (NREM)",
   "description": "Non-REM Arousal Index - total arousals in non-REM sleep per hours of non-REM sleep  [(Total number of arousals in non-REM sleep) / (hours of non-REM sleep)]",
   "type": "numeric",
   "units": "events_per_hour",
@@ -10,11 +10,9 @@
   ],
   "hybrid": {
     "VARNUM": "537",
-    "TABLE": "SHHS2",
     "LABEL": "Calculated - arousal index non-rem",
     "access level": "0",
     "SOURCE": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
     "most commonly used": null,
     "filename": null,
     "PARENT TERM": "psg:ai"

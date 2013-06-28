@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnof",
   "labels": [
-    "PRGOST1"
+    "PROGST1"
   ],
   "hybrid": {
     "VARNUM": "160",

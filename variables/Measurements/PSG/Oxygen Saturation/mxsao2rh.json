@@ -1,6 +1,6 @@
 {
   "id": "mxsao2rh",
-  "display_name": "Max. SaO2 % during REM sleep (SHHS2)",
+  "display_name": "Max. SaO2 % during REM sleep",
   "description": "Max. SaO2 % during REM sleep",
   "type": "numeric",
   "units": "percent",

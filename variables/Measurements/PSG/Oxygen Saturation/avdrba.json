@@ -1,6 +1,6 @@
 {
   "id": "avdrba",
-  "display_name": "Avg. Desat w/ arousals (REM, Back, all desats) (SHHS2)",
+  "display_name": "Avg. Desat w/ arousals (REM, Back, all desats)",
   "description": "Avg. Desat w/ arousals (REM, Back, all desats)",
   "type": "numeric",
   "units": "percent",

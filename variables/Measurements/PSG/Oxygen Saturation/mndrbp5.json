@@ -1,6 +1,6 @@
 {
   "id": "mndrbp5",
-  "display_name": "Min. SaO2 (REM, Back, 5% desat) (SHHS2)",
+  "display_name": "Min. SaO2 (REM, Back, 5% desat)",
   "description": "Min. SaO2 (REM, Back, 5% desat) (%)",
   "type": "numeric",
   "units": "percent",

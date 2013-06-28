@@ -1,6 +1,6 @@
 {
   "id": "avsao2rh",
-  "display_name": "Avg. SaO2 % during REM sleep (SHHS2)",
+  "display_name": "Avg. SaO2 % during REM sleep",
   "description": "Avg. SaO2 % during REM sleep",
   "type": "numeric",
   "units": "percent",

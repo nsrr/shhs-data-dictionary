@@ -1,6 +1,6 @@
 {
   "id": "mndnoa",
-  "display_name": "Min. SaO2 w/ arousals (NREM, Other, all desats) (SHHS2)",
+  "display_name": "Min. SaO2 w/ arousals (NREM, Other, all desats)",
   "description": "Min. SaO2 w/ arousals (NREM, Other, all desats) (%)",
   "type": "numeric",
   "units": "percent",

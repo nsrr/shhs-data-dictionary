@@ -1,6 +1,6 @@
 {
   "id": "avdnba3",
-  "display_name": "Avg. Desat w/ arousals (NREM, Back, 3% desat) (SHHS2)",
+  "display_name": "Avg. Desat w/ arousals (NREM, Back, 3% desat)",
   "description": "Avg. Desat w/ arousals (NREM, Back, 3% desat)",
   "type": "numeric",
   "units": "percent",

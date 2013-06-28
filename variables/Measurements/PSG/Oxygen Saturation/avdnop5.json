@@ -1,6 +1,6 @@
 {
   "id": "avdnop5",
-  "display_name": "Avg. Desat (NREM, Other, 5% desat) (SHHS2)",
+  "display_name": "Avg. Desat (NREM, Other, 5% desat)",
   "description": "Avg. Desat (NREM, Other, 5% desat)",
   "type": "numeric",
   "units": "percent",

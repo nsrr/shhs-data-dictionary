@@ -1,6 +1,6 @@
 {
   "id": "minsat",
-  "display_name": "Minimum SaO2 in sleep (SHHS2)",
+  "display_name": "Minimum SaO2 in sleep",
   "description": "Lowest SaO2% during sleep  [Min(all SaO2 values in sleep)]",
   "type": "numeric",
   "units": "percent",

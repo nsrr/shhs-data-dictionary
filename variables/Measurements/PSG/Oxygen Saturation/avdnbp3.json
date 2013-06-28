@@ -1,6 +1,6 @@
 {
   "id": "avdnbp3",
-  "display_name": "Avg. Desat (NREM, Back, 3% desat) (SHHS2)",
+  "display_name": "Avg. Desat (NREM, Back, 3% desat)",
   "description": "Avg. Desat (NREM, Back, 3% desat)",
   "type": "numeric",
   "units": "percent",

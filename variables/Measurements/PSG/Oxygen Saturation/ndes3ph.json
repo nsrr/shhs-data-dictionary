@@ -1,6 +1,6 @@
 {
   "id": "ndes3ph",
-  "display_name": "# of desat with >= 3% desat (SHHS2)",
+  "display_name": "# of desat with >= 3% desat",
   "description": "# of desat with >= 3% desat",
   "type": "numeric",
   "units": "event_count",

@@ -1,6 +1,6 @@
 {
   "id": "sao2nrem",
-  "display_name": "Average SaO2 in non-REM sleep (SHHS2)",
+  "display_name": "Average SaO2 in non-REM sleep",
   "description": "Average SaO2% in non-REM sleep.  The mean of all oxygen saturation values in epochs scored as stages other than REM (i.e., 1,2,3/4).  [Mean(all SaO2 values in NREM sleep)]",
   "type": "numeric",
   "units": "percent",

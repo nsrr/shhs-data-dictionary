@@ -1,6 +1,6 @@
 {
   "id": "mndroa5",
-  "display_name": "Min. SaO2 w/ arousals (REM, Other, 5% desat) (SHHS2)",
+  "display_name": "Min. SaO2 w/ arousals (REM, Other, 5% desat)",
   "description": "Min. SaO2 w/ arousals (REM, Other, 5% desat) (%)",
   "type": "numeric",
   "units": "percent",

@@ -1,6 +1,6 @@
 {
   "id": "avdnop",
-  "display_name": "Avg. Desat (NREM, Other, all desats) (SHHS2)",
+  "display_name": "Avg. Desat (NREM, Other, all desats)",
   "description": "Avg. Desat (NREM, Other, all desats)",
   "type": "numeric",
   "units": "percent",

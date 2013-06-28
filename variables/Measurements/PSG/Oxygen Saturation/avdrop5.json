@@ -1,6 +1,6 @@
 {
   "id": "avdrop5",
-  "display_name": "Avg. Desat (REM, Other, 5% desat) (SHHS2)",
+  "display_name": "Avg. Desat (REM, Other, 5% desat)",
   "description": "Avg. Desat (REM, Other, 5% desat)",
   "type": "numeric",
   "units": "percent",

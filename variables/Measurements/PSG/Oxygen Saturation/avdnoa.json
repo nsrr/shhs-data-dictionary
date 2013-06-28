@@ -1,6 +1,6 @@
 {
   "id": "avdnoa",
-  "display_name": "Avg. Desat w/ arousals (NREM, Other, all desats) (SHHS2)",
+  "display_name": "Avg. Desat w/ arousals (NREM, Other, all desats)",
   "description": "Avg. Desat w/ arousals (NREM, Other, all desats)",
   "type": "numeric",
   "units": "percent",

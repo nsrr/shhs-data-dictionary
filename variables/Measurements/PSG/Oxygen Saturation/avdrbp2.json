@@ -1,6 +1,6 @@
 {
   "id": "avdrbp2",
-  "display_name": "Avg. Desat (REM, Back, 2% desat) (SHHS2)",
+  "display_name": "Avg. Desat (REM, Back, 2% desat)",
   "description": "Avg. Desat (REM, Back, 2% desat)",
   "type": "numeric",
   "units": "percent",

@@ -1,6 +1,6 @@
 {
   "id": "mndrop",
-  "display_name": "Min. SaO2 (REM, Other, all desats) (SHHS2)",
+  "display_name": "Min. SaO2 (REM, Other, all desats)",
   "description": "Min. SaO2 (REM, Other, all desats) (%)",
   "type": "numeric",
   "units": "percent",

@@ -37,3 +37,5 @@ spout test
 The Data Dictionary is tagged at various time points using Git Tags. The tags are used to reference a series of SQL files that correspond to the data dictionary itself.
 
 For example, SQL files of the underlying data that have been tagged as `v0.1.0` will be compatible with the SHHS Data Dictionary `~> 0.1.0`, (including `0.1.1`, `0.1.2`, `0.1.3`). However if the data dictionary contains changes to the underlying dataset, then the minor version number is bumped, and the patch level is reset to zero.  If, for example, the SQL dataset changed to `v0.2.0`, then it would be compatible with `0.2.0`, `0.2.1`, `0.2.2`, etc.
+
+A full list of changes for each version can be viewed in the [CHANGELOG](https://github.com/sleepepi/shhs-data-dictionary/blob/master/CHANGELOG.md).

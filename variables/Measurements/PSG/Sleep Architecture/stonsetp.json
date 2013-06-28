@@ -1,6 +1,6 @@
 {
   "id": "stonsetp",
-  "display_name": "Sleep onset time (SHHS2)",
+  "display_name": "Sleep onset time",
   "description": "Sleep onset time (hh:mm:ss)",
   "type": "time",
   "labels": [

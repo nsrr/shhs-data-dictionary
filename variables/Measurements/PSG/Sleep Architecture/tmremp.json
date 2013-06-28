@@ -1,6 +1,6 @@
 {
   "id": "tmremp",
-  "display_name": "Pct. sleep time in REM sleep (SHHS2)",
+  "display_name": "Pct. sleep time in REM sleep",
   "description": "Pct. sleep time in REM sleep (%)",
   "type": "numeric",
   "units": "percent",

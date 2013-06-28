@@ -1,6 +1,6 @@
 {
   "id": "stg2t1p",
-  "display_name": "# of stage 2 to stage 1 shifts during sleep (SHHS2)",
+  "display_name": "# of stage 2 to stage 1 shifts during sleep",
   "description": "# of stage 2 to stage 1 shifts during sleep",
   "type": "numeric",
   "units": "event_count",

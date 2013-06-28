@@ -1,6 +1,6 @@
 {
   "id": "remt34p",
-  "display_name": "# of REM to stage 3/4 shifts during sleep (SHHS2)",
+  "display_name": "# of REM to stage 3/4 shifts during sleep",
   "description": "# of REM to stage 3/4 shifts during sleep",
   "type": "numeric",
   "units": "event_count",

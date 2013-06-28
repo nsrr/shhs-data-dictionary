@@ -1,6 +1,6 @@
 {
   "id": "timest34",
-  "display_name": "Time in Stage 3/4 (SHHS2)",
+  "display_name": "Time in Stage 3/4",
   "description": "Total time scored as stage 3/4 rounded to nearest minute",
   "type": "numeric",
   "units": "minute",

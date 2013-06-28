@@ -1,6 +1,6 @@
 {
   "id": "slp_eff",
-  "display_name": "Sleep Efficiency (SHHS2)",
+  "display_name": "Sleep Efficiency",
   "description": "Percentage of time in bed that was spent sleeping, or the ratio of total sleep time to total time in bed, expressed as a percentage.   [100*(total sleep time) / (total time in bed)]",
   "type": "numeric",
   "units": "percent",

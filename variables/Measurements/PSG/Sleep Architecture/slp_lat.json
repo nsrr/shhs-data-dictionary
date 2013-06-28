@@ -1,6 +1,6 @@
 {
   "id": "slp_lat",
-  "display_name": "Sleep latency (SHHS2)",
+  "display_name": "Sleep latency",
   "description": "Time from lights out time to beginning of sleep, rounded to nearest minute",
   "type": "numeric",
   "units": "minute",

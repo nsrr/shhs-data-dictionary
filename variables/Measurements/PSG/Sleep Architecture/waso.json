@@ -1,6 +1,6 @@
 {
   "id": "waso",
-  "display_name": "Wake After Sleep Onset (SHHS2)",
+  "display_name": "Wake After Sleep Onset",
   "description": "Total amount of time spent awake after going to sleep [(time in bed) - (sleep latency) - (total sleep time)]",
   "type": "numeric",
   "units": "minute",

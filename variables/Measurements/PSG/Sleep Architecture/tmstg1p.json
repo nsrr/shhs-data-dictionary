@@ -1,6 +1,6 @@
 {
   "id": "tmstg1p",
-  "display_name": "Pct. sleep time in stage 1 sleep (SHHS2)",
+  "display_name": "Pct. sleep time in stage 1 sleep",
   "description": "Pct. sleep time in stage 1 sleep (%)",
   "type": "numeric",
   "units": "percent",

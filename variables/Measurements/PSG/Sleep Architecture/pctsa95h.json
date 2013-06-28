@@ -1,6 +1,6 @@
 {
   "id": "pctsa95h",
-  "display_name": "% sleep time SaO2 is below < 95% (SHHS2)",
+  "display_name": "% sleep time SaO2 is below < 95%",
   "description": "% sleep time SaO2 is below < 95%",
   "type": "numeric",
   "units": "percent",

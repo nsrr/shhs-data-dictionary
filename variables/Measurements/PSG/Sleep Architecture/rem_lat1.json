@@ -1,6 +1,6 @@
 {
   "id": "rem_lat1",
-  "display_name": "REM Latency I (SHHS2)",
+  "display_name": "REM Latency I",
   "description": "Total time from beginning of sleep to first epoch of REM, rounded to nearest minute",
   "type": "numeric",
   "units": "minute",

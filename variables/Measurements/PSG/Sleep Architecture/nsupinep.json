@@ -1,6 +1,6 @@
 {
   "id": "nsupinep",
-  "display_name": "Percent Time non-supine (SHHS2)",
+  "display_name": "Percent Time non-supine",
   "description": "Percent of sleep time in non-supine body position  [100*(Number of minutes of sleep in non-supine body position) / (total sleep time)] ",
   "type": "numeric",
   "units": "percent",

@@ -1,6 +1,6 @@
 {
   "id": "times34p",
-  "display_name": "Percent Time in Stage 3/4 (SHHS2)",
+  "display_name": "Percent Time in Stage 3/4",
   "description": "Percent of sleep time in stage 3-4 [100*(Number of minutes scored as stage 3-4) / (total sleep time)]",
   "type": "numeric",
   "units": "percent",

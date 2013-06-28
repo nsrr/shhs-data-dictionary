@@ -1,6 +1,6 @@
 {
   "id": "nremepop",
-  "display_name": "Sleep Time (NREM, Other) (SHHS2)",
+  "display_name": "Sleep Time (NREM, Other)",
   "description": "Sleep Time (NREM, Other) (minutes)",
   "type": "numeric",
   "units": "minute",

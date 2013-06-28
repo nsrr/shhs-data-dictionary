@@ -1,6 +1,6 @@
 {
   "id": "pcstah3d",
-  "display_name": "% Sleep time in Apnea+Hypopnea with >3% desat (SHHS2)",
+  "display_name": "% Sleep time in Apnea+Hypopnea with >3% desat",
   "description": "% Sleep time in Apnea+Hypopnea with >3% desat",
   "type": "numeric",
   "units": "percent",

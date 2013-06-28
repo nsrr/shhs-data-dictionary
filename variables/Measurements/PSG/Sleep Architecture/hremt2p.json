@@ -1,6 +1,6 @@
 {
   "id": "hremt2p",
-  "display_name": "# of REM to stage 2 shifts per hour of sleep (SHHS2)",
+  "display_name": "# of REM to stage 2 shifts per hour of sleep",
   "description": "# of REM to stage 2 shifts per hour of sleep",
   "type": "numeric",
   "units": "event_count",

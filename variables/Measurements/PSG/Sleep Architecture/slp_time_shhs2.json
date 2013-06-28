@@ -1,6 +1,6 @@
 {
   "id": "slp_time_shhs2",
-  "display_name": "Total Sleep Time (SHHS2)",
+  "display_name": "Total Sleep Time",
   "description": "Total time from lights out to lights on that was scored as sleep, rounded to nearest minute.  Based on a count of the epochs scored as sleep between lights out and lights on",
   "type": "numeric",
   "units": "minute",

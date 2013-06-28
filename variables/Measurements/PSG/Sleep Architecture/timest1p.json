@@ -1,6 +1,6 @@
 {
   "id": "timest1p",
-  "display_name": "Percent Time in Stage 1 (SHHS2)",
+  "display_name": "Percent Time in Stage 1",
   "description": "Percent of sleep time in stage 1 [100*(Number of minutes scored as stage 1) / (total sleep time)]",
   "type": "numeric",
   "units": "percent",

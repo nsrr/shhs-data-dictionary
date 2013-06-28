@@ -1,6 +1,6 @@
 {
   "id": "pctstapn",
-  "display_name": "% Sleep time in Apnea (SHHS2)",
+  "display_name": "% Sleep time in Apnea",
   "description": "% Sleep time in Apnea",
   "type": "numeric",
   "units": "percent",

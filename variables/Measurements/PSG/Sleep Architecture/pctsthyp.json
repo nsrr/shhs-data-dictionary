@@ -1,6 +1,6 @@
 {
   "id": "pctsthyp",
-  "display_name": "% Sleep time in Hypopnea (SHHS2)",
+  "display_name": "% Sleep time in Hypopnea",
   "description": "% Sleep time in Hypopnea",
   "type": "numeric",
   "units": "percent",

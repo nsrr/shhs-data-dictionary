@@ -1,6 +1,6 @@
 {
   "id": "timest1",
-  "display_name": "Time in Stage 1 (SHHS2)",
+  "display_name": "Time in Stage 1",
   "description": "Total time scored as stage 1 rounded to nearest minute",
   "type": "numeric",
   "units": "minute",

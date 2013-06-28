@@ -1,6 +1,6 @@
 {
   "id": "mnstg34p",
-  "display_name": "Time in stage 3-4 sleep (SHHS2)",
+  "display_name": "Time in stage 3-4 sleep",
   "description": "Time in stage 3-4 sleep (minutes)",
   "type": "numeric",
   "units": "minute",

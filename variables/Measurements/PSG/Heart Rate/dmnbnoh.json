@@ -1,7 +1,7 @@
 {
   "id": "dmnbnoh",
-  "display_name": "Min. Heart Rate with arousal (NREM, Other, 3% desat) (SHHS2)",
-  "description": "Min. Heart Rate with arousal (NREM, Other, 3% desat) (bpm)",
+  "display_name": "Min. Heart Rate with arousal (NREM, Other, 3% desat)",
+  "description": "",
   "type": "numeric",
   "units": "beats_per_minute",
   "labels": [

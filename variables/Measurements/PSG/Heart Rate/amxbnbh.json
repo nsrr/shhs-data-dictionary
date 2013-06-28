@@ -1,7 +1,7 @@
 {
   "id": "amxbnbh",
-  "display_name": "Max. Heart Rate with arousal (NREM, Back, all desats) (SHHS2)",
-  "description": "Max. Heart Rate with arousal (NREM, Back, all desats) (bpm)",
+  "display_name": "Max. Heart Rate with arousal (NREM, Back, all desats)",
+  "description": "",
   "type": "numeric",
   "units": "beats_per_minute",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "savbnoh",
-  "display_name": "Avg. Heart Rate (NREM, Other, all desats) (SHHS2)",
-  "description": "Avg. Heart Rate (NREM, Other, all desats) (bpm)",
+  "display_name": "Avg. Heart Rate (NREM, Other, all desats)",
+  "description": "",
   "type": "numeric",
   "units": "beats_per_minute",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "smxbnoh",
-  "display_name": "Max. Heart Rate (NREM, Other, all desats) (SHHS2)",
-  "description": "Max. Heart Rate (NREM, Other, all desats) (bpm)",
+  "display_name": "Max. Heart Rate (NREM, Other, all desats)",
+  "description": "",
   "type": "numeric",
   "units": "beats_per_minute",
   "labels": [

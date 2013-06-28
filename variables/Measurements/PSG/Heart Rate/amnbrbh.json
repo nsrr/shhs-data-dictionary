@@ -1,7 +1,7 @@
 {
   "id": "amnbrbh",
-  "display_name": "Min. Heart Rate with arousal (REM, Back, all desats) (SHHS2)",
-  "description": "Min. Heart Rate with arousal (REM, Back, all desats) (bpm)",
+  "display_name": "Min. Heart Rate with arousal (REM, Back, all desats)",
+  "description": "",
   "type": "numeric",
   "units": "beats_per_minute",
   "labels": [

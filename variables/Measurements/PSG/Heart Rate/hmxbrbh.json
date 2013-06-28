@@ -1,7 +1,7 @@
 {
   "id": "hmxbrbh",
-  "display_name": "Max. Heart Rate (REM, Back, 3% desat) (SHHS2)",
-  "description": "Max. Heart Rate (REM, Back, 3% desat) (bpm)",
+  "display_name": "Max. Heart Rate (REM, Back, 3% desat)",
+  "description": "",
   "type": "numeric",
   "units": "beats_per_minute",
   "labels": [

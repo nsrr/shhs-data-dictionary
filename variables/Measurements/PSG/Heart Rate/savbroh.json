@@ -1,7 +1,7 @@
 {
   "id": "savbroh",
-  "display_name": "Avg. Heart Rate (REM, Other, all desats) (SHHS2)",
-  "description": "Avg. Heart Rate (REM, Other, all desats) (bpm)",
+  "display_name": "Avg. Heart Rate (REM, Other, all desats)",
+  "description": "",
   "type": "numeric",
   "units": "beats_per_minute",
   "labels": [

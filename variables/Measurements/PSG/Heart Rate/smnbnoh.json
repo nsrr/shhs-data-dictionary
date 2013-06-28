@@ -1,7 +1,7 @@
 {
   "id": "smnbnoh",
-  "display_name": "Min. Heart Rate (NREM, Other, all desats) (SHHS2)",
-  "description": "Min. Heart Rate (NREM, Other, all desats) (bpm)",
+  "display_name": "Min. Heart Rate (NREM, Other, all desats)",
+  "description": "",
   "type": "numeric",
   "units": "beats_per_minute",
   "labels": [

@@ -1,6 +1,6 @@
 {
   "id": "mxhrbp5",
-  "display_name": "Max. Hypopnea length (REM, Back, 5% desat) (SHHS2)",
+  "display_name": "Max. Hypopnea length (REM, Back, 5% desat)",
   "description": "Max. Hypopnea length (REM, Back, 5% desat) (seconds)",
   "type": "numeric",
   "units": "second",

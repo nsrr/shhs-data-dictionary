@@ -1,6 +1,6 @@
 {
   "id": "hnrop5",
-  "display_name": "# of Hypopnea (NREM, Other, 5% desat) (SHHS2)",
+  "display_name": "# of Hypopnea (NREM, Other, 5% desat)",
   "description": "# of Hypopnea (NREM, Other, 5% desat)",
   "type": "numeric",
   "units": "event_count",

@@ -1,6 +1,6 @@
 {
   "id": "rdi3pns",
-  "display_name": "Overall RDI (non-Supine) at 3% desat (SHHS2)",
+  "display_name": "Overall RDI (non-Supine) at 3% desat",
   "description": "Non-Supine RDI at 3% desat  [(Total number of apneas and hypopneas in non-supine body position associated with >= 3% desat) / (hours of sleep)]",
   "type": "numeric",
   "units": "events_per_hour",

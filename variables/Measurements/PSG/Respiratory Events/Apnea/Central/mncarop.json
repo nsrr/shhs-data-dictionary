@@ -1,6 +1,6 @@
 {
   "id": "mncarop",
-  "display_name": "Min. Cent. Apnea length (REM, Other, all desats) (SHHS2)",
+  "display_name": "Min. Cent. Apnea length (REM, Other, all desats)",
   "description": "Min. Cent. Apnea length (REM, Other, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

@@ -1,6 +1,6 @@
 {
   "id": "rdirem5p",
-  "display_name": "Overall RDI (REM) at 5% desat (SHHS2)",
+  "display_name": "Overall RDI (REM) at 5% desat",
   "description": "REM RDI at 5% desat  [(Total number of apneas and hypopneas in REM sleep associated with >= 5% desat) / (hours of REM sleep)]",
   "type": "numeric",
   "units": "events_per_hour",

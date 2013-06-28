@@ -1,6 +1,6 @@
 {
   "id": "rdirem0p",
-  "display_name": "Overall RDI (REM) all desats (SHHS2)",
+  "display_name": "Overall RDI (REM) all desats",
   "description": "REM RDI at all desats  [(Total number of apneas and hypopneas in REM sleep) / (hours of REM sleep)]",
   "type": "numeric",
   "units": "events_per_hour",

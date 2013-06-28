@@ -1,6 +1,6 @@
 {
   "id": "mnhrbp",
-  "display_name": "Min. Hypopnea length (REM, Back, all desats) (SHHS2)",
+  "display_name": "Min. Hypopnea length (REM, Back, all desats)",
   "description": "Min. Hypopnea length (REM, Back, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

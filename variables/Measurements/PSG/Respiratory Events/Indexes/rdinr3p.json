@@ -1,6 +1,6 @@
 {
   "id": "rdinr3p",
-  "display_name": "Overall RDI (NREM) at 3% desat (SHHS2)",
+  "display_name": "Overall RDI (NREM) at 3% desat",
   "description": "Non-REM RDI at 3% desat  [(Total number of apneas and hypopneas in non-REM sleep associated with >= 3% desat) / (hours of NREM sleep)]",
   "type": "numeric",
   "units": "events_per_hour",

@@ -1,6 +1,6 @@
 {
   "id": "avcarop",
-  "display_name": "Avg. Cent. Apnea length (REM, Other, all desats) (SHHS2)",
+  "display_name": "Avg. Cent. Apnea length (REM, Other, all desats)",
   "description": "Avg. Cent. Apnea length (REM, Other, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

@@ -1,6 +1,6 @@
 {
   "id": "avhrba",
-  "display_name": "Avg. Hypopnea length w/ arousals (REM, Back, all desats) (SHHS2)",
+  "display_name": "Avg. Hypopnea length w/ arousals (REM, Back, all desats)",
   "description": "Avg. Hypopnea length w/ arousals (REM, Back, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

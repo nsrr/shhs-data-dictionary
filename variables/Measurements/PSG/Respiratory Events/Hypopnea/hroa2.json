@@ -1,6 +1,6 @@
 {
   "id": "hroa2",
-  "display_name": "# of Hypopnea w/ arousals (REM, Other, 2% desat) (SHHS2)",
+  "display_name": "# of Hypopnea w/ arousals (REM, Other, 2% desat)",
   "description": "# of Hypopnea w/ arousals (REM, Other, 2% desat)",
   "type": "numeric",
   "units": "event_count",

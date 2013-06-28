@@ -1,6 +1,6 @@
 {
   "id": "mxoarop3",
-  "display_name": "Max. Obs. Apnea length (REM, Other, 3% desat) (SHHS2)",
+  "display_name": "Max. Obs. Apnea length (REM, Other, 3% desat)",
   "description": "Max. Obs. Apnea length (REM, Other, 3% desat) (seconds)",
   "type": "numeric",
   "units": "second",

@@ -1,6 +1,6 @@
 {
   "id": "oarbp4",
-  "display_name": "# of Obs. Apnea (REM, Back, 4% desat) (SHHS2)",
+  "display_name": "# of Obs. Apnea (REM, Back, 4% desat)",
   "description": "# of Obs. Apnea (REM, Back, 4% desat)",
   "type": "numeric",
   "units": "event_count",

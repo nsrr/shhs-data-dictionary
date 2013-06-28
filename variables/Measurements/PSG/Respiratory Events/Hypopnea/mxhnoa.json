@@ -1,6 +1,6 @@
 {
   "id": "mxhnoa",
-  "display_name": "Max. Hypopnea length w/ arousals (NREM, Other all desats) (SHHS2)",
+  "display_name": "Max. Hypopnea length w/ arousals (NREM, Other all desats)",
   "description": "Max. Hypopnea length w/ arousals (NREM, Other all desats) (seconds)",
   "type": "numeric",
   "units": "second",

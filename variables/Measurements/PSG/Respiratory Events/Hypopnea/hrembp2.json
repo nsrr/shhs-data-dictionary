@@ -1,6 +1,6 @@
 {
   "id": "hrembp2",
-  "display_name": "# of Hypopnea (REM, Back, 2% desat) (SHHS2)",
+  "display_name": "# of Hypopnea (REM, Back, 2% desat)",
   "description": "# of Hypopnea (REM, Back, 2% desat)",
   "type": "numeric",
   "units": "event_count",

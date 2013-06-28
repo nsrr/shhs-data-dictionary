@@ -1,6 +1,6 @@
 {
   "id": "mncanbp2",
-  "display_name": "Min. Cent. Apnea length (NREM, Back, 2% desat) (SHHS2)",
+  "display_name": "Min. Cent. Apnea length (NREM, Back, 2% desat)",
   "description": "Min. Cent. Apnea length (NREM, Back, 2% desat) (seconds)",
   "type": "numeric",
   "units": "second",

@@ -1,6 +1,6 @@
 {
   "id": "cai4p",
-  "display_name": "Central Apnea Index 4% desat (SHHS2)",
+  "display_name": "Central Apnea Index 4% desat",
   "description": "Central Apnea Index at 4% desat  [(Total number of central apneas associated with >= 4% desat) / (hours of sleep)]",
   "type": "numeric",
   "units": "events_per_hour",

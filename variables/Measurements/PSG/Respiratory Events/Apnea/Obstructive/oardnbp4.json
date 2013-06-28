@@ -1,6 +1,6 @@
 {
   "id": "oardnbp4",
-  "display_name": "Obs. Apnea per hour (NREM, Back, 4% desat) (SHHS2)",
+  "display_name": "Obs. Apnea per hour (NREM, Back, 4% desat)",
   "description": "Obs. Apnea per hour (NREM, Back, 4% desat)",
   "type": "numeric",
   "units": "events_per_hour",

@@ -1,6 +1,6 @@
 {
   "id": "avoanop5",
-  "display_name": "Avg. Obs. Apnea length (NREM, Other, 5% desat) (SHHS2)",
+  "display_name": "Avg. Obs. Apnea length (NREM, Other, 5% desat)",
   "description": "Avg. Obs. Apnea length (NREM, Other, 5% desat) (seconds)",
   "type": "numeric",
   "units": "second",

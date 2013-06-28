@@ -1,6 +1,6 @@
 {
   "id": "rdi4p",
-  "display_name": "Overall RDI at 4% desat (SHHS2)",
+  "display_name": "Overall RDI at 4% desat",
   "description": "Respiratory Disturbance Index at 4% desat.  Ratio of the count of all apneas (central and obstructive) and hypopneas associated with at least a 4% oxygen desaturation to the total sleep time expressed in hours.",
   "type": "numeric",
   "units": "events_per_hour",

@@ -1,6 +1,6 @@
 {
   "id": "mxcanoa5",
-  "display_name": "Max. Cent. Apnea length w/ arousals (NREM, Other 5% desat) (SHHS2)",
+  "display_name": "Max. Cent. Apnea length w/ arousals (NREM, Other 5% desat)",
   "description": "Max. Cent. Apnea length w/ arousals (NREM, Other 5% desat) (seconds)",
   "type": "numeric",
   "units": "second",

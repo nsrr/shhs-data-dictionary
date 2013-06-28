@@ -1,6 +1,6 @@
 {
   "id": "hnrop",
-  "display_name": "# of Hypopnea (NREM, Other, all desats) (SHHS2)",
+  "display_name": "# of Hypopnea (NREM, Other, all desats)",
   "description": "# of Hypopnea (NREM, Other, all desats)",
   "type": "numeric",
   "units": "event_count",

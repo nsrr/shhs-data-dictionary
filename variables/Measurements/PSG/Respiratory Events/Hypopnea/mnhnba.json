@@ -1,6 +1,6 @@
 {
   "id": "mnhnba",
-  "display_name": "Min. Hypopnea length w/ arousals (NREM, Back, all desats) (SHHS2)",
+  "display_name": "Min. Hypopnea length w/ arousals (NREM, Back, all desats)",
   "description": "Min. Hypopnea length w/ arousals (NREM, Back, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

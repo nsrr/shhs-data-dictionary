@@ -1,6 +1,6 @@
 {
   "id": "mnoanoa3",
-  "display_name": "Min. Obs. Apnea length w/ arousals (NREM, Other, 3% desat) (SHHS2)",
+  "display_name": "Min. Obs. Apnea length w/ arousals (NREM, Other, 3% desat)",
   "description": "Min. Obs. Apnea length w/ arousals (NREM, Other, 3% desat) (seconds)",
   "type": "numeric",
   "units": "second",

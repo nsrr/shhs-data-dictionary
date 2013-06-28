@@ -1,6 +1,6 @@
 {
   "id": "avhnoa",
-  "display_name": "Avg. Hypopnea length w/ arousals (NREM, Other, all desats) (SHHS2)",
+  "display_name": "Avg. Hypopnea length w/ arousals (NREM, Other, all desats)",
   "description": "Avg. Hypopnea length w/ arousals (NREM, Other, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

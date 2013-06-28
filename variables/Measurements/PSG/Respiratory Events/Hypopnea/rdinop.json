@@ -1,6 +1,6 @@
 {
   "id": "rdinop",
-  "display_name": "Hypopnea per hour (NREM, Other, all desats) (SHHS2)",
+  "display_name": "Hypopnea per hour (NREM, Other, all desats)",
   "description": "Hypopnea per hour (NREM, Other, all desats)",
   "type": "numeric",
   "units": "events_per_hour",

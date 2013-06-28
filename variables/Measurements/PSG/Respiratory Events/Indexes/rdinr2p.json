@@ -1,6 +1,6 @@
 {
   "id": "rdinr2p",
-  "display_name": "Overall RDI (NREM) at 2% desat (SHHS2)",
+  "display_name": "Overall RDI (NREM) at 2% desat",
   "description": "Non-REM RDI at 2% desat  [(Total number of apneas and hypopneas in non-REM sleep associated with >= 2% desat) / (hours of NREM sleep)]",
   "type": "numeric",
   "units": "events_per_hour",

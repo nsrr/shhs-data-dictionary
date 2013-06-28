@@ -1,6 +1,6 @@
 {
   "id": "oarop",
-  "display_name": "# of Obs. Apnea (REM, Other, all desats) (SHHS2)",
+  "display_name": "# of Obs. Apnea (REM, Other, all desats)",
   "description": "# of Obs. Apnea (REM, Other, all desats)",
   "type": "numeric",
   "units": "event_count",

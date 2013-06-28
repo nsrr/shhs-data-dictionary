@@ -1,6 +1,6 @@
 {
   "id": "rdi3p",
-  "display_name": "Overall RDI at 3% desat (SHHS2)",
+  "display_name": "Overall RDI at 3% desat",
   "description": "Respiratory Disturbance Index at 3% desat.  Ratio of the count of all apneas (central and obstructive) and hypopneas associated with at least a 3% oxygen desaturation to the total sleep time expressed in hours. [(Total number of apneas and hypopneas associated with >= 3% desat) / (hours of sleep)]",
   "type": "numeric",
   "units": "events_per_hour",

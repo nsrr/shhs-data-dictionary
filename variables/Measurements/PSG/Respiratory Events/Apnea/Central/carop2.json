@@ -1,6 +1,6 @@
 {
   "id": "carop2",
-  "display_name": "# of Cent. Apnea (REM, Other, 2% desat) (SHHS2)",
+  "display_name": "# of Cent. Apnea (REM, Other, 2% desat)",
   "description": "# of Cent. Apnea (REM, Other, 2% desat)",
   "type": "numeric",
   "units": "event_count",

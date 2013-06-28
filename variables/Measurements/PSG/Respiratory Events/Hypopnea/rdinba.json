@@ -1,6 +1,6 @@
 {
   "id": "rdinba",
-  "display_name": "Hypopnea per hour w/ arousals (NREM, Back, all desats) (SHHS2)",
+  "display_name": "Hypopnea per hour w/ arousals (NREM, Back, all desats)",
   "description": "Hypopnea per hour w/ arousals (NREM, Back, all desats)",
   "type": "numeric",
   "units": "events_per_hour",

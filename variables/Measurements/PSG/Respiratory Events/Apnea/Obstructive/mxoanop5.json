@@ -1,6 +1,6 @@
 {
   "id": "mxoanop5",
-  "display_name": "Max. Obs. Apnea length (NREM, Other 5% desat) (SHHS2)",
+  "display_name": "Max. Obs. Apnea length (NREM, Other 5% desat)",
   "description": "Max. Obs. Apnea length (NREM, Other 5% desat) (seconds)",
   "type": "numeric",
   "units": "second",

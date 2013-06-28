@@ -1,6 +1,6 @@
 {
   "id": "oai4p",
-  "display_name": "Obstructive Apnea Index 4% desat (SHHS2)",
+  "display_name": "Obstructive Apnea Index 4% desat",
   "description": "Obstructive Apnea Index at 4% desat  [(Total number of obstructive apneas associated with >= 4% desat) / (hours of sleep)]",
   "type": "numeric",
   "units": "events_per_hour",

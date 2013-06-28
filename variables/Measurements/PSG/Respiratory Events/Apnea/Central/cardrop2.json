@@ -1,6 +1,6 @@
 {
   "id": "cardrop2",
-  "display_name": "Cent. Apnea per hour (REM, Other, 2% desat) (SHHS2)",
+  "display_name": "Cent. Apnea per hour (REM, Other, 2% desat)",
   "description": "Cent. Apnea per hour (REM, Other, 2% desat)",
   "type": "numeric",
   "units": "events_per_hour",

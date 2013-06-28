@@ -1,6 +1,6 @@
 {
   "id": "mncaroa3",
-  "display_name": "Min. Cent. Apnea length w/ arousals (REM, Other, 3% desat) (SHHS2)",
+  "display_name": "Min. Cent. Apnea length w/ arousals (REM, Other, 3% desat)",
   "description": "Min. Cent. Apnea length w/ arousals (REM, Other, 3% desat) (seconds)",
   "type": "numeric",
   "units": "second",

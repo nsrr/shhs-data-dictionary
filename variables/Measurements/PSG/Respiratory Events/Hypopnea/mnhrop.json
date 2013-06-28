@@ -1,6 +1,6 @@
 {
   "id": "mnhrop",
-  "display_name": "Min. Hypopnea length (REM, Other, all desats) (SHHS2)",
+  "display_name": "Min. Hypopnea length (REM, Other, all desats)",
   "description": "Min. Hypopnea length (REM, Other, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

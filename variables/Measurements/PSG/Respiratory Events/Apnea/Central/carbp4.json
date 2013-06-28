@@ -1,6 +1,6 @@
 {
   "id": "carbp4",
-  "display_name": "# of Cent. Apnea (REM, Back, 4% desat) (SHHS2)",
+  "display_name": "# of Cent. Apnea (REM, Back, 4% desat)",
   "description": "# of Cent. Apnea (REM, Back, 4% desat)",
   "type": "numeric",
   "units": "event_count",

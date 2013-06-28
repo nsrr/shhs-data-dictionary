@@ -1,6 +1,6 @@
 {
   "id": "mnoarbp5",
-  "display_name": "Min. Obs. Apnea length (REM, Back, 5% desat) (SHHS2)",
+  "display_name": "Min. Obs. Apnea length (REM, Back, 5% desat)",
   "description": "Min. Obs. Apnea length (REM, Back, 5% desat) (seconds)",
   "type": "numeric",
   "units": "second",

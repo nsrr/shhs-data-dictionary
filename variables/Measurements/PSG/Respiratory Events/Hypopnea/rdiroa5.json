@@ -1,6 +1,6 @@
 {
   "id": "rdiroa5",
-  "display_name": "Hypopnea per hour w/ arousals (REM, Other, 5% desat) (SHHS2)",
+  "display_name": "Hypopnea per hour w/ arousals (REM, Other, 5% desat)",
   "description": "Hypopnea per hour w/ arousals (REM, Other, 5% desat)",
   "type": "numeric",
   "units": "events_per_hour",

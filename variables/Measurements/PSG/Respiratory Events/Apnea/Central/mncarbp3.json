@@ -1,6 +1,6 @@
 {
   "id": "mncarbp3",
-  "display_name": "Min. Cent. Apnea length (REM, Back, 3% desat) (SHHS2)",
+  "display_name": "Min. Cent. Apnea length (REM, Back, 3% desat)",
   "description": "Min. Cent. Apnea length (REM, Back, 3% desat) (seconds)",
   "type": "numeric",
   "units": "second",

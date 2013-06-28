@@ -1,6 +1,6 @@
 {
   "id": "cai0p",
-  "display_name": "Central Apnea Index all desats (SHHS2)",
+  "display_name": "Central Apnea Index all desats",
   "description": "Central Apnea Index at all desats  [(Total number of central apneas associated with all desats) / (hours of sleep)]",
   "type": "numeric",
   "units": "events_per_hour",

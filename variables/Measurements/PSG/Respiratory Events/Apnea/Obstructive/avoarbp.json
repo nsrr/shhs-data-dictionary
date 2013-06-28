@@ -1,6 +1,6 @@
 {
   "id": "avoarbp",
-  "display_name": "Avg. Obs. Apnea length (REM, Back, all desats) (SHHS2)",
+  "display_name": "Avg. Obs. Apnea length (REM, Back, all desats)",
   "description": "Avg. Obs. Apnea length (REM, Back, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

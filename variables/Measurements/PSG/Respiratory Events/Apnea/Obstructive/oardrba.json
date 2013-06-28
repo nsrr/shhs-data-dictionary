@@ -1,6 +1,6 @@
 {
   "id": "oardrba",
-  "display_name": "Obs. Apnea per hour w/ arousals (REM, Back, all desats) (SHHS2)",
+  "display_name": "Obs. Apnea per hour w/ arousals (REM, Back, all desats)",
   "description": "Obs. Apnea per hour w/ arousals (REM, Back, all desats)",
   "type": "numeric",
   "units": "events_per_hour",

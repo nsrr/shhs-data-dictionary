@@ -1,6 +1,6 @@
 {
   "id": "avhroa",
-  "display_name": "Avg. Hypopnea length w/ arousals (REM, Other, all desats) (SHHS2)",
+  "display_name": "Avg. Hypopnea length w/ arousals (REM, Other, all desats)",
   "description": "Avg. Hypopnea length w/ arousals (REM, Other, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

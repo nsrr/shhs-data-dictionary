@@ -1,6 +1,6 @@
 {
   "id": "carba5",
-  "display_name": "# of Cent. Apnea w/ arousals (REM, Back, 5% desat) (SHHS2)",
+  "display_name": "# of Cent. Apnea w/ arousals (REM, Back, 5% desat)",
   "description": "# of Cent. Apnea w/ arousals (REM, Back, 5% desat)",
   "type": "numeric",
   "units": "event_count",

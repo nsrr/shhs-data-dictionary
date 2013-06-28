@@ -1,6 +1,6 @@
 {
   "id": "mxhrop2",
-  "display_name": "Max. Hypopnea length (REM, Other, 2% desat) (SHHS2)",
+  "display_name": "Max. Hypopnea length (REM, Other, 2% desat)",
   "description": "Max. Hypopnea length (REM, Other, 2% desat) (seconds)",
   "type": "numeric",
   "units": "second",

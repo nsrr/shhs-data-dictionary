@@ -1,6 +1,6 @@
 {
   "id": "mnoarop4",
-  "display_name": "Min. Obs. Apnea length (REM, Other, 4% desat) (SHHS2)",
+  "display_name": "Min. Obs. Apnea length (REM, Other, 4% desat)",
   "description": "Min. Obs. Apnea length (REM, Other, 4% desat) (seconds)",
   "type": "numeric",
   "units": "second",

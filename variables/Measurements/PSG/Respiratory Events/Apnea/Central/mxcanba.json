@@ -1,6 +1,6 @@
 {
   "id": "mxcanba",
-  "display_name": "Max. Cent. Apnea length w/ arousals (NREM, Back, all desats) (SHHS2)",
+  "display_name": "Max. Cent. Apnea length w/ arousals (NREM, Back, all desats)",
   "description": "Max. Cent. Apnea length w/ arousals (NREM, Back, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

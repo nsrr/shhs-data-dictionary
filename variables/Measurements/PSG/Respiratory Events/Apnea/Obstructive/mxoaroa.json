@@ -1,6 +1,6 @@
 {
   "id": "mxoaroa",
-  "display_name": "Max. Obs. Apnea length w/ arousals (REM, Other, all desats) (SHHS2)",
+  "display_name": "Max. Obs. Apnea length w/ arousals (REM, Other, all desats)",
   "description": "Max. Obs. Apnea length w/ arousals (REM, Other, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

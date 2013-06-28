@@ -1,6 +1,6 @@
 {
   "id": "oarba",
-  "display_name": "# of Obs. Apnea w/ arousals (REM, Back, all desats) (SHHS2)",
+  "display_name": "# of Obs. Apnea w/ arousals (REM, Back, all desats)",
   "description": "# of Obs. Apnea w/ arousals (REM, Back, all desats)",
   "type": "numeric",
   "units": "event_count",

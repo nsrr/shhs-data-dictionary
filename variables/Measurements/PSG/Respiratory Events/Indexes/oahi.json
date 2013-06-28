@@ -1,6 +1,6 @@
 {
   "id": "oahi",
-  "display_name": "Obstructive Apnea Hypopnea Index (OAHI) at 4% desat (SHHS2)",
+  "display_name": "Obstructive Apnea Hypopnea Index (OAHI) at 4% desat",
   "description": "Obstructive Apnea Hypopnea Index at 4% desat.  Ratio of the count of all obstructive apneas plus the count of hypopneas associated with at least a 4% oxygen desaturation to the total sleep time expressed in hours.",
   "type": "numeric",
   "units": "events_per_hour",

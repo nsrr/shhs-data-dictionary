@@ -1,6 +1,6 @@
 {
   "id": "avhrop",
-  "display_name": "Avg. Hypopnea length (REM, Other, all desats) (SHHS2)",
+  "display_name": "Avg. Hypopnea length (REM, Other, all desats)",
   "description": "Avg. Hypopnea length (REM, Other, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

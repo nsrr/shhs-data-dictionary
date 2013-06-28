@@ -1,6 +1,6 @@
 {
   "id": "avoaroa5",
-  "display_name": "Avg. Obs. Apnea length w/ arousals (REM, Other, 5% desat) (SHHS2)",
+  "display_name": "Avg. Obs. Apnea length w/ arousals (REM, Other, 5% desat)",
   "description": "Avg. Obs. Apnea length w/ arousals (REM, Other, 5% desat) (seconds)",
   "type": "numeric",
   "units": "second",

@@ -1,6 +1,6 @@
 {
   "id": "mxoarbp5",
-  "display_name": "Max. Obs. Apnea length (REM, Back, 5% desat) (SHHS2)",
+  "display_name": "Max. Obs. Apnea length (REM, Back, 5% desat)",
   "description": "Max. Obs. Apnea length (REM, Back, 5% desat) (seconds)",
   "type": "numeric",
   "units": "second",

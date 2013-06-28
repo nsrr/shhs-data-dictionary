@@ -1,6 +1,6 @@
 {
   "id": "mncarba",
-  "display_name": "Min. Cent. Apnea length w/ arousals (REM, Back, all desats) (SHHS2)",
+  "display_name": "Min. Cent. Apnea length w/ arousals (REM, Back, all desats)",
   "description": "Min. Cent. Apnea length w/ arousals (REM, Back, all desats) (seconds)",
   "type": "numeric",
   "units": "second",

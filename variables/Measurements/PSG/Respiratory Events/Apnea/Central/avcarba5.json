@@ -1,6 +1,6 @@
 {
   "id": "avcarba5",
-  "display_name": "Avg. Cent. Apnea length w/ arousals (REM, Back, 5% desat) (SHHS2)",
+  "display_name": "Avg. Cent. Apnea length w/ arousals (REM, Back, 5% desat)",
   "description": "Avg. Cent. Apnea length w/ arousals (REM, Back, 5% desat) (seconds)",
   "type": "numeric",
   "units": "second",

@@ -1,6 +1,6 @@
 {
   "id": "mnhnbp2",
-  "display_name": "Min. Hypopnea length (NREM, Back, 2% desat) (SHHS2)",
+  "display_name": "Min. Hypopnea length (NREM, Back, 2% desat)",
   "description": "Min. Hypopnea length (NREM, Back, 2% desat) (seconds)",
   "type": "numeric",
   "units": "second",

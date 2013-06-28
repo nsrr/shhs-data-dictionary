@@ -1,6 +1,6 @@
 {
   "id": "canoa5",
-  "display_name": "# of Cent. Apnea w/ arousals (NREM, Other, 5% desat) (SHHS2)",
+  "display_name": "# of Cent. Apnea w/ arousals (NREM, Other, 5% desat)",
   "description": "# of Cent. Apnea w/ arousals (NREM, Other, 5% desat)",
   "type": "numeric",
   "units": "event_count",

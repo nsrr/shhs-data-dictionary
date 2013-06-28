@@ -1,6 +1,6 @@
 {
   "id": "oai0p",
-  "display_name": "Obstructive Apnea Index all desats (SHHS2)",
+  "display_name": "Obstructive Apnea Index all desats",
   "description": "Obstructive Apnea Index at all desats  [(Total number of obstructive apneas associated with all desats) / (hours of sleep)]",
   "type": "numeric",
   "units": "events_per_hour",

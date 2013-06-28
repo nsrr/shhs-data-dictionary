@@ -1,6 +1,6 @@
 {
   "id": "rdirbp",
-  "display_name": "Hypopnea per hour (REM, Back, all desats) (SHHS2)",
+  "display_name": "Hypopnea per hour (REM, Back, all desats)",
   "description": "Hypopnea per hour (REM, Back, all desats)",
   "type": "numeric",
   "units": "events_per_hour",

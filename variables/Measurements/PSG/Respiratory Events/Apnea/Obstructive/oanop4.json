@@ -1,6 +1,6 @@
 {
   "id": "oanop4",
-  "display_name": "# of Obs. Apnea (NREM, Other, 4% desat) (SHHS2)",
+  "display_name": "# of Obs. Apnea (NREM, Other, 4% desat)",
   "description": "# of Obs. Apnea (NREM, Other, 4% desat)",
   "type": "numeric",
   "units": "event_count",

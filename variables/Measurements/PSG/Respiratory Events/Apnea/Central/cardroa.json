@@ -1,6 +1,6 @@
 {
   "id": "cardroa",
-  "display_name": "Cent. Apnea per hour w/ arousals (REM, Other, all desats) (SHHS2)",
+  "display_name": "Cent. Apnea per hour w/ arousals (REM, Other, all desats)",
   "description": "Cent. Apnea per hour w/ arousals (REM, Other, all desats)",
   "type": "numeric",
   "units": "events_per_hour",

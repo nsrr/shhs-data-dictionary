@@ -1,6 +1,6 @@
 {
   "id": "oaroa5",
-  "display_name": "# of Obs. Apnea w/ arousals (REM, Other, 5% desat) (SHHS2)",
+  "display_name": "# of Obs. Apnea w/ arousals (REM, Other, 5% desat)",
   "description": "# of Obs. Apnea w/ arousals (REM, Other, 5% desat)",
   "type": "numeric",
   "units": "event_count",

@@ -1,9 +1,9 @@
 {
   "id": "latreliable2",
-  "display_name": "PSG Quality Assessment (SHHS2): Sleep Latency reliability",
+  "display_name": "PSG Quality Assessment (SHHS2): Sleep latency reliability",
   "description": "Scorer assessed that sleep latency was reliable.",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "latrel",
   "labels": [
     "latreliable2"
   ],

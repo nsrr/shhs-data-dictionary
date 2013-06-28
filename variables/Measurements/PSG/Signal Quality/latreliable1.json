@@ -1,9 +1,9 @@
 {
   "id": "latreliable1",
-  "display_name": "PSG Scoring Notes (SHHS1): Sleep Latency reliability",
-  "description": "",
+  "display_name": "PSG Scoring Notes (SHHS1): Sleep latency reliability",
+  "description": "Scorer assessed that sleep latency was reliable.",
   "type": "choices",
-  "domain": "LATREL",
+  "domain": "latrel",
   "labels": [
     "latreliable1"
   ],

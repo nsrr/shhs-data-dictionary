@@ -3,7 +3,7 @@
   "display_name": "BMI (SHHS2)",
   "description": "Body Mass Index at SHHS2",
   "type": "numeric",
-  "units": "kilogram_per_square_meter",
+  "units": "kilogram per square meter",
   "labels": [
     "bmi_s2"
   ],

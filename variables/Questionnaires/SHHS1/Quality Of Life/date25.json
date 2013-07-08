@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Date completed",
   "description": "Date questionnaire was completed (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "DATE25"
   ],

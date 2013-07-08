@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Date submitted to coordinating center",
   "description": "",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "hybrid": {
     "VARNUM": "713",
     "TABLE": "SHHS1",

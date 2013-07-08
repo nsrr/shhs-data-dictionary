@@ -3,7 +3,7 @@
   "display_name": "Adverse Events (SHHS1): Date adverse event reported (days from index day)",
   "description": "Date adverse event reported (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "DATEAE"
   ],

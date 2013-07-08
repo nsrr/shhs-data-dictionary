@@ -3,7 +3,7 @@
   "display_name": "Contact Form (SHHS1): call back date",
   "description": "If out of area for extended time, call back after this date (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "CBDt03"
   ],

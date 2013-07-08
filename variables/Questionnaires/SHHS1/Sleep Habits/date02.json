@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Date completed",
   "description": "Date form filled out (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "Date02"
   ],

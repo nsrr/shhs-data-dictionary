@@ -3,7 +3,7 @@
   "display_name": "Blood Pressure (SHHS1): Date questionnaire was completed (days from index day)",
   "description": "Date questionnaire was completed (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "DATE20"
   ],

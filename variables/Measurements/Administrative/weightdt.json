@@ -3,7 +3,7 @@
   "display_name": "Date collected: Weight (SHHS1)",
   "description": "Date Weight measured (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "WeightDT"
   ],

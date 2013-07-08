@@ -3,7 +3,7 @@
   "display_name": "Date collected: Hx of Diabetes (SHHS1)",
   "description": "Date Parent Cohort reported Diabetes Status collected (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "ParRptDiabDT"
   ],

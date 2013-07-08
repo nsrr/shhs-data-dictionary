@@ -3,7 +3,7 @@
   "display_name": "Contact Form (SHHS1): Date of Final Recruitment Contact",
   "description": "Date of Final Recruitment Contact (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "DtFRC03"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): Interview/review date",
   "description": "Interview/review date (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "RDATE10"
   ],

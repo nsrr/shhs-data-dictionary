@@ -3,7 +3,7 @@
   "display_name": "Date collected: Ankle-arm index (SHHS1)",
   "description": "Date Supine Ankle/Arm Blood Pressure collected (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "AnkArmDT"
   ],

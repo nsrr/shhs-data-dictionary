@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS1): Date CD at RC",
   "description": "",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "Date_CD_at_RC"
   ],

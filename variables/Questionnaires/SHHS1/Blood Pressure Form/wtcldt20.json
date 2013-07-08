@@ -3,7 +3,7 @@
   "display_name": "Blood Pressure (SHHS1): Date, if weight measured at clinic on other date (days from index day)",
   "description": "Date, if weight measured at clinic on other date (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "WTCLDT20"
   ],

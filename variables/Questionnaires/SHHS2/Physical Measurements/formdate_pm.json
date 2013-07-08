@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Date of completed",
   "description": "Date of Physical Measurements form",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "formdate_pm"
   ],

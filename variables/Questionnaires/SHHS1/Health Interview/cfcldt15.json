@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): date of caffeine data collection",
   "description": "If caffeine data collected at clinic, date of clinic visit (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "CFCLDT15"
   ],

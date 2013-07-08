@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Date of BP measurement",
   "description": "D. Seated Blood Pressure  21. Date of measurement:",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "pm221"
   ],

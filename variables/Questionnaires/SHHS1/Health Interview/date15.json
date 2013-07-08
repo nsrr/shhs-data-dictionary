@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): Date completed",
   "description": "Date form completed (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "DATE15"
   ],

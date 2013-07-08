@@ -3,7 +3,7 @@
   "display_name": "Date collected: Cigarette use (SHHS1)",
   "description": "Date Lifetime cigarette smoking collected (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "CgPkYrDT"
   ],

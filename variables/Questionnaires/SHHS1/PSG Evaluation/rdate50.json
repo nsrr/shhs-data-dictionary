@@ -3,7 +3,7 @@
   "display_name": "PSG Evaluation (SHHS1): Date Reviewed",
   "description": "Date Reviewed (days from index day)",
   "type": "numeric",
-  "units": "days_from_index_day",
+  "units": "days from index day",
   "labels": [
     "RDATE50"
   ],

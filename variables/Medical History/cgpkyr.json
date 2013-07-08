@@ -3,7 +3,7 @@
   "display_name": "Cigarette pack-years (SHHS1)",
   "description": "Lifetime cigarette smoking: pack years",
   "type": "numeric",
-  "units": "pack_years",
+  "units": "pack years",
   "labels": [
     "CgPkYr"
   ],

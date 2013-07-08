@@ -1,21 +1,21 @@
 {
   "id": "ess_s1",
   "display_name": "Epworth Sleepiness Scale score (SHHS1)",
-  "description": "Epworth Sleepiness Scale total score (SHHS1)",
-  "type": "numeric",
+  "description": "",
+  "type": "integer",
   "units": "score",
   "labels": [
-    "ESS_s1"
+    "ess_s1"
   ],
   "hybrid": {
     "VARNUM": "724",
     "TABLE": "SHHS1",
     "LABEL": "Epworth Sleepiness Score",
     "access level": "0",
-    "SOURCE": null,
+    "SOURCE": "Sleep Habits (SHHS1)",
     "MEMNAME": "shhs1_2",
     "most commonly used": "1",
-    "filename": null,
+    "filename": "SHHS1 Sleep Habits (SH).pdf",
     "PARENT TERM": null
   }
 }

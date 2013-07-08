@@ -1,8 +1,8 @@
 {
   "id": "ess_s2",
-  "display_name": "Epworth Sleepiness Score (SHHS2)",
-  "description": "Epworth Sleepiness Scale total score (SHHS2)",
-  "type": "numeric",
+  "display_name": "Epworth Sleepiness Scale score (SHHS2)",
+  "description": "",
+  "type": "integer",
   "units": "score",
   "labels": [
     "ess_s2"

@@ -3,7 +3,7 @@
   "display_name": "Overall RDI (NREM) at 5% desat",
   "description": "Non-REM RDI at 5% desat  [(Total number of apneas and hypopneas in non-REM sleep associated with >= 5% desat) / (hours of NREM sleep)]",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "calculation": "rdinr5p  = 60*(hnrbp5 + hnrop5 + canbp5 + canop5 + oanbp5 + oanop5) / (slpprdp - minremp)",
   "labels": [
     "rdinr5p",

@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS1): Preliminary RDI",
   "description": "",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "labels": [
     "PreRDI"
   ],

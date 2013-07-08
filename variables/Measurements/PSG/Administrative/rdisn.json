@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): RDI as assessed by scorer",
   "description": "",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "hybrid": {
     "VARNUM": "711",
     "TABLE": "SHHS1",

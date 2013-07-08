@@ -3,7 +3,7 @@
   "display_name": "Overall RDI (Supine) all desats",
   "description": "Supine RDI at all desats [(Total number of apneas and hypopneas in supine body position) / (hours of sleep)]",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "calculation": "rdi0ps  = 60*(hrembp + hnrbp + carbp + canbp + oarbp + oanbp)/(remepbp+nremepbp)",
   "labels": [
     "rdi0ps",

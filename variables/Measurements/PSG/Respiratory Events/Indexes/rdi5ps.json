@@ -3,7 +3,7 @@
   "display_name": "Overall RDI (Supine) at 5% desat",
   "description": "Supine RDI at 5% desat  [(Total number of apneas and hypopneas in supine body position associated with >= 5% desat) / (hours of sleep)]",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "calculation": "rdi5ps  = 60*(hrembp5 + hnrbp5 + carbp5 + canbp5 + oarbp5 + oanbp5)/(remepbp+nremepbp)",
   "labels": [
     "rdi5ps",

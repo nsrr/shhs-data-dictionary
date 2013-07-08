@@ -3,7 +3,7 @@
   "display_name": "Hypopnea per hour (NREM, Other, 3% desat)",
   "description": "Hypopnea per hour (NREM, Other, 3% desat)",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "labels": [
     "rdinop3"
   ],

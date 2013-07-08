@@ -3,7 +3,7 @@
   "display_name": "Obs. Apnea per hour (REM, Other, 2% desat)",
   "description": "Obs. Apnea per hour (REM, Other, 2% desat)",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "labels": [
     "oardrop2"
   ],

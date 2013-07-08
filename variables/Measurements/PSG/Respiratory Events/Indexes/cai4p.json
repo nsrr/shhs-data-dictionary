@@ -3,7 +3,7 @@
   "display_name": "Central Apnea Index 4% desat",
   "description": "Central Apnea Index at 4% desat  [(Total number of central apneas associated with >= 4% desat) / (hours of sleep)]",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "calculation": "cai4p  = 60*(carbp4 + carop4 + canbp4 + canop4 ) / slpprdp",
   "labels": [
     "cai4p"

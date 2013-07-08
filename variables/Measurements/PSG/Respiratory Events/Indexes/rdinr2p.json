@@ -3,7 +3,7 @@
   "display_name": "Overall RDI (NREM) at 2% desat",
   "description": "Non-REM RDI at 2% desat  [(Total number of apneas and hypopneas in non-REM sleep associated with >= 2% desat) / (hours of NREM sleep)]",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "calculation": "rdinr2p  = 60*(hnrbp2 + hnrop2 + canbp2 + canop2 + oanbp2 + oanop2) / (slpprdp - minremp)",
   "labels": [
     "rdinr2p",

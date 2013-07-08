@@ -3,7 +3,7 @@
   "display_name": "Overall RDI (non-Supine) at 4% desat",
   "description": "Non-Supine RDI at 4% desat  [(Total number of apneas and hypopneas in non-supine body position associated with >= 4% desat) / (hours of sleep)]",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "calculation": "rdi4pns = 60*(hrop4 +   hnrop4 + carop4 + canop4 + oarop4 + oanop4)/(remepop+nremepop)",
   "labels": [
     "rdi4pns",

@@ -3,7 +3,7 @@
   "display_name": "Hypopnea per hour w/ arousals (NREM, Back, 5% desat)",
   "description": "Hypopnea per hour w/ arousals (NREM, Back, 5% desat)",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "labels": [
     "rdinba5"
   ],

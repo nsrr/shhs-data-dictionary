@@ -3,7 +3,7 @@
   "display_name": "Obs. Apnea per hour (NREM, Back, all desats)",
   "description": "Obs. Apnea per hour (NREM, Back, all desats)",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "labels": [
     "oardnbp"
   ],

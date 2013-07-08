@@ -3,7 +3,7 @@
   "display_name": "Overall RDI (NREM) all desats",
   "description": "Non-REM RDI at all desats  [(Total number of apneas and hypopneas in non-REM sleep) / (hours of NREM sleep)]",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "calculation": "rdinr0p  = 60*(hnrbp + hnrop + canbp + canop + oanbp +oanop) / (slpprdp - minremp)",
   "labels": [
     "rdinr0p",

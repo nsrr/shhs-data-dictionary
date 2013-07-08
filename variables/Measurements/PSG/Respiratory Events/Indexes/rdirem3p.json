@@ -3,7 +3,7 @@
   "display_name": "Overall RDI (REM) at 3% desat",
   "description": "REM RDI at 3% desat  [(Total number of apneas and hypopneas in REM sleep associated with >= 3% desat) / (hours of REM sleep)]",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "calculation": "rdirem3p = 60*(hrembp3 + hrop3 + carbp3 + carop3 + oarbp3 + oarop3) / minremp",
   "labels": [
     "rdirem3p",

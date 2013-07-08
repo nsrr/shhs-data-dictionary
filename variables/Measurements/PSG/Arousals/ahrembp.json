@@ -3,7 +3,7 @@
   "display_name": "Arousals per hour (REM, Back, all desats)",
   "description": "",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "labels": [
     "ahrembp"
   ],

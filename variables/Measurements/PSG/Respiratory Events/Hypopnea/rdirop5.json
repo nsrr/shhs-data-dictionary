@@ -3,7 +3,7 @@
   "display_name": "Hypopnea per hour (REM, Other, 5% desat)",
   "description": "Hypopnea per hour (REM, Other, 5% desat)",
   "type": "numeric",
-  "units": "events_per_hour",
+  "units": "events per hour",
   "labels": [
     "rdirop5"
   ],

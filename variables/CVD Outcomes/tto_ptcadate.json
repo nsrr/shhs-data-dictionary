@@ -3,7 +3,7 @@
   "display_name": "Days to First PTCA Since Baseline (SHHSCVD)",
   "description": "Time since SHHS 1 Sleep Study to date of first PTCA (days) since bl psg",
   "type": "numeric",
-  "units": "days_from_index_date",
+  "units": "days from index date",
   "labels": [
     "tto_ptcadate",
     "percutaneous transluminal coronary angioplasty"

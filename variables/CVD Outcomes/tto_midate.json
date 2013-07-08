@@ -3,7 +3,7 @@
   "display_name": "Days to First MI Since Baseline (SHHSCVD)",
   "description": "Time since SHHS 1 Sleep Study to date of first mi (days) since bl psg",
   "type": "numeric",
-  "units": "days_from_index_date",
+  "units": "days from index date",
   "labels": [
     "tto_midate",
     "myocardial infarction"

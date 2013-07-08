@@ -3,7 +3,7 @@
   "display_name": "Days to First Angina Since Baseline (SHHSCVD)",
   "description": "Time since SHHS 1 Sleep Study to date of first angina pectoris (days) since bl psg",
   "type": "numeric",
-  "units": "days_from_index_date",
+  "units": "days from index date",
   "labels": [
     "tto_angdate"
   ],

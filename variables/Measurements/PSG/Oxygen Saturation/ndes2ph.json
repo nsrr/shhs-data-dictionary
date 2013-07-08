@@ -3,7 +3,7 @@
   "display_name": "# of desat with >= 2% desat",
   "description": "# of desat with >= 2% desat",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "ndes2ph"
   ],

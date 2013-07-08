@@ -3,7 +3,7 @@
   "display_name": "# of Cent. Apnea w/ arousals (NREM, Other, 2% desat)",
   "description": "# of Cent. Apnea w/ arousals (NREM, Other, 2% desat)",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "canoa2"
   ],

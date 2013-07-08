@@ -3,7 +3,7 @@
   "display_name": "# of Obs. Apnea (REM, Back, 3% desat)",
   "description": "# of Obs. Apnea (REM, Back, 3% desat)",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "oarbp3"
   ],

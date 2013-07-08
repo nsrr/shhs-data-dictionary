@@ -3,7 +3,7 @@
   "display_name": "# of Arousals (REM, Other, all desats)",
   "description": "",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "arremop"
   ],

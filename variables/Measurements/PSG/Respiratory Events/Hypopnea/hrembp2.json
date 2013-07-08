@@ -3,7 +3,7 @@
   "display_name": "# of Hypopnea (REM, Back, 2% desat)",
   "description": "# of Hypopnea (REM, Back, 2% desat)",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "hrembp2"
   ],

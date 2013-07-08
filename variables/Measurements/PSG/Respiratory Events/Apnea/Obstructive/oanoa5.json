@@ -3,7 +3,7 @@
   "display_name": "# of Obs. Apnea w/ arousals (NREM, Other, 5% desat)",
   "description": "# of Obs. Apnea w/ arousals (NREM, Other, 5% desat)",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "oanoa5"
   ],

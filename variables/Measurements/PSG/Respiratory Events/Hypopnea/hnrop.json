@@ -3,7 +3,7 @@
   "display_name": "# of Hypopnea (NREM, Other, all desats)",
   "description": "# of Hypopnea (NREM, Other, all desats)",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "hnrop"
   ],

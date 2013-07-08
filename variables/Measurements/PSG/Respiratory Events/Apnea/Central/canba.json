@@ -3,7 +3,7 @@
   "display_name": "# of Cent. Apnea w/ arousals (NREM, Back, all desats)",
   "description": "# of Cent. Apnea w/ arousals (NREM, Back, all desats)",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "canba"
   ],

@@ -3,7 +3,7 @@
   "display_name": "# of stage 3/4 to stage 1/2 shifts during sleep",
   "description": "# of stage 3/4 to stage 1/2 shifts during sleep",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "stg34t2p"
   ],

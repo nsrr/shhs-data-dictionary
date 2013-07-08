@@ -3,7 +3,7 @@
   "display_name": "# of Hypopnea w/ arousals (NREM, Back, 5% desat)",
   "description": "# of Hypopnea w/ arousals (NREM, Back, 5% desat)",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "hnrba5"
   ],

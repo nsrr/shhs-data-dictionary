@@ -3,7 +3,7 @@
   "display_name": "# of REM to stage 3/4 shifts during sleep",
   "description": "# of REM to stage 3/4 shifts during sleep",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "remt34p"
   ],

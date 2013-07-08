@@ -3,7 +3,7 @@
   "display_name": "# of Hypopnea (NREM, Back, 2% desat)",
   "description": "# of Hypopnea (NREM, Back, 2% desat)",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "hnrbp2"
   ],

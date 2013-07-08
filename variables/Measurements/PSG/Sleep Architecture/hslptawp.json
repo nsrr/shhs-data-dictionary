@@ -3,7 +3,7 @@
   "display_name": "# of sleep to awake shifts per hour",
   "description": "# of sleep to awake shifts per hour",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "hslptawp"
   ],

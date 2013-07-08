@@ -3,7 +3,7 @@
   "display_name": "# of Obs. Apnea (NREM, Back, all desats)",
   "description": "# of Obs. Apnea (NREM, Back, all desats)",
   "type": "numeric",
-  "units": "event_count",
+  "units": "event count",
   "labels": [
     "oanbp"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Palpated Systolic pulse pressure (SHHS2)",
   "description": "D. Seated Blood Pressure 19. Pulse Obliteration Pressure  a. Palpated Systolic:",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "pm219a"
   ],

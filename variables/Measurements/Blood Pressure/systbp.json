@@ -3,7 +3,7 @@
   "display_name": "Average Systolic BP (SHHS1)",
   "description": "Seated Systolic Blood Pressure (Average of two measurements)",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "SystBP"
   ],

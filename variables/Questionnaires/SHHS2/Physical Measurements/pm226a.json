@@ -3,7 +3,7 @@
   "display_name": "Doppler Systolic blood pressure (SHHS2)",
   "description": "26. AAI  Doppler Obliteration Pressure a. Doppler Systolic:",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "pm226a"
   ],

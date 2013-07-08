@@ -3,7 +3,7 @@
   "display_name": "Systolic BP (measurement 3) (SHHS2)",
   "description": "20. Seated Blood Pressure: c. Third reading: systolic",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "pm220c1"
   ],

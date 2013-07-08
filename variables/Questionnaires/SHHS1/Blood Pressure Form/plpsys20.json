@@ -3,7 +3,7 @@
   "display_name": "Blood Pressure (SHHS1): Palpated Systolic BP (number, up to 3 digits)",
   "description": "Palpated Systolic BP (number, up to 3 digits)",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "PLPSYS20"
   ],

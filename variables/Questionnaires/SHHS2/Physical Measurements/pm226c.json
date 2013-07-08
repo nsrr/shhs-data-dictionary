@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): 1st: Rt/left arm systolic BP",
   "description": "First readings: Record in order shown (If reading for one leg not available, code as \"n__\".) c. Right or left arm brachial systolic BP:",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "pm226c"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Blood Pressure (SHHS1): Max Inflation Level (PLPSYS20/Palpated Systolic BP + 30)",
   "description": "Max Inflation Level (PLPSYS20/Palpated Systolic BP + 30)",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "MAXINF20"
   ],

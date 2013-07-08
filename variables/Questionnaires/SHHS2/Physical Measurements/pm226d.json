@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): 1st: Rt leg posterior systolic BP",
   "description": "First readings: Record in order shown (If reading for one leg not available, code as \"n__\".) d. Right leg posterior tibial systolic BP:",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "pm226d"
   ],

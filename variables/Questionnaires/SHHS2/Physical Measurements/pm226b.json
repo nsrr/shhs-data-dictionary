@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Max inflation level AAI BP",
   "description": "26. AAI  Doppler Obliteration Pressure  b. Max inflation level: (palpated +30)",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "pm226b"
   ],

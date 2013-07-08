@@ -3,7 +3,7 @@
   "display_name": "Systolic BP: reading 3 of 3 (SHHS1)",
   "description": "Seated systolic BP- third reading (number, up to 3 digits)",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "SYST320"
   ],

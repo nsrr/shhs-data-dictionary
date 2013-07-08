@@ -3,7 +3,7 @@
   "display_name": "Supine ankle blood pressure (SHHS1)",
   "description": "Supine Ankle Blood Pressure",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "AnkBP"
   ],

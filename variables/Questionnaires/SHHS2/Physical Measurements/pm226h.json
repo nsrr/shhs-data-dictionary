@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): 2nd: Rt/left arm systolic BP",
   "description": "Wait 30 seconds before second readings. Second readings: Record in order shown (If no second reading, code as \"n__\".) h. Right or left arm brachial systolic BP:",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "pm226h"
   ],

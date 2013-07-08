@@ -3,7 +3,7 @@
   "display_name": "Average Diastolic BP (SHHS2)",
   "description": "Average of 2nd and 3rd Diastolic BP measures",
   "type": "numeric",
-  "units": "millimeters_of_mercury",
+  "units": "millimeters of mercury",
   "labels": [
     "avg23bpd_s2"
   ],

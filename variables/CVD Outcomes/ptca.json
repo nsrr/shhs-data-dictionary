@@ -3,7 +3,7 @@
   "display_name": "Number of PTCAs Since Baseline (SHHSCVD)",
   "description": "PTCA since baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",
-  "units": "number_of_events",
+  "units": "number of events",
   "labels": [
     "ptca",
     "stent",

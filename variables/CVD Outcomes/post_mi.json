@@ -3,7 +3,7 @@
   "display_name": "Number of MIs Since Baseline (SHHSCVD)",
   "description": "MI since baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",
-  "units": "number_of_events",
+  "units": "number of events",
   "labels": [
     "mi",
     "myocardial infarction",

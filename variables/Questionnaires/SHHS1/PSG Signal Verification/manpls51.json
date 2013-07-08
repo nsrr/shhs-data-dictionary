@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Manual Pulse value (bpm)",
   "description": "",
   "type": "numeric",
-  "units": "beats_per_minute",
+  "units": "beats per minute",
   "labels": [
     "MANPLS51"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Min. Heart Rate (REM, Back, 3% desat)",
   "description": "",
   "type": "numeric",
-  "units": "beats_per_minute",
+  "units": "beats per minute",
   "labels": [
     "hmnbrbh"
   ],

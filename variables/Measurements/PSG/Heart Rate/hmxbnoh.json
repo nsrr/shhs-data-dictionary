@@ -3,7 +3,7 @@
   "display_name": "Max. Heart Rate (NREM, Other, 3% desat)",
   "description": "",
   "type": "numeric",
-  "units": "beats_per_minute",
+  "units": "beats per minute",
   "labels": [
     "hmxbnoh"
   ],

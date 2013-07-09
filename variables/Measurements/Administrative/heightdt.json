@@ -1,9 +1,9 @@
 {
   "id": "heightdt",
   "display_name": "Date collected: Height (SHHS1)",
-  "description": "Date Height measured (days from index day)",
+  "description": "Date Height measured (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "HeightDT"
   ],

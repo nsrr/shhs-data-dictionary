@@ -1,9 +1,9 @@
 {
   "id": "rdate10",
   "display_name": "Morning Survey (SHHS1): Interview/review date",
-  "description": "Interview/review date (days from index day)",
+  "description": "Interview/review date (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "RDATE10"
   ],

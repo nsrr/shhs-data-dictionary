@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): StdyDtsn",
   "description": "",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "hybrid": {
     "VARNUM": "683",
     "TABLE": "SHHS1",

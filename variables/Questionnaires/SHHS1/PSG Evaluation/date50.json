@@ -1,9 +1,9 @@
 {
   "id": "date50",
   "display_name": "PSG Evaluation (SHHS1): Date of PSG",
-  "description": "Date of Study (days from index day)",
+  "description": "Date of Study (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "DATE50"
   ],

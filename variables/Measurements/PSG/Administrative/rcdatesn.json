@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): RCDatesn",
   "description": "",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "hybrid": {
     "VARNUM": "684",
     "TABLE": "SHHS1",

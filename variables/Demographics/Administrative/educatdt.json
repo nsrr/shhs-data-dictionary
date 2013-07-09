@@ -1,9 +1,9 @@
 {
   "id": "educatdt",
   "display_name": "Date collected: Education level (SHHS1)",
-  "description": "Date Educational level collected (days from index day)",
+  "description": "Date Educational level collected (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "EducatDT"
   ],

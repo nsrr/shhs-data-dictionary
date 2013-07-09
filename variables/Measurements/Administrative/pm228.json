@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Date of arm BP for AAI measurement",
   "description": "E. Ankle-Arm Index  28. Date of measurement:",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "pm228"
   ],

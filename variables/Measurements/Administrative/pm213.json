@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Date of neck measurement",
   "description": "C. Neck circumference measurement  13. Date of measurement:",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "pm213"
   ],

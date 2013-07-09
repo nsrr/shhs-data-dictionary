@@ -1,9 +1,9 @@
 {
   "id": "fevfvcdt",
   "display_name": "Date collected: Lung Function (SHHS1)",
-  "description": "Date Forced Expiratory Volume in One Second (Litres), Forced Vital Capacity (Litres) collected (days from index day)",
+  "description": "Date Forced Expiratory Volume in One Second (Litres), Forced Vital Capacity (Litres) collected (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "FEVFVCDT"
   ],

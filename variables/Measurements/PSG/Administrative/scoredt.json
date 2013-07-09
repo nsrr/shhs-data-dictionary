@@ -3,7 +3,7 @@
   "display_name": "Date study scored (SHHS2)",
   "description": "Date study scored",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "scoredt"
   ],

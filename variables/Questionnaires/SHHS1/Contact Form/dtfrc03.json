@@ -1,9 +1,9 @@
 {
   "id": "dtfrc03",
   "display_name": "Contact Form (SHHS1): Date of Final Recruitment Contact",
-  "description": "Date of Final Recruitment Contact (days from index day)",
+  "description": "Date of Final Recruitment Contact (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "DtFRC03"
   ],

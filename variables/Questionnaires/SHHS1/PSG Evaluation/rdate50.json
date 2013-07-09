@@ -1,9 +1,9 @@
 {
   "id": "rdate50",
   "display_name": "PSG Evaluation (SHHS1): Date Reviewed",
-  "description": "Date Reviewed (days from index day)",
+  "description": "Date Reviewed (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "RDATE50"
   ],

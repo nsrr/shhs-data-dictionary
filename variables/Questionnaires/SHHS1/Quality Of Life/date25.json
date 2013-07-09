@@ -1,9 +1,9 @@
 {
   "id": "date25",
   "display_name": "Quality of Life (SHHS1): Date completed",
-  "description": "Date questionnaire was completed (days from index day)",
+  "description": "Date questionnaire was completed (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "DATE25"
   ],

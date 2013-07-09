@@ -1,9 +1,9 @@
 {
   "id": "alcldt15",
   "display_name": "Health Interview (SHHS1): date alcohol data collected",
-  "description": "If alcohol data collected at clinic, date of clinic visit (days from index day)",
+  "description": "If alcohol data collected at clinic, date of clinic visit (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "ALCLDT15"
   ],

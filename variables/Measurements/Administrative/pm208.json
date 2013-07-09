@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Date of height measurement",
   "description": "B. Height Measurement  8. Date of measurement:",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "pm208"
   ],

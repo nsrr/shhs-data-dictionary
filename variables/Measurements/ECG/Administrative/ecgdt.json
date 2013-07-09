@@ -1,9 +1,9 @@
 {
   "id": "ecgdt",
   "display_name": "Date collected: ECG (SHHS1)",
-  "description": "Date of ECG (days from index day)",
+  "description": "Date of ECG (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "ECGdt"
   ],

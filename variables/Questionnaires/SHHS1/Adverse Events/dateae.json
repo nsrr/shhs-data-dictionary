@@ -1,9 +1,9 @@
 {
   "id": "dateae",
-  "display_name": "Adverse Events (SHHS1): Date adverse event reported (days from index day)",
-  "description": "Date adverse event reported (days from index day)",
+  "display_name": "Adverse Events (SHHS1): Date adverse event reported (days from index date)",
+  "description": "Date adverse event reported (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "DATEAE"
   ],

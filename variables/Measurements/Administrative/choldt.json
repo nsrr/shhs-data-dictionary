@@ -1,9 +1,9 @@
 {
   "id": "choldt",
   "display_name": "Date collected: Cholesterol (SHHS1)",
-  "description": "Date Cholesterol/HDL/Triglycerides collected (days from index day)",
+  "description": "Date Cholesterol/HDL/Triglycerides collected (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "CholDT"
   ],

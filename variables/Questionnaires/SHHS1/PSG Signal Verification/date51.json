@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Date of Study",
   "description": "",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "DATE51"
   ],

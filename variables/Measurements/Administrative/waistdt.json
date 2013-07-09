@@ -1,9 +1,9 @@
 {
   "id": "waistdt",
   "display_name": "Date collected: Waist Circumference (SHHS1)",
-  "description": "Date Waist circumference measured (days from index day)",
+  "description": "Date Waist circumference measured (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "WaistDT"
   ],

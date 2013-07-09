@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS1): Date Received at RC",
   "description": "",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "RcvdDtqa"
   ],

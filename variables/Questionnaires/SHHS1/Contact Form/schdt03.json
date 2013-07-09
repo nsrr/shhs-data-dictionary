@@ -1,9 +1,9 @@
 {
   "id": "schdt03",
   "display_name": "Contact Form (SHHS1): Date sleep study scheduled",
-  "description": "Date sleep study scheduled (days from index day)",
+  "description": "Date sleep study scheduled (days from index date)",
   "type": "numeric",
-  "units": "days from index day",
+  "units": "days from index date",
   "labels": [
     "SchDt03"
   ],

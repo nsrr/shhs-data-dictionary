@@ -11,10 +11,10 @@
     "VARNUM": "96",
     "TABLE": "SHHS2",
     "LABEL": "1c  COPD",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Health Interview (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": "SHHS2 Health Interview (HI).pdf",
     "PARENT TERM": null
   }

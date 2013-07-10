@@ -11,10 +11,10 @@
     "VARNUM": "116",
     "TABLE": "SHHS2",
     "LABEL": "MS 4a  Light vs Deep sleep",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Morning Survey (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS2 Morning Survey (MS).pdf",
     "PARENT TERM": null
   }

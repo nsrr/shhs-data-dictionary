@@ -11,10 +11,10 @@
     "VARNUM": "332",
     "TABLE": "SHHS2",
     "LABEL": "PSG data present 0-No, 1-Yes",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": null
   }

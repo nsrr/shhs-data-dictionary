@@ -11,10 +11,10 @@
     "VARNUM": "357",
     "TABLE": "SHHS1",
     "LABEL": "CVD Stroke",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": null,
     "MEMNAME": "shhs1_1",
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": null,
     "PARENT TERM": null
   }

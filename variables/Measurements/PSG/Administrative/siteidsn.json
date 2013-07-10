@@ -8,10 +8,10 @@
     "VARNUM": "682",
     "TABLE": "SHHS1",
     "LABEL": "SiteIDsn",
-    "access level": "1",
+    "sensitivity": "1",
     "design_name": "PSG Scoring Notes (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 PSG Scoring Notes (SN).pdf",
     "PARENT TERM": null
   }

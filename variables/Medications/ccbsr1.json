@@ -11,10 +11,10 @@
     "VARNUM": "182",
     "TABLE": "SHHS1",
     "LABEL": "MU Slow-release CCBS = NIFSR or DIHSR or VERSR or DLTSR or AMLOD",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Medication Form (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Medications.pdf",
     "PARENT TERM": null
   }

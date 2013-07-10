@@ -11,10 +11,10 @@
     "VARNUM": "731",
     "TABLE": "SHHS1",
     "LABEL": "Quality All form present 0-No, 1-Yes",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": null,
     "MEMNAME": "shhs1_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 PSG Scoring Notes (SN).pdf",
     "PARENT TERM": null
   }

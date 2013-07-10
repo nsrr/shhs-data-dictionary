@@ -8,10 +8,10 @@
     "VARNUM": "514",
     "TABLE": "SHHS1",
     "LABEL": "ScStg34P",
-    "access level": "2",
+    "sensitivity": "2",
     "design_name": "PSG Report (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": "psg:sleeptime"
   }

@@ -12,10 +12,10 @@
     "VARNUM": "94",
     "TABLE": "SHHS1",
     "LABEL": "HI Site 15",
-    "access level": "1",
+    "sensitivity": "1",
     "design_name": "Health Interview (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Health Interview (HI).pdf",
     "PARENT TERM": null
   }

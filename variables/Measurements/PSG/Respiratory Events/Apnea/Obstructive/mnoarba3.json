@@ -11,10 +11,10 @@
     "VARNUM": "684",
     "TABLE": "SHHS2",
     "LABEL": "Min. Obs. Apnea length w/ arousals (REM, Back, 3% desat) (seconds)",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": null
   }

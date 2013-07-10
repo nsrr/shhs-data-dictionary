@@ -11,10 +11,10 @@
     "VARNUM": "35",
     "TABLE": "SHHS2",
     "LABEL": "SH 24  Average number of cigarettes/day",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Sleep Habits (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS2 Sleep Habits (SH).pdf",
     "PARENT TERM": null
   }

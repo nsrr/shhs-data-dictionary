@@ -11,10 +11,10 @@
     "VARNUM": "30",
     "TABLE": "SHHS2",
     "LABEL": "SH 17  Doctor said had sleep disorder",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Sleep Habits (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": "SHHS2 Sleep Habits (SH).pdf",
     "PARENT TERM": null
   }

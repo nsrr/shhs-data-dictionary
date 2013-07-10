@@ -12,10 +12,10 @@
     "VARNUM": "29",
     "TABLE": "SHHSCVD",
     "LABEL": "Days to First CABG Since Baseline",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "CVD Outcomes (SHHSCVD)",
     "MEMNAME": "shhs_cvd",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": null
   }

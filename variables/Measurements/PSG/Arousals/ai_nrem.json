@@ -11,9 +11,9 @@
   "hybrid": {
     "VARNUM": "537",
     "LABEL": "Calculated - arousal index non-rem",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": "psg:ai"
   }

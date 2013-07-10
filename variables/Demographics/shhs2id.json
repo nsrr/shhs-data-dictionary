@@ -10,10 +10,10 @@
     "VARNUM": "7",
     "TABLE": "SHHS2",
     "LABEL": "SHHS2ID - identifies sleep study from SHHS2",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": null,
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": null,
     "type": "file locator"

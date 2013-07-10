@@ -11,10 +11,10 @@
     "VARNUM": "43",
     "TABLE": "SHHS1",
     "LABEL": "AV AnkArmDT",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "A-variables",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": null
   }

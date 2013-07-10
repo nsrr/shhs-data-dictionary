@@ -11,10 +11,10 @@
     "VARNUM": "432",
     "TABLE": "SHHS2",
     "LABEL": "Obs. Apnea per hour (REM, Back, 5% desat)",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": "psg:oai"
   }

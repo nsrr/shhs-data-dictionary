@@ -11,10 +11,10 @@
     "VARNUM": "189",
     "TABLE": "SHHS2",
     "LABEL": "Max. Hypopnea length w/ arousals (REM, Other, 5% desat) (seconds)",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": null
   }

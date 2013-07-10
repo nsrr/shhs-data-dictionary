@@ -11,10 +11,10 @@
     "VARNUM": "274",
     "TABLE": "SHHS1",
     "LABEL": "QL Tired 25",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Quality of Life (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Quality of Life (QL).pdf",
     "PARENT TERM": null
   }

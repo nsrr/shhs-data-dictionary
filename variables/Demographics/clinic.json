@@ -8,9 +8,9 @@
     "clinic"
   ],
   "hybrid": {
-    "access level": "1",
+    "sensitivity": "1",
     "design_name": null,
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": null
   }
 }

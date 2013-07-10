@@ -10,10 +10,10 @@
     "VARNUM": "83",
     "TABLE": "SHHS1",
     "LABEL": "BP Comment 20",
-    "access level": "1",
+    "sensitivity": "1",
     "design_name": "Blood Pressure Form (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Blood Pressure Form (BP).pdf",
     "PARENT TERM": null
   }

@@ -11,10 +11,10 @@
     "VARNUM": "476",
     "TABLE": "SHHS2",
     "LABEL": "QS - quality of hr",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG QS Form (SHHS2)",
     "MEMNAME": "shhs2_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS2 PSG QS form.pdf",
     "PARENT TERM": null
   }

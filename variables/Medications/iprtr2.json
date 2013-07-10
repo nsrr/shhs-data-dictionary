@@ -11,10 +11,10 @@
     "VARNUM": "282",
     "TABLE": "SHHS2",
     "LABEL": "ANTICHOLINERGICS + COMBINATION WITH BETA2-AGONIST",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Medication Form (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS2 Medications (MD).pdf",
     "PARENT TERM": null
   }

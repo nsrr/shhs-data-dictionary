@@ -11,10 +11,10 @@
     "VARNUM": "723",
     "TABLE": "SHHS1",
     "LABEL": "Hypertension Status based on 2nd and 3rd BP readings OR being treated with HTN meds",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": null,
     "MEMNAME": "shhs1_2",
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": null,
     "PARENT TERM": "comorb:htn"
   }

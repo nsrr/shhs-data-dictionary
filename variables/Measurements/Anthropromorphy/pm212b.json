@@ -11,10 +11,10 @@
     "VARNUM": "155",
     "TABLE": "SHHS2",
     "LABEL": "PM 12b Neck circumference (cm) - 2nd read",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Physical Measurements (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS2 Physical Measurements (PM).pdf",
     "PARENT TERM": "anthropromorphy:neckcf"
   }

@@ -11,10 +11,10 @@
     "VARNUM": "184",
     "TABLE": "SHHS2",
     "LABEL": "PM 26g 2nd: Rt leg posterior systolic BP",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Physical Measurements (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS2 Physical Measurements (PM).pdf",
     "PARENT TERM": null
   }

@@ -11,10 +11,10 @@
     "VARNUM": "288",
     "TABLE": "SHHS1",
     "LABEL": "SR Rec 6 Hrs 50",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Evaluation (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Sleep Data Retrieval.pdf",
     "PARENT TERM": null
   }

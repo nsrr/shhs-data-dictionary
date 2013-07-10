@@ -11,10 +11,10 @@
     "VARNUM": "34",
     "TABLE": "SHHS1",
     "LABEL": "AV HDL",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "A-variables",
     "MEMNAME": "shhs1_1",
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": null,
     "PARENT TERM": null
   }

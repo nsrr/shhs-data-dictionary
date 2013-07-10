@@ -8,10 +8,10 @@
     "VARNUM": "500",
     "TABLE": "SHHS1",
     "LABEL": "StTimeP",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Report (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": null
   }

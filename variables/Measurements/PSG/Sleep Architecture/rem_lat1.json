@@ -12,10 +12,10 @@
     "VARNUM": "532",
     "TABLE": "SHHS2",
     "LABEL": "Calculated - rem latency I in minutes slp onset to first rem",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": null
   }

@@ -12,10 +12,10 @@
     "VARNUM": "12",
     "TABLE": "SHHSCVD",
     "LABEL": "Died from CHD?",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "CVD Outcomes (SHHSCVD)",
     "MEMNAME": "shhs_cvd",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": null
   }

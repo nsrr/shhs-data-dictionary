@@ -11,10 +11,10 @@
     "VARNUM": "653",
     "TABLE": "SHHS1",
     "LABEL": "Fuzzy line on EMG",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Signal Verification (SHHS1)",
     "MEMNAME": "shhs1_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 PSG Signal Verification.pdf",
     "PARENT TERM": null
   }

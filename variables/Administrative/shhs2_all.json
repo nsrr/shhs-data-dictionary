@@ -11,10 +11,10 @@
     "VARNUM": "333",
     "TABLE": "SHHS2",
     "LABEL": "All SHHS2 forms present 0-No, 1-Yes",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": null,
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": null
   }

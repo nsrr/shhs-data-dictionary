@@ -11,10 +11,10 @@
     "VARNUM": "335",
     "TABLE": "SHHS1",
     "LABEL": "SH Sweats 02",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Sleep Habits (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Sleep Habits (SH).pdf",
     "PARENT TERM": null
   }

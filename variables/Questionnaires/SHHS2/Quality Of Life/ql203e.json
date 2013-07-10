@@ -11,10 +11,10 @@
     "VARNUM": "199",
     "TABLE": "SHHS2",
     "LABEL": "QL 3e  Climbing one flight of stairs",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Quality of Life (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS2 Quality of Life (QL).pdf",
     "PARENT TERM": null
   }

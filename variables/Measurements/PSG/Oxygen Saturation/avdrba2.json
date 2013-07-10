@@ -11,10 +11,10 @@
     "VARNUM": "582",
     "TABLE": "SHHS2",
     "LABEL": "Avg. Desat w/ arousals (REM, Back, 2% desat)",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": null
   }

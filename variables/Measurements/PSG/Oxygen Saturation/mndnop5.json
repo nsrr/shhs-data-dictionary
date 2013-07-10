@@ -11,10 +11,10 @@
     "VARNUM": "181",
     "TABLE": "SHHS2",
     "LABEL": "Min. SaO2 (NREM, Other, 5% desat) (%)",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": "psg:minsat"
   }

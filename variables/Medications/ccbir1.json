@@ -11,10 +11,10 @@
     "VARNUM": "181",
     "TABLE": "SHHS1",
     "LABEL": "MU Immediate-release CCBS = NFIR or DIHIR or VERIR or DLTIR",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Medication Form (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Medications.pdf",
     "PARENT TERM": null
   }

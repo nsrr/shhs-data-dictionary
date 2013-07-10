@@ -11,10 +11,10 @@
     "VARNUM": "481",
     "TABLE": "SHHS2",
     "LABEL": "QS - Overall study grade",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG QS Form (SHHS2)",
     "MEMNAME": "shhs2_2",
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": "SHHS2 PSG QS form.pdf",
     "PARENT TERM": null
   }

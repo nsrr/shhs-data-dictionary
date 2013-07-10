@@ -11,10 +11,10 @@
     "VARNUM": "87",
     "TABLE": "SHHS1",
     "LABEL": "CF Method03",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Contact Form (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Contact Form (CF).pdf",
     "PARENT TERM": null
   }

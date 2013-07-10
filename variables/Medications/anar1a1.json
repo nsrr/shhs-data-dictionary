@@ -11,10 +11,10 @@
     "VARNUM": "162",
     "TABLE": "SHHS1",
     "LABEL": "MU Anti-arrhythmics, class 1A",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Medication Form (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": "SHHS1 Medications.pdf",
     "PARENT TERM": null
   }

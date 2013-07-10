@@ -10,10 +10,10 @@
     "VARNUM": "64",
     "TABLE": "SHHS1",
     "LABEL": "AE OthProb Action",
-    "access level": "1",
+    "sensitivity": "1",
     "design_name": "Adverse Events Form (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Adverse Events (AE).pdf",
     "PARENT TERM": null
   }

@@ -11,10 +11,10 @@
     "VARNUM": "618",
     "TABLE": "SHHS1",
     "LABEL": "PreRDI",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Quality Assessment (SHHS1)",
     "MEMNAME": "shhs1_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 PSG Quality Assessment (QC).pdf",
     "PARENT TERM": null
   }

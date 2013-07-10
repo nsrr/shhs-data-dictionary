@@ -12,10 +12,10 @@
     "VARNUM": "520",
     "TABLE": "SHHS2",
     "LABEL": "Calculated - sleep time in minutes used for calculating RDI only and Arousal Index",
-    "access level": "2",
+    "sensitivity": "2",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": "psg:sleeptime"
   }

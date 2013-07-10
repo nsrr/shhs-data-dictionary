@@ -11,10 +11,10 @@
     "VARNUM": "97",
     "TABLE": "SHHS1",
     "LABEL": "HI Angina 15",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Health Interview (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Health Interview (HI).pdf",
     "PARENT TERM": null
   }

@@ -11,10 +11,10 @@
     "VARNUM": "283",
     "TABLE": "SHHS2",
     "LABEL": "INHALED STEROIDS FOR ASTHMA",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Medication Form (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": "SHHS2 Medications (MD).pdf",
     "PARENT TERM": null
   }

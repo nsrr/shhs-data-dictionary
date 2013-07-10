@@ -11,10 +11,10 @@
     "VARNUM": "326",
     "TABLE": "SHHS2",
     "LABEL": "Health Interview form present 0-No, 1-Yes",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Health Interview (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS2 Health Interview (HI).pdf",
     "PARENT TERM": null
   }

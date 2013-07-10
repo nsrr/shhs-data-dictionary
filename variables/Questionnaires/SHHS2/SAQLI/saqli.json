@@ -11,10 +11,10 @@
     "VARNUM": "585",
     "TABLE": "SHHS2",
     "LABEL": "SAQLI Score",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Short SAQLI (SHHS2)",
     "MEMNAME": "shhs2_2",
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": null,
     "PARENT TERM": null
   }

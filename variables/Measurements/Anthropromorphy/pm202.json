@@ -11,10 +11,10 @@
     "VARNUM": "144",
     "TABLE": "SHHS2",
     "LABEL": "PM 2 Weight in kg",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Physical Measurements (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": "SHHS2 Physical Measurements (PM).pdf",
     "PARENT TERM": "anthropromorphy:weight"
   }

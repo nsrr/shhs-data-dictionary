@@ -11,10 +11,10 @@
     "VARNUM": "734",
     "TABLE": "SHHS1",
     "LABEL": "Quality of Life form present 0-No, 1-Yes",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": null,
     "MEMNAME": "shhs1_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Quality of Life (QL).pdf",
     "PARENT TERM": null
   }

@@ -11,10 +11,10 @@
     "VARNUM": "704",
     "TABLE": "SHHS1",
     "LABEL": "RAW SF-36 ROLE-PHYSICAL",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "SF-36 Calculated (SHHS1)",
     "MEMNAME": "shhs1_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Quality of Life (QL).pdf",
     "PARENT TERM": null
   }

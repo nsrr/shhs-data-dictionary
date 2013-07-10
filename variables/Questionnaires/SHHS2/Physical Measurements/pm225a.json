@@ -11,10 +11,10 @@
     "VARNUM": "165",
     "TABLE": "SHHS2",
     "LABEL": "PM 25a Unable to lie at 45 degrees",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Physical Measurements (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS2 Physical Measurements (PM).pdf",
     "PARENT TERM": null
   }

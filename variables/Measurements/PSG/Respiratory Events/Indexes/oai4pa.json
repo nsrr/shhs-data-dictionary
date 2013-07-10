@@ -12,10 +12,10 @@
     "VARNUM": "571",
     "TABLE": "SHHS2",
     "LABEL": "Calculated - Obstructive Apnea Index 4% or arousal",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": "psg:oai"
   }

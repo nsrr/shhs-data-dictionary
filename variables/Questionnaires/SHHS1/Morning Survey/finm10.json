@@ -11,10 +11,10 @@
     "VARNUM": "237",
     "TABLE": "SHHS1",
     "LABEL": "MS Min Finish 10",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Morning Survey (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "most commonly used": null,
+    "commonly_used": null,
     "design_file": "SHHS1 Morning Survey (MS).pdf",
     "PARENT TERM": null
   }

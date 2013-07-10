@@ -11,10 +11,10 @@
     "VARNUM": "134",
     "TABLE": "SHHS2",
     "LABEL": "Classified as having Hypertension SHHS2",
-    "access level": "0",
+    "sensitivity": "0",
     "design_name": "Physical Measurements (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "most commonly used": "1",
+    "commonly_used": "1",
     "design_file": "SHHS2 Physical Measurements (PM).pdf",
     "PARENT TERM": "comorb:htn"
   }

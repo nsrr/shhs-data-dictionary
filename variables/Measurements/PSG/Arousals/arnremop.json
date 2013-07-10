@@ -10,9 +10,9 @@
   "hybrid": {
     "VARNUM": "343",
     "access level": "0",
-    "SOURCE": "PSG Report (SHHS2)",
+    "design_name": "PSG Report (SHHS2)",
     "most commonly used": null,
-    "filename": null,
+    "design_file": null,
     "PARENT TERM": "psg:arousals"
   }
 }

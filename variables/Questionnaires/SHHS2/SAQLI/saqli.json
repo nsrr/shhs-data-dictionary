@@ -12,10 +12,10 @@
     "TABLE": "SHHS2",
     "LABEL": "SAQLI Score",
     "access level": "0",
-    "SOURCE": "Short SAQLI (SHHS2)",
+    "design_name": "Short SAQLI (SHHS2)",
     "MEMNAME": "shhs2_2",
     "most commonly used": "1",
-    "filename": null,
+    "design_file": null,
     "PARENT TERM": null
   }
 }

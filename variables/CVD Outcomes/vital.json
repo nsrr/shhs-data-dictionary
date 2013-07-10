@@ -12,10 +12,10 @@
     "TABLE": "SHHSCVD",
     "LABEL": "Vital Status (0 = dead, 1 = alive)",
     "access level": "0",
-    "SOURCE": "CVD Outcomes (SHHSCVD)",
+    "design_name": "CVD Outcomes (SHHSCVD)",
     "MEMNAME": "shhs_cvd",
     "most commonly used": null,
-    "filename": null,
+    "design_file": null,
     "PARENT TERM": null
   }
 }

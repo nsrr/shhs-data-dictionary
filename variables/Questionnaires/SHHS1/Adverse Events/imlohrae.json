@@ -12,10 +12,10 @@
     "TABLE": "SHHS1",
     "LABEL": "AE HR<30",
     "access level": "0",
-    "SOURCE": "Adverse Events Form (SHHS1)",
+    "design_name": "Adverse Events Form (SHHS1)",
     "MEMNAME": "shhs1_1",
     "most commonly used": null,
-    "filename": "SHHS1 Adverse Events (AE).pdf",
+    "design_file": "SHHS1 Adverse Events (AE).pdf",
     "PARENT TERM": null
   }
 }

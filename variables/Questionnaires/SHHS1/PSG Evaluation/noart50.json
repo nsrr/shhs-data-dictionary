@@ -12,10 +12,10 @@
     "TABLE": "SHHS1",
     "LABEL": "SR No Artif 50",
     "access level": "0",
-    "SOURCE": "PSG Evaluation (SHHS1)",
+    "design_name": "PSG Evaluation (SHHS1)",
     "MEMNAME": "shhs1_1",
     "most commonly used": null,
-    "filename": "SHHS1 Sleep Data Retrieval.pdf",
+    "design_file": "SHHS1 Sleep Data Retrieval.pdf",
     "PARENT TERM": null
   }
 }

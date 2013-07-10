@@ -12,10 +12,10 @@
     "TABLE": "SHHS1",
     "LABEL": "AV ArmBP",
     "access level": "0",
-    "SOURCE": "A-variables",
+    "design_name": "A-variables",
     "MEMNAME": "shhs1_1",
     "most commonly used": null,
-    "filename": null,
+    "design_file": null,
     "PARENT TERM": null
   }
 }

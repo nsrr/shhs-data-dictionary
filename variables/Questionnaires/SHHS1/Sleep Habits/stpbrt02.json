@@ -12,10 +12,10 @@
     "TABLE": "SHHS1",
     "LABEL": "SH Stop Brth 02",
     "access level": "0",
-    "SOURCE": "Sleep Habits (SHHS1)",
+    "design_name": "Sleep Habits (SHHS1)",
     "MEMNAME": "shhs1_1",
     "most commonly used": null,
-    "filename": "SHHS1 Sleep Habits (SH).pdf",
+    "design_file": "SHHS1 Sleep Habits (SH).pdf",
     "PARENT TERM": null
   }
 }

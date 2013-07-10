@@ -12,10 +12,10 @@
     "TABLE": "SHHS2",
     "LABEL": "Avg. Obs. Apnea length (REM, Back, 3% desat) (seconds)",
     "access level": "0",
-    "SOURCE": "PSG Report (SHHS2)",
+    "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",
     "most commonly used": null,
-    "filename": null,
+    "design_file": null,
     "PARENT TERM": null
   }
 }

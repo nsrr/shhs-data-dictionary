@@ -12,10 +12,10 @@
     "TABLE": "SHHS1",
     "LABEL": "Fuzzy line on Thermistor",
     "access level": "0",
-    "SOURCE": "PSG Signal Verification (SHHS1)",
+    "design_name": "PSG Signal Verification (SHHS1)",
     "MEMNAME": "shhs1_2",
     "most commonly used": null,
-    "filename": "SHHS1 PSG Signal Verification.pdf",
+    "design_file": "SHHS1 PSG Signal Verification.pdf",
     "PARENT TERM": null
   }
 }

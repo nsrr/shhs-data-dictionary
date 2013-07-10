@@ -12,10 +12,10 @@
     "TABLE": "SHHS2",
     "LABEL": "QL 4d  Difficulty in doing  work/other acti",
     "access level": "0",
-    "SOURCE": "Quality of Life (SHHS2)",
+    "design_name": "Quality of Life (SHHS2)",
     "MEMNAME": "shhs2_1",
     "most commonly used": null,
-    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "design_file": "SHHS2 Quality of Life (QL).pdf",
     "PARENT TERM": null
   }
 }

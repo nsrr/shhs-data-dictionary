@@ -12,10 +12,10 @@
     "TABLE": "SHHS2",
     "LABEL": "14a Symptoms worse at night",
     "access level": "0",
-    "SOURCE": "Health Interview (SHHS2)",
+    "design_name": "Health Interview (SHHS2)",
     "MEMNAME": "shhs2_1",
     "most commonly used": null,
-    "filename": "SHHS2 Health Interview (HI).pdf",
+    "design_file": "SHHS2 Health Interview (HI).pdf",
     "PARENT TERM": null
   }
 }

@@ -11,10 +11,10 @@
     "TABLE": "SHHS2",
     "LABEL": "QS - Scorer notes",
     "access level": "0",
-    "SOURCE": "PSG QS Form (SHHS2)",
+    "design_name": "PSG QS Form (SHHS2)",
     "MEMNAME": "shhs2_2",
     "most commonly used": null,
-    "filename": "SHHS2 PSG QS form.pdf",
+    "design_file": "SHHS2 PSG QS form.pdf",
     "PARENT TERM": null
   }
 }

@@ -12,10 +12,10 @@
     "TABLE": "SHHS1",
     "LABEL": "Derived Smoking Status SHHS 1 0=never 1=current 2=former",
     "access level": "0",
-    "SOURCE": "Sleep Habits (SHHS1)",
+    "design_name": "Sleep Habits (SHHS1)",
     "MEMNAME": "shhs1_2",
     "most commonly used": "1",
-    "filename": null,
+    "design_file": null,
     "PARENT TERM": "comorb:smoking"
   }
 }

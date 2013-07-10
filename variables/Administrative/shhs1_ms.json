@@ -12,10 +12,10 @@
     "TABLE": "SHHS1",
     "LABEL": "Morning Survey form present 0-No, 1-Yes",
     "access level": "0",
-    "SOURCE": null,
+    "design_name": null,
     "MEMNAME": "shhs1_2",
     "most commonly used": null,
-    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "design_file": "SHHS1 Morning Survey (MS).pdf",
     "PARENT TERM": null
   }
 }

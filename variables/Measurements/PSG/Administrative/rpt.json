@@ -11,10 +11,10 @@
     "TABLE": "SHHS2",
     "LABEL": "Compumedics Report Version",
     "access level": "0",
-    "SOURCE": "PSG Report (SHHS2)",
+    "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",
     "most commonly used": null,
-    "filename": null,
+    "design_file": null,
     "PARENT TERM": null
   }
 }

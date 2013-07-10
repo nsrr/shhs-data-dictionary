@@ -12,10 +12,10 @@
     "TABLE": "SHHS2",
     "LABEL": "RAW SF-36 MENTAL HEALTH INDEX",
     "access level": "0",
-    "SOURCE": "SF-36 Calculated (SHHS2)",
+    "design_name": "SF-36 Calculated (SHHS2)",
     "MEMNAME": "shhs2_1",
     "most commonly used": null,
-    "filename": "SHHS2 Quality of Life (QL).pdf",
+    "design_file": "SHHS2 Quality of Life (QL).pdf",
     "PARENT TERM": null
   }
 }

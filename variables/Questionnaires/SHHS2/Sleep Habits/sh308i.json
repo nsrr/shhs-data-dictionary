@@ -12,10 +12,10 @@
     "TABLE": "SHHS2",
     "LABEL": "SH 8i  Leg jerks",
     "access level": "0",
-    "SOURCE": "Sleep Habits (SHHS2)",
+    "design_name": "Sleep Habits (SHHS2)",
     "MEMNAME": "shhs2_1",
     "most commonly used": null,
-    "filename": "SHHS2 Sleep Habits (SH).pdf",
+    "design_file": "SHHS2 Sleep Habits (SH).pdf",
     "PARENT TERM": null
   }
 }

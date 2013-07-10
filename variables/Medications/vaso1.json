@@ -12,10 +12,10 @@
     "TABLE": "SHHS1",
     "LABEL": "MU Vasodilators, a mixed group",
     "access level": "0",
-    "SOURCE": "Medication Form (SHHS1)",
+    "design_name": "Medication Form (SHHS1)",
     "MEMNAME": "shhs1_1",
     "most commonly used": null,
-    "filename": "SHHS1 Medications.pdf",
+    "design_file": "SHHS1 Medications.pdf",
     "PARENT TERM": null
   }
 }

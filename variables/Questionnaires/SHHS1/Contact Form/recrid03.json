@@ -11,10 +11,10 @@
     "TABLE": "SHHS1",
     "LABEL": "CF Recruit ID 03",
     "access level": "1",
-    "SOURCE": "Contact Form (SHHS1)",
+    "design_name": "Contact Form (SHHS1)",
     "MEMNAME": "shhs1_1",
     "most commonly used": null,
-    "filename": "SHHS1 Contact Form (CF).pdf",
+    "design_file": "SHHS1 Contact Form (CF).pdf",
     "PARENT TERM": null
   }
 }

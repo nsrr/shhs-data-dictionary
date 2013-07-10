@@ -13,10 +13,10 @@
     "TABLE": "SHHS1",
     "LABEL": "MS Site10",
     "access level": "1",
-    "SOURCE": "Morning Survey (SHHS1)",
+    "design_name": "Morning Survey (SHHS1)",
     "MEMNAME": "shhs1_1",
     "most commonly used": null,
-    "filename": "SHHS1 Morning Survey (MS).pdf",
+    "design_file": "SHHS1 Morning Survey (MS).pdf",
     "PARENT TERM": null
   }
 }

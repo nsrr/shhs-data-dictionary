@@ -12,10 +12,10 @@
     "TABLE": "SHHS1",
     "LABEL": "Chstqual",
     "access level": "0",
-    "SOURCE": "PSG Quality Assessment (SHHS1)",
+    "design_name": "PSG Quality Assessment (SHHS1)",
     "MEMNAME": "shhs1_2",
     "most commonly used": null,
-    "filename": "SHHS1 PSG Quality Assessment (QC).pdf",
+    "design_file": "SHHS1 PSG Quality Assessment (QC).pdf",
     "PARENT TERM": null
   }
 }

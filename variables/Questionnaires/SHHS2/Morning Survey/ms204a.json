@@ -12,10 +12,10 @@
     "TABLE": "SHHS2",
     "LABEL": "MS 4a  Light vs Deep sleep",
     "access level": "0",
-    "SOURCE": "Morning Survey (SHHS2)",
+    "design_name": "Morning Survey (SHHS2)",
     "MEMNAME": "shhs2_1",
     "most commonly used": null,
-    "filename": "SHHS2 Morning Survey (MS).pdf",
+    "design_file": "SHHS2 Morning Survey (MS).pdf",
     "PARENT TERM": null
   }
 }

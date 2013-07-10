@@ -12,10 +12,10 @@
     "TABLE": "SHHS1",
     "LABEL": "STANDARDIZED PHYSICAL COMPONENT SCALE-00",
     "access level": "0",
-    "SOURCE": "SF-36 Calculated (SHHS1)",
+    "design_name": "SF-36 Calculated (SHHS1)",
     "MEMNAME": "shhs1_2",
     "most commonly used": null,
-    "filename": "SHHS1 Quality of Life (QL).pdf",
+    "design_file": "SHHS1 Quality of Life (QL).pdf",
     "PARENT TERM": null
   }
 }

@@ -13,10 +13,10 @@
     "TABLE": "SHHS2",
     "LABEL": "ACE INHIBITORS WITH DIURETICS",
     "access level": "0",
-    "SOURCE": "Medication Form (SHHS2)",
+    "design_name": "Medication Form (SHHS2)",
     "MEMNAME": "shhs2_1",
     "most commonly used": "1",
-    "filename": "SHHS2 Medications (MD).pdf",
+    "design_file": "SHHS2 Medications (MD).pdf",
     "PARENT TERM": null
   }
 }

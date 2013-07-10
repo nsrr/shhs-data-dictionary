@@ -12,10 +12,10 @@
     "TABLE": "SHHS2",
     "LABEL": "PM 32  ECG position",
     "access level": "0",
-    "SOURCE": "Physical Measurements (SHHS2)",
+    "design_name": "Physical Measurements (SHHS2)",
     "MEMNAME": "shhs2_1",
     "most commonly used": null,
-    "filename": "SHHS2 Physical Measurements (PM).pdf",
+    "design_file": "SHHS2 Physical Measurements (PM).pdf",
     "PARENT TERM": null
   }
 }

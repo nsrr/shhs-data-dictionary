@@ -12,9 +12,9 @@
     "VARNUM": "535",
     "LABEL": "Calculated - arousal index all",
     "access level": "0",
-    "SOURCE": "PSG Report (SHHS2)",
+    "design_name": "PSG Report (SHHS2)",
     "most commonly used": "1",
-    "filename": null,
+    "design_file": null,
     "PARENT TERM": "psg:ai"
   }
 }

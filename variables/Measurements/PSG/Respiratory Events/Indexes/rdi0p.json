@@ -15,10 +15,10 @@
     "TABLE": "SHHS2",
     "LABEL": "Calculated - Overall RDI at 0% desat",
     "access level": "0",
-    "SOURCE": "PSG Report (SHHS2)",
+    "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",
     "most commonly used": "1",
-    "filename": null,
+    "design_file": null,
     "PARENT TERM": "psg:ahi"
   }
 }

@@ -12,10 +12,10 @@
     "TABLE": "SHHS1",
     "LABEL": "BP Max Infl Lev20",
     "access level": "0",
-    "SOURCE": "Blood Pressure Form (SHHS1)",
+    "design_name": "Blood Pressure Form (SHHS1)",
     "MEMNAME": "shhs1_1",
     "most commonly used": null,
-    "filename": "SHHS1 Blood Pressure Form (BP).pdf",
+    "design_file": "SHHS1 Blood Pressure Form (BP).pdf",
     "PARENT TERM": null
   }
 }

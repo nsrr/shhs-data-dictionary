@@ -9,10 +9,10 @@
     "TABLE": "SHHS1",
     "LABEL": "StTimeP",
     "access level": "0",
-    "SOURCE": "PSG Report (SHHS1)",
+    "design_name": "PSG Report (SHHS1)",
     "MEMNAME": "shhs1_1",
     "most commonly used": null,
-    "filename": null,
+    "design_file": null,
     "PARENT TERM": null
   }
 }

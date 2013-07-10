@@ -9,10 +9,10 @@
     "TABLE": "SHHS1",
     "LABEL": "Study scored with minimal problems",
     "access level": "0",
-    "SOURCE": "PSG Scoring Notes (SHHS1)",
+    "design_name": "PSG Scoring Notes (SHHS1)",
     "MEMNAME": "shhs1_1",
     "most commonly used": null,
-    "filename": "SHHS1 PSG Scoring Notes (SN).pdf",
+    "design_file": "SHHS1 PSG Scoring Notes (SN).pdf",
     "PARENT TERM": null
   }
 }

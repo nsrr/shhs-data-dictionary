@@ -1,6 +1,8 @@
 SHHS Data Dictionary
 ========================
 
+[![Build Status](https://travis-ci.org/sleepepi/shhs-data-dictionary.png?branch=master)](https://travis-ci.org/sleepepi/shhs-data-dictionary)
+
 The Sleep Heart Health Study Data Dictionary is a asyncronous multi-user curated JSON dictionary using Git for version control.
 
 ### Exports

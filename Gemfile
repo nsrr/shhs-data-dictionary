@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'spout'
+gem 'spout', '~> 0.3.0.rc3'

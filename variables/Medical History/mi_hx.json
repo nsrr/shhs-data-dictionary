@@ -3,7 +3,7 @@
   "display_name": "History of Heart Attack (SHHS1)",
   "description": "Prevalent heart attacks (TucsonCVD) 0=no previous history 1=previous history",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "MI"
   ],

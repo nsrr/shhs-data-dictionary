@@ -3,7 +3,7 @@
   "display_name": "Participant in SHHS2",
   "description": "Patient has record in SHHS2",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "in_shhs2", "SHHS2 Participant"
   ],

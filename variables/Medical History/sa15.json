@@ -1,7 +1,7 @@
 {
   "id": "sa15",
   "display_name": "History of Sleep Apnea (SHHS1)",
-  "description": "MD said pt had sleep apnea?",
+  "description": "MD said patient had sleep apnea?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

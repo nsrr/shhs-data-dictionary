@@ -1,7 +1,7 @@
 {
   "id": "pacem15",
   "display_name": "History of Pacemaker (SHHS1)",
-  "description": "MD said pt had pace maker?",
+  "description": "MD said patient had pace maker?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

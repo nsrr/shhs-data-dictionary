@@ -1,7 +1,7 @@
 {
   "id": "stroke15",
   "display_name": "MD Reported Stroke (SHHS1)",
-  "description": "MD said pt had stroke?",
+  "description": "MD said patient had stroke?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

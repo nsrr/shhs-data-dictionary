@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): Aspirin in last 2 weeks",
   "description": "In last two weeks, did you take any aspirin or aspirin containing meds?",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "ASA15"
   ],

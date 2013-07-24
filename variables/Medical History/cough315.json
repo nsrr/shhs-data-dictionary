@@ -1,6 +1,6 @@
 
 {
-  "id": "cough315",
+  "id":"cough315",
   "display_name": "Coughing on most days (SHHS1)",
   "description": "Do you cough on most days for as much as 3 months of the year?",
   "type": "choices",

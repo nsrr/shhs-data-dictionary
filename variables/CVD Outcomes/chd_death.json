@@ -3,7 +3,7 @@
   "display_name": "Fatal CHD Since Baseline? (SHHSCVD)",
   "description": "Coronary Heart Disease (CHD) death (as recorded in parent studies datasets)",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "chd_death",
     "coronary heart disease"

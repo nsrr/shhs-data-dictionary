@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): REM Arousals (only) unreliable",
   "description": "",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "hybrid": {
     "VARNUM": "701",
     "TABLE": "SHHS1",

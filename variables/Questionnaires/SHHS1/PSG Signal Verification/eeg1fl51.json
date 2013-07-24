@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Fuzzy line on EEG1 (C4/A1)",
   "description": "Fuzzy line observed on EEG1 (C4/A1) signal",
   "type": "choices",
-  "domain": "YESNOF",
+  "domain": "yesno01",
   "labels": [
     "EEG1FL51"
   ],

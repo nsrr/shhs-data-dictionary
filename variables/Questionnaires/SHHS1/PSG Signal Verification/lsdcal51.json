@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Position sensor calibration: left side",
   "description": "",
   "type": "choices",
-  "domain": "YESNOF",
+  "domain": "yesno01",
   "labels": [
     "LSDCAL51"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Seated bp collected in window",
   "description": "16. Seated blood pressure measurement within the data collection window?",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "pm216"
   ],

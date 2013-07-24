@@ -3,7 +3,7 @@
   "display_name": "Study reprocessed by reading center",
   "description": "A selection of studies were reprocessed by the Reading Center in order to correct the output report.  This variable indicates which studies underwent this reprocessing.",
   "type": "choices",
-  "domain": "yesnon",
+  "domain": "yesno01",
   "hybrid": {
     "VARNUM": "423",
     "TABLE": "SHHS1",

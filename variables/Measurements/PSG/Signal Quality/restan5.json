@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Intervening period bad Resp./Oximetry",
   "description": "",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "hybrid": {
     "VARNUM": "707",
     "TABLE": "SHHS1",

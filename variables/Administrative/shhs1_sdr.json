@@ -3,7 +3,7 @@
   "display_name": "Has SHHS1 Sleep Data Retrieval form",
   "description": "",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "shhs1_sdr"
   ],

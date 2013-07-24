@@ -3,7 +3,7 @@
   "display_name": "Current Asthma (SHHS2)",
   "description": "e. Do you still have asthma?",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "hi201e"
   ],

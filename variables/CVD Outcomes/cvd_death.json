@@ -3,7 +3,7 @@
   "display_name": "Fatal CVD Since Baseline? (SHHSCVD)",
   "description": "Cardiovascular Disease (CVD) death (as recorded in parent studies datasets)",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "cvd_death",
     "cardiovascular disease"

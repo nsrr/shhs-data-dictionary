@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS2): Abnormal Eye movements",
   "description": "Scorer observed abnormal eye movements during study.",
   "type": "choices",
-  "domain": "yesnon",
+  "domain": "yesno01",
   "labels": [
     "AbnorEye"
   ],

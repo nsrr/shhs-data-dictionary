@@ -3,7 +3,7 @@
   "display_name": "Slow-Release Dihydropyridines Other Than Nifedipine Or Amlopidine (SHHS2)",
   "description": "Patient taking SLOW-RELEASE DIHYDROPYRIDINES OTHER THAN NIFEDIPINE OR AMLOPIDINE within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "DIHSR2"
   ],

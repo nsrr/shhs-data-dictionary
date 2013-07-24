@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Scored Sleep-Wake only",
   "description": "",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "hybrid": {
     "VARNUM": "699",
     "TABLE": "SHHS1",

@@ -3,7 +3,7 @@
   "display_name": "Inhibitors Of Adp-Induced Platelet Aggregation (SHHS2)",
   "description": "Patient taking INHIBITORS OF ADP-INDUCED PLATELET AGGREGATION within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "ADPI2"
   ],

@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Participant had beard",
   "description": "3. Does participant have a beard?",
   "type": "choices",
-  "domain": "YESNOF",
+  "domain": "yesno01",
   "labels": [
     "BEARD51"
   ],

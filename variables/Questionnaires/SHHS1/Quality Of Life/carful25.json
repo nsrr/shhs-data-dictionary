@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Emotional problems limit being careful",
   "description": "During the past 4 weeks, have you had this problem with work or other regular daily activities because of emotional problems: Didn't do work or other activities as carefully as usual",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "CARFUL25"
   ],

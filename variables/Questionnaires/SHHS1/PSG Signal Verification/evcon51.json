@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Adverse Environmental Conditions",
   "description": "2. Were any environmental conditions present which could cause problems with sleep monitoring?",
   "type": "choices",
-  "domain": "YESNOF",
+  "domain": "yesno01",
   "labels": [
     "EVCON51"
   ],

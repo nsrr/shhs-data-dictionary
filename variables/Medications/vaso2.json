@@ -3,7 +3,7 @@
   "display_name": "Vasodilators, A Mixed Group (SHHS2)",
   "description": "Patient taking VASODILATORS, A MIXED GROUP within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "VASO2"
   ],

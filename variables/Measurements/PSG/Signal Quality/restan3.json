@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Scoring ended before lights on/awake",
   "description": "",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "hybrid": {
     "VARNUM": "705",
     "TABLE": "SHHS1",

@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Alternate placement sites needed",
   "description": "If yes [participant has beard], were alternative placement sites needed?",
   "type": "choices",
-  "domain": "YESNOF",
+  "domain": "yesno01",
   "labels": [
     "ALTPLC51"
   ],

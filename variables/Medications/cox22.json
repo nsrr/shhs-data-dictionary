@@ -3,7 +3,7 @@
   "display_name": "Cox-2 Inhibitors (Nsaid Agents) (SHHS2)",
   "description": "Patient taking COX-2 INHIBITORS (NSAID AGENTS); SEPARATE FROM NSAID VARIABLE within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "COX22"
   ],

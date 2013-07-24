@@ -3,7 +3,7 @@
   "display_name": "Hypertension (SHHS2)",
   "description": "Derived Hypertension classification (based on blood pressure measurements, history of HTN dx, and medication use)",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "HTNDerv_s2"
   ],

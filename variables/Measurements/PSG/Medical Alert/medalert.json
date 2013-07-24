@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS2): Medical Alert",
   "description": "Medical Alert noted during scoring.",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "MedAlert"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): smoked cigarettes",
   "description": "Have you ever smoked cigarettes ('ever' = at least 20 packs in lifetime)?",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "EVSMOK15"
   ],

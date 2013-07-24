@@ -3,7 +3,7 @@
   "display_name": "PSG Evaluation (SHHS1): signals on each channel",
   "description": "Are there signals on each of the channels (i.e., no flat-lined signal)?",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "SIGEA50"
   ],

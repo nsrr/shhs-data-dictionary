@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Light sensor calibration: lights on",
   "description": "",
   "type": "choices",
-  "domain": "YESNOF",
+  "domain": "yesno01",
   "labels": [
     "LTON51"
   ],

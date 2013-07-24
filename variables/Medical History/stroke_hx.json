@@ -3,7 +3,7 @@
   "display_name": "History of Stroke (SHHS1)",
   "description": "Prevalent stroke",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "Stroke"
   ],

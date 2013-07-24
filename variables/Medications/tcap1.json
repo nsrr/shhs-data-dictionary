@@ -3,7 +3,7 @@
   "display_name": "Tri-Cyclic Anti-Depressants Plus Anti-Psychotics Combinations (SHHS1)",
   "description": "Patient taking TRI-CYCLIC ANTI-DEPRESSANTS PLUS ANTI-PSYCHOTICS COMBINATIONS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "TCAP1"
   ],

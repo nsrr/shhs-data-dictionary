@@ -3,7 +3,7 @@
   "display_name": "Oral Anti-Inflammatory Asthma Drugs (Leukotriene Receptor Antagonists And Inhibitors Of Lipo-Oxygenase) (SHHS2)",
   "description": "Patient taking ORAL ANTI-INFLAMMATORY ASTHMA DRUGS (LEUKOTRIENE RECEPTOR ANTAGONISTS AND INHIBITORS OF LIPO-OXYGENASE) within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "OAIA2"
   ],

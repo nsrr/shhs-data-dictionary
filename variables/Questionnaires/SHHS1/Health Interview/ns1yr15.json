@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): Since smoking began, non-smoker for one year or more",
   "description": "If yes to [AGESMK15]: Since smoking began, were you a non-smoker for one year or more?",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "NS1YR15"
   ],

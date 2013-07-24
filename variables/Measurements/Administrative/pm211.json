@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Neck circumference within window",
   "description": "11.Neck circumference measurement\r\rwithin the data collection window?",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "pm211"
   ],

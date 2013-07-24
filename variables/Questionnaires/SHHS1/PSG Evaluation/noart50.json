@@ -3,7 +3,7 @@
   "display_name": "PSG Evaluation (SHHS1): each channel clear of artifact",
   "description": "Is each channel mostly clear of artifact (thick fuzzy lines)?",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "NOART50"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Weight collected within window",
   "description": "A. Weight measurement  1. Weight measurement within the data collection window?",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "pm201"
   ],

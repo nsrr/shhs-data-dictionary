@@ -3,7 +3,7 @@
   "display_name": "Has SHHS1 Quality form",
   "description": "",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "shhs1_qa"
   ],

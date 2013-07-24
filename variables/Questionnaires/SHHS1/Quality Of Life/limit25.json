@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Health limits kind of work or activities",
   "description": "During the past 4 weeks, have you had this problem with work or other regular daily activities because of physical health: Were limited in the kind of work or other activities you were able to do",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "LIMIT25"
   ],

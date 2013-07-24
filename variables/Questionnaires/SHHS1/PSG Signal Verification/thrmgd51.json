@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Good deflection on Thermistor",
   "description": "Good deflection observed on Thermistor signal",
   "type": "choices",
-  "domain": "YESNOF",
+  "domain": "yesno01",
   "labels": [
     "THRMGD51"
   ],

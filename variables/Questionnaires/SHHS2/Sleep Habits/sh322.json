@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS2): Did not smoke for a year while smoker",
   "description": "22. Since you began smoking, was there ever a period of one year or more that\r\ryou did NOT smoke?",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "sh322"
   ],

@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS2): Position Sensor status",
   "description": "Position sensor was working properly as assessed by scorer.",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "Posn"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Has ECG data (SHHS1)",
   "description": "ECG data available",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "ECG"
   ],

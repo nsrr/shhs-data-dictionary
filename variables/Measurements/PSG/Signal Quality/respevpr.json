@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS2): Respiratory scoring problems",
   "description": "Due to signal problems, scorer noted that there was a problem scoring respiratory events.",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "RespEvPr"
   ],

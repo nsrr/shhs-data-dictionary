@@ -3,7 +3,7 @@
   "display_name": "Has SHHS2 Quality of Life form",
   "description": "Quality of Life form present 0-No, 1-Yes",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "shhs2_ql"
   ],

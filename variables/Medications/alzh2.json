@@ -3,7 +3,7 @@
   "display_name": "Acetylcholine Esterase Inhibitors For Alzheimers (SHHS2)",
   "description": "Patient taking ACETYLCHOLINE ESTERASE INHIBITORS FOR ALZH'S within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesnof",
+  "domain": "yesno01",
   "labels": [
     "ALZH2"
   ],

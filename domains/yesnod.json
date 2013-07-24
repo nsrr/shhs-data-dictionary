@@ -11,12 +11,7 @@
   },
   {
     "value": "2",
-    "display_name": "Unsure",
-    "description": ""
-  },
-  {
-    "value": "8",
-    "display_name": "Don't know",
+    "display_name": "Don't Know",
     "description": ""
   }
 ]

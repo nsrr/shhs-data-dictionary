@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Stop breathing during sleep",
   "description": "Are there times when you stop breathing during your sleep?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "StpBrt02"
   ],

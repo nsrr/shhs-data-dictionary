@@ -3,7 +3,7 @@
   "display_name": "Contact Form (SHHS1): Result of final recruitment contact",
   "description": "Result of final recruitment contact",
   "type": "choices",
-  "domain": "RESULT",
+  "domain": "result",
   "labels": [
     "Result03"
   ],

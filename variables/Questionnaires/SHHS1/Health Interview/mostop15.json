@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): month stopped smoking",
   "description": "If no to [SMKNOW15]: month stopped smoking? (month, 1 to 12)",
   "type": "choices",
-  "domain": "MONTHF",
+  "domain": "monthf",
   "labels": [
     "MOSTOP15"
   ],

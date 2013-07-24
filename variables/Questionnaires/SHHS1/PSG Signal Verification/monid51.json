@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Monitor ID",
   "description": "",
   "type": "choices",
-  "domain": "MONTRID",
+  "domain": "montrid",
   "labels": [
     "MONID51"
   ],

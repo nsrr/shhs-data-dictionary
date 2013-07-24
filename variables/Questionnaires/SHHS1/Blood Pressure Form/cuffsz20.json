@@ -3,7 +3,7 @@
   "display_name": "Blood Pressure (SHHS1): Cuff Size",
   "description": "Cuff Size",
   "type": "choices",
-  "domain": "CUFFS4",
+  "domain": "cuffs4",
   "labels": [
     "CUFFSZ20"
   ],

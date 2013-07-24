@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Health limits walking several blocks",
   "description": "Does your health now limit you in this activity, and if so, how much: Walking several blocks",
   "type": "choices",
-  "domain": "LOTLIT3",
+  "domain": "lotlit3",
   "labels": [
     "WKSBLK25"
   ],

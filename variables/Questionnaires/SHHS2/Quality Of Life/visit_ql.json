@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS2): Visit ID code",
   "description": "",
   "type": "choices",
-  "domain": "VISITCD",
+  "domain": "visitcd",
   "labels": [
     "visit_ql"
   ],

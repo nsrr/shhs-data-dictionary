@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS2): Fall asleep while sitting inactive in a public place",
   "description": "19. What is the chance that you would doze off or fall asleep (not just \"feel tired\") in each of the following situations? (Check one box for each situation.  If you are never or rarely in the situation, please give your best guess for what would happen.) c. Sitting inactive in a public place (such as a theater or a meeting).",
   "type": "choices",
-  "domain": "NHCHAN4",
+  "domain": "nhchan4",
   "labels": [
     "sh319c"
   ],

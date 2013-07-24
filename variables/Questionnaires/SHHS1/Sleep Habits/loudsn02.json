@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Loudness of snoring",
   "description": "How loud is your snoring?",
   "type": "choices",
-  "domain": "SNRLOUD5",
+  "domain": "snrloud5",
   "labels": [
     "LoudSn02"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Contact Form (SHHS1): Method of contact",
   "description": "Method of contact",
   "type": "choices",
-  "domain": "CONTACT4",
+  "domain": "contact4",
   "labels": [
     "Method03"
   ],

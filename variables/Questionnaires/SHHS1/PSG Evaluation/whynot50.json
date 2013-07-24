@@ -3,7 +3,7 @@
   "display_name": "PSG Evaluation (SHHS1): Why data not sent to Reading Center",
   "description": "If data file not sent, why not?",
   "type": "choices",
-  "domain": "PROB3",
+  "domain": "prob3",
   "labels": [
     "WHYNOT50"
   ],

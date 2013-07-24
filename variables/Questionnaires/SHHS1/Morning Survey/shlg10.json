@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): Quality of sleep: short/long",
   "description": "Quality of sleep: short/long (1=short to 5=long)",
   "type": "choices",
-  "domain": "SHORLON5",
+  "domain": "shorlon5",
   "labels": [
     "SHLG10"
   ],

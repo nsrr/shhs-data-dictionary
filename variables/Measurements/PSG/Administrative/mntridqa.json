@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS1): Monitor ID",
   "description": "",
   "type": "choices",
-  "domain": "MONTRID",
+  "domain": "montrid",
   "labels": [
     "MntrIDqa"
   ],

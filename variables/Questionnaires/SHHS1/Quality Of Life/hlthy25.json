@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): As healthy as anybody",
   "description": "Choose (definitely True-definitely False): I am as healthy as anybody I know.",
   "type": "choices",
-  "domain": "TRUFALS5",
+  "domain": "trufals5",
   "labels": [
     "HLTHY25"
   ],

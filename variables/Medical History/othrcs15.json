@@ -3,7 +3,7 @@
   "display_name": "MD Reported Other Heart Surgery (SHHS1)",
   "description": "MD said pt had other heart/cardiac surgery?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "OTHRCS15"
   ],

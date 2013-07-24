@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Form sequence number",
   "description": "Form sequence number",
   "type": "choices",
-  "domain": "FRMSEQ",
+  "domain": "frmseq",
   "labels": [
     "formseq_pm"
   ],

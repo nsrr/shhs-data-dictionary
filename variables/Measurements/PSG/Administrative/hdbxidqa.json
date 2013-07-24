@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS1): Headbox ID",
   "description": "Headbox ID",
   "type": "choices",
-  "domain": "HDBXID",
+  "domain": "hdbxid",
   "labels": [
     "HdbxIDqa"
   ],

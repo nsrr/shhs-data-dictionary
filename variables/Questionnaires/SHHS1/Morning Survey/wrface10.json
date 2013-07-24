@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): discomfort from wires on face",
   "description": "How much discomfort caused by these parts of the monitor: wires on face?",
   "type": "choices",
-  "domain": "NONE4",
+  "domain": "none4",
   "labels": [
     "WRFACE10"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Been a happy person",
   "description": "During the past 4 weeks, how much of the time: Have you been a happy person?",
   "type": "choices",
-  "domain": "ALLNONE6",
+  "domain": "allnone6",
   "labels": [
     "HAPPY25"
   ],

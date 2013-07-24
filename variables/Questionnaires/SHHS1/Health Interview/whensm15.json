@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): when smoking data collected",
   "description": "Data on smoking collected when? (date=[SMCLDT15])",
   "type": "choices",
-  "domain": "HOMCLIN",
+  "domain": "homclin",
   "labels": [
     "WHENSM15"
   ],

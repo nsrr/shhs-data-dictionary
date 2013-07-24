@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): How well slept last night",
   "description": "How well did you sleep last night?",
   "type": "choices",
-  "domain": "WRSBET5",
+  "domain": "wrsbet5",
   "labels": [
     "HWWELL15"
   ],

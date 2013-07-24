@@ -3,7 +3,7 @@
   "display_name": "Blood Pressure (SHHS1): Field center/site ID",
   "description": "Field center/site ID",
   "type": "choices",
-  "domain": "SITEID",
+  "domain": "siteid",
   "labels": [
     "SITE20",
     "site"

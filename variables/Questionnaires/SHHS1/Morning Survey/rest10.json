@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): Quality of sleep: restless/restful",
   "description": "Quality of sleep: restless/restful (1=restless to 5=restful)",
   "type": "choices",
-  "domain": "RESTLF5",
+  "domain": "restlf5",
   "labels": [
     "REST10"
   ],

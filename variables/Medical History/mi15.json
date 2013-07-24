@@ -3,7 +3,7 @@
   "display_name": "MD Reported MI (SHHS1)",
   "description": "MD said pt had heart attack?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "MI15"
   ],

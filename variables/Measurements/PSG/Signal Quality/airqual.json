@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS1): Signal Quality (airflow)",
   "description": "Overall quality of signal from airflow sensor (thermistor) as assessed by scorer.",
   "type": "choices",
-  "domain": "SIGQUS1",
+  "domain": "sigqus1",
   "labels": [
     "Airqual"
   ],

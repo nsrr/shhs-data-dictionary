@@ -3,7 +3,7 @@
   "display_name": "Adverse Events (SHHS1): Physician notified by letter or phone",
   "description": "Physician notified by letter or phone",
   "type": "choices",
-  "domain": "LETTPHN",
+  "domain": "lettphn",
   "labels": [
     "HWNOTAE"
   ],

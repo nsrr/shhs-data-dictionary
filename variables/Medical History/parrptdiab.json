@@ -3,7 +3,7 @@
   "display_name": "History of Diabetes (SHHS1)",
   "description": "Parent Cohort reported Diabetes Status",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesno01",
   "labels": [
     "ParRptDiab"
   ],

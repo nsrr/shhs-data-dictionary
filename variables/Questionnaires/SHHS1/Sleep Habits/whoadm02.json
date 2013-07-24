@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Administered by",
   "description": "Who administered form? 0=self administered, Interviewer administered in 1=English, 2=Spanish, 3=Lakota, 4=Pima, 5=Other, 6=Unknown",
   "type": "choices",
-  "domain": "LANGADM6",
+  "domain": "langadm6",
   "labels": [
     "WhoAdm02"
   ],

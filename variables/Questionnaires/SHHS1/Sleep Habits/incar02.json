@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Fall asleep while in a car",
   "description": "What is chance that you would doze off or fall asleep while in a car, while stopped for a few minutes in traffic?",
   "type": "choices",
-  "domain": "NHCHAN4",
+  "domain": "nhchan4",
   "labels": [
     "InCar02"
   ],

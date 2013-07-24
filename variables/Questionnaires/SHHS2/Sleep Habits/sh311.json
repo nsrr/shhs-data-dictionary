@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS2): Loudness of snoring",
   "description": "Questions 9 through 15 are about snoring and breathing during sleep. To answer these questions, please consider both what others have told you AND what you know about yourself.  11. How loud is your snoring? (check one)",
   "type": "choices",
-  "domain": "SNRLOUD5",
+  "domain": "snrloud5",
   "labels": [
     "sh311"
   ],

@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): ECG placement",
   "description": "",
   "type": "choices",
-  "domain": "ECGPLC",
+  "domain": "ecgplc",
   "labels": [
     "ECGPLC51"
   ],

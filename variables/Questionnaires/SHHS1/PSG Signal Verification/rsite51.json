@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Recorder Field Site",
   "description": "Field Center",
   "type": "choices",
-  "domain": "SITEID",
+  "domain": "siteid",
   "labels": [
     "RSITE51",
     "site"

@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): discomfort from belts",
   "description": "How much discomfort caused by these parts of the monitor: belts around chest and stomach?",
   "type": "choices",
-  "domain": "NONE4",
+  "domain": "none4",
   "labels": [
     "BELT10"
   ],

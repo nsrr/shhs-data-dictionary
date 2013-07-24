@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Frequency of being awakened with heartburn or indigestion",
   "description": "In the past year, how often, on average, have you been awakened with heartburn or indigestion?",
   "type": "choices",
-  "domain": "NEVRALW5",
+  "domain": "nevralw5",
   "labels": [
     "HB02"
   ],

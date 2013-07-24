@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Health or emotional problems limit social activities",
   "description": "During the past 4 weeks, to what extent has your physical health or emotional problems interfered with your normal social activities with family, friends, neighbors, or groups?",
   "type": "choices",
-  "domain": "NOTEXTR5",
+  "domain": "notextr5",
   "labels": [
     "PROBSA25"
   ],

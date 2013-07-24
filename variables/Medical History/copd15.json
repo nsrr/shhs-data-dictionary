@@ -3,7 +3,7 @@
   "display_name": "History of COPD (SHHS1)",
   "description": "MD said pt had COPD?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "COPD15"
   ],

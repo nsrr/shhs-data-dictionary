@@ -3,7 +3,7 @@
   "display_name": "Contact Form (SHHS1): Site ID",
   "description": "Field center/site ID",
   "type": "choices",
-  "domain": "SITEID",
+  "domain": "siteid",
   "labels": [
     "Site03",
     "site"

@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): Interviewer or Reviewer ID",
   "description": "Interviewer or Reviewer ID",
   "type": "choices",
-  "domain": "TECHID",
+  "domain": "techid",
   "labels": [
     "INTID15"
   ],

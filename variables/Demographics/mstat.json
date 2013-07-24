@@ -3,7 +3,7 @@
   "display_name": "Marital Status (SHHS1)",
   "description": "Marital Status",
   "type": "choices",
-  "domain": "MARITAL",
+  "domain": "marital",
   "labels": [
     "MStat"
   ],

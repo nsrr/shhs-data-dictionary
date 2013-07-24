@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS2): Fall asleep while at the dinner table",
   "description": "19. What is the chance that you would doze off or fall asleep (not just \"feel tired\") in each of the following situations? (Check one box for each situation.  If you are never or rarely in the situation, please give your best guess for what would happen.)  i. At the dinner table.",
   "type": "choices",
-  "domain": "NHCHAN4",
+  "domain": "nhchan4",
   "labels": [
     "sh319i"
   ],

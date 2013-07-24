@@ -3,7 +3,7 @@
   "display_name": "Parent Cohort",
   "description": "Assigned Parent Cohort ID",
   "type": "choices",
-  "domain": "PRNTSTDY",
+  "domain": "prntstdy",
   "labels": [
     "parentstudy"
   ],

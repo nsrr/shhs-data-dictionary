@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Health limits bending, kneeling, or stooping",
   "description": "Does your health now limit you in this activity, and if so, how much: Bending, kneeling, or stooping",
   "type": "choices",
-  "domain": "LOTLIT3",
+  "domain": "lotlit3",
   "labels": [
     "BEND25"
   ],

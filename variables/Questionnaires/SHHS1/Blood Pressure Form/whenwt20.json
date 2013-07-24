@@ -3,7 +3,7 @@
   "display_name": "Blood Pressure (SHHS1): Weight measured when? (1=tonight; 2=at clinic on (date) [WTCLDT20])",
   "description": "Weight measured when? (1=tonight; 2=at clinic on (date) [WTCLDT20])",
   "type": "choices",
-  "domain": "TCLINIC",
+  "domain": "tclinic",
   "labels": [
     "WHENWT20"
   ],

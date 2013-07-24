@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): when Alcohol data collected",
   "description": "Alcohol data collected on date? 1=today at home visit, 2=data collected in clinic (date=[ALCLDT15])",
   "type": "choices",
-  "domain": "HOMCLIN",
+  "domain": "homclin",
   "labels": [
     "WHENAL15"
   ],

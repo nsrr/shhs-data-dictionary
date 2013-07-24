@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS1): First or repeat study",
   "description": "",
   "type": "choices",
-  "domain": "REPSTDY",
+  "domain": "repstdy",
   "labels": [
     "Firstqa"
   ],

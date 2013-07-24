@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Fall asleep while sitting and talking",
   "description": "What is the chance that you would doze off or fall asleep while sitting and talking to someone?",
   "type": "choices",
-  "domain": "NHCHAN4",
+  "domain": "nhchan4",
   "labels": [
     "SitTlk02"
   ],

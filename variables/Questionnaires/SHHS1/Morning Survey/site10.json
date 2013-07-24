@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): Site ID",
   "description": "Field center/site ID",
   "type": "choices",
-  "domain": "SITEID",
+  "domain": "siteid",
   "labels": [
     "SITE10",
     "site"

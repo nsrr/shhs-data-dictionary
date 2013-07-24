@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Health limits bathing and dressing",
   "description": "Does your health now limit you in this activity, and if so, how much: Bathing and dressing yourself",
   "type": "choices",
-  "domain": "LOTLIT3",
+  "domain": "lotlit3",
   "labels": [
     "BATHE25"
   ],

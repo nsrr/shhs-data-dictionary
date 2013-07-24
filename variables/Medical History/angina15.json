@@ -3,7 +3,7 @@
   "display_name": "MD Reported Angina (SHHS1)",
   "description": "MD said pt had angina?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "ANGINA15"
   ],

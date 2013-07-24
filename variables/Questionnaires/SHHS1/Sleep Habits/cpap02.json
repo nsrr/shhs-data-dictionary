@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Use pressure mask (CPAP) or mouthpiece for sleep apnea",
   "description": "Do you sleep with either a pressure mask (CPAP) or a mouthpiece as treatment for your sleep apnea?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesno01",
   "labels": [
     "CPAP02"
   ],

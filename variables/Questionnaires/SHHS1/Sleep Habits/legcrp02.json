@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Frequency of being awakened with leg cramps or jerks",
   "description": "In the past year, how often, on average, have you been awakened with leg cramps or leg jerks?",
   "type": "choices",
-  "domain": "NEVRALW5",
+  "domain": "nevralw5",
   "labels": [
     "LegCrp02"
   ],

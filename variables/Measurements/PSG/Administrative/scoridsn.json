@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Scorer ID",
   "description": "Scorer ID",
   "type": "choices",
-  "domain": "SCORIDF",
+  "domain": "scoridf",
   "hybrid": {
     "VARNUM": "687",
     "TABLE": "SHHS1",

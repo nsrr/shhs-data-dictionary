@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Health is excellent",
   "description": "Choose (definitely True-definitely False): My health is excellent.",
   "type": "choices",
-  "domain": "TRUFALS5",
+  "domain": "trufals5",
   "labels": [
     "EXCLNT25"
   ],

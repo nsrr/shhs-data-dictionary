@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Frequency of being awakened with need to go to bathroom",
   "description": "In the past year, how often, on average, have you been awakened with the need to go to the bathroom?",
   "type": "choices",
-  "domain": "NEVRALW5",
+  "domain": "nevralw5",
   "labels": [
     "NeedBR02"
   ],

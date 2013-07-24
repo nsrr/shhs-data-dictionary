@@ -3,7 +3,7 @@
   "display_name": "History of Chronic Bronchitis (SHHS1)",
   "description": "MD said pt had chronic bronchitis?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "CRBRON15"
   ],

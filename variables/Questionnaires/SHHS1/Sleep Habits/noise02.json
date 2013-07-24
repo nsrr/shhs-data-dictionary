@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Frequency of being awakened by noise",
   "description": "In the past year, how often, on average, have you been awakened with noise in your surroundings?",
   "type": "choices",
-  "domain": "NEVRALW5",
+  "domain": "nevralw5",
   "labels": [
     "Noise02"
   ],

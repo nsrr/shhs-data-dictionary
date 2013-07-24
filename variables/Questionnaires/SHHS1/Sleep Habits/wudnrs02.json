@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Frequency of waking up and having difficulty resuming sleep",
   "description": "How often do you wake up during the night and have difficulty resuming sleep?",
   "type": "choices",
-  "domain": "NEVRALW5",
+  "domain": "nevralw5",
   "labels": [
     "WUDNRS02"
   ],

@@ -3,7 +3,7 @@
   "display_name": "History of Asthma (SHHS1)",
   "description": "MD said pt had asthma?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "ASTHMA15"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Scorer ID (SHHS2)",
   "description": "Scorer ID",
   "type": "choices",
-  "domain": "SCORIDF",
+  "domain": "scoridf",
   "labels": [
     "scorerid"
   ],

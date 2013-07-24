@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): discomfort from plastic piece over lip",
   "description": "How much discomfort caused by these parts of the monitor: plastic piece over lip?",
   "type": "choices",
-  "domain": "NONE4",
+  "domain": "none4",
   "labels": [
     "PLSTC10"
   ],

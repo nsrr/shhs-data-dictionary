@@ -3,7 +3,7 @@
   "display_name": "Self-reported Hypertension (SHHS1)",
   "description": "Self-Reported Hypertension",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesno01",
   "labels": [
     "SRHype"
   ],

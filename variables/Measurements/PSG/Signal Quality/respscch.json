@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Predominant (>=75%) Channel for Scoring Respiratory",
   "description": "",
   "type": "choices",
-  "domain": "RESPCH",
+  "domain": "respch",
   "hybrid": {
     "VARNUM": "693",
     "TABLE": "SHHS1",

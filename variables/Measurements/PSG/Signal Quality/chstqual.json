@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS1): Signal Quality (chest effort)",
   "description": "Overall quality of signal from thoracic effort belt as assessed by scorer.",
   "type": "choices",
-  "domain": "SIGQUS1",
+  "domain": "sigqus1",
   "labels": [
     "Chstqual"
   ],

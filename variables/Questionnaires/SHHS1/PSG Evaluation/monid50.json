@@ -3,7 +3,7 @@
   "display_name": "PSG Evaluation (SHHS1): Monitor ID",
   "description": "Monitor ID",
   "type": "choices",
-  "domain": "MONTRID",
+  "domain": "montrid",
   "labels": [
     "MONID50"
   ],

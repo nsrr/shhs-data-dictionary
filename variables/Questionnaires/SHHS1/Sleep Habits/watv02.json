@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Fall asleep while watching TV",
   "description": "What is chance that you would doze off or fall asleep while watching TV?",
   "type": "choices",
-  "domain": "NHCHAN4",
+  "domain": "nhchan4",
   "labels": [
     "WaTV02"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS2): Visit ID code",
   "description": "",
   "type": "choices",
-  "domain": "VISITCD",
+  "domain": "visitcd",
   "labels": [
     "visit_sh"
   ],

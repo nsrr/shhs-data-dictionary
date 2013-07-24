@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Frequency of feeling unrested",
   "description": "How often do you feel unrested during the day, no matter how many hours of sleep you had?",
   "type": "choices",
-  "domain": "NEVRALW5",
+  "domain": "nevralw5",
   "labels": [
     "FUnres02"
   ],

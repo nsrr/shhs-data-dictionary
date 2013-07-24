@@ -3,7 +3,7 @@
   "display_name": "Sinus trouble (SHHS1)",
   "description": "Do you usually have sinus trouble?",
   "type": "choices",
-  "domain": "yesnod",
+  "domain": "yesno01",
   "labels": [
     "SINUS15"
   ],

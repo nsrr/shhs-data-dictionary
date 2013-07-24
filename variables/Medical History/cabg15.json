@@ -3,7 +3,7 @@
   "display_name": "MD Reported CABG (SHHS1)",
   "description": "MD said pt had CABG?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "CABG15"
   ],

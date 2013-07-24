@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Frequency of not getting enough sleep",
   "description": "How often do you not get enough sleep?",
   "type": "choices",
-  "domain": "NEVRALW5",
+  "domain": "nevralw5",
   "labels": [
     "NGES02"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Visit ID code",
   "description": "",
   "type": "choices",
-  "domain": "VISITCD",
+  "domain": "visitcd",
   "labels": [
     "visit_pm"
   ],

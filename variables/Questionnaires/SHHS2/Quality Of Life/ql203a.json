@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS2): Health limits vigorous activities",
   "description": "3. The following questions are about activities you might do during a typical day. Does your health now limit you in these activities? If so, how much? (Check one box for each question.) a. Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports.",
   "type": "choices",
-  "domain": "LOTLITN",
+  "domain": "lotlitn",
   "labels": [
     "ql203a"
   ],

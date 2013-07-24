@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): MD prescribed nitro in last year",
   "description": "MD prescribed nitro in last year?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "NITRO15"
   ],

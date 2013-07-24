@@ -3,7 +3,7 @@
   "display_name": "History of Emphysema (SHHS1)",
   "description": "MD said pt had emphysema?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "EMPHYS15"
   ],

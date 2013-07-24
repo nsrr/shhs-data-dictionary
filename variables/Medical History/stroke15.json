@@ -3,7 +3,7 @@
   "display_name": "MD Reported Stroke (SHHS1)",
   "description": "MD said pt had stroke?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "STROKE15"
   ],

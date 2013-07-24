@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): Quality of sleep light/deep",
   "description": "Quality of sleep last night: light/deep (1=light  to  5=deep)",
   "type": "choices",
-  "domain": "LIGHDAR5",
+  "domain": "lighdar5",
   "labels": [
     "LTDP10"
   ],

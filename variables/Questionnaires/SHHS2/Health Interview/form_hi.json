@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS2): Form ID and revision number",
   "description": "Form ID and revision number",
   "type": "choices",
-  "domain": "FRMID",
+  "domain": "frmid",
   "labels": [
     "form_hi"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): Numeric ID of interviewer/reviewer",
   "description": "Numeric ID of interviewer/reviewer",
   "type": "choices",
-  "domain": "TECHID",
+  "domain": "techid",
   "labels": [
     "INTID10"
   ],

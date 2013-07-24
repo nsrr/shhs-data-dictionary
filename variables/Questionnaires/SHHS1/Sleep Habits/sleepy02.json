@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Frequency of excessive daytime sleepiness",
   "description": "How often do you feel excessively (overly) sleepy during the day?",
   "type": "choices",
-  "domain": "NEVRALW5",
+  "domain": "nevralw5",
   "labels": [
     "Sleepy02"
   ],

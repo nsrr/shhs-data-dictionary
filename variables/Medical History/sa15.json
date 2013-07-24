@@ -3,7 +3,7 @@
   "display_name": "History of Sleep Apnea (SHHS1)",
   "description": "MD said pt had sleep apnea?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "SA15"
   ],

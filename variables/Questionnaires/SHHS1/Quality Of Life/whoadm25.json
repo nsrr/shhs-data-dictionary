@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Administered by",
   "description": "Who administered questionnaire?",
   "type": "choices",
-  "domain": "ADM1",
+  "domain": "adm1",
   "labels": [
     "WHOADM25"
   ],

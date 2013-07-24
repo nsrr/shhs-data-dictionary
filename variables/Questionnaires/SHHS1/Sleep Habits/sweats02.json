@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Frequency of being awakened with sweats or hot flashes",
   "description": "In the past year, how often, on average, have you been awakened with sweats or hot flashes?",
   "type": "choices",
-  "domain": "NEVRALW5",
+  "domain": "nevralw5",
   "labels": [
     "Sweats02"
   ],

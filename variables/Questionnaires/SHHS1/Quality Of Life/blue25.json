@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Felt downhearted and blue",
   "description": "During the past 4 weeks, how much of the time: Have you felt downhearted and blue?",
   "type": "choices",
-  "domain": "ALLNONE6",
+  "domain": "allnone6",
   "labels": [
     "BLUE25"
   ],

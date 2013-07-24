@@ -3,7 +3,7 @@
   "display_name": "MD Reported Heart Failure (SHHS1)",
   "description": "MD said pt had heart failure?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "HF15"
   ],

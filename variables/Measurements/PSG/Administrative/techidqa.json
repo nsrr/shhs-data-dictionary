@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS1): Technician ID",
   "description": "Technician ID",
   "type": "choices",
-  "domain": "TECHID",
+  "domain": "techid",
   "labels": [
     "TechIDqa"
   ],

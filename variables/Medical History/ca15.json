@@ -3,7 +3,7 @@
   "display_name": "MD Reported Coronary Angioplasty (SHHS1)",
   "description": "MD said pt had coronary angioplasty?",
   "type": "choices",
-  "domain": "YESNOd",
+  "domain": "yesnod",
   "labels": [
     "CA15"
   ],

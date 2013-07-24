@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): discomfort from vest",
   "description": "How much discomfort caused by these parts of the monitor: vest?",
   "type": "choices",
-  "domain": "NONE4",
+  "domain": "none4",
   "labels": [
     "VEST10"
   ],

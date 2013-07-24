@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS1): Signal Quality (EEG 2)",
   "description": "Overall quality of signal from EEG2 lead as assessed by scorer.",
   "type": "choices",
-  "domain": "SIGQUS1",
+  "domain": "sigqus1",
   "labels": [
     "EEG2qual"
   ],

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "LagBreath"
+    "lagbreath",
+    "cheyne stokes"
   ],
   "hybrid": {
     "VARNUM": "512",

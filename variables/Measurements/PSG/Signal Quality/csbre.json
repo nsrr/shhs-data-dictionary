@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "CSBre"
+    "csbre",
+    "cheyne stokes"
   ],
   "hybrid": {
     "VARNUM": "510",

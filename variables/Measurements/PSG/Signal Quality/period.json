@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS2): Periodic breathign (5 min)",
   "description": "Scorer observed periodic breathing for a period of at least 5 minutes during study.",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "yesnon",
   "labels": [
     "Period"
   ],

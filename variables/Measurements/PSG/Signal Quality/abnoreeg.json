@@ -3,7 +3,7 @@
   "display_name": "PSG Quality Assessment (SHHS2): Abnormal EEG",
   "description": "Scorer observed abnormal EEG during study.",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "yesnon",
   "labels": [
     "AbnorEEG"
   ],

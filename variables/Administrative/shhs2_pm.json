@@ -14,7 +14,6 @@
     "sensitivity": "0",
     "design_name": "Physical Measurements (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "commonly_used": null,
     "design_file": "SHHS2 Physical Measurements (PM).pdf",
     "PARENT TERM": null
   }

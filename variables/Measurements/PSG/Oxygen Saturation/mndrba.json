@@ -14,7 +14,6 @@
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": "psg:minsat"
   }

@@ -13,7 +13,6 @@
     "sensitivity": "1",
     "design_name": "Adverse Events Form (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "commonly_used": null,
     "design_file": "SHHS1 Adverse Events (AE).pdf",
     "PARENT TERM": null
   }

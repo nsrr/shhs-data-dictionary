@@ -8,6 +8,7 @@
     "aced1",
     "angiotensin-converting-enzyme"
   ],
+  "commonly_used": true,
   "hybrid": {
     "VARNUM": "198",
     "TABLE": "SHHS1",
@@ -15,7 +16,6 @@
     "sensitivity": "0",
     "design_name": "Medication Form (SHHS1)",
     "MEMNAME": "shhs1_1",
-    "commonly_used": "1",
     "design_file": "SHHS1 Medications.pdf",
     "PARENT TERM": null
   }

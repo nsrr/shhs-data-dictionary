@@ -7,6 +7,7 @@
   "labels": [
     "smokstat_s1"
   ],
+  "commonly_used": true,
   "hybrid": {
     "VARNUM": "722",
     "TABLE": "SHHS1",
@@ -14,7 +15,6 @@
     "sensitivity": "0",
     "design_name": "Sleep Habits (SHHS1)",
     "MEMNAME": "shhs1_2",
-    "commonly_used": "1",
     "design_file": null,
     "PARENT TERM": "comorb:smoking"
   }

@@ -7,6 +7,7 @@
   "labels": [
     "hi201a"
   ],
+  "commonly_used": true,
   "hybrid": {
     "VARNUM": "94",
     "TABLE": "SHHS2",
@@ -14,7 +15,6 @@
     "sensitivity": "0",
     "design_name": "Health Interview (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "commonly_used": "1",
     "design_file": "SHHS2 Health Interview (HI).pdf",
     "PARENT TERM": null
   }

@@ -7,6 +7,7 @@
   "labels": [
     "sh317"
   ],
+  "commonly_used": true,
   "hybrid": {
     "VARNUM": "30",
     "TABLE": "SHHS2",
@@ -14,7 +15,6 @@
     "sensitivity": "0",
     "design_name": "Sleep Habits (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "commonly_used": "1",
     "design_file": "SHHS2 Sleep Habits (SH).pdf",
     "PARENT TERM": null
   }

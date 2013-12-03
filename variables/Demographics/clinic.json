@@ -7,10 +7,10 @@
   "labels": [
     "clinic"
   ],
+  "commonly_used": true,
   "hybrid": {
     "sensitivity": "1",
     "design_name": null,
-    "commonly_used": "1",
     "design_file": null
   }
 }

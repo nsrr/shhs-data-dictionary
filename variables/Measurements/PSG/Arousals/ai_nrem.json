@@ -13,7 +13,6 @@
     "LABEL": "Calculated - arousal index non-rem",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
-    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": "psg:ai"
   }

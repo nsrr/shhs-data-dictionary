@@ -8,6 +8,7 @@
   "labels": [
     "slp_eff"
   ],
+  "commonly_used": true,
   "hybrid": {
     "VARNUM": "523",
     "TABLE": "SHHS2",
@@ -15,7 +16,6 @@
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",
-    "commonly_used": "1",
     "design_file": null,
     "PARENT TERM": null
   }

@@ -15,7 +15,6 @@
     "sensitivity": "2",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",
-    "commonly_used": null,
     "design_file": null,
     "PARENT TERM": "psg:sleeptime"
   }

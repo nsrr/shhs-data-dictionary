@@ -8,12 +8,12 @@
   "labels": [
     "ai_all"
   ],
+  "commonly_used": true,
   "hybrid": {
     "VARNUM": "535",
     "LABEL": "Calculated - arousal index all",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
-    "commonly_used": "1",
     "design_file": null,
     "PARENT TERM": "psg:ai"
   }

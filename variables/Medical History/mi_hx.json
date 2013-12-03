@@ -7,6 +7,7 @@
   "labels": [
     "MI"
   ],
+  "commonly_used": true,
   "hybrid": {
     "VARNUM": "356",
     "TABLE": "SHHS1",
@@ -14,7 +15,6 @@
     "sensitivity": "0",
     "design_name": null,
     "MEMNAME": "shhs1_1",
-    "commonly_used": "1",
     "design_file": null,
     "PARENT TERM": null
   }

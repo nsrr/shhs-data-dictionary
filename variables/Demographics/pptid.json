@@ -7,11 +7,11 @@
     "pptid",
     "id"
   ],
+  "commonly_used": true,
   "hybrid": {
     "LABEL": "Participant Identification Number",
     "sensitivity": "1",
     "design_name": null,
-    "commonly_used": "1",
     "design_file": null
   }
 }

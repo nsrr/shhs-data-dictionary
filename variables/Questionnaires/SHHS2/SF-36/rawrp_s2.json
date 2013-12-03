@@ -14,7 +14,6 @@
     "sensitivity": "0",
     "design_name": "SF-36 Calculated (SHHS2)",
     "MEMNAME": "shhs2_1",
-    "commonly_used": null,
     "design_file": "SHHS2 Quality of Life (QL).pdf",
     "PARENT TERM": null
   }

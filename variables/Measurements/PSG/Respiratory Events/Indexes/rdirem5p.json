@@ -4,7 +4,7 @@
   "description": "REM RDI at 5% desat  [(Total number of apneas and hypopneas in REM sleep associated with >= 5% desat) / (hours of REM sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "rdirem5p = 60*(hrembp5 + hrop5 + carbp5 + carop5 + oarbp5 + oarop5) / minremp",
+  "calculation": "60 * ( hrembp5 + hrop5 + carbp5 + carop5 + oarbp5 + oarop5 ) / minremp",
   "labels": [
     "rdirem5p",
     "rdi",

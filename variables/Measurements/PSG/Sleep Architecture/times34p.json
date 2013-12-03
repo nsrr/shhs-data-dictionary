@@ -4,7 +4,7 @@
   "description": "Percent of sleep time in stage 3-4 [100*(Number of minutes scored as stage 3-4) / (total sleep time)]",
   "type": "numeric",
   "units": "percent",
-  "calculation": "times34p = tmstg34p",
+  "calculation": "tmstg34p",
   "labels": [
     "times34p"
   ],

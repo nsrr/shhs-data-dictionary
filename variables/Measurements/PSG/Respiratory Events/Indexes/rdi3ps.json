@@ -4,7 +4,7 @@
   "description": "Supine RDI at 3% desat  [(Total number of apneas and hypopneas in supine body position associated with >= 3% desat) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "rdi3ps  = 60*(hrembp3 + hnrbp3 + carbp3 + canbp3 + oarbp3 + oanbp3)/(remepbp+nremepbp)",
+  "calculation": "60 * ( hrembp3 + hnrbp3 + carbp3 + canbp3 + oarbp3 + oanbp3 ) / ( remepbp + nremepbp )",
   "labels": [
     "rdi3ps",
     "rdi",

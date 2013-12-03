@@ -4,7 +4,7 @@
   "description": "Total time scored as stage 3/4 rounded to nearest minute",
   "type": "numeric",
   "units": "minute",
-  "calculation": "timest34= mnstg34p",
+  "calculation": "mnstg34p",
   "labels": [
     "timest34"
   ],

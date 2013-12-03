@@ -4,7 +4,7 @@
   "description": "Average SaO2% during sleep  [Mean(all SaO2 values in sleep)]",
   "type": "numeric",
   "units": "percent",
-  "calculation": "avgsat = ((avsao2nh) * (timest1p+timest2p+times34p) + (avsao2rh)*(timeremp))/100",
+  "calculation": "( ( avsao2nh ) * ( timest1p + timest2p + times34p ) + ( avsao2rh ) * ( timeremp ) ) / 100",
   "labels": [
     "avgsat"
   ],

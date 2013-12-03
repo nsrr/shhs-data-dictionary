@@ -4,7 +4,7 @@
   "description": "Lowest SaO2% during sleep  [Min(all SaO2 values in sleep)]",
   "type": "numeric",
   "units": "percent",
-  "calculation": "minsat = min(losao2r,losao2nr)",
+  "calculation": "min(losao2r,losao2nr)",
   "labels": [
     "minsat"
   ],

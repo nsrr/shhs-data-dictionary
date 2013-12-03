@@ -4,7 +4,7 @@
   "description": "Central Apnea Index at all desats  [(Total number of central apneas associated with all desats) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "cai0p  = 60*(carbp +  carop  + canbp  + canop ) / slpprdp",
+  "calculation": "60 * ( carbp + carop + canbp + canop ) / slpprdp",
   "labels": [
     "cai0p"
   ],

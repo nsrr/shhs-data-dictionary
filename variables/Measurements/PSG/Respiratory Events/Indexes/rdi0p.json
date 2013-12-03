@@ -4,7 +4,7 @@
   "description": "RDI at all desats  [(Total number of apneas and hypopneas) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "rdi0p = 60*(hrembp + hrop + hnrbp + hnrop + carbp + carop + canbp + canop +oarbp +oarop + oanbp +oanop) / slpprdp",
+  "calculation": "60 * ( hrembp + hrop + hnrbp + hnrop + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp",
   "labels": [
     "rdi0p",
     "rdi",

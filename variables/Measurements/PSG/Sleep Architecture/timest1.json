@@ -4,7 +4,7 @@
   "description": "Total time scored as stage 1 rounded to nearest minute",
   "type": "numeric",
   "units": "minute",
-  "calculation": "timest1 = minstg1p",
+  "calculation": "minstg1p",
   "labels": [
     "timest1"
   ],

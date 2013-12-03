@@ -4,7 +4,7 @@
   "description": "Percent of sleep time in supine body position  [100*(Number of minutes of sleep in supine body position) / (total sleep time)] ",
   "type": "numeric",
   "units": "percent",
-  "calculation": "supinep = 100*(remepbp+nremepbp)/slpprdp",
+  "calculation": "100 * ( remepbp + nremepbp ) / slpprdp",
   "labels": [
     "supinep"
   ],

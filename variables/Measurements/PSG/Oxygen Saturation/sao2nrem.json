@@ -4,7 +4,7 @@
   "description": "Average SaO2% in non-REM sleep.  The mean of all oxygen saturation values in epochs scored as stages other than REM (i.e., 1,2,3/4).  [Mean(all SaO2 values in NREM sleep)]",
   "type": "numeric",
   "units": "percent",
-  "calculation": "sao2nrem = avsao2nh",
+  "calculation": "avsao2nh",
   "labels": [
     "sao2nrem"
   ],

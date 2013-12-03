@@ -4,7 +4,7 @@
   "description": "Obstructive Apnea Index at all desats  [(Total number of obstructive apneas associated with all desats) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "oai0p  = 60*(oarbp +  oarop  + oanbp  + oanop ) / slpprdp",
+  "calculation": "60 * ( oarbp +  oarop  + oanbp  + oanop ) / slpprdp",
   "labels": [
     "oai0p"
   ],

@@ -4,7 +4,7 @@
   "description": "Percent of sleep time in stage 2 [100*(Number of minutes scored as stage 2) / (total sleep time)]",
   "type": "numeric",
   "units": "percent",
-  "calculation": "timest2p = tmstg2p",
+  "calculation": "tmstg2p",
   "labels": [
     "timest2p"
   ],

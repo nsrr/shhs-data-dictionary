@@ -4,7 +4,7 @@
   "description": "Time from lights out time to beginning of sleep, rounded to nearest minute",
   "type": "numeric",
   "units": "minute",
-  "calculation": "slp_lat = slplatp",
+  "calculation": "slplatp",
   "labels": [
     "slp_lat"
   ],

@@ -4,7 +4,7 @@
   "description": "Time from lights out to lights on, rounded to nearest minute",
   "type": "numeric",
   "units": "minute",
-  "calculation": "time_bed = timebedp",
+  "calculation": "timebedp",
   "labels": [
     "time_bed"
   ],

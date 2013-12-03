@@ -4,7 +4,7 @@
   "description": "Central Apnea Index with Arousal at 4% desat  [(Total number of central apneas associated with arousals or >= 4% desat) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "cai4pa = 60*(carba4 + caroa4 + canba4 + canoa4 ) / slpprdp",
+  "calculation": "60 * ( carba4 + caroa4 + canba4 + canoa4 ) / slpprdp",
   "labels": [
     "cai4pa"
   ],

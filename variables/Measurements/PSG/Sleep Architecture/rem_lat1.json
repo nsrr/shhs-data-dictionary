@@ -4,7 +4,7 @@
   "description": "Total time from beginning of sleep to first epoch of REM, rounded to nearest minute",
   "type": "numeric",
   "units": "minute",
-  "calculation": "rem_lat1 = remlaip",
+  "calculation": "remlaip",
   "labels": [
     "rem_lat1"
   ],

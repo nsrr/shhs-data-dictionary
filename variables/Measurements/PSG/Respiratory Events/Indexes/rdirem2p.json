@@ -4,7 +4,7 @@
   "description": "REM RDI at 2% desat  [(Total number of apneas and hypopneas in REM sleep associated with >= 2% desat) / (hours of REM sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "rdirem2p = 60*(hrembp2 + hrop2 + carbp2 + carop2 + oarbp2 + oarop2) / minremp",
+  "calculation": "60 * ( hrembp2 + hrop2 + carbp2 + carop2 + oarbp2 + oarop2 ) / minremp",
   "labels": [
     "rdirem2p",
     "rdi",

@@ -4,7 +4,7 @@
   "description": "Obstructive Apnea Index with Arousal at 4% desat  [(Total number of obstructive apneas associated with arousals or >= 4% desat) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "oai4pa = 60*(oarba4 + oaroa4 + oanba4 + oanoa4 ) / slpprdp",
+  "calculation": "60 * ( oarba4 + oaroa4 + oanba4 + oanoa4 ) / slpprdp",
   "labels": [
     "oai4pa"
   ],

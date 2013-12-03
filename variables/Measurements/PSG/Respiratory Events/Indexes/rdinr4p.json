@@ -4,7 +4,7 @@
   "description": "Non-REM RDI at 4% desat  [(Total number of apneas and hypopneas in non-REM sleep associated with >= 4% desat) / (hours of NREM sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "rdinr4p  = 60*(hnrbp4 + hnrop4 + canbp4 + canop4 + oanbp4 + oanop4) / (slpprdp - minremp)",
+  "calculation": "60 * ( hnrbp4 + hnrop4 + canbp4 + canop4 + oanbp4 + oanop4 ) / ( slpprdp - minremp )",
   "labels": [
     "rdinr4p",
     "rdi",

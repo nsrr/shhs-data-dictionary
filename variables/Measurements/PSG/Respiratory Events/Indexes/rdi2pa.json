@@ -4,7 +4,7 @@
   "description": "RDI at 2% desat or arousal  [(Total number of apneas and hypopneas with arousal associated with >= 2% desat) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "rdi2pa = 60*(hremba2 +hroa2 + hnrba2 + hnroa2 +carba2+ caroa2 + canba2 + canoa2 +oarba2 +oaroa2 + oanba2 +oanoa2) / slpprdp",
+  "calculation": "60 * ( hremba2 + hroa2 + hnrba2 + hnroa2 + carba2 + caroa2 + canba2 + canoa2 + oarba2 + oaroa2 + oanba2 + oanoa2 ) / slpprdp",
   "labels": [
     "rdi2pa",
     "rdi",

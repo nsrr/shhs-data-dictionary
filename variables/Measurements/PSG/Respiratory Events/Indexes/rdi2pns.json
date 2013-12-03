@@ -4,7 +4,7 @@
   "description": "Non-Supine RDI at 3% desat  [(Total number of apneas and hypopneas in non-supine body position associated with >= 3% desat) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "rdi2pns = 60*(hrop2 +   hnrop2 + carop2 + canop2 + oarop2 + oanop2)/(remepop+nremepop)",
+  "calculation": "60 * ( hrop2 + hnrop2 + carop2 + canop2 + oarop2 + oanop2 ) / ( remepop + nremepop )",
   "labels": [
     "rdi2pns",
     "rdi",

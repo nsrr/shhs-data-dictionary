@@ -4,7 +4,7 @@
   "description": "Total number of arousals per hour of sleep.  Ratio of count of arousals to total sleep time in hours.   [(Total number of arousals) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "ai_all = 60*(arrembp + arremop +arnrembp +arnremop) / slpprdp",
+  "calculation": "60 * ( arrembp + arremop + arnrembp + arnremop ) / slpprdp",
   "labels": [
     "ai_all"
   ],

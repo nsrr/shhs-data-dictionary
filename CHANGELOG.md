@@ -1,5 +1,7 @@
 ## 0.1.1 (unreleased)
 
+- Updated to spout 0.5.0.beta3
+
 ## 0.1.0 (July 26, 2013)
 
 ### Changes

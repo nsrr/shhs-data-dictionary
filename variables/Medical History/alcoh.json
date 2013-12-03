@@ -1,9 +1,9 @@
 {
   "id": "alcoh",
   "display_name": "Alcohol use (SHHS1)",
-  "description": "Usual Alcohol Intake",
+  "description": "Usual Alcohol Intake per day",
   "type": "numeric",
-  "units": "drinks",
+  "units": "drinks per day",
   "labels": [
     "Alcoh"
   ],

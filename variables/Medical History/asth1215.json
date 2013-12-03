@@ -1,7 +1,7 @@
 {
   "id": "asth1215",
   "display_name": "Asthma attack in last 12 months (SHHS1)",
-  "description": "pt had attack of asthma in last 12 months?",
+  "description": "Participant had attack of asthma in last 12 months?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

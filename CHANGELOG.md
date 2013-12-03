@@ -1,5 +1,6 @@
 ## 0.1.1 (unreleased)
 
+- Changed references of `patient` and `pt` to `participant`
 - Cleaned up and removed assignment statements from calculations
 - Updated to spout 0.5.0.beta3
 

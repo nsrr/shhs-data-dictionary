@@ -1,7 +1,7 @@
 {
   "id": "angina15",
   "display_name": "MD Reported Angina (SHHS1)",
-  "description": "MD said patient had angina?",
+  "description": "MD said participant had angina?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

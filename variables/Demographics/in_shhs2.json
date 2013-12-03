@@ -1,7 +1,7 @@
 {
   "id": "in_shhs2",
   "display_name": "Participant in SHHS2",
-  "description": "Patient has record in SHHS2",
+  "description": "Participant has record in SHHS2",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

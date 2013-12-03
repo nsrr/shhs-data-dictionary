@@ -1,7 +1,7 @@
 {
   "id": "mi15",
   "display_name": "MD Reported MI (SHHS1)",
-  "description": "MD said patient had heart attack?",
+  "description": "MD said participant had heart attack?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

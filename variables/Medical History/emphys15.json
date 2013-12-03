@@ -1,7 +1,7 @@
 {
   "id": "emphys15",
   "display_name": "History of Emphysema (SHHS1)",
-  "description": "MD said patient had emphysema?",
+  "description": "MD said participant had emphysema?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

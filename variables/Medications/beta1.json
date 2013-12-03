@@ -1,7 +1,7 @@
 {
   "id": "beta1",
   "display_name": "Beta-blockers without diuretics (SHHS1)",
-  "description": "Patient taking BETA-BLOCKERS WITHOUT DIURETICS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking BETA-BLOCKERS WITHOUT DIURETICS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

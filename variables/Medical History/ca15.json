@@ -1,7 +1,7 @@
 {
   "id": "ca15",
   "display_name": "MD Reported Coronary Angioplasty (SHHS1)",
-  "description": "MD said patient had coronary angioplasty?",
+  "description": "MD said participant had coronary angioplasty?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

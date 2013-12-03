@@ -1,7 +1,7 @@
 {
   "id": "aced1",
   "display_name": "ACE inhibitors with diuretics (SHHS1)",
-  "description": "Patient taking ACE INHIBITORS WITH DIURETICS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking ACE INHIBITORS WITH DIURETICS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

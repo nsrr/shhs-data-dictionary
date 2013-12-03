@@ -1,7 +1,7 @@
 {
   "id": "htnmed2",
   "display_name": "Any Anti-Hypertensive Medication (SHHS2)",
-  "description": "Patient taking ANY ANTI-HYPERTENSIVE MEDICATION within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking ANY ANTI-HYPERTENSIVE MEDICATION within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

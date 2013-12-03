@@ -1,7 +1,7 @@
 {
   "id": "hf15",
   "display_name": "MD Reported Heart Failure (SHHS1)",
-  "description": "MD said patient had heart failure?",
+  "description": "MD said participant had heart failure?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

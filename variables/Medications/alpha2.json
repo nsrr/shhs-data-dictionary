@@ -1,7 +1,7 @@
 {
   "id": "alpha2",
   "display_name": "Alpha-Blockers Without Diuretics (SHHS2)",
-  "description": "Patient taking ALPHA-BLOCKERS WITHOUT DIURETICS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking ALPHA-BLOCKERS WITHOUT DIURETICS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

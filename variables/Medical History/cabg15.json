@@ -1,7 +1,7 @@
 {
   "id": "cabg15",
   "display_name": "MD Reported CABG (SHHS1)",
-  "description": "MD said patient had CABG?",
+  "description": "MD said participant had CABG?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

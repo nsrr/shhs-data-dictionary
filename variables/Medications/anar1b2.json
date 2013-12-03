@@ -1,7 +1,7 @@
 {
   "id": "anar1b2",
   "display_name": "Anti-Arrhythmics, Class 1B (SHHS2)",
-  "description": "Patient taking ANTI-ARRHYTHMICS, CLASS 1B within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking ANTI-ARRHYTHMICS, CLASS 1B within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

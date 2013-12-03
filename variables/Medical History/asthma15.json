@@ -1,7 +1,7 @@
 {
   "id": "asthma15",
   "display_name": "History of Asthma (SHHS1)",
-  "description": "MD said patient had asthma?",
+  "description": "MD said participant had asthma?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

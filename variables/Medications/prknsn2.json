@@ -1,7 +1,7 @@
 {
   "id": "prknsn2",
   "display_name": "Drugs Used To Treat Parkinson's (SHHS2)",
-  "description": "Patient taking DRUGS USED TO TREAT PARKINSON'S within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking DRUGS USED TO TREAT PARKINSON'S within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

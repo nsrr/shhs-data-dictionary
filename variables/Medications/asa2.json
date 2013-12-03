@@ -1,7 +1,7 @@
 {
   "id": "asa2",
   "display_name": "Aspirin From 280804 (Anti-Inflam Agents) (SHHS2)",
-  "description": "Patient taking ASPIRIN FROM 280804 (ANTI-INFLAM AGENTS) within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking ASPIRIN FROM 280804 (ANTI-INFLAM AGENTS) within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

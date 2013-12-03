@@ -1,7 +1,7 @@
 {
   "id": "othrcs15",
   "display_name": "MD Reported Other Heart Surgery (SHHS1)",
-  "description": "MD said patient had other heart/cardiac surgery?",
+  "description": "MD said participant had other heart/cardiac surgery?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

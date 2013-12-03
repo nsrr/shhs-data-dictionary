@@ -1,7 +1,7 @@
 {
   "id": "copd15",
   "display_name": "History of COPD (SHHS1)",
-  "description": "MD said patient had COPD?",
+  "description": "MD said participant had COPD?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

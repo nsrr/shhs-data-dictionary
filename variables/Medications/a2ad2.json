@@ -1,7 +1,7 @@
 {
   "id": "a2ad2",
   "display_name": "Combinations Of Angiotensin II Antagonists Plus Diuretics (SHHS2)",
-  "description": "Patient taking COMBINATIONS OF ANGIOTENSIN II ANTAGONISTS PLUS DIURETICS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking COMBINATIONS OF ANGIOTENSIN II ANTAGONISTS PLUS DIURETICS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

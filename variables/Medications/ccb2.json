@@ -1,7 +1,7 @@
 {
   "id": "ccb2",
   "display_name": "Any Calcium-Channel Blocker (Ccir Or Ccbsr Or Ccbt) (SHHS2)",
-  "description": "Patient taking ANY CALCIUM-CHANNEL BLOCKER = CCIR OR CCBSR OR CCBT within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking ANY CALCIUM-CHANNEL BLOCKER = CCIR OR CCBSR OR CCBT within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

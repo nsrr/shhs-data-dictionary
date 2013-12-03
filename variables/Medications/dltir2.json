@@ -1,7 +1,7 @@
 {
   "id": "dltir2",
   "display_name": "Immediate-Release Diltiazem (SHHS2)",
-  "description": "Patient taking IMMEDIATE-RELEASE DILTIAZEM within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking IMMEDIATE-RELEASE DILTIAZEM within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

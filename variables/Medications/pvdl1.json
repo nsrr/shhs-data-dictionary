@@ -1,7 +1,7 @@
 {
   "id": "pvdl1",
   "display_name": "Peripheral vasodilators, exclude dipyridamole (SHHS1)",
-  "description": "Patient taking PERIPHERAL VASODILATORS, EXCLUDE DIPYRIDAMOLE within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking PERIPHERAL VASODILATORS, EXCLUDE DIPYRIDAMOLE within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "yesno01",
   "labels": [

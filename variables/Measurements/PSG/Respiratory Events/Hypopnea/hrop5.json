@@ -1,7 +1,7 @@
 {
   "id": "hrop5",
   "display_name": "# of Hypopnea (REM, Other, 5% desat)",
-  "description": "# of Hypopnea (REM, Other, 5% desat)",
+  "description": "Number of Hypopnea (REM, Other, 5% desat)",
   "type": "numeric",
   "units": "event count",
   "labels": [

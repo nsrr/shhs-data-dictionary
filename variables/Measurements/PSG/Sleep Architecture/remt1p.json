@@ -1,7 +1,7 @@
 {
   "id": "remt1p",
   "display_name": "# of REM to stage 1 shifts during sleep",
-  "description": "# of REM to stage 1 shifts during sleep",
+  "description": "Number of REM to stage 1 shifts during sleep",
   "type": "numeric",
   "units": "event count",
   "labels": [

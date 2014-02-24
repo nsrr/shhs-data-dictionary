@@ -1,7 +1,7 @@
 {
   "id": "ndes5ph",
   "display_name": "# of desat with >= 5% desat",
-  "description": "# of desat with >= 5% desat",
+  "description": "Number of desat with >= 5% desat",
   "type": "numeric",
   "units": "event count",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "hnrba",
   "display_name": "# of Hypopnea w/ arousals (NREM, Back, all desats)",
-  "description": "# of Hypopnea w/ arousals (NREM, Back, all desats)",
+  "description": "Number of Hypopnea w/ arousals (NREM, Back, all desats)",
   "type": "numeric",
   "units": "event count",
   "labels": [

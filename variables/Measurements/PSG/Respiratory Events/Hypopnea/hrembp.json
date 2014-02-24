@@ -1,7 +1,7 @@
 {
   "id": "hrembp",
   "display_name": "# of Hypopnea (REM, Back, all desats)",
-  "description": "# of Hypopnea (REM, Back, all desats)",
+  "description": "Number of Hypopnea (REM, Back, all desats)",
   "type": "numeric",
   "units": "event count",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "oanbp",
   "display_name": "# of Obs. Apnea (NREM, Back, all desats)",
-  "description": "# of Obs. Apnea (NREM, Back, all desats)",
+  "description": "Number of Obs. Apnea (NREM, Back, all desats)",
   "type": "numeric",
   "units": "event count",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "oanop",
   "display_name": "# of Obs. Apnea (NREM, Other, all desats)",
-  "description": "# of Obs. Apnea (NREM, Other, all desats)",
+  "description": "Number of Obs. Apnea (NREM, Other, all desats)",
   "type": "numeric",
   "units": "event count",
   "labels": [

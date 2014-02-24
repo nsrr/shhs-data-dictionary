@@ -1,7 +1,7 @@
 {
   "id": "canbp2",
   "display_name": "# of Cent. Apnea (NREM, Back, 2% desat)",
-  "description": "# of Cent. Apnea (NREM, Back, 2% desat)",
+  "description": "Number of Cent. Apnea (NREM, Back, 2% desat)",
   "type": "numeric",
   "units": "event count",
   "labels": [

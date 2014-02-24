@@ -1,7 +1,7 @@
 {
   "id": "hnrop2",
   "display_name": "# of Hypopnea (NREM, Other, 2% desat)",
-  "description": "# of Hypopnea (NREM, Other, 2% desat)",
+  "description": "Number of Hypopnea (NREM, Other, 2% desat)",
   "type": "numeric",
   "units": "event count",
   "labels": [

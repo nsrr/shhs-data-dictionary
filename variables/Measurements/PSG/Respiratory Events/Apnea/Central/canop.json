@@ -1,7 +1,7 @@
 {
   "id": "canop",
   "display_name": "# of Cent. Apnea (NREM, Other, all desats)",
-  "description": "# of Cent. Apnea (NREM, Other, all desats)",
+  "description": "Number of Cent. Apnea (NREM, Other, all desats)",
   "type": "numeric",
   "units": "event count",
   "labels": [

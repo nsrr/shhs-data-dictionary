@@ -1,7 +1,7 @@
 {
   "id": "carop5",
   "display_name": "# of Cent. Apnea (REM, Other, 5% desat)",
-  "description": "# of Cent. Apnea (REM, Other, 5% desat)",
+  "description": "Number of Cent. Apnea (REM, Other, 5% desat)",
   "type": "numeric",
   "units": "event count",
   "labels": [

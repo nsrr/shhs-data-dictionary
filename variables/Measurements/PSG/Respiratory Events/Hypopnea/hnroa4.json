@@ -1,7 +1,7 @@
 {
   "id": "hnroa4",
   "display_name": "# of Hypopnea w/ arousals (NREM, Other, 4% desat)",
-  "description": "# of Hypopnea w/ arousals (NREM, Other, 4% desat)",
+  "description": "Number of Hypopnea w/ arousals (NREM, Other, 4% desat)",
   "type": "numeric",
   "units": "event count",
   "labels": [

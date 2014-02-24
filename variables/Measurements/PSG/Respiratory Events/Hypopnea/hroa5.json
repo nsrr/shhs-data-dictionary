@@ -1,7 +1,7 @@
 {
   "id": "hroa5",
   "display_name": "# of Hypopnea w/ arousals (REM, Other, 5% desat)",
-  "description": "# of Hypopnea w/ arousals (REM, Other, 5% desat)",
+  "description": "Number of Hypopnea w/ arousals (REM, Other, 5% desat)",
   "type": "numeric",
   "units": "event count",
   "labels": [

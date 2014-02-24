@@ -1,7 +1,7 @@
 {
   "id": "carbp",
   "display_name": "# of Cent. Apnea (REM, Back, all desats)",
-  "description": "# of Cent. Apnea (REM, Back, all desats)",
+  "description": "Number of Cent. Apnea (REM, Back, all desats)",
   "type": "numeric",
   "units": "event count",
   "labels": [

@@ -3,6 +3,7 @@
 - Moved `commonly_used` to the root of the json variable object
 - Changed references of `patient` and `pt` to `participant`
 - Cleaned up and removed assignment statements from calculations
+- Changed description references of `#` to spelled out `number`
 - Updated to spout 0.5.0.beta3
 - Using Ruby 2.1.0
 

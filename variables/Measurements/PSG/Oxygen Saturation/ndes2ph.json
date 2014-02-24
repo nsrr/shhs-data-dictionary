@@ -1,7 +1,7 @@
 {
   "id": "ndes2ph",
   "display_name": "# of desat with >= 2% desat",
-  "description": "# of desat with >= 2% desat",
+  "description": "Number of desat with >= 2% desat",
   "type": "numeric",
   "units": "event count",
   "labels": [

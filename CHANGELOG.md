@@ -4,6 +4,7 @@
 - Changed references of `patient` and `pt` to `participant`
 - Cleaned up and removed assignment statements from calculations
 - Updated to spout 0.5.0.beta3
+- Using Ruby 2.1.0
 
 ## 0.1.0 (July 26, 2013)
 

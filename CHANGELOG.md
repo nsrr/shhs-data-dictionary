@@ -5,7 +5,7 @@
 - Cleaned up and removed assignment statements from calculations
 - Changed description references of `#` to spelled out `number`
 - Updated to spout 0.5.0.beta3
-- Using Ruby 2.1.0
+- Use of Ruby 2.1.1 is now recommended
 
 ## 0.1.0 (July 26, 2013)
 

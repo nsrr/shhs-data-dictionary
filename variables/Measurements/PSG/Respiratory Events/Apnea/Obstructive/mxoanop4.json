@@ -1,7 +1,7 @@
 {
   "id": "mxoanop4",
-  "display_name": "Max. Obs. Apnea length (NREM, Other 4% oxygen desaturation)",
-  "description": "Max. Obs. Apnea length (NREM, Other 4% oxygen desaturation) (seconds)",
+  "display_name": "Maximum Obs. Apnea length (NREM, Other 4% oxygen desaturation)",
+  "description": "Maximum Obs. Apnea length (NREM, Other 4% oxygen desaturation) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "49",
     "TABLE": "SHHS2",
-    "LABEL": "Max. Obs. Apnea length (NREM, Other 4% oxygen desaturation) (seconds)",
+    "LABEL": "Maximum Obs. Apnea length (NREM, Other 4% oxygen desaturation) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

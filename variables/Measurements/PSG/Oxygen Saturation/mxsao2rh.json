@@ -1,7 +1,7 @@
 {
   "id": "mxsao2rh",
-  "display_name": "Max. SaO2 % during REM sleep",
-  "description": "Max. SaO2 % during REM sleep",
+  "display_name": "Maximum SaO2 % during REM sleep",
+  "description": "Maximum SaO2 % during REM sleep",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "298",
     "TABLE": "SHHS2",
-    "LABEL": "Max. SaO2 % during REM sleep",
+    "LABEL": "Maximum SaO2 % during REM sleep",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

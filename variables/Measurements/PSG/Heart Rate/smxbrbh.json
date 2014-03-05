@@ -1,6 +1,6 @@
 s{
   "id": "smxbrbh",
-  "display_name": "Max. Heart Rate (REM, Back, all oxygen desaturations)",
+  "display_name": "Maximum Heart Rate (REM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
@@ -10,7 +10,7 @@ s{
   "hybrid": {
     "VARNUM": "244",
     "TABLE": "SHHS2",
-    "LABEL": "Max. Heart Rate (REM, Back, all oxygen desaturations) (bpm)",
+    "LABEL": "Maximum Heart Rate (REM, Back, all oxygen desaturations) (bpm)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

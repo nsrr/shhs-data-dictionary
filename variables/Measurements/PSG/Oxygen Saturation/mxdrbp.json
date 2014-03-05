@@ -1,7 +1,7 @@
 {
   "id": "mxdrbp",
-  "display_name": "Max. oxygen desaturation (REM, Back, all oxygen desaturations)",
-  "description": "Max. oxygen desaturation (REM, Back, all oxygen desaturations)",
+  "display_name": "Maximum oxygen desaturation (REM, Back, all oxygen desaturations)",
+  "description": "Maximum oxygen desaturation (REM, Back, all oxygen desaturations)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "398",
     "TABLE": "SHHS2",
-    "LABEL": "Max. oxygen desaturation (REM, Back, all oxygen desaturations)",
+    "LABEL": "Maximum oxygen desaturation (REM, Back, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

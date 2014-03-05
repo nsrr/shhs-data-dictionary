@@ -1,7 +1,7 @@
 {
   "id": "mxdnbp4",
-  "display_name": "Max. oxygen desaturation (NREM, Back, 4% oxygen desaturation)",
-  "description": "Max. oxygen desaturation (NREM, Back, 4% oxygen desaturation)",
+  "display_name": "Maximum oxygen desaturation (NREM, Back, 4% oxygen desaturation)",
+  "description": "Maximum oxygen desaturation (NREM, Back, 4% oxygen desaturation)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "52",
     "TABLE": "SHHS2",
-    "LABEL": "Max. oxygen desaturation (NREM, Back, 4% oxygen desaturation)",
+    "LABEL": "Maximum oxygen desaturation (NREM, Back, 4% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

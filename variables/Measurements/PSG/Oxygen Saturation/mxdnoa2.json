@@ -1,7 +1,7 @@
 {
   "id": "mxdnoa2",
-  "display_name": "Max. oxygen desaturation w/ arousals (NREM, Other, 2% oxygen desaturation)",
-  "description": "Max. oxygen desaturation w/ arousals (NREM, Other, 2% oxygen desaturation)",
+  "display_name": "Maximum oxygen desaturation w/ arousals (NREM, Other, 2% oxygen desaturation)",
+  "description": "Maximum oxygen desaturation w/ arousals (NREM, Other, 2% oxygen desaturation)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "581",
     "TABLE": "SHHS2",
-    "LABEL": "Max. oxygen desaturation w/ arousals (NREM, Other, 2% oxygen desaturation)",
+    "LABEL": "Maximum oxygen desaturation w/ arousals (NREM, Other, 2% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

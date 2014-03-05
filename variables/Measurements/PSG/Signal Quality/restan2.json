@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Scoring started after sleep onset",
   "description": "",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "hybrid": {
     "VARNUM": "704",
     "TABLE": "SHHS1",

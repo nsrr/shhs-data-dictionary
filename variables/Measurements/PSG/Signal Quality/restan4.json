@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Intervening period bad EEG",
   "description": "",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "hybrid": {
     "VARNUM": "706",
     "TABLE": "SHHS1",

@@ -3,7 +3,7 @@
   "display_name": "Has all SHHS2 Forms",
   "description": "All SHHS2 forms present 0-No, 1-Yes",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "shhs2_all"
   ],

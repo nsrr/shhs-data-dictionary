@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS2): Smoke 20 packs of cigarettes in life",
   "description": "20. Have you smoked as many as 20 packs of cigarettes in your whole lifetime?",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "sh320"
   ],

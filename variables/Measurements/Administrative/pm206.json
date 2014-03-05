@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Height collected within window",
   "description": "B.  Height measurement  6. Height measurement within the data collection window?",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "pm206"
   ],

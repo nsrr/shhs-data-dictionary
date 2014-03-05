@@ -3,7 +3,7 @@
   "display_name": "Quality of Life (SHHS1): Health limits accomplishment",
   "description": "During the past 4 weeks, have you had this problem with work or other regular daily activities because of physical health: Accomplished less than you would like",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "PHACLS25"
   ],

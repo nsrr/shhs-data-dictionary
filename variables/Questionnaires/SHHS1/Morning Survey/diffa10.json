@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): difficulty falling asleep",
   "description": "Did you have difficulty falling asleep last night?",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "DIFFA10"
   ],

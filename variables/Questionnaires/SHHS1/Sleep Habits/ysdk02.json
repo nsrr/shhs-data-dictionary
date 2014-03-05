@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): (Administrative Variable)",
   "description": "***Administrative Variable*** (all records = \"No\")",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "YSDK02"
   ],

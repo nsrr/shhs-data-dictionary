@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Fuzzy line on EOG (L)",
   "description": "Fuzzy line observed on EOG (L) signal",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "EOGLFL51"
   ],

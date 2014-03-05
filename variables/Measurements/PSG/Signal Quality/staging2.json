@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): REM/NREM unreliable",
   "description": "",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "hybrid": {
     "VARNUM": "696",
     "TABLE": "SHHS1",

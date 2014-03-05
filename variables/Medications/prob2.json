@@ -3,7 +3,7 @@
   "display_name": "Probucol (SHHS2)",
   "description": "Participant taking PROBUCOL within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "PROB2"
   ],

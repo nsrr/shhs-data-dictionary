@@ -3,7 +3,7 @@
   "display_name": "Beta-blockers with diuretics (SHHS1)",
   "description": "Participant taking BETA-BLOCKERS WITH DIURETICS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "BETAD1"
   ],

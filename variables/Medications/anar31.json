@@ -3,7 +3,7 @@
   "display_name": "Anti-Arrhythmics, Class 3 (SHHS1)",
   "description": "Participant taking ANTI-ARRHYTHMICS, CLASS 3 within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "ANAR31"
   ],

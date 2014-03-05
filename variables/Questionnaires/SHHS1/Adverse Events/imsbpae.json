@@ -3,7 +3,7 @@
   "display_name": "Adverse Events (SHHS1): Systolic BP > 200",
   "description": "Systolic blood pressure > 200 (and not on BP meds)?",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "IMSBPAE"
   ],

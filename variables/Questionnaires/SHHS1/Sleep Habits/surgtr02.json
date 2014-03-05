@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Surgery for snoring",
   "description": "Have you ever had surgery as treatment for your snoring?",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "SurgTr02"
   ],

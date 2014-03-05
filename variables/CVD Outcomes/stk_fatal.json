@@ -3,7 +3,7 @@
   "display_name": "Fatal Stroke Since Baseline?",
   "description": "Fatal stroke since baseline PSG (as recorded in parent studies datasets)",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "stk_fatal",
     "stroke"

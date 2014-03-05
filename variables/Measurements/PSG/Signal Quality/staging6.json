@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Staging 6",
   "description": "",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "hybrid": {
     "VARNUM": "700",
     "TABLE": "SHHS1",

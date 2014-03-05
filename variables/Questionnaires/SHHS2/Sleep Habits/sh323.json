@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS2): Current smoker",
   "description": "23. Are you currently still smoking?",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "sh323"
   ],

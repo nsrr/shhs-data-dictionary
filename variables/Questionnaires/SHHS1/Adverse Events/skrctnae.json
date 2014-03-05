@@ -3,7 +3,7 @@
   "display_name": "Adverse Events (SHHS1): Skin reaction?",
   "description": "Skin reaction?",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "SKRCTNAE"
   ],

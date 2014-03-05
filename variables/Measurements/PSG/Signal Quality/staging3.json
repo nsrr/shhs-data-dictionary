@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Scored Wake, Non-REM, REM only",
   "description": "",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "hybrid": {
     "VARNUM": "697",
     "TABLE": "SHHS1",

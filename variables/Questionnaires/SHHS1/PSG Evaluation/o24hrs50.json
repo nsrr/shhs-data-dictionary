@@ -3,7 +3,7 @@
   "display_name": "PSG Evaluation (SHHS1): at least 4 hours of oximetry AND airflow data",
   "description": "Is there at least 4 hours of oximetry AND airflow data?",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "O24HRS50"
   ],

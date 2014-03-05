@@ -3,7 +3,7 @@
   "display_name": "Benzodiazepines (SHHS1)",
   "description": "Participant taking BENZODIAZEPINES within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "BENZOD1"
   ],

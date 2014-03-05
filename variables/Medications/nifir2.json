@@ -3,7 +3,7 @@
   "display_name": "Immediate-Release Nifedipine (SHHS2)",
   "description": "Participant taking IMMEDIATE-RELEASE NIFEDIPINE within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "NIFIR2"
   ],

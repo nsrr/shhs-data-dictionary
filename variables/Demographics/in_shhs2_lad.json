@@ -3,7 +3,7 @@
   "display_name": "Participant in SHHS2 (Limited Access Dataset)",
   "description": "Participant has record in SHHS2 -- Part of 1000 records selected with high quality PSG recordings.",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "in_shhs2_lad", "SHHS2 Participant LAD", "lad"
   ],

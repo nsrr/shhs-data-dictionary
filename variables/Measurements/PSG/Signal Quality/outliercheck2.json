@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Extreme values remain after review",
   "description": "",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "hybrid": {
     "VARNUM": "709",
     "TABLE": "SHHS1",

@@ -3,7 +3,7 @@
   "display_name": "Adverse Events (SHHS1): Other problem?",
   "description": "Other problem?",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "OTHPRBAE"
   ],

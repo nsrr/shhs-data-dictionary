@@ -3,7 +3,7 @@
   "display_name": "Hypertension (SHHS1)",
   "description": "Hypertension Status based on 2nd and 3rd BP readings OR being treated with HTN meds",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "HTNDerv_s1"
   ],

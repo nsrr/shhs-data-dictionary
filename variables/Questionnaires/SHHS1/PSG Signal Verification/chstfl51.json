@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Fuzzy line on Chest",
   "description": "Fuzzy line observed on Chest signal",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "CHSTFL51"
   ],

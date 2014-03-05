@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Surgery as treatment for sleep apnea",
   "description": "Have you had surgery as treatment for your sleep apnea?",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "SurgSA02"
   ],

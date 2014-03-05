@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Fuzzy line on Abdomen",
   "description": "Fuzzy line observed on Abdomen signal",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "ABDMFL51"
   ],

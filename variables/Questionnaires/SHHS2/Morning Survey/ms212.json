@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS2): Nasal stuffiness, discharge last night",
   "description": "12. Did you have nasal stuffiness, obstruction, or discharge last night? (check one)",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "ms212"
   ],

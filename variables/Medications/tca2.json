@@ -3,7 +3,7 @@
   "display_name": "Tricylic Anti-Depressants (SHHS2)",
   "description": "Participant taking TRICYLIC ANTI-DEPRESSANTS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "TCA2"
   ],

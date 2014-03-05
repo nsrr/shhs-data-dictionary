@@ -3,7 +3,7 @@
   "display_name": "Any CHD Since Baseline?",
   "description": "Any Coronary Heart Disease (CHD) since baseline PSG (as recorded in parent studies datasets)",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "any_chd",
     "coronary heart disease"

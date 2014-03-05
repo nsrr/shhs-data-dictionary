@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Periodic Large Breaths",
   "description": "",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "hybrid": {
     "VARNUM": "692",
     "TABLE": "SHHS1",

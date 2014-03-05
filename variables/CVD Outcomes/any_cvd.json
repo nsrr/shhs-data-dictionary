@@ -3,7 +3,7 @@
   "display_name": "Any CVD Since Baseline?",
   "description": "Any Cardiovascular Disease (CVD) since baseline PSG (as recorded in parent studies datasets)",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "any_cvd",
     "cardiovascular disease"

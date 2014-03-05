@@ -3,7 +3,7 @@
   "display_name": "PSG Scoring Notes (SHHS1): Extreme Values Found",
   "description": "",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "hybrid": {
     "VARNUM": "708",
     "TABLE": "SHHS1",

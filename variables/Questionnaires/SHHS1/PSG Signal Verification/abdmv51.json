@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Value observed on Abdomen",
   "description": "",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "ABDMV51"
   ],

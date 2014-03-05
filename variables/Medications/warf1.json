@@ -3,7 +3,7 @@
   "display_name": "Oral anticoagulants including warfarin, coumadin, and anisindione (SHHS1)",
   "description": "Participant taking ORAL ANTICOAGULANTS INCLUDING WARFARIN, COUMADIN, AND ANISINDIONE within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "WARF1"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (SHHS2): Left - Rash",
   "description": "25. Reason AAI not done, or not done using both legs (Check all that apply.) c. Rash Left",
   "type": "choices",
-  "domain": "yesno01",
+  "domain": "noyes01",
   "labels": [
     "pm225c2"
   ],

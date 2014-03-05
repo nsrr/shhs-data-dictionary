@@ -1,7 +1,7 @@
 {
   "id": "hrop3",
-  "display_name": "# of Hypopnea (REM, Other, 3% desat)",
-  "description": "Number of Hypopnea (REM, Other, 3% desat)",
+  "display_name": "# of Hypopnea (REM, Other, 3% oxygen desaturation)",
+  "description": "Number of Hypopnea (REM, Other, 3% oxygen desaturation)",
   "type": "numeric",
   "units": "event count",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "594",
     "TABLE": "SHHS2",
-    "LABEL": "# of Hypopnea (REM, Other, 3% desat)",
+    "LABEL": "# of Hypopnea (REM, Other, 3% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

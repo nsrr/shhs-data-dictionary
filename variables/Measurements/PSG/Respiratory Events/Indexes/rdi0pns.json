@@ -1,7 +1,7 @@
 {
   "id": "rdi0pns",
-  "display_name": "Overall RDI (non-Supine) all desats",
-  "description": "Non-Supine RDI at 2% desat  [(Total number of apneas and hypopneas in non-supine body position associated with >= 2% desat) / (hours of sleep)]",
+  "display_name": "Overall RDI (non-Supine) all oxygen desaturations",
+  "description": "Non-Supine RDI at 2% oxygen desaturation  [(Total number of apneas and hypopneas in non-supine body position associated with >= 2% oxygen desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrop + hnrop + carop + canop + oarop + oanop ) / ( remepop + nremepop )",
@@ -13,7 +13,7 @@
   "hybrid": {
     "VARNUM": "553",
     "TABLE": "SHHS2",
-    "LABEL": "Calculated - Overall Non-Supine RDI at 0% desat",
+    "LABEL": "Calculated - Overall Non-Supine RDI at 0% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

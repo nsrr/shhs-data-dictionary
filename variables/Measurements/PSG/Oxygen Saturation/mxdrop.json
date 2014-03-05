@@ -1,7 +1,7 @@
 {
   "id": "mxdrop",
-  "display_name": "Max. Desat (REM, Other, all desats)",
-  "description": "Max. Desat (REM, Other, all desats)",
+  "display_name": "Max. oxygen desaturation (REM, Other, all oxygen desaturations)",
+  "description": "Max. oxygen desaturation (REM, Other, all oxygen desaturations)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "399",
     "TABLE": "SHHS2",
-    "LABEL": "Max. Desat (REM, Other, all desats)",
+    "LABEL": "Max. oxygen desaturation (REM, Other, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

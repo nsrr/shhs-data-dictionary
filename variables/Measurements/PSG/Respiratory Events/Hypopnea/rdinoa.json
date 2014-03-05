@@ -1,7 +1,7 @@
 {
   "id": "rdinoa",
-  "display_name": "Hypopnea per hour w/ arousals (NREM, Other, all desats)",
-  "description": "Hypopnea per hour w/ arousals (NREM, Other, all desats)",
+  "display_name": "Hypopnea per hour w/ arousals (NREM, Other, all oxygen desaturations)",
+  "description": "Hypopnea per hour w/ arousals (NREM, Other, all oxygen desaturations)",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "343",
     "TABLE": "SHHS2",
-    "LABEL": "Hypopnea per hour w/ arousals (NREM, Other, all desats)",
+    "LABEL": "Hypopnea per hour w/ arousals (NREM, Other, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

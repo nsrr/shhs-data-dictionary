@@ -1,7 +1,7 @@
 {
   "id": "oarbp5",
-  "display_name": "# of Obs. Apnea (REM, Back, 5% desat)",
-  "description": "Number of Obs. Apnea (REM, Back, 5% desat)",
+  "display_name": "# of Obs. Apnea (REM, Back, 5% oxygen desaturation)",
+  "description": "Number of Obs. Apnea (REM, Back, 5% oxygen desaturation)",
   "type": "numeric",
   "units": "event count",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "154",
     "TABLE": "SHHS2",
-    "LABEL": "# of Obs. Apnea (REM, Back, 5% desat)",
+    "LABEL": "# of Obs. Apnea (REM, Back, 5% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

@@ -1,7 +1,7 @@
-{
+ {
   "id": "pcstah3d",
-  "display_name": "% Sleep time in Apnea+Hypopnea with >3% desat",
-  "description": "% Sleep time in Apnea+Hypopnea with >3% desat",
+  "display_name": "% Sleep time in Apnea+Hypopnea with >3% oxygen desaturation",
+  "description": "% Sleep time in Apnea+Hypopnea with >3% oxygen desaturation",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "451",
     "TABLE": "SHHS2",
-    "LABEL": "% Sleep time in Apnea+Hypopnea with >3% desat",
+    "LABEL": "% Sleep time in Apnea+Hypopnea with >3% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

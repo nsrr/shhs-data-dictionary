@@ -1,6 +1,6 @@
 {
   "id": "ahnremop",
-  "display_name": "Arousals per hour (NREM, Other, all desats)",
+  "display_name": "Arousals per hour (NREM, Other, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

@@ -1,6 +1,6 @@
 {
   "id": "ahrembp",
-  "display_name": "Arousals per hour (REM, Back, all desats)",
+  "display_name": "Arousals per hour (REM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

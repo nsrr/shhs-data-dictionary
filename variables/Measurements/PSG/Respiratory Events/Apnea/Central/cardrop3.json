@@ -1,7 +1,7 @@
 {
   "id": "cardrop3",
-  "display_name": "Cent. Apnea per hour (REM, Other, 3% desat)",
-  "description": "Cent. Apnea per hour (REM, Other, 3% desat)",
+  "display_name": "Cent. Apnea per hour (REM, Other, 3% oxygen desaturation)",
+  "description": "Cent. Apnea per hour (REM, Other, 3% oxygen desaturation)",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "381",
     "TABLE": "SHHS2",
-    "LABEL": "Cent. Apnea per hour (REM, Other, 3% desat)",
+    "LABEL": "Cent. Apnea per hour (REM, Other, 3% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

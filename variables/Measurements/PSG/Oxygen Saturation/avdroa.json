@@ -1,7 +1,7 @@
 {
   "id": "avdroa",
-  "display_name": "Avg. Desat w/ arousals (REM, Other, all desats)",
-  "description": "Avg. Desat w/ arousals (REM, Other, all desats)",
+  "display_name": "Avg. oxygen desaturation w/ arousals (REM, Other, all oxygen desaturations)",
+  "description": "Avg. oxygen desaturation w/ arousals (REM, Other, all oxygen desaturations)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "463",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. Desat w/ arousals (REM, Other, all desats)",
+    "LABEL": "Avg. oxygen desaturation w/ arousals (REM, Other, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

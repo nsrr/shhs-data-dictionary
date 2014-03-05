@@ -1,7 +1,7 @@
 {
   "id": "rdinbp5",
-  "display_name": "Hypopnea per hour (NREM, Back, 5% desat)",
-  "description": "Hypopnea per hour (NREM, Back, 5% desat)",
+  "display_name": "Hypopnea per hour (NREM, Back, 5% oxygen desaturation)",
+  "description": "Hypopnea per hour (NREM, Back, 5% oxygen desaturation)",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "426",
     "TABLE": "SHHS2",
-    "LABEL": "Hypopnea per hour (NREM, Back, 5% desat)",
+    "LABEL": "Hypopnea per hour (NREM, Back, 5% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

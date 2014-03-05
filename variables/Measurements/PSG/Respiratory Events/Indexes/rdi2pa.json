@@ -1,7 +1,7 @@
 {
   "id": "rdi2pa",
-  "display_name": "Overall RDI at 2% desat or arousal",
-  "description": "RDI at 2% desat or arousal  [(Total number of apneas and hypopneas with arousal associated with >= 2% desat) / (hours of sleep)]",
+  "display_name": "Overall RDI at 2% oxygen desaturation or arousal",
+  "description": "RDI at 2% oxygen desaturation or arousal  [(Total number of apneas and hypopneas with arousal associated with >= 2% oxygen desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hremba2 + hroa2 + hnrba2 + hnroa2 + carba2 + caroa2 + canba2 + canoa2 + oarba2 + oaroa2 + oanba2 + oanoa2 ) / slpprdp",
@@ -13,7 +13,7 @@
   "hybrid": {
     "VARNUM": "544",
     "TABLE": "SHHS2",
-    "LABEL": "Calculated - Overall RDI at 2% desat or arousal",
+    "LABEL": "Calculated - Overall RDI at 2% oxygen desaturation or arousal",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

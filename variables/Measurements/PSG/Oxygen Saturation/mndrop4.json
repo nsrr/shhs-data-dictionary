@@ -1,7 +1,7 @@
 {
   "id": "mndrop4",
-  "display_name": "Min. SaO2 (REM, Other, 4% desat)",
-  "description": "Min. SaO2 (REM, Other, 4% desat) (%)",
+  "display_name": "Min. SaO2 (REM, Other, 4% oxygen desaturation)",
+  "description": "Min. SaO2 (REM, Other, 4% oxygen desaturation) (%)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "59",
     "TABLE": "SHHS2",
-    "LABEL": "Min. SaO2 (REM, Other, 4% desat) (%)",
+    "LABEL": "Min. SaO2 (REM, Other, 4% oxygen desaturation) (%)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

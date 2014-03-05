@@ -1,7 +1,7 @@
 {
   "id": "avdrba5",
-  "display_name": "Avg. Desat w/ arousals (REM, Back, 5% desat)",
-  "description": "Avg. Desat w/ arousals (REM, Back, 5% desat)",
+  "display_name": "Avg. oxygen desaturation w/ arousals (REM, Back, 5% oxygen desaturation)",
+  "description": "Avg. oxygen desaturation w/ arousals (REM, Back, 5% oxygen desaturation)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "234",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. Desat w/ arousals (REM, Back, 5% desat)",
+    "LABEL": "Avg. oxygen desaturation w/ arousals (REM, Back, 5% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

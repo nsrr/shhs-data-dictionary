@@ -1,7 +1,7 @@
 {
   "id": "cardrbp4",
-  "display_name": "Cent. Apnea per hour (REM, Back, 4% desat)",
-  "description": "Cent. Apnea per hour (REM, Back, 4% desat)",
+  "display_name": "Cent. Apnea per hour (REM, Back, 4% oxygen desaturation)",
+  "description": "Cent. Apnea per hour (REM, Back, 4% oxygen desaturation)",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "404",
     "TABLE": "SHHS2",
-    "LABEL": "Cent. Apnea per hour (REM, Back, 4% desat)",
+    "LABEL": "Cent. Apnea per hour (REM, Back, 4% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

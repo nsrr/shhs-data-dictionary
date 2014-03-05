@@ -12,7 +12,7 @@
   "hybrid": {
     "VARNUM": "575",
     "TABLE": "SHHS2",
-    "LABEL": "Calculated - pct time < 90% desat",
+    "LABEL": "Calculated - pct time < 90% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

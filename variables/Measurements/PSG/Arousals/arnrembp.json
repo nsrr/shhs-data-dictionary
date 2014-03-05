@@ -1,6 +1,6 @@
 {
   "id": "arnrembp",
-  "display_name": "# of Arousals (NREM, Back, all desats)",
+  "display_name": "# of Arousals (NREM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "event count",

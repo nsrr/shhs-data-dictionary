@@ -1,7 +1,7 @@
 {
   "id": "oai0p",
-  "display_name": "Obstructive Apnea Index all desats",
-  "description": "Obstructive Apnea Index at all desats  [(Total number of obstructive apneas associated with all desats) / (hours of sleep)]",
+  "display_name": "Obstructive Apnea Index all oxygen desaturations",
+  "description": "Obstructive Apnea Index at all oxygen desaturations  [(Total number of obstructive apneas associated with all oxygen desaturations) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( oarbp +  oarop  + oanbp  + oanop ) / slpprdp",
@@ -12,7 +12,7 @@
   "hybrid": {
     "VARNUM": "569",
     "TABLE": "SHHS2",
-    "LABEL": "Calculated - Obstructive Apnea Index all desats",
+    "LABEL": "Calculated - Obstructive Apnea Index all oxygen desaturations",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

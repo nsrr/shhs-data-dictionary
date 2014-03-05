@@ -1,6 +1,6 @@
 {
   "id": "savbrbh",
-  "display_name": "Avg. Heart Rate (REM, Back, all desats)",
+  "display_name": "Avg. Heart Rate (REM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "242",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. Heart Rate (REM, Back, all desats) (bpm)",
+    "LABEL": "Avg. Heart Rate (REM, Back, all oxygen desaturations) (bpm)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

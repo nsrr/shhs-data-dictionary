@@ -1,7 +1,7 @@
 {
   "id": "mnhnop3",
-  "display_name": "Min. Hypopnea length (NREM, Other, 3% desat)",
-  "description": "Min. Hypopnea length (NREM, Other, 3% desat) (seconds)",
+  "display_name": "Min. Hypopnea length (NREM, Other, 3% oxygen desaturation)",
+  "description": "Min. Hypopnea length (NREM, Other, 3% oxygen desaturation) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "604",
     "TABLE": "SHHS2",
-    "LABEL": "Min. Hypopnea length (NREM, Other, 3% desat) (seconds)",
+    "LABEL": "Min. Hypopnea length (NREM, Other, 3% oxygen desaturation) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

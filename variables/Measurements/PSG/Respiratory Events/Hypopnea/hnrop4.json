@@ -1,7 +1,7 @@
 {
   "id": "hnrop4",
-  "display_name": "# of Hypopnea (NREM, Other, 4% desat)",
-  "description": "Number of Hypopnea (NREM, Other, 4% desat)",
+  "display_name": "# of Hypopnea (NREM, Other, 4% oxygen desaturation)",
+  "description": "Number of Hypopnea (NREM, Other, 4% oxygen desaturation)",
   "type": "numeric",
   "units": "event count",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "14",
     "TABLE": "SHHS2",
-    "LABEL": "# of Hypopnea (NREM, Other, 4% desat)",
+    "LABEL": "# of Hypopnea (NREM, Other, 4% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

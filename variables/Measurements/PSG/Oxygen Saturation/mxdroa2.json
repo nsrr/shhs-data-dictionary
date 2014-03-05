@@ -1,7 +1,7 @@
 {
   "id": "mxdroa2",
-  "display_name": "Max. Desat w/ arousals (REM, Other, 2% desat)",
-  "description": "Max. Desat w/ arousals (REM, Other, 2% desat)",
+  "display_name": "Max. oxygen desaturation w/ arousals (REM, Other, 2% oxygen desaturation)",
+  "description": "Max. oxygen desaturation w/ arousals (REM, Other, 2% oxygen desaturation)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "579",
     "TABLE": "SHHS2",
-    "LABEL": "Max. Desat w/ arousals (REM, Other, 2% desat)",
+    "LABEL": "Max. oxygen desaturation w/ arousals (REM, Other, 2% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

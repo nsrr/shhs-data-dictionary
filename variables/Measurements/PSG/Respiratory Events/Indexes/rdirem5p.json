@@ -1,7 +1,7 @@
 {
   "id": "rdirem5p",
-  "display_name": "Overall RDI (REM) at 5% desat",
-  "description": "REM RDI at 5% desat  [(Total number of apneas and hypopneas in REM sleep associated with >= 5% desat) / (hours of REM sleep)]",
+  "display_name": "Overall RDI (REM) at 5% oxygen desaturation",
+  "description": "REM RDI at 5% oxygen desaturation  [(Total number of apneas and hypopneas in REM sleep associated with >= 5% oxygen desaturation) / (hours of REM sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp5 + hrop5 + carbp5 + carop5 + oarbp5 + oarop5 ) / minremp",
@@ -13,7 +13,7 @@
   "hybrid": {
     "VARNUM": "563",
     "TABLE": "SHHS2",
-    "LABEL": "Calculated - Overall rem RDI at 5% desat",
+    "LABEL": "Calculated - Overall rem RDI at 5% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

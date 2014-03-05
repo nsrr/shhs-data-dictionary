@@ -1,7 +1,7 @@
 {
   "id": "cai0p",
-  "display_name": "Central Apnea Index all desats",
-  "description": "Central Apnea Index at all desats  [(Total number of central apneas associated with all desats) / (hours of sleep)]",
+  "display_name": "Central Apnea Index all oxygen desaturations",
+  "description": "Central Apnea Index at all oxygen desaturations  [(Total number of central apneas associated with all oxygen desaturations) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( carbp + carop + canbp + canop ) / slpprdp",
@@ -12,7 +12,7 @@
   "hybrid": {
     "VARNUM": "572",
     "TABLE": "SHHS2",
-    "LABEL": "Calculated - Central Apnea Index all desats",
+    "LABEL": "Calculated - Central Apnea Index all oxygen desaturations",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

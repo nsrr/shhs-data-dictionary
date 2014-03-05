@@ -1,7 +1,7 @@
 {
   "id": "cai4p",
-  "display_name": "Central Apnea Index 4% desat",
-  "description": "Central Apnea Index at 4% desat  [(Total number of central apneas associated with >= 4% desat) / (hours of sleep)]",
+  "display_name": "Central Apnea Index 4% oxygen desaturation",
+  "description": "Central Apnea Index at 4% oxygen desaturation  [(Total number of central apneas associated with >= 4% oxygen desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( carbp4 + carop4 + canbp4 + canop4 ) / slpprdp",
@@ -11,7 +11,7 @@
   "hybrid": {
     "VARNUM": "573",
     "TABLE": "SHHS2",
-    "LABEL": "Calculated - Central Apnea Index 4% desats",
+    "LABEL": "Calculated - Central Apnea Index 4% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

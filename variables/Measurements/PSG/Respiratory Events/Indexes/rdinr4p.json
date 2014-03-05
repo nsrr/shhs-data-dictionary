@@ -1,7 +1,7 @@
 {
   "id": "rdinr4p",
-  "display_name": "Overall RDI (NREM) at 4% desat",
-  "description": "Non-REM RDI at 4% desat  [(Total number of apneas and hypopneas in non-REM sleep associated with >= 4% desat) / (hours of NREM sleep)]",
+  "display_name": "Overall RDI (NREM) at 4% oxygen desaturation",
+  "description": "Non-REM RDI at 4% oxygen desaturation  [(Total number of apneas and hypopneas in non-REM sleep associated with >= 4% oxygen desaturation) / (hours of NREM sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hnrbp4 + hnrop4 + canbp4 + canop4 + oanbp4 + oanop4 ) / ( slpprdp - minremp )",
@@ -13,7 +13,7 @@
   "hybrid": {
     "VARNUM": "567",
     "TABLE": "SHHS2",
-    "LABEL": "Calculated - Overall Non-rem RDI at 4% desat",
+    "LABEL": "Calculated - Overall Non-rem RDI at 4% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

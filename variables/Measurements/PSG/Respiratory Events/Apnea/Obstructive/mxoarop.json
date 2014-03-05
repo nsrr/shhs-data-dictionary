@@ -1,7 +1,7 @@
 {
   "id": "mxoarop",
-  "display_name": "Max. Obs. Apnea length (REM, Other, all desats)",
-  "description": "Max. Obs. Apnea length (REM, Other, all desats) (seconds)",
+  "display_name": "Max. Obs. Apnea length (REM, Other, all oxygen desaturations)",
+  "description": "Max. Obs. Apnea length (REM, Other, all oxygen desaturations) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "389",
     "TABLE": "SHHS2",
-    "LABEL": "Max. Obs. Apnea length (REM, Other, all desats) (seconds)",
+    "LABEL": "Max. Obs. Apnea length (REM, Other, all oxygen desaturations) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

@@ -1,7 +1,7 @@
 {
   "id": "ndes2ph",
-  "display_name": "# of desat with >= 2% desat",
-  "description": "Number of desat with >= 2% desat",
+  "display_name": "# of oxygen desaturation with >= 2% oxygen desaturation",
+  "description": "Number of oxygen desaturation with >= 2% oxygen desaturation",
   "type": "numeric",
   "units": "event count",
   "labels": [
@@ -10,11 +10,11 @@
   "hybrid": {
     "VARNUM": "290",
     "TABLE": "SHHS2",
-    "LABEL": "# of desat with >= 2% desat",
+    "LABEL": "# of oxygen desaturation with >= 2% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",
     "design_file": null,
-    "PARENT TERM": "psg:desaturations"
+    "PARENT TERM": "psg:oxygen desaturation"
   }
 }

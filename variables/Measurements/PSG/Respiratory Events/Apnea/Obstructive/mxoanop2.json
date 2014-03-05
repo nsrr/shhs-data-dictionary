@@ -1,7 +1,7 @@
 {
   "id": "mxoanop2",
-  "display_name": "Max. Obs. Apnea length (NREM, Other 2% desat)",
-  "description": "Max. Obs. Apnea length (NREM, Other 2% desat) (seconds)",
+  "display_name": "Max. Obs. Apnea length (NREM, Other 2% oxygen desaturation)",
+  "description": "Max. Obs. Apnea length (NREM, Other 2% oxygen desaturation) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "517",
     "TABLE": "SHHS2",
-    "LABEL": "Max. Obs. Apnea length (NREM, Other 2% desat) (seconds)",
+    "LABEL": "Max. Obs. Apnea length (NREM, Other 2% oxygen desaturation) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

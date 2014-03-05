@@ -1,7 +1,7 @@
 {
   "id": "avcanbp",
-  "display_name": "Avg. Cent. Apnea length (NREM, Back, all desats)",
-  "description": "Avg. Cent. Apnea length (NREM, Back, all desats) (seconds)",
+  "display_name": "Avg. Cent. Apnea length (NREM, Back, all oxygen desaturations)",
+  "description": "Avg. Cent. Apnea length (NREM, Back, all oxygen desaturations) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "375",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. Cent. Apnea length (NREM, Back, all desats) (seconds)",
+    "LABEL": "Avg. Cent. Apnea length (NREM, Back, all oxygen desaturations) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

@@ -1,7 +1,7 @@
 {
   "id": "avoanba4",
-  "display_name": "Avg. Obs. Apnea length w/ arousals (NREM, Back, 4% desat)",
-  "description": "Avg. Obs. Apnea length w/ arousals (NREM, Back, 4% desat) (seconds)",
+  "display_name": "Avg. Obs. Apnea length w/ arousals (NREM, Back, 4% oxygen desaturation)",
+  "description": "Avg. Obs. Apnea length w/ arousals (NREM, Back, 4% oxygen desaturation) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "103",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. Obs. Apnea length w/ arousals (NREM, Back, 4% desat) (seconds)",
+    "LABEL": "Avg. Obs. Apnea length w/ arousals (NREM, Back, 4% oxygen desaturation) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

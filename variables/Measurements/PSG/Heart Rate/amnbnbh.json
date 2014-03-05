@@ -1,6 +1,6 @@
 {
   "id": "amnbnbh",
-  "display_name": "Min. Heart Rate with arousal (NREM, Back, all desats)",
+  "display_name": "Min. Heart Rate with arousal (NREM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "261",
     "TABLE": "SHHS2",
-    "LABEL": "Min. Heart Rate with arousal (NREM, Back, all desats) (bpm)",
+    "LABEL": "Min. Heart Rate with arousal (NREM, Back, all oxygen desaturations) (bpm)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

@@ -1,7 +1,7 @@
 {
   "id": "mnoanbp4",
-  "display_name": "Min. Obs. Apnea length (NREM, Back, 4% desat)",
-  "description": "Min. Obs. Apnea length (NREM, Back, 4% desat) (seconds)",
+  "display_name": "Min. Obs. Apnea length (NREM, Back, 4% oxygen desaturation)",
+  "description": "Min. Obs. Apnea length (NREM, Back, 4% oxygen desaturation) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "44",
     "TABLE": "SHHS2",
-    "LABEL": "Min. Obs. Apnea length (NREM, Back, 4% desat) (seconds)",
+    "LABEL": "Min. Obs. Apnea length (NREM, Back, 4% oxygen desaturation) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

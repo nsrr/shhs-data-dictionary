@@ -1,7 +1,7 @@
 {
   "id": "hremba",
-  "display_name": "# of Hypopnea w/ arousals (REM, Back, all desats)",
-  "description": "Number of Hypopnea w/ arousals (REM, Back, all desats)",
+  "display_name": "# of Hypopnea w/ arousals (REM, Back, all oxygen desaturations)",
+  "description": "Number of Hypopnea w/ arousals (REM, Back, all oxygen desaturations)",
   "type": "numeric",
   "units": "event count",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "410",
     "TABLE": "SHHS2",
-    "LABEL": "# of Hypopnea w/ arousals (REM, Back, all desats)",
+    "LABEL": "# of Hypopnea w/ arousals (REM, Back, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

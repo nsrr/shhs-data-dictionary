@@ -1,7 +1,7 @@
 {
   "id": "mncanba",
-  "display_name": "Min. Cent. Apnea length w/ arousals (NREM, Back, all desats)",
-  "description": "Min. Cent. Apnea length w/ arousals (NREM, Back, all desats) (seconds)",
+  "display_name": "Min. Cent. Apnea length w/ arousals (NREM, Back, all oxygen desaturations)",
+  "description": "Min. Cent. Apnea length w/ arousals (NREM, Back, all oxygen desaturations) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "436",
     "TABLE": "SHHS2",
-    "LABEL": "Min. Cent. Apnea length w/ arousals (NREM, Back, all desats) (seconds)",
+    "LABEL": "Min. Cent. Apnea length w/ arousals (NREM, Back, all oxygen desaturations) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

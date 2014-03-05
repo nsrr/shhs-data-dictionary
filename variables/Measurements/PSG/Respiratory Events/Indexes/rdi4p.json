@@ -1,7 +1,7 @@
 {
   "id": "rdi4p",
-  "display_name": "Overall RDI at 4% desat",
-  "description": "Respiratory Disturbance Index at 4% desat.  Ratio of the count of all apneas (central and obstructive) and hypopneas associated with at least a 4% oxygen desaturation to the total sleep time expressed in hours. [(Total number of apneas and hypopneas associated with >= 4% desat) / (hours of sleep)]",
+  "display_name": "Overall RDI at 4% oxygen desaturation",
+  "description": "Respiratory Disturbance Index at 4% oxygen desaturation.  Ratio of the count of all apneas (central and obstructive) and hypopneas associated with at least a 4% oxygen desaturation to the total sleep time expressed in hours. [(Total number of apneas and hypopneas associated with >= 4% oxygen desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp4 + carop4 + canbp4 + canop4 + oarbp4 + oarop4 + oanbp4 + oanop4 ) / slpprdp",
@@ -14,7 +14,7 @@
   "hybrid": {
     "VARNUM": "541",
     "TABLE": "SHHS2",
-    "LABEL": "Calculated - Overall RDI at 4% desat",
+    "LABEL": "Calculated - Overall RDI at 4% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

@@ -1,7 +1,7 @@
 {
   "id": "oardnbp",
-  "display_name": "Obs. Apnea per hour (NREM, Back, all desats)",
-  "description": "Obs. Apnea per hour (NREM, Back, all desats)",
+  "display_name": "Obs. Apnea per hour (NREM, Back, all oxygen desaturations)",
+  "description": "Obs. Apnea per hour (NREM, Back, all oxygen desaturations)",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "338",
     "TABLE": "SHHS2",
-    "LABEL": "Obs. Apnea per hour (NREM, Back, all desats)",
+    "LABEL": "Obs. Apnea per hour (NREM, Back, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

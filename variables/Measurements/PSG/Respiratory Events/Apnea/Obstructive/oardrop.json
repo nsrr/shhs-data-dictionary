@@ -1,7 +1,7 @@
 {
   "id": "oardrop",
-  "display_name": "Obs. Apnea per hour (REM, Other, all desats)",
-  "description": "Obs. Apnea per hour (REM, Other, all desats)",
+  "display_name": "Obs. Apnea per hour (REM, Other, all oxygen desaturations)",
+  "description": "Obs. Apnea per hour (REM, Other, all oxygen desaturations)",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "337",
     "TABLE": "SHHS2",
-    "LABEL": "Obs. Apnea per hour (REM, Other, all desats)",
+    "LABEL": "Obs. Apnea per hour (REM, Other, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

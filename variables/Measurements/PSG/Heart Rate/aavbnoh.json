@@ -1,6 +1,6 @@
 {
   "id": "aavbnoh",
-  "display_name": "Avg. Heart Rate with arousal (NREM, Other, all desats)",
+  "display_name": "Avg. Heart Rate with arousal (NREM, Other, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "263",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. Heart Rate with arousal (NREM, Other, all desats) (bpm)",
+    "LABEL": "Avg. Heart Rate with arousal (NREM, Other, all oxygen desaturations) (bpm)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

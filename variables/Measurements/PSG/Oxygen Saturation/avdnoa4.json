@@ -1,7 +1,7 @@
 {
   "id": "avdnoa4",
-  "display_name": "Avg. Desat w/ arousals (NREM, Other, 4% desat)",
-  "description": "Avg. Desat w/ arousals (NREM, Other, 4% desat)",
+  "display_name": "Avg. oxygen desaturation w/ arousals (NREM, Other, 4% oxygen desaturation)",
+  "description": "Avg. oxygen desaturation w/ arousals (NREM, Other, 4% oxygen desaturation)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "117",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. Desat w/ arousals (NREM, Other, 4% desat)",
+    "LABEL": "Avg. oxygen desaturation w/ arousals (NREM, Other, 4% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

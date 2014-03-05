@@ -1,7 +1,7 @@
 {
   "id": "mxdrba",
-  "display_name": "Max. Desat w/ arousals (REM, Back, all desats)",
-  "description": "Max. Desat w/ arousals (REM, Back, all desats)",
+  "display_name": "Max. oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
+  "description": "Max. oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "458",
     "TABLE": "SHHS2",
-    "LABEL": "Max. Desat w/ arousals (REM, Back, all desats)",
+    "LABEL": "Max. oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

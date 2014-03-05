@@ -1,6 +1,6 @@
 {
   "id": "arrembp",
-  "display_name": "# of Arousals (REM, Back, all desats)",
+  "display_name": "# of Arousals (REM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "event count",

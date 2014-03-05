@@ -1,7 +1,7 @@
 {
   "id": "oarbp3",
-  "display_name": "# of Obs. Apnea (REM, Back, 3% oxygen desaturation)",
-  "description": "Number of Obs. Apnea (REM, Back, 3% oxygen desaturation)",
+  "display_name": "# of Obstructive Apnea (REM, Back, 3% oxygen desaturation)",
+  "description": "Number of Obstructive Apnea (REM, Back, 3% oxygen desaturation)",
   "type": "numeric",
   "units": "event count",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "622",
     "TABLE": "SHHS2",
-    "LABEL": "# of Obs. Apnea (REM, Back, 3% oxygen desaturation)",
+    "LABEL": "# of Obstructive Apnea (REM, Back, 3% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

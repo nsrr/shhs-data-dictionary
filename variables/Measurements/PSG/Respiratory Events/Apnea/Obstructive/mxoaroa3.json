@@ -1,7 +1,7 @@
 {
   "id": "mxoaroa3",
-  "display_name": "Maximum Obs. Apnea length w/ arousals (REM, Other, 3% oxygen desaturation)",
-  "description": "Maximum Obs. Apnea length w/ arousals (REM, Other, 3% oxygen desaturation) (seconds)",
+  "display_name": "Maximum Obstructive Apnea length w/ arousals (REM, Other, 3% oxygen desaturation)",
+  "description": "Maximum Obstructive Apnea length w/ arousals (REM, Other, 3% oxygen desaturation) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "689",
     "TABLE": "SHHS2",
-    "LABEL": "Maximum Obs. Apnea length w/ arousals (REM, Other, 3% oxygen desaturation) (seconds)",
+    "LABEL": "Maximum Obstructive Apnea length w/ arousals (REM, Other, 3% oxygen desaturation) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

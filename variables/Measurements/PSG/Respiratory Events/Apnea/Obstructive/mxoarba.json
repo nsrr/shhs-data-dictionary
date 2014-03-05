@@ -1,7 +1,7 @@
 {
   "id": "mxoarba",
-  "display_name": "Maximum Obs. Apnea length w/ arousals (REM, Back, all oxygen desaturations)",
-  "description": "Maximum Obs. Apnea length w/ arousals (REM, Back, all oxygen desaturations) (seconds)",
+  "display_name": "Maximum Obstructive Apnea length w/ arousals (REM, Back, all oxygen desaturations)",
+  "description": "Maximum Obstructive Apnea length w/ arousals (REM, Back, all oxygen desaturations) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "445",
     "TABLE": "SHHS2",
-    "LABEL": "Maximum Obs. Apnea length w/ arousals (REM, Back, all oxygen desaturations) (seconds)",
+    "LABEL": "Maximum Obstructive Apnea length w/ arousals (REM, Back, all oxygen desaturations) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

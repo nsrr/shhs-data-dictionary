@@ -1,7 +1,7 @@
 {
   "id": "oanop2",
-  "display_name": "# of Obs. Apnea (NREM, Other, 2% oxygen desaturation)",
-  "description": "Number of Obs. Apnea (NREM, Other, 2% oxygen desaturation)",
+  "display_name": "# of Obstructive Apnea (NREM, Other, 2% oxygen desaturation)",
+  "description": "Number of Obstructive Apnea (NREM, Other, 2% oxygen desaturation)",
   "type": "numeric",
   "units": "event count",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "514",
     "TABLE": "SHHS2",
-    "LABEL": "# of Obs. Apnea (NREM, Other, 2% oxygen desaturation)",
+    "LABEL": "# of Obstructive Apnea (NREM, Other, 2% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

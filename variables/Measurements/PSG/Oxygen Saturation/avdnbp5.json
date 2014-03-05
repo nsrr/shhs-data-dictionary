@@ -1,7 +1,7 @@
 {
   "id": "avdnbp5",
-  "display_name": "Avg. oxygen desaturation (NREM, Back, 5% oxygen desaturation)",
-  "description": "Avg. oxygen desaturation (NREM, Back, 5% oxygen desaturation)",
+  "display_name": "Average oxygen desaturation (NREM, Back, 5% oxygen desaturation)",
+  "description": "Average oxygen desaturation (NREM, Back, 5% oxygen desaturation)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "176",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. oxygen desaturation (NREM, Back, 5% oxygen desaturation)",
+    "LABEL": "Average oxygen desaturation (NREM, Back, 5% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

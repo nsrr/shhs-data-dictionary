@@ -1,7 +1,7 @@
 {
   "id": "avsao2nh",
-  "display_name": "Avg. SaO2 % during NREM sleep",
-  "description": "Avg. SaO2 % during NREM sleep",
+  "display_name": "Average SaO2 % during NREM sleep",
+  "description": "Average SaO2 % during NREM sleep",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "295",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. SaO2 % during NREM sleep",
+    "LABEL": "Average SaO2 % during NREM sleep",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

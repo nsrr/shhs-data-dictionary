@@ -1,7 +1,7 @@
 {
   "id": "avhrbp3",
-  "display_name": "Avg. Hypopnea length (REM, Back, 3% oxygen desaturation)",
-  "description": "Avg. Hypopnea length (REM, Back, 3% oxygen desaturation) (seconds)",
+  "display_name": "Average Hypopnea length (REM, Back, 3% oxygen desaturation)",
+  "description": "Average Hypopnea length (REM, Back, 3% oxygen desaturation) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "591",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. Hypopnea length (REM, Back, 3% oxygen desaturation) (seconds)",
+    "LABEL": "Average Hypopnea length (REM, Back, 3% oxygen desaturation) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

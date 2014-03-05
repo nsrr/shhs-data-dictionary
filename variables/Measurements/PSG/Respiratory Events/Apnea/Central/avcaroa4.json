@@ -1,7 +1,7 @@
 {
   "id": "avcaroa4",
-  "display_name": "Avg. Cent. Apnea length w/ arousals (REM, Other, 4% oxygen desaturation)",
-  "description": "Avg. Cent. Apnea length w/ arousals (REM, Other, 4% oxygen desaturation) (seconds)",
+  "display_name": "Average Cent. Apnea length w/ arousals (REM, Other, 4% oxygen desaturation)",
+  "description": "Average Cent. Apnea length w/ arousals (REM, Other, 4% oxygen desaturation) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "83",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. Cent. Apnea length w/ arousals (REM, Other, 4% oxygen desaturation) (seconds)",
+    "LABEL": "Average Cent. Apnea length w/ arousals (REM, Other, 4% oxygen desaturation) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

@@ -1,7 +1,7 @@
 {
   "id": "avdrop3",
-  "display_name": "Avg. oxygen desaturation (REM, Other, 3% oxygen desaturation)",
-  "description": "Avg. oxygen desaturation (REM, Other, 3% oxygen desaturation)",
+  "display_name": "Average oxygen desaturation (REM, Other, 3% oxygen desaturation)",
+  "description": "Average oxygen desaturation (REM, Other, 3% oxygen desaturation)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "643",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. oxygen desaturation (REM, Other, 3% oxygen desaturation)",
+    "LABEL": "Average oxygen desaturation (REM, Other, 3% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

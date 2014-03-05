@@ -1,7 +1,7 @@
 {
   "id": "avdrba",
-  "display_name": "Avg. oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
-  "description": "Avg. oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
+  "display_name": "Average oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
+  "description": "Average oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "462",
     "TABLE": "SHHS2",
-    "LABEL": "Avg. oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
+    "LABEL": "Average oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

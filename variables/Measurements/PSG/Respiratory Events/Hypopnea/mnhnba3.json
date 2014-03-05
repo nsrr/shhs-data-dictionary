@@ -1,7 +1,7 @@
 {
   "id": "mnhnba3",
-  "display_name": "Min. Hypopnea length w/ arousals (NREM, Back, 3% oxygen desaturation)",
-  "description": "Min. Hypopnea length w/ arousals (NREM, Back, 3% oxygen desaturation) (seconds)",
+  "display_name": "Minumum Hypopnea length w/ arousals (NREM, Back, 3% oxygen desaturation)",
+  "description": "Minumum Hypopnea length w/ arousals (NREM, Back, 3% oxygen desaturation) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "660",
     "TABLE": "SHHS2",
-    "LABEL": "Min. Hypopnea length w/ arousals (NREM, Back, 3% oxygen desaturation) (seconds)",
+    "LABEL": "Minumum Hypopnea length w/ arousals (NREM, Back, 3% oxygen desaturation) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

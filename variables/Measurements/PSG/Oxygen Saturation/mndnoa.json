@@ -1,7 +1,7 @@
 {
   "id": "mndnoa",
-  "display_name": "Min. SaO2 w/ arousals (NREM, Other, all oxygen desaturations)",
-  "description": "Min. SaO2 w/ arousals (NREM, Other, all oxygen desaturations) (%)",
+  "display_name": "Minumum SaO2 w/ arousals (NREM, Other, all oxygen desaturations)",
+  "description": "Minumum SaO2 w/ arousals (NREM, Other, all oxygen desaturations) (%)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "469",
     "TABLE": "SHHS2",
-    "LABEL": "Min. SaO2 w/ arousals (NREM, Other, all oxygen desaturations) (%)",
+    "LABEL": "Minumum SaO2 w/ arousals (NREM, Other, all oxygen desaturations) (%)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

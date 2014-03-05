@@ -1,7 +1,7 @@
 {
   "id": "mncarop2",
-  "display_name": "Min. Cent. Apnea length (REM, Other, 2% oxygen desaturation)",
-  "description": "Min. Cent. Apnea length (REM, Other, 2% oxygen desaturation) (seconds)",
+  "display_name": "Minumum Cent. Apnea length (REM, Other, 2% oxygen desaturation)",
+  "description": "Minumum Cent. Apnea length (REM, Other, 2% oxygen desaturation) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "492",
     "TABLE": "SHHS2",
-    "LABEL": "Min. Cent. Apnea length (REM, Other, 2% oxygen desaturation) (seconds)",
+    "LABEL": "Minumum Cent. Apnea length (REM, Other, 2% oxygen desaturation) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

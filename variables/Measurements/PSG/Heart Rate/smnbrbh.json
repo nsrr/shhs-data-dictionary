@@ -1,6 +1,6 @@
 {
   "id": "smnbrbh",
-  "display_name": "Min. Heart Rate (REM, Back, all oxygen desaturations)",
+  "display_name": "Minumum Heart Rate (REM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "243",
     "TABLE": "SHHS2",
-    "LABEL": "Min. Heart Rate (REM, Back, all oxygen desaturations) (bpm)",
+    "LABEL": "Minumum Heart Rate (REM, Back, all oxygen desaturations) (bpm)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

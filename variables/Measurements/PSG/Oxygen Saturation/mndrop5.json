@@ -1,7 +1,7 @@
 {
   "id": "mndrop5",
-  "display_name": "Min. SaO2 (REM, Other, 5% oxygen desaturation)",
-  "description": "Min. SaO2 (REM, Other, 5% oxygen desaturation) (%)",
+  "display_name": "Minumum SaO2 (REM, Other, 5% oxygen desaturation)",
+  "description": "Minumum SaO2 (REM, Other, 5% oxygen desaturation) (%)",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "179",
     "TABLE": "SHHS2",
-    "LABEL": "Min. SaO2 (REM, Other, 5% oxygen desaturation) (%)",
+    "LABEL": "Minumum SaO2 (REM, Other, 5% oxygen desaturation) (%)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

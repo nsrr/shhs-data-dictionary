@@ -1,6 +1,6 @@
 {
   "id": "hmnbnoh",
-  "display_name": "Min. Heart Rate (NREM, Other, 3% oxygen desaturation)",
+  "display_name": "Minumum Heart Rate (NREM, Other, 3% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "276",
     "TABLE": "SHHS2",
-    "LABEL": "Min. Heart Rate (NREM, Other, 3% oxygen desaturation) (bpm)",
+    "LABEL": "Minumum Heart Rate (NREM, Other, 3% oxygen desaturation) (bpm)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

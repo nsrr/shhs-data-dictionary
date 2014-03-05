@@ -1,7 +1,7 @@
 {
   "id": "mnsao2nh",
-  "display_name": "Min. SaO2 % during NREM sleep",
-  "description": "Min. SaO2 % during NREM sleep",
+  "display_name": "Minumum SaO2 % during NREM sleep",
+  "description": "Minumum SaO2 % during NREM sleep",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "297",
     "TABLE": "SHHS2",
-    "LABEL": "Min. SaO2 % during NREM sleep",
+    "LABEL": "Minumum SaO2 % during NREM sleep",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

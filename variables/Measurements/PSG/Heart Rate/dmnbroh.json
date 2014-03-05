@@ -1,6 +1,6 @@
 {
   "id": "dmnbroh",
-  "display_name": "Min. Heart Rate with arousal (REM, Other, 3% oxygen desaturation)",
+  "display_name": "Minumum Heart Rate with arousal (REM, Other, 3% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "282",
     "TABLE": "SHHS2",
-    "LABEL": "Min. Heart Rate with arousal (REM, Other, 3% oxygen desaturation) (bpm)",
+    "LABEL": "Minumum Heart Rate with arousal (REM, Other, 3% oxygen desaturation) (bpm)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

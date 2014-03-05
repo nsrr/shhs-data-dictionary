@@ -1,7 +1,7 @@
 {
   "id": "mnoarop",
-  "display_name": "Min. Obs. Apnea length (REM, Other, all oxygen desaturations)",
-  "description": "Min. Obs. Apnea length (REM, Other, all oxygen desaturations) (seconds)",
+  "display_name": "Minumum Obs. Apnea length (REM, Other, all oxygen desaturations)",
+  "description": "Minumum Obs. Apnea length (REM, Other, all oxygen desaturations) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "388",
     "TABLE": "SHHS2",
-    "LABEL": "Min. Obs. Apnea length (REM, Other, all oxygen desaturations) (seconds)",
+    "LABEL": "Minumum Obs. Apnea length (REM, Other, all oxygen desaturations) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

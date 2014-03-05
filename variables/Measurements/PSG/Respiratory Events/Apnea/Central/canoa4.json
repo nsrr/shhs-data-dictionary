@@ -1,7 +1,7 @@
 {
   "id": "canoa4",
-  "display_name": "# of Cent. Apnea w/ arousals (NREM, Other, 4% oxygen desaturation)",
-  "description": "Number of Cent. Apnea w/ arousals (NREM, Other, 4% oxygen desaturation)",
+  "display_name": "# of Central Apnea w/ arousals (NREM, Other, 4% oxygen desaturation)",
+  "description": "Number of Central Apnea w/ arousals (NREM, Other, 4% oxygen desaturation)",
   "type": "numeric",
   "units": "event count",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "90",
     "TABLE": "SHHS2",
-    "LABEL": "# of Cent. Apnea w/ arousals (NREM, Other, 4% oxygen desaturation)",
+    "LABEL": "# of Central Apnea w/ arousals (NREM, Other, 4% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

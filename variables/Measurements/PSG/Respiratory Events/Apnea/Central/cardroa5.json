@@ -1,7 +1,7 @@
 {
   "id": "cardroa5",
-  "display_name": "Cent. Apnea per hour w/ arousals (REM, Other, 5% oxygen desaturation)",
-  "description": "Cent. Apnea per hour w/ arousals (REM, Other, 5% oxygen desaturation)",
+  "display_name": "Central Apnea per hour w/ arousals (REM, Other, 5% oxygen desaturation)",
+  "description": "Central Apnea per hour w/ arousals (REM, Other, 5% oxygen desaturation)",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "441",
     "TABLE": "SHHS2",
-    "LABEL": "Cent. Apnea per hour w/ arousals (REM, Other, 5% oxygen desaturation)",
+    "LABEL": "Central Apnea per hour w/ arousals (REM, Other, 5% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

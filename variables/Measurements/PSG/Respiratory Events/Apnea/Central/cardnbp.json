@@ -1,7 +1,7 @@
 {
   "id": "cardnbp",
-  "display_name": "Cent. Apnea per hour (NREM, Back, all oxygen desaturations)",
-  "description": "Cent. Apnea per hour (NREM, Back, all oxygen desaturations)",
+  "display_name": "Central Apnea per hour (NREM, Back, all oxygen desaturations)",
+  "description": "Central Apnea per hour (NREM, Back, all oxygen desaturations)",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "334",
     "TABLE": "SHHS2",
-    "LABEL": "Cent. Apnea per hour (NREM, Back, all oxygen desaturations)",
+    "LABEL": "Central Apnea per hour (NREM, Back, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

@@ -1,7 +1,7 @@
 {
   "id": "mxcanop2",
-  "display_name": "Maximum Cent. Apnea length (NREM, Other 2% oxygen desaturation)",
-  "description": "Maximum Cent. Apnea length (NREM, Other 2% oxygen desaturation) (seconds)",
+  "display_name": "Maximum Central Apnea length (NREM, Other 2% oxygen desaturation)",
+  "description": "Maximum Central Apnea length (NREM, Other 2% oxygen desaturation) (seconds)",
   "type": "numeric",
   "units": "second",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "501",
     "TABLE": "SHHS2",
-    "LABEL": "Maximum Cent. Apnea length (NREM, Other 2% oxygen desaturation) (seconds)",
+    "LABEL": "Maximum Central Apnea length (NREM, Other 2% oxygen desaturation) (seconds)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

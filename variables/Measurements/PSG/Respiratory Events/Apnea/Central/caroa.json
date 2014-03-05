@@ -1,7 +1,7 @@
 {
   "id": "caroa",
-  "display_name": "# of Cent. Apnea w/ arousals (REM, Other, all oxygen desaturations)",
-  "description": "Number of Cent. Apnea w/ arousals (REM, Other, all oxygen desaturations)",
+  "display_name": "# of Central Apnea w/ arousals (REM, Other, all oxygen desaturations)",
+  "description": "Number of Central Apnea w/ arousals (REM, Other, all oxygen desaturations)",
   "type": "numeric",
   "units": "event count",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "430",
     "TABLE": "SHHS2",
-    "LABEL": "# of Cent. Apnea w/ arousals (REM, Other, all oxygen desaturations)",
+    "LABEL": "# of Central Apnea w/ arousals (REM, Other, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

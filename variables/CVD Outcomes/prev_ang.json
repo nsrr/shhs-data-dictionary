@@ -1,6 +1,6 @@
 {
   "id": "prev_ang",
-  "display_name": "Number of Anginas Prior to Baseline (SHHSCVD)",
+  "display_name": "Number of Anginas Prior to Baseline",
   "description": "Angina prior to baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",

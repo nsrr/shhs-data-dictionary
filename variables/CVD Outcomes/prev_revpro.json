@@ -1,6 +1,6 @@
 {
   "id": "prev_revpro",
-  "display_name": "Number of Revascularization Procedures Prior to Baseline (SHHSCVD)",
+  "display_name": "Number of Revascularization Procedures Prior to Baseline",
   "description": "Revascularization procedure prior to baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",

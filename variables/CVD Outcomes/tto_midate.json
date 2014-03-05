@@ -1,6 +1,6 @@
 {
   "id": "tto_midate",
-  "display_name": "Days to First MI Since Baseline (SHHSCVD)",
+  "display_name": "Days to First MI Since Baseline",
   "description": "Time since SHHS 1 Sleep Study to date of first mi (days) since bl psg",
   "type": "numeric",
   "units": "days from index date",

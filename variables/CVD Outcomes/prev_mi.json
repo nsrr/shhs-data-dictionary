@@ -1,6 +1,6 @@
 {
   "id": "prev_mi",
-  "display_name": "Number of MIs Prior to Baseline (SHHSCVD)",
+  "display_name": "Number of MIs Prior to Baseline",
   "description": "MI prior to baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",

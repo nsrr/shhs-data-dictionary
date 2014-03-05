@@ -1,6 +1,6 @@
 {
   "id": "any_cvd",
-  "display_name": "Any CVD Since Baseline? (SHHSCVD)",
+  "display_name": "Any CVD Since Baseline?",
   "description": "Any Cardiovascular Disease (CVD) since baseline PSG (as recorded in parent studies datasets)",
   "type": "choices",
   "domain": "yesno01",

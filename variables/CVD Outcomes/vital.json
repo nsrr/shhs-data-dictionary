@@ -1,6 +1,6 @@
 {
   "id": "vital",
-  "display_name": "Vital Status (SHHSCVD)",
+  "display_name": "Vital Status",
   "description": "Vital status",
   "type": "choices",
   "domain": "vitalstat",

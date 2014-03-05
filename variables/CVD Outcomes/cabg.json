@@ -1,6 +1,6 @@
 {
   "id": "cabg",
-  "display_name": "Number of CABGs Since Baseline (SHHSCVD)",
+  "display_name": "Number of CABGs Since Baseline",
   "description": "CABG since baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",

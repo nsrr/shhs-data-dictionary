@@ -1,6 +1,6 @@
 {
   "id": "stk_fatal",
-  "display_name": "Fatal Stroke Since Baseline? (SHHSCVD)",
+  "display_name": "Fatal Stroke Since Baseline?",
   "description": "Fatal stroke since baseline PSG (as recorded in parent studies datasets)",
   "type": "choices",
   "domain": "yesno01",

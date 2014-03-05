@@ -1,6 +1,6 @@
 {
   "id": "chf",
-  "display_name": "Number of CHFs Since to Baseline (SHHSCVD)",
+  "display_name": "Number of CHFs Since to Baseline",
   "description": "Congestive Heart Failure (CHF) since baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",

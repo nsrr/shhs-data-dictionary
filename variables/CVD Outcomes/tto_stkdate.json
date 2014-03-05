@@ -1,6 +1,6 @@
 {
   "id": "tto_stkdate",
-  "display_name": "Days to First Stroke Since Baseline (SHHSCVD)",
+  "display_name": "Days to First Stroke Since Baseline",
   "description": "Time since SHHS 1 Sleep Study to date of first stroke (days) since bl psg",
   "type": "numeric",
   "units": "days from index date",

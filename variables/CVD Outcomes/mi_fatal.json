@@ -1,6 +1,6 @@
 {
   "id": "mi_fatal",
-  "display_name": "Fatal Heart Attack Since Baseline? (SHHS CVD)",
+  "display_name": "Fatal Heart Attack Since Baseline?",
   "description": "Fatal MI since baseline PSG  (as recorded in parent studies datasets)",
   "type": "choices",
   "domain": "yesno01",

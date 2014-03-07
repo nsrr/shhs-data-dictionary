@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS2): Number of years did not smoke",
   "description": "22a. If \"Yes\" how many years did you NOT Smoke?",
   "type": "numeric",
-  "units": "year",
+  "units": "years",
   "labels": [
     "sh322a"
   ],

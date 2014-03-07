@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): years of not smoking",
   "description": "If yes to [NS1YR15] how many years did you not smoke?",
   "type": "numeric",
-  "units": "year",
+  "units": "years",
   "labels": [
     "YRSNS15"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): cigarettes smoked per day",
   "description": "If yes to [SMKNOW15]: How many cigarettes do you smoke per day now? (number per day, up to 2 digits)",
   "type": "numeric",
-  "units": "year",
+  "units": "cigarettes per day",
   "labels": [
     "CIGDAY15"
   ],

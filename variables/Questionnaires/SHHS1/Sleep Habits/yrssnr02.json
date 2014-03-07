@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS1): Years of snoring",
   "description": "For how many years have you been snoring? (number of years, up to 2 digits) Don't know=88",
   "type": "numeric",
-  "units": "year",
+  "units": "years",
   "labels": [
     "YrsSnr02"
   ],

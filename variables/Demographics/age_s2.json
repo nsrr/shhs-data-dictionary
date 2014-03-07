@@ -3,7 +3,7 @@
   "display_name": "Age at SHHS2",
   "description": "Age in years at the time of the SHHS2 visit",
   "type": "numeric",
-  "units": "year",
+  "units": "years",
   "labels": [
     "age_s2"
   ],

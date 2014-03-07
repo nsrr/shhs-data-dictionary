@@ -3,7 +3,7 @@
   "display_name": "Age at SHHS1",
   "description": "Age at time of study in years, based on start date of SHHS1 PSG recording.  [((PSG start date) - (date of birth)) / 365.25]",
   "type": "numeric",
-  "units": "year",
+  "units": "years",
   "labels": [
     "age_s1"
   ],

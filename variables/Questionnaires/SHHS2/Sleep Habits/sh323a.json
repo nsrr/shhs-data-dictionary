@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS2): Years since stopped smoking",
   "description": "23a. If \"No\" how many years ago did you STOP smoking?",
   "type": "numeric",
-  "units": "year",
+  "units": "years",
   "labels": [
     "sh323a"
   ],

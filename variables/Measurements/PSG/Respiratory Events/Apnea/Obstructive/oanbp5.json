@@ -3,7 +3,7 @@
   "display_name": "# of Obstructive Apnea (NREM, Back, 5% oxygen desaturation)",
   "description": "Number of Obstructive Apnea (NREM, Back, 5% oxygen desaturation)",
   "type": "numeric",
-  "units": "event count",
+  "units": "obstructive apnea events",
   "labels": [
     "oanbp5"
   ],

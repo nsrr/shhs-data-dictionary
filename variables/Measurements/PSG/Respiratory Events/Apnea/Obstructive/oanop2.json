@@ -3,7 +3,7 @@
   "display_name": "# of Obstructive Apnea (NREM, Other, 2% oxygen desaturation)",
   "description": "Number of Obstructive Apnea (NREM, Other, 2% oxygen desaturation)",
   "type": "numeric",
-  "units": "event count",
+  "units": "obstructive apnea events",
   "labels": [
     "oanop2"
   ],

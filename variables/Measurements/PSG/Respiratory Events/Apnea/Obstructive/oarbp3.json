@@ -3,7 +3,7 @@
   "display_name": "# of Obstructive Apnea (REM, Back, 3% oxygen desaturation)",
   "description": "Number of Obstructive Apnea (REM, Back, 3% oxygen desaturation)",
   "type": "numeric",
-  "units": "event count",
+  "units": "obstructive apnea events",
   "labels": [
     "oarbp3"
   ],

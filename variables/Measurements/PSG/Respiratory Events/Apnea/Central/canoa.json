@@ -3,7 +3,7 @@
   "display_name": "# of Central Apnea w/ arousals (NREM, Other, all oxygen desaturations)",
   "description": "Number of Central Apnea w/ arousals (NREM, Other, all oxygen desaturations)",
   "type": "numeric",
-  "units": "event count",
+  "units": "central apnea events",
   "labels": [
     "canoa"
   ],

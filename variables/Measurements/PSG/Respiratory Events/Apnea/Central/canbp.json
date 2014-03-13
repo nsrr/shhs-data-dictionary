@@ -3,7 +3,7 @@
   "display_name": "# of Central Apnea (NREM, Back, all oxygen desaturations)",
   "description": "Number of Central Apnea (NREM, Back, all oxygen desaturations)",
   "type": "numeric",
-  "units": "event count",
+  "units": "central apnea events",
   "labels": [
     "canbp"
   ],

@@ -3,7 +3,7 @@
   "display_name": "# of Central Apnea (NREM, Other, 4% oxygen desaturation)",
   "description": "Number of Central Apnea (NREM, Other, 4% oxygen desaturation)",
   "type": "numeric",
-  "units": "event count",
+  "units": "central apnea events",
   "labels": [
     "canop4"
   ],

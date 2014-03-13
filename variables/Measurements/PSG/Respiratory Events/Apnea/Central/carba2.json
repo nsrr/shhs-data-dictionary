@@ -3,7 +3,7 @@
   "display_name": "# of Central Apnea w/ arousals (REM, Back, 2% oxygen desaturation)",
   "description": "Number of Central Apnea w/ arousals (REM, Back, 2% oxygen desaturation)",
   "type": "numeric",
-  "units": "event count",
+  "units": "central apnea events",
   "labels": [
     "carba2"
   ],

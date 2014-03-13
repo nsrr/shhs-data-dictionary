@@ -3,7 +3,7 @@
   "display_name": "# of Central Apnea (REM, Other, 2% oxygen desaturation)",
   "description": "Number of Central Apnea (REM, Other, 2% oxygen desaturation)",
   "type": "numeric",
-  "units": "event count",
+  "units": "central apnea events",
   "labels": [
     "carop2"
   ],

@@ -3,7 +3,7 @@
   "display_name": "# of Hypopnea (REM, Other, 2% oxygen desaturation)",
   "description": "Number of Hypopnea (REM, Other, 2% oxygen desaturation)",
   "type": "numeric",
-  "units": "event count",
+  "units": "hypopnea events",
   "labels": [
     "hrop2"
   ],

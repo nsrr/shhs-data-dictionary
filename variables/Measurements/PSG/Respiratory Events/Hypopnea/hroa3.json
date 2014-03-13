@@ -3,7 +3,7 @@
   "display_name": "# of Hypopnea w/ arousals (REM, Other, 3% oxygen desaturation)",
   "description": "Number of Hypopnea w/ arousals (REM, Other, 3% oxygen desaturation)",
   "type": "numeric",
-  "units": "event count",
+  "units": "hypopnea events",
   "labels": [
     "hroa3"
   ],

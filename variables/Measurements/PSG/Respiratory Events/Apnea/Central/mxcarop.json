@@ -3,7 +3,7 @@
   "display_name": "Maximum Central Apnea length (REM, Other, all oxygen desaturations)",
   "description": "Maximum Central Apnea length (REM, Other, all oxygen desaturations) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mxcarop"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Minumum Hypopnea length w/ arousals (REM, Other, 2% oxygen desaturation)",
   "description": "Minumum Hypopnea length w/ arousals (REM, Other, 2% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mnhroa2"
   ],

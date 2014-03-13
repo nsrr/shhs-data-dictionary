@@ -3,7 +3,7 @@
   "display_name": "Minumum Hypopnea length (REM, Other, all oxygen desaturations)",
   "description": "Minumum Hypopnea length (REM, Other, all oxygen desaturations) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mnhrop"
   ],

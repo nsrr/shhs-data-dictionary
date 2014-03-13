@@ -3,7 +3,7 @@
   "display_name": "Maximum Obstructive Apnea length (REM, Back, 5% oxygen desaturation)",
   "description": "Maximum Obstructive Apnea length (REM, Back, 5% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mxoarbp5"
   ],

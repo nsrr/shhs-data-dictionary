@@ -3,7 +3,7 @@
   "display_name": "Maximum Obstructive Apnea length (REM, Other, 4% oxygen desaturation)",
   "description": "Maximum Obstructive Apnea length (REM, Other, 4% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mxoarop4"
   ],

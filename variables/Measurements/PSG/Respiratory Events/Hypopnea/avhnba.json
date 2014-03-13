@@ -3,7 +3,7 @@
   "display_name": "Average Hypopnea length w/ arousals (NREM, Back, all oxygen desaturations)",
   "description": "Average Hypopnea length w/ arousals (NREM, Back, all oxygen desaturations) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "avhnba"
   ],

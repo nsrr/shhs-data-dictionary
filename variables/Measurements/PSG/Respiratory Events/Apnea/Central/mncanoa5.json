@@ -3,7 +3,7 @@
   "display_name": "Minumum Central Apnea length w/ arousals (NREM, Other, 5% oxygen desaturation)",
   "description": "Minumum Central Apnea length w/ arousals (NREM, Other, 5% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mncanoa5"
   ],

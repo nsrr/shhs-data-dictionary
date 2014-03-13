@@ -3,7 +3,7 @@
   "display_name": "Maximum Central Apnea length w/ arousals (REM, Other, 4% oxygen desaturation)",
   "description": "Maximum Central Apnea length w/ arousals (REM, Other, 4% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mxcaroa4"
   ],

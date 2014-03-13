@@ -3,7 +3,7 @@
   "display_name": "Average Obstructive Apnea length w/ arousals (NREM, Other, all oxygen desaturations)",
   "description": "Average Obstructive Apnea length w/ arousals (NREM, Other, all oxygen desaturations) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "avoanoa"
   ],

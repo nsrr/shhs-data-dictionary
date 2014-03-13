@@ -3,7 +3,7 @@
   "display_name": "Maximum Central Apnea length (NREM, Other 2% oxygen desaturation)",
   "description": "Maximum Central Apnea length (NREM, Other 2% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mxcanop2"
   ],

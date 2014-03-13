@@ -3,7 +3,7 @@
   "display_name": "Minumum Central Apnea length (NREM, Back, 4% oxygen desaturation)",
   "description": "Minumum Central Apnea length (NREM, Back, 4% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mncanbp4"
   ],

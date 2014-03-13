@@ -3,7 +3,7 @@
   "display_name": "Time in REM sleep (SHHS1)",
   "description": "",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "hybrid": {
     "VARNUM": "516",
     "TABLE": "SHHS1",

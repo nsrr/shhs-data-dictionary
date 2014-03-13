@@ -3,7 +3,7 @@
   "display_name": "Average Central Apnea length (REM, Other, 2% oxygen desaturation)",
   "description": "Average Central Apnea length (REM, Other, 2% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "avcarop2"
   ],

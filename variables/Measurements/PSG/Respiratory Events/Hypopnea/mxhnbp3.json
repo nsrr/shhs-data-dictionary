@@ -3,7 +3,7 @@
   "display_name": "Maximum Hypopnea length (NREM, Back, 3% oxygen desaturation)",
   "description": "Maximum Hypopnea length (NREM, Back, 3% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mxhnbp3"
   ],

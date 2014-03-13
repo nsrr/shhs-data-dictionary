@@ -3,7 +3,7 @@
   "display_name": "Average Central Apnea length (NREM, Other, 5% oxygen desaturation)",
   "description": "Average Central Apnea length (NREM, Other, 5% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "avcanop5"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Maximum Hypopnea length (REM, Back, all oxygen desaturations)",
   "description": "Maximum Hypopnea length (REM, Back, all oxygen desaturations) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mxhrbp"
   ],

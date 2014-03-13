@@ -3,7 +3,7 @@
   "display_name": "Minumum Obstructive Apnea length w/ arousals (REM, Other, 3% oxygen desaturation)",
   "description": "Minumum Obstructive Apnea length w/ arousals (REM, Other, 3% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mnoaroa3"
   ],

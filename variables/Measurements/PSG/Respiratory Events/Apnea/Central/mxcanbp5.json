@@ -3,7 +3,7 @@
   "display_name": "Maximum Central Apnea length (NREM, Back, 5% oxygen desaturation)",
   "description": "Maximum Central Apnea length (NREM, Back, 5% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mxcanbp5"
   ],

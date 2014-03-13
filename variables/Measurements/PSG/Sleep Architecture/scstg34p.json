@@ -3,7 +3,7 @@
   "display_name": "Time in stage 3/4 sleep (SHHS1)",
   "description": "",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "hybrid": {
     "VARNUM": "514",
     "TABLE": "SHHS1",

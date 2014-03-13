@@ -3,7 +3,7 @@
   "display_name": "Average Obstructive Apnea length (REM, Other, 3% oxygen desaturation)",
   "description": "Average Obstructive Apnea length (REM, Other, 3% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "avoarop3"
   ],

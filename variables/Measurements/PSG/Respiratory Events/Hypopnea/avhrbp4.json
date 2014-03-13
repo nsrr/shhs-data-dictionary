@@ -3,7 +3,7 @@
   "display_name": "Average Hypopnea length (REM, Back, 4% oxygen desaturation)",
   "description": "Average Hypopnea length (REM, Back, 4% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "avhrbp4"
   ],

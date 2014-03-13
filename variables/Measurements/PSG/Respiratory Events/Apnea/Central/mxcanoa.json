@@ -3,7 +3,7 @@
   "display_name": "Maximum Central Apnea length w/ arousals (NREM, Other all oxygen desaturations)",
   "description": "Maximum Central Apnea length w/ arousals (NREM, Other all oxygen desaturations) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mxcanoa"
   ],

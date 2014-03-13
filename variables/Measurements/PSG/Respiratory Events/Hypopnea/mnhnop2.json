@@ -3,7 +3,7 @@
   "display_name": "Minumum Hypopnea length (NREM, Other, 2% oxygen desaturation)",
   "description": "Minumum Hypopnea length (NREM, Other, 2% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mnhnop2"
   ],

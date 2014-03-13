@@ -3,7 +3,7 @@
   "display_name": "Maximum Central Apnea length w/ arousals (NREM, Back, 3% oxygen desaturation)",
   "description": "Maximum Central Apnea length w/ arousals (NREM, Back, 3% oxygen desaturation) (seconds)",
   "type": "numeric",
-  "units": "second",
+  "units": "seconds",
   "labels": [
     "mxcanba3"
   ],

@@ -1,6 +1,6 @@
 {
   "id": "canba5",
-  "display_name": "# of Central Apnea w/ arousals (NREM, Back, 5% oxygen desaturation)",
+  "display_name": "Number of Central Apnea w/ arousals (NREM, Back, 5% oxygen desaturation)",
   "description": "Number of Central Apnea w/ arousals (NREM, Back, 5% oxygen desaturation)",
   "type": "numeric",
   "units": "central apnea events",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "206",
     "TABLE": "SHHS2",
-    "LABEL": "# of Central Apnea w/ arousals (NREM, Back, 5% oxygen desaturation)",
+    "LABEL": "Number of Central Apnea w/ arousals (NREM, Back, 5% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

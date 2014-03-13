@@ -1,6 +1,6 @@
 {
   "id": "hnrbp2",
-  "display_name": "# of Hypopnea (NREM, Back, 2% oxygen desaturation)",
+  "display_name": "Number of Hypopnea (NREM, Back, 2% oxygen desaturation)",
   "description": "Number of Hypopnea (NREM, Back, 2% oxygen desaturation)",
   "type": "numeric",
   "units": "hypopnea events",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "478",
     "TABLE": "SHHS2",
-    "LABEL": "# of Hypopnea (NREM, Back, 2% oxygen desaturation)",
+    "LABEL": "Number of Hypopnea (NREM, Back, 2% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

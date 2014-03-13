@@ -1,6 +1,6 @@
 {
   "id": "hrembp",
-  "display_name": "# of Hypopnea (REM, Back, all oxygen desaturations)",
+  "display_name": "Number of Hypopnea (REM, Back, all oxygen desaturations)",
   "description": "Number of Hypopnea (REM, Back, all oxygen desaturations)",
   "type": "numeric",
   "units": "hypopnea events",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "350",
     "TABLE": "SHHS2",
-    "LABEL": "# of Hypopnea (REM, Back, all oxygen desaturations)",
+    "LABEL": "Number of Hypopnea (REM, Back, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

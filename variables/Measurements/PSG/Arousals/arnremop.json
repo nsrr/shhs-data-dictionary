@@ -1,6 +1,6 @@
 {
   "id": "arnremop",
-  "display_name": "# of Arousals (NREM, Other, all oxygen desaturations)",
+  "display_name": "Number of Arousals (NREM, Other, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "event count",

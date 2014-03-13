@@ -1,6 +1,6 @@
 {
   "id": "hroa",
-  "display_name": "# of Hypopnea w/ arousals (REM, Other, all oxygen desaturations)",
+  "display_name": "Number of Hypopnea w/ arousals (REM, Other, all oxygen desaturations)",
   "description": "Number of Hypopnea w/ arousals (REM, Other, all oxygen desaturations)",
   "type": "numeric",
   "units": "hypopnea events",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "414",
     "TABLE": "SHHS2",
-    "LABEL": "# of Hypopnea w/ arousals (REM, Other, all oxygen desaturations)",
+    "LABEL": "Number of Hypopnea w/ arousals (REM, Other, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

@@ -1,6 +1,6 @@
 {
   "id": "remt34p",
-  "display_name": "# of REM to stage 3/4 shifts during sleep",
+  "display_name": "Number of REM to stage 3/4 shifts during sleep",
   "description": "Number of REM to stage 3/4 shifts during sleep",
   "type": "numeric",
   "units": "event count",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "348",
     "TABLE": "SHHS2",
-    "LABEL": "# of REM to stage 3/4 shifts during sleep",
+    "LABEL": "Number of REM to stage 3/4 shifts during sleep",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

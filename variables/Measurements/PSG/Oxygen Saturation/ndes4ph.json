@@ -1,6 +1,6 @@
 {
   "id": "ndes4ph",
-  "display_name": "# of oxygen desaturation with >= 4% oxygen desaturation",
+  "display_name": "Number of oxygen desaturation with >= 4% oxygen desaturation",
   "description": "Number of oxygen desaturation with >= 4% oxygen desaturation",
   "type": "numeric",
   "units": "event count",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "292",
     "TABLE": "SHHS2",
-    "LABEL": "# of oxygen desaturation with >= 4% oxygen desaturation",
+    "LABEL": "Number of oxygen desaturation with >= 4% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

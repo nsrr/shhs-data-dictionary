@@ -1,6 +1,6 @@
 {
   "id": "oanbp2",
-  "display_name": "# of Obstructive Apnea (NREM, Back, 2% oxygen desaturation)",
+  "display_name": "Number of Obstructive Apnea (NREM, Back, 2% oxygen desaturation)",
   "description": "Number of Obstructive Apnea (NREM, Back, 2% oxygen desaturation)",
   "type": "numeric",
   "units": "obstructive apnea events",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "510",
     "TABLE": "SHHS2",
-    "LABEL": "# of Obstructive Apnea (NREM, Back, 2% oxygen desaturation)",
+    "LABEL": "Number of Obstructive Apnea (NREM, Back, 2% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

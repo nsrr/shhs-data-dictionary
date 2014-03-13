@@ -1,6 +1,6 @@
 {
   "id": "canop",
-  "display_name": "# of Central Apnea (NREM, Other, all oxygen desaturations)",
+  "display_name": "Number of Central Apnea (NREM, Other, all oxygen desaturations)",
   "description": "Number of Central Apnea (NREM, Other, all oxygen desaturations)",
   "type": "numeric",
   "units": "central apnea events",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "378",
     "TABLE": "SHHS2",
-    "LABEL": "# of Central Apnea (NREM, Other, all oxygen desaturations)",
+    "LABEL": "Number of Central Apnea (NREM, Other, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

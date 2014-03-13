@@ -1,6 +1,6 @@
 {
   "id": "hremt1p",
-  "display_name": "# of REM to stage 1 shifts per hour of sleep",
+  "display_name": "Number of REM to stage 1 shifts per hour of sleep",
   "description": "Number of REM to stage 1 shifts per hour of sleep",
   "type": "numeric",
   "units": "event count",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "320",
     "TABLE": "SHHS2",
-    "LABEL": "# of REM to stage 1 shifts per hour of sleep",
+    "LABEL": "Number of REM to stage 1 shifts per hour of sleep",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

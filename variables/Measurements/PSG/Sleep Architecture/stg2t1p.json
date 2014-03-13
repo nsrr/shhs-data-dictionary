@@ -1,6 +1,6 @@
 {
   "id": "stg2t1p",
-  "display_name": "# of stage 2 to stage 1 shifts during sleep",
+  "display_name": "Number of stage 2 to stage 1 shifts during sleep",
   "description": "Number of stage 2 to stage 1 shifts during sleep",
   "type": "numeric",
   "units": "event count",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "344",
     "TABLE": "SHHS2",
-    "LABEL": "# of stage 2 to stage 1 shifts during sleep",
+    "LABEL": "Number of stage 2 to stage 1 shifts during sleep",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

@@ -1,6 +1,6 @@
 {
   "id": "carba",
-  "display_name": "# of Central Apnea w/ arousals (REM, Back, all oxygen desaturations)",
+  "display_name": "Number of Central Apnea w/ arousals (REM, Back, all oxygen desaturations)",
   "description": "Number of Central Apnea w/ arousals (REM, Back, all oxygen desaturations)",
   "type": "numeric",
   "units": "central apnea events",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "426",
     "TABLE": "SHHS2",
-    "LABEL": "# of Central Apnea w/ arousals (REM, Back, all oxygen desaturations)",
+    "LABEL": "Number of Central Apnea w/ arousals (REM, Back, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

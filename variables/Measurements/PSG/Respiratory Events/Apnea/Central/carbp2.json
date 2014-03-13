@@ -1,6 +1,6 @@
 {
   "id": "carbp2",
-  "display_name": "# of Central Apnea (REM, Back, 2% oxygen desaturation)",
+  "display_name": "Number of Central Apnea (REM, Back, 2% oxygen desaturation)",
   "description": "Number of Central Apnea (REM, Back, 2% oxygen desaturation)",
   "type": "numeric",
   "units": "central apnea events",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "486",
     "TABLE": "SHHS2",
-    "LABEL": "# of Central Apnea (REM, Back, 2% oxygen desaturation)",
+    "LABEL": "Number of Central Apnea (REM, Back, 2% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

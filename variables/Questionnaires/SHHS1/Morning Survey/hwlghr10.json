@@ -1,7 +1,7 @@
 {
   "id": "hwlghr10",
   "display_name": "Morning Survey (SHHS1): How long slept (hours)",
-  "description": "How long did you sleep last night, # of hours (number of hours, 0 to 24)",
+  "description": "How long did you sleep last night, Number of hours (number of hours, 0 to 24)",
   "type": "numeric",
   "units": "hour",
   "labels": [

@@ -1,6 +1,6 @@
 {
   "id": "oanoa",
-  "display_name": "# of Obstructive Apnea w/ arousals (NREM, Other, all oxygen desaturations)",
+  "display_name": "Number of Obstructive Apnea w/ arousals (NREM, Other, all oxygen desaturations)",
   "description": "Number of Obstructive Apnea w/ arousals (NREM, Other, all oxygen desaturations)",
   "type": "numeric",
   "units": "obstructive apnea events",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "454",
     "TABLE": "SHHS2",
-    "LABEL": "# of Obstructive Apnea w/ arousals (NREM, Other, all oxygen desaturations)",
+    "LABEL": "Number of Obstructive Apnea w/ arousals (NREM, Other, all oxygen desaturations)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_1",

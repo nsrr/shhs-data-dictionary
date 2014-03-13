@@ -1,6 +1,6 @@
 {
   "id": "hstg342p",
-  "display_name": "# of stage 3/4 to stage 1/2 shifts per hour of sleep",
+  "display_name": "Number of stage 3/4 to stage 1/2 shifts per hour of sleep",
   "description": "Number of stage 3/4 to stage 1/2 shifts per hour of sleep",
   "type": "numeric",
   "units": "event count",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "319",
     "TABLE": "SHHS2",
-    "LABEL": "# of stage 3/4 to stage 1/2 shifts per hour of sleep",
+    "LABEL": "Number of stage 3/4 to stage 1/2 shifts per hour of sleep",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

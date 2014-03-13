@@ -1,6 +1,6 @@
 {
   "id": "carop5",
-  "display_name": "# of Central Apnea (REM, Other, 5% oxygen desaturation)",
+  "display_name": "Number of Central Apnea (REM, Other, 5% oxygen desaturation)",
   "description": "Number of Central Apnea (REM, Other, 5% oxygen desaturation)",
   "type": "numeric",
   "units": "central apnea events",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "142",
     "TABLE": "SHHS2",
-    "LABEL": "# of Central Apnea (REM, Other, 5% oxygen desaturation)",
+    "LABEL": "Number of Central Apnea (REM, Other, 5% oxygen desaturation)",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

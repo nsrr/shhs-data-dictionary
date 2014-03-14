@@ -6,6 +6,9 @@
   "labels": [
     "OPSPCAE"
   ],
+  "forms": [
+    "shhs1_adverse_events_form"
+  ],
   "hybrid": {
     "VARNUM": "63",
     "TABLE": "SHHS1",

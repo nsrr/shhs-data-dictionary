@@ -7,6 +7,9 @@
   "labels": [
     "TECHIDAE"
   ],
+  "forms": [
+    "shhs1_adverse_events_form"
+  ],
   "hybrid": {
     "VARNUM": "65",
     "TABLE": "SHHS1",

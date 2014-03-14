@@ -7,6 +7,9 @@
   "labels": [
     "HWNOTAE"
   ],
+  "forms": [
+    "shhs1_adverse_events_form"
+  ],
   "hybrid": {
     "VARNUM": "56",
     "TABLE": "SHHS1",

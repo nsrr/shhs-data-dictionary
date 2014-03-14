@@ -7,6 +7,9 @@
   "labels": [
     "DATEAE"
   ],
+  "forms": [
+    "shhs1_adverse_events_form"
+  ],
   "hybrid": {
     "VARNUM": "66",
     "TABLE": "SHHS1",

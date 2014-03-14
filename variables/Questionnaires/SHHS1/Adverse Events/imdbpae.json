@@ -7,6 +7,9 @@
   "labels": [
     "IMDBPAE"
   ],
+  "forms": [
+    "shhs1_adverse_events_form"
+  ],
   "hybrid": {
     "VARNUM": "48",
     "TABLE": "SHHS1",

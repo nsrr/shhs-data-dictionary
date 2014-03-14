@@ -6,6 +6,9 @@
   "labels": [
     "OTHACTAE"
   ],
+  "forms": [
+    "shhs1_adverse_events_form"
+  ],
   "hybrid": {
     "VARNUM": "59",
     "TABLE": "SHHS1",

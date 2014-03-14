@@ -7,6 +7,9 @@
   "labels": [
     "IMSBPAE"
   ],
+  "forms": [
+    "shhs1_adverse_events_form"
+  ],
   "hybrid": {
     "VARNUM": "47",
     "TABLE": "SHHS1",

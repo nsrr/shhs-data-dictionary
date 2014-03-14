@@ -7,6 +7,9 @@
   "labels": [
     "IMLOHRAE"
   ],
+  "forms": [
+    "shhs1_adverse_events_form"
+  ],
   "hybrid": {
     "VARNUM": "51",
     "TABLE": "SHHS1",

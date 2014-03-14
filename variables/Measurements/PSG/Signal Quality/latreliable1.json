@@ -7,6 +7,9 @@
   "labels": [
     "latreliable1"
   ],
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ],
   "hybrid": {
     "VARNUM": "694",
     "TABLE": "SHHS1",

@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "noyes01",
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ],
   "hybrid": {
     "VARNUM": "709",
     "TABLE": "SHHS1",

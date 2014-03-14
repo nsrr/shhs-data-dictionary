@@ -4,6 +4,9 @@
   "description": "Field center/site ID",
   "type": "choices",
   "domain": "siteid",
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ],
   "hybrid": {
     "VARNUM": "682",
     "TABLE": "SHHS1",

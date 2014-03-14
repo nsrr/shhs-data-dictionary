@@ -4,6 +4,9 @@
   "description": "Scorer ID",
   "type": "choices",
   "domain": "scoridf",
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ],
   "hybrid": {
     "VARNUM": "687",
     "TABLE": "SHHS1",

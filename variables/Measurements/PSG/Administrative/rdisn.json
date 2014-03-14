@@ -4,6 +4,9 @@
   "description": "",
   "type": "numeric",
   "units": "events per hour",
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ],
   "hybrid": {
     "VARNUM": "711",
     "TABLE": "SHHS1",

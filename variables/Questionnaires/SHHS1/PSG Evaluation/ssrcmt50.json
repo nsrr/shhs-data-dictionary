@@ -6,6 +6,9 @@
   "labels": [
     "SSRCMT50"
   ],
+  "forms": [
+    "shhs1_sleep_data_retrieval_form"
+  ],
   "hybrid": {
     "VARNUM": "290",
     "TABLE": "SHHS1",

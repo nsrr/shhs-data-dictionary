@@ -6,6 +6,9 @@
   "labels": [
     "TECHID50"
   ],
+  "forms": [
+    "shhs1_sleep_data_retrieval_form"
+  ],
   "hybrid": {
     "VARNUM": "285",
     "TABLE": "SHHS1",

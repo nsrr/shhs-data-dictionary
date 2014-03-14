@@ -19,4 +19,22 @@ class DictionaryTest < Test::Unit::TestCase
       end
     end
   end
+
+  Dir.glob("forms/**/*.json").each do |file|
+    define_method("test_json: "+file) do
+      assert_valid_json file
+    end
+  end
+
+  Dir.glob("forms/**/*.json").each do |file|
+    define_method("test_form_name_match: "+file) do
+      assert_equal file.gsub(/^.*\//, '').gsub('.json', '').downcase, (begin JSON.parse(File.read(file))["id"] rescue nil end)
+    end
+  end
+
+  def test_form_name_uniqueness
+    files = Dir.glob("forms/**/*.json").collect{|file| file.split('/').last.downcase }
+    assert_equal [], files.select{ |f| files.count(f) > 1 }.uniq
+  end
+
 end

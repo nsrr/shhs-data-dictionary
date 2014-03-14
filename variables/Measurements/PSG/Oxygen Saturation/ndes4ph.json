@@ -3,7 +3,7 @@
   "display_name": "Number of oxygen desaturation with >= 4% oxygen desaturation",
   "description": "Number of oxygen desaturation with >= 4% oxygen desaturation",
   "type": "numeric",
-  "units": "event count",
+  "units": "oxygen desaturation events",
   "labels": [
     "ndes4ph"
   ],

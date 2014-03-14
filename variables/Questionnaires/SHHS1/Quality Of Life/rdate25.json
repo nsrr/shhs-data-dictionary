@@ -7,6 +7,9 @@
   "labels": [
     "RDATE25"
   ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
   "hybrid": {
     "VARNUM": "282",
     "TABLE": "SHHS1",

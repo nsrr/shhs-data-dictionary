@@ -7,6 +7,9 @@
   "labels": [
     "MODACT25"
   ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
   "hybrid": {
     "VARNUM": "247",
     "TABLE": "SHHS1",

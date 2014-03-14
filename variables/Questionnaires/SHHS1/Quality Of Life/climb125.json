@@ -7,6 +7,9 @@
   "labels": [
     "CLIMB125"
   ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
   "hybrid": {
     "VARNUM": "250",
     "TABLE": "SHHS1",

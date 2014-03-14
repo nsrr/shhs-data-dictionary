@@ -7,6 +7,9 @@
   "labels": [
     "PHACLS25"
   ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
   "hybrid": {
     "VARNUM": "257",
     "TABLE": "SHHS1",

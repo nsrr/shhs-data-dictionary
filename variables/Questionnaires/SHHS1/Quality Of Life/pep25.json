@@ -7,6 +7,9 @@
   "labels": [
     "PEP25"
   ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
   "hybrid": {
     "VARNUM": "266",
     "TABLE": "SHHS1",

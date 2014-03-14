@@ -7,6 +7,9 @@
   "labels": [
     "PROBSA25"
   ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
   "hybrid": {
     "VARNUM": "263",
     "TABLE": "SHHS1",

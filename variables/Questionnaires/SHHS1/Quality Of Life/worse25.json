@@ -7,6 +7,9 @@
   "labels": [
     "WORSE25"
   ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
   "hybrid": {
     "VARNUM": "278",
     "TABLE": "SHHS1",

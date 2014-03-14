@@ -7,6 +7,9 @@
   "labels": [
     "EMACLS25"
   ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
   "hybrid": {
     "VARNUM": "261",
     "TABLE": "SHHS1",

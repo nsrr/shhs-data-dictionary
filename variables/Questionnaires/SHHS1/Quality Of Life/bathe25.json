@@ -7,6 +7,9 @@
   "labels": [
     "BATHE25"
   ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
   "hybrid": {
     "VARNUM": "255",
     "TABLE": "SHHS1",

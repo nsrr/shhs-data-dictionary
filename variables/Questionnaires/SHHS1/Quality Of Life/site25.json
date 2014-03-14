@@ -8,6 +8,9 @@
     "SITE25",
     "site"
   ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
   "hybrid": {
     "VARNUM": "242",
     "TABLE": "SHHS1",

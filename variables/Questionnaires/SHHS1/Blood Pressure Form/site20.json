@@ -8,6 +8,9 @@
     "SITE20",
     "site"
   ],
+  "forms": [
+    "shhs1_seated_bp_weight_neck_circumference_form"
+  ],
   "hybrid": {
     "VARNUM": "67",
     "TABLE": "SHHS1",

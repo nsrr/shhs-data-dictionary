@@ -7,6 +7,9 @@
   "labels": [
     "WTCLDT20"
   ],
+  "forms": [
+    "shhs1_seated_bp_weight_neck_circumference_form"
+  ],
   "hybrid": {
     "VARNUM": "79",
     "TABLE": "SHHS1",

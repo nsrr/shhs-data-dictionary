@@ -7,6 +7,9 @@
   "labels": [
     "TECHID20"
   ],
+  "forms": [
+    "shhs1_seated_bp_weight_neck_circumference_form"
+  ],
   "hybrid": {
     "VARNUM": "81",
     "TABLE": "SHHS1",

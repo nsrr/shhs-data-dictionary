@@ -6,6 +6,9 @@
   "labels": [
     "COMMNT20"
   ],
+  "forms": [
+    "shhs1_seated_bp_weight_neck_circumference_form"
+  ],
   "hybrid": {
     "VARNUM": "83",
     "TABLE": "SHHS1",

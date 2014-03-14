@@ -7,6 +7,9 @@
   "labels": [
     "SYST320"
   ],
+  "forms": [
+    "shhs1_seated_bp_weight_neck_circumference_form"
+  ],
   "hybrid": {
     "VARNUM": "75",
     "TABLE": "SHHS1",

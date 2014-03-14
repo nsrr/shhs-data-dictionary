@@ -7,6 +7,9 @@
   "labels": [
     "DIFFA10"
   ],
+  "forms": [
+    "shhs1_morning_survey_form"
+  ],
   "hybrid": {
     "VARNUM": "218",
     "TABLE": "SHHS1",

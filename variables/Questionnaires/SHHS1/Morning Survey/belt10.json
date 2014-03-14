@@ -7,6 +7,9 @@
   "labels": [
     "BELT10"
   ],
+  "forms": [
+    "shhs1_morning_survey_form"
+  ],
   "hybrid": {
     "VARNUM": "233",
     "TABLE": "SHHS1",

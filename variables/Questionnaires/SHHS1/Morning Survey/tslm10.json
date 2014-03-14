@@ -7,6 +7,9 @@
   "labels": [
     "TSLM10"
   ],
+  "forms": [
+    "shhs1_morning_survey_form"
+  ],
   "hybrid": {
     "VARNUM": "207",
     "TABLE": "SHHS1",

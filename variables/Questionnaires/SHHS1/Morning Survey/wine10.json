@@ -7,6 +7,9 @@
   "labels": [
     "WINE10"
   ],
+  "forms": [
+    "shhs1_morning_survey_form"
+  ],
   "hybrid": {
     "VARNUM": "221",
     "TABLE": "SHHS1",

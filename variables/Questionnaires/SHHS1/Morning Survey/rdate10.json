@@ -7,6 +7,9 @@
   "labels": [
     "RDATE10"
   ],
+  "forms": [
+    "shhs1_morning_survey_form"
+  ],
   "hybrid": {
     "VARNUM": "241",
     "TABLE": "SHHS1",

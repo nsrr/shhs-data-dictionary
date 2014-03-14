@@ -7,6 +7,9 @@
   "labels": [
     "WRFACE10"
   ],
+  "forms": [
+    "shhs1_morning_survey_form"
+  ],
   "hybrid": {
     "VARNUM": "231",
     "TABLE": "SHHS1",

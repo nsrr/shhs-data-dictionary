@@ -8,6 +8,9 @@
     "SITE10",
     "site"
   ],
+  "forms": [
+    "shhs1_morning_survey_form"
+  ],
   "hybrid": {
     "VARNUM": "204",
     "TABLE": "SHHS1",

@@ -7,6 +7,9 @@
   "labels": [
     "ANTPSY1"
   ],
+  "forms": [
+    "shhs1_medications_prescription_and_over_the_counter_form"
+  ],
   "hybrid": {
     "VARNUM": "170",
     "TABLE": "SHHS1",

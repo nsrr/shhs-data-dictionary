@@ -9,6 +9,9 @@
     "angiotensin-converting-enzyme"
   ],
   "commonly_used": true,
+  "forms": [
+    "shhs1_medications_prescription_and_over_the_counter_form"
+  ],
   "hybrid": {
     "VARNUM": "198",
     "TABLE": "SHHS1",

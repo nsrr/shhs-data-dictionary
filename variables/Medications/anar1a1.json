@@ -8,6 +8,9 @@
     "ANAR1A1"
   ],
   "commonly_used": true,
+  "forms": [
+    "shhs1_medications_prescription_and_over_the_counter_form"
+  ],
   "hybrid": {
     "VARNUM": "162",
     "TABLE": "SHHS1",

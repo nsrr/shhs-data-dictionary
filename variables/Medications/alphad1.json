@@ -7,6 +7,9 @@
   "labels": [
     "ALPHAD1"
   ],
+  "forms": [
+    "shhs1_medications_prescription_and_over_the_counter_form"
+  ],
   "hybrid": {
     "VARNUM": "184",
     "TABLE": "SHHS1",

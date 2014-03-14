@@ -7,6 +7,9 @@
   "labels": [
     "ScorIDqa"
   ],
+  "forms": [
+    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
+  ],
   "hybrid": {
     "VARNUM": "586",
     "TABLE": "SHHS1",

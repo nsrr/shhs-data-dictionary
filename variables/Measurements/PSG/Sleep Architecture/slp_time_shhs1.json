@@ -4,6 +4,9 @@
   "description": "Total sleep time as assessed by scorer",
   "type": "numeric",
   "units": "minute",
+  "forms": [
+    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
+  ],
   "hybrid": {
     "VARNUM": "589",
     "TABLE": "SHHS1",

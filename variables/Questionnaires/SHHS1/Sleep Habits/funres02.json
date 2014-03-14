@@ -7,6 +7,9 @@
   "labels": [
     "FUnres02"
   ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
   "hybrid": {
     "VARNUM": "316",
     "TABLE": "SHHS1",

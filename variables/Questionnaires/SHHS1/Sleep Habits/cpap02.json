@@ -7,6 +7,9 @@
   "labels": [
     "CPAP02"
   ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
   "hybrid": {
     "VARNUM": "330",
     "TABLE": "SHHS1",

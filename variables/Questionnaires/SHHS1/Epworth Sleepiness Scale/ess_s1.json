@@ -8,6 +8,9 @@
     "ess_s1"
   ],
   "commonly_used": true,
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
   "hybrid": {
     "VARNUM": "724",
     "TABLE": "SHHS1",

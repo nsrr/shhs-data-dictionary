@@ -7,6 +7,9 @@
   "labels": [
     "InCar02"
   ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
   "hybrid": {
     "VARNUM": "349",
     "TABLE": "SHHS1",

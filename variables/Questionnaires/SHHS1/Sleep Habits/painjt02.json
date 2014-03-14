@@ -7,6 +7,9 @@
   "labels": [
     "PainJt02"
   ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
   "hybrid": {
     "VARNUM": "337",
     "TABLE": "SHHS1",

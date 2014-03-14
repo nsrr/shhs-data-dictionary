@@ -7,6 +7,9 @@
   "labels": [
     "SurgTr02"
   ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
   "hybrid": {
     "VARNUM": "326",
     "TABLE": "SHHS1",

@@ -7,6 +7,9 @@
   "labels": [
     "HB02"
   ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
   "hybrid": {
     "VARNUM": "338",
     "TABLE": "SHHS1",

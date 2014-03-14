@@ -7,6 +7,9 @@
   "labels": [
     "NGES02"
   ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
   "hybrid": {
     "VARNUM": "319",
     "TABLE": "SHHS1",

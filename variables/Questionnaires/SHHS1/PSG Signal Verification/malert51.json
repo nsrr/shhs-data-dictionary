@@ -7,6 +7,9 @@
   "labels": [
     "MALERT51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "701",
     "TABLE": "SHHS1",

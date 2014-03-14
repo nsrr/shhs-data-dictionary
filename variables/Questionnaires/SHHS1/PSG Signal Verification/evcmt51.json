@@ -6,6 +6,9 @@
   "labels": [
     "EVCMT51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "677",
     "TABLE": "SHHS1",

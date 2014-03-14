@@ -7,6 +7,9 @@
   "labels": [
     "TMDEPH51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "628",
     "TABLE": "SHHS1",

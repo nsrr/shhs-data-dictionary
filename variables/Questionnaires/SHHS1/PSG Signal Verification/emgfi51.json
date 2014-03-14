@@ -7,6 +7,9 @@
   "labels": [
     "EMGFI51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "638",
     "TABLE": "SHHS1",

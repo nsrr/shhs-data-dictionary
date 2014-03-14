@@ -7,6 +7,9 @@
   "labels": [
     "ABDMGD51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "661",
     "TABLE": "SHHS1",

@@ -7,6 +7,9 @@
   "labels": [
     "MONID51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "693",
     "TABLE": "SHHS1",

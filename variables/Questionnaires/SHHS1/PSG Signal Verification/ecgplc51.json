@@ -7,6 +7,9 @@
   "labels": [
     "ECGPLC51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "681",
     "TABLE": "SHHS1",

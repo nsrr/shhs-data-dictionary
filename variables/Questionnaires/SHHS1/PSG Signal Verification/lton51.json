@@ -7,6 +7,9 @@
   "labels": [
     "LTON51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "674",
     "TABLE": "SHHS1",

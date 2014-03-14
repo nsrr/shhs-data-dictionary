@@ -7,6 +7,9 @@
   "labels": [
     "EOGLTR51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "645",
     "TABLE": "SHHS1",

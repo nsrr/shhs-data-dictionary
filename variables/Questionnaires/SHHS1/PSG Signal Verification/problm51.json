@@ -6,6 +6,9 @@
   "labels": [
     "PROBLM51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "683",
     "TABLE": "SHHS1",

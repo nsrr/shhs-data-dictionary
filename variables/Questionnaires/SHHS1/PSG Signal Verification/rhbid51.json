@@ -7,6 +7,9 @@
   "labels": [
     "RHBID51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "700",
     "TABLE": "SHHS1",

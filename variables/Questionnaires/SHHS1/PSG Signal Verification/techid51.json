@@ -6,6 +6,9 @@
   "labels": [
     "TECHID51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "624",
     "TABLE": "SHHS1",

@@ -7,6 +7,9 @@
   "labels": [
     "THRMV51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "666",
     "TABLE": "SHHS1",

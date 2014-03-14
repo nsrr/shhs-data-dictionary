@@ -6,6 +6,9 @@
   "labels": [
     "WHERE51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "680",
     "TABLE": "SHHS1",

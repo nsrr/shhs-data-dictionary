@@ -7,6 +7,9 @@
   "labels": [
     "TSTAP51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "689",
     "TABLE": "SHHS1",

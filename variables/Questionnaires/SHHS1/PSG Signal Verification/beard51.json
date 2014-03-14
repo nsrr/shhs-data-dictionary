@@ -7,6 +7,9 @@
   "labels": [
     "BEARD51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "678",
     "TABLE": "SHHS1",

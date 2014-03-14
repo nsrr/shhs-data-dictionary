@@ -7,6 +7,9 @@
   "labels": [
     "TENDAP51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "692",
     "TABLE": "SHHS1",

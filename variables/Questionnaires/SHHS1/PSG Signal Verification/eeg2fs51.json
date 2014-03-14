@@ -7,6 +7,9 @@
   "labels": [
     "EEG2FS51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "631",
     "TABLE": "SHHS1",

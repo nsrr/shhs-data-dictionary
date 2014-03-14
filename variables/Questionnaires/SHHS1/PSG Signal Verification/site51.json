@@ -7,6 +7,9 @@
   "labels": [
     "SITE51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "623",
     "TABLE": "SHHS1",

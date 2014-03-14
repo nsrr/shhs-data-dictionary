@@ -8,6 +8,9 @@
     "RSITE51",
     "site"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "684",
     "TABLE": "SHHS1",

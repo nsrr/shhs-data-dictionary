@@ -7,6 +7,9 @@
   "labels": [
     "MONTAG51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "682",
     "TABLE": "SHHS1",

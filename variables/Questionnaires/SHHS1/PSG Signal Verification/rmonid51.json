@@ -7,6 +7,9 @@
   "labels": [
     "RMONID51"
   ],
+  "forms": [
+    "shhs1_signal_verifications_form"
+  ],
   "hybrid": {
     "VARNUM": "686",
     "TABLE": "SHHS1",

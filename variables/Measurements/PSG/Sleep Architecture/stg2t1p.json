@@ -3,7 +3,7 @@
   "display_name": "Number of stage 2 to stage 1 shifts during sleep",
   "description": "Number of stage 2 to stage 1 shifts during sleep",
   "type": "numeric",
-  "units": "event count",
+  "units": "stage shifts",
   "labels": [
     "stg2t1p"
   ],

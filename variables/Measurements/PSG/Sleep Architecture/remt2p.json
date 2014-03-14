@@ -3,7 +3,7 @@
   "display_name": "Number of REM to stage 2 shifts during sleep",
   "description": "Number of REM to stage 2 shifts during sleep",
   "type": "numeric",
-  "units": "event count",
+  "units": "stage shifts",
   "labels": [
     "remt2p"
   ],

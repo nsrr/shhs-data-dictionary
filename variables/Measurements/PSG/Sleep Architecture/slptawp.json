@@ -3,7 +3,7 @@
   "display_name": "Number of sleep to awake shifts",
   "description": "Number of sleep to awake shifts",
   "type": "numeric",
-  "units": "event count",
+  "units": "stage shifts",
   "labels": [
     "slptawp"
   ],

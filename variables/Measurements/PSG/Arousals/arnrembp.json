@@ -3,7 +3,7 @@
   "display_name": "Number of Arousals (NREM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "event count",
+  "units": "arousals",
   "labels": [
     "arnrembp"
   ],

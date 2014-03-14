@@ -3,7 +3,7 @@
   "display_name": "Number of stage 2 to stage 1 shifts per hour of sleep",
   "description": "Number of stage 2 to stage 1 shifts per hour of sleep",
   "type": "numeric",
-  "units": "event count",
+  "units": "stage shifts",
   "labels": [
     "hstg2t1p"
   ],

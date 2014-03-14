@@ -3,7 +3,7 @@
   "display_name": "Number of REM to stage 3/4 shifts per hour of sleep",
   "description": "Number of REM to stage 3/4 shifts per hour of sleep",
   "type": "numeric",
-  "units": "event count",
+  "units": "stage shifts",
   "labels": [
     "hremt34p"
   ],

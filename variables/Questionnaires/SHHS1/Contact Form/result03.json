@@ -7,6 +7,9 @@
   "labels": [
     "Result03"
   ],
+  "forms": [
+    "shhs1_contact_form"
+  ],
   "hybrid": {
     "VARNUM": "88",
     "TABLE": "SHHS1",

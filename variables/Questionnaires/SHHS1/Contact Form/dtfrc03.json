@@ -7,6 +7,9 @@
   "labels": [
     "DtFRC03"
   ],
+  "forms": [
+    "shhs1_contact_form"
+  ],
   "hybrid": {
     "VARNUM": "86",
     "TABLE": "SHHS1",

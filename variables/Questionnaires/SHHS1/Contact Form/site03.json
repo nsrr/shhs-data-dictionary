@@ -8,6 +8,9 @@
     "Site03",
     "site"
   ],
+  "forms": [
+    "shhs1_contact_form"
+  ],
   "hybrid": {
     "VARNUM": "84",
     "TABLE": "SHHS1",

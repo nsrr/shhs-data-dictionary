@@ -7,6 +7,9 @@
   "labels": [
     "NConAt03"
   ],
+  "forms": [
+    "shhs1_contact_form"
+  ],
   "hybrid": {
     "VARNUM": "93",
     "TABLE": "SHHS1",

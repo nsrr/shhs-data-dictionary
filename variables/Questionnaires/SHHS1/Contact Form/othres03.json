@@ -6,6 +6,9 @@
   "labels": [
     "OthRes03"
   ],
+  "forms": [
+    "shhs1_contact_form"
+  ],
   "hybrid": {
     "VARNUM": "92",
     "TABLE": "SHHS1",

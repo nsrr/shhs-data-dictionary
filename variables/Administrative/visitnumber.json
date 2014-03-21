@@ -1,0 +1,16 @@
+{
+  "id": "visitnumber",
+  "display_name": "SHHS Visit Number",
+  "description": "",
+  "type": "choices",
+  "domain": "visitnumber",
+  "labels": [
+    "visitnumber"
+  ],
+  "commonly_used": true,
+  "hybrid": {
+    "sensitivity": "0",
+    "design_name": null,
+    "design_file": null
+  }
+}

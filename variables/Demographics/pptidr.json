@@ -1,0 +1,17 @@
+{
+  "id": "pptidr",
+  "display_name": "Randomized ID: Incorporates parent study random ID",
+  "description": "This participant ID matches what is present in BioLINCC.",
+  "type": "identifier",
+  "labels": [
+    "pptidr",
+    "id"
+  ],
+  "commonly_used": true,
+  "hybrid": {
+    "LABEL": "Randomized ID: Incorporates parent study random ID",
+    "sensitivity": "1",
+    "design_name": null,
+    "design_file": null
+  }
+}

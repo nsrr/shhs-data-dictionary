@@ -1,11 +1,13 @@
-## 0.1.1 (unreleased)
+## 0.2.0
 
 - Moved `commonly_used` to the root of the json variable object
 - Changed references of `patient` and `pt` to `participant`
 - Cleaned up and removed assignment statements from calculations
 - Changed description references of `#` to spelled out `number`
-- Updated to spout 0.6.0.beta4
-- Use of Ruby 2.1.1 is now recommended
+- Added forms JSON files and tests for variables to be able to reference the forms on which they exist
+- **Gem Changes**
+  - Use of Ruby 2.1.1 is now recommended
+  - Updated to spout 0.7.0.beta3
 
 ## 0.1.0 (July 26, 2013)
 

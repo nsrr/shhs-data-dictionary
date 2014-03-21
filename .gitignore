@@ -8,8 +8,4 @@
 /dd
 /coverage
 /csvs
-
-
-# Data Folders
-/pngs
-/sleepdataexport
+/graphs

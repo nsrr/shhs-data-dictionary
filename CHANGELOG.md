@@ -1,6 +1,8 @@
 ## 0.2.0
 
-- Moved `commonly_used` to the root of the json variable object
+- The CSV dataset generated from a SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.2.0\`
+    - `shhsall-0.2.0.rc.csv`- Moved `commonly_used` to the root of the json variable object
 - Changed references of `patient` and `pt` to `participant`
 - Cleaned up and removed assignment statements from calculations
 - Changed description references of `#` to spelled out `number`

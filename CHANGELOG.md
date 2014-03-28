@@ -1,3 +1,5 @@
+## 0.3.0
+
 ## 0.2.0 (March 24, 2014)
 
 - The CSV dataset generated from a SAS export is located here:

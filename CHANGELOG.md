@@ -1,5 +1,7 @@
 ## 0.3.0
 
+- Removed `in_shhs2_lad` variable (i.e. participant was part of SHHS2 Limited Access Dataset) as it is no longer relevant
+
 ## 0.2.0 (March 24, 2014)
 
 - The CSV dataset generated from a SAS export is located here:

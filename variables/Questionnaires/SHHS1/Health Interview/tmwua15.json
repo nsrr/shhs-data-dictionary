@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "ampmf",
   "labels": [
-    "TMWUA15"
+    "TMWUA15",
+    "Waking"
   ],
   "hybrid": {
     "VARNUM": "148",

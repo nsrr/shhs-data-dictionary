@@ -1,16 +1,17 @@
 {
   "id": "ahiov50",
-  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - AHI > 50",
+  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - AHI \u003e 50",
   "description": "Medical Alert for AHI over 50.",
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "AHIov50"
+    "AHIov50",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "490",
     "TABLE": "SHHS2",
-    "LABEL": "QS - Medical Alert - AHI > 50",
+    "LABEL": "QS - Medical Alert - AHI \u003e 50",
     "sensitivity": "0",
     "design_name": "PSG QS Form (SHHS2)",
     "MEMNAME": "shhs2_2",

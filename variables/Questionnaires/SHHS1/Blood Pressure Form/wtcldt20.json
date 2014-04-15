@@ -5,7 +5,10 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "WTCLDT20"
+    "WTCLDT20",
+    "Blood pressure finding",
+    "Weighing patient",
+    "Measured Tumor Identification"
   ],
   "forms": [
     "shhs1_seated_bp_weight_neck_circumference_form"

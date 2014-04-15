@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "HF15"
+    "HF15",
+    "Simian Acquired Immunodeficiency Syndrome"
   ],
   "hybrid": {
     "VARNUM": "100",

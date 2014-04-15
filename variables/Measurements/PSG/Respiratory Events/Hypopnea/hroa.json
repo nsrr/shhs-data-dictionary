@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "hypopnea events",
   "labels": [
-    "hroa"
+    "hroa",
+    "Slow shallow breathing",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "414",

@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "sh319h"
+    "sh319h",
+    "Behaviorial Habits",
+    "Falls",
+    "Emotions",
+    "H NOS Antibodies"
   ],
   "hybrid": {
     "VARNUM": "67",

@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "pack years",
   "labels": [
-    "CgPkYr"
+    "CgPkYr",
+    "Cigarette smoking behavior"
   ],
   "commonly_used": true,
   "hybrid": {

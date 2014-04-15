@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "Airdur"
+    "Airdur",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "467",

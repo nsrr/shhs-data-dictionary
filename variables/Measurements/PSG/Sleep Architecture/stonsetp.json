@@ -4,7 +4,9 @@
   "description": "Sleep onset time (hh:mm:ss)",
   "type": "time",
   "labels": [
-    "stonsetp"
+    "stonsetp",
+    "Onset of sleep",
+    "homoharringtonine"
   ],
   "hybrid": {
     "VARNUM": "339",

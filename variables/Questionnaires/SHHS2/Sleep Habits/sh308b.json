@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "sh308b"
+    "sh308b",
+    "Behaviorial Habits",
+    "Difficulty sleeping",
+    "Practice Experience",
+    "wake ups"
   ],
   "hybrid": {
     "VARNUM": "47",

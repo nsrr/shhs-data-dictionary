@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "DIURET1"
+    "DIURET1",
+    "Diuretics",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "forms": [

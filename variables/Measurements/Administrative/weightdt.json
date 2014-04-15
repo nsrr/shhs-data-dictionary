@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "WeightDT"
+    "WeightDT",
+    "Weighing patient",
+    "Measured Tumor Identification"
   ],
   "hybrid": {
     "VARNUM": "28",

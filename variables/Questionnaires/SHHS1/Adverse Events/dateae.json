@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "DATEAE"
+    "DATEAE",
+    "Adverse event"
   ],
   "forms": [
     "shhs1_adverse_events_form"

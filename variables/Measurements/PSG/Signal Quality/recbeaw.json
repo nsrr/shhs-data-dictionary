@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "RecBeAw"
+    "RecBeAw",
+    "Polysomnography",
+    "Waking"
   ],
   "hybrid": {
     "VARNUM": "492",

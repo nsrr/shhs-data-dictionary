@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "HrsWE02"
+    "HrsWE02",
+    "Behaviorial Habits"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

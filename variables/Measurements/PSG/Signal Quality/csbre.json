@@ -6,12 +6,14 @@
   "domain": "yesnon",
   "labels": [
     "csbre",
-    "cheyne stokes"
+    "cheyne stokes",
+    "Polysomnography",
+    "Respiration intermittent"
   ],
   "hybrid": {
     "VARNUM": "510",
     "TABLE": "SHHS2",
-    "LABEL": "QS - Unusual Occurrences - Periodic breathing > 10 min",
+    "LABEL": "QS - Unusual Occurrences - Periodic breathing \u003e 10 min",
     "sensitivity": "0",
     "design_name": "PSG QS Form (SHHS2)",
     "MEMNAME": "shhs2_2",

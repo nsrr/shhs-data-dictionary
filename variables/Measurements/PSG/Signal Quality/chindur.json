@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "Chindur"
+    "Chindur",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "465",

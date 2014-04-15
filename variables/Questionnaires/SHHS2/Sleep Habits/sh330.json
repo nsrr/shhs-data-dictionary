@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "drinks",
   "labels": [
-    "sh330"
+    "sh330",
+    "Behaviorial Habits"
   ],
   "hybrid": {
     "VARNUM": "40",

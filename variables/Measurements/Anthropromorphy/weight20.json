@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "kilograms",
   "labels": [
-    "WEIGHT20"
+    "WEIGHT20",
+    "Blood pressure finding"
   ],
   "forms": [
     "shhs1_seated_bp_weight_neck_circumference_form"

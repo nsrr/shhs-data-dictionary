@@ -1,7 +1,7 @@
 {
   "id": "ms205",
   "display_name": "Morning Survey (SHHS2): Quality of sleep compared to usual",
-  "description": "5. Compared to your usual night's sleep, how well did you sleep last night?\r\r(check one)",
+  "description": "5. Compared to your usual night\u0027s sleep, how well did you sleep last night?\r\r(check one)",
   "type": "choices",
   "domain": "betwrs5",
   "labels": [

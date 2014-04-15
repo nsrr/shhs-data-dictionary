@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "MStatDT"
+    "MStatDT",
+    "Marriage, life event"
   ],
   "hybrid": {
     "VARNUM": "13",

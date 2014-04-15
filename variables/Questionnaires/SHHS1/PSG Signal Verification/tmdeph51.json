@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "TMDEPH51"
+    "TMDEPH51",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

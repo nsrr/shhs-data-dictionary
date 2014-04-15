@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "incdec4",
   "labels": [
-    "sh312"
+    "sh312",
+    "Behaviorial Habits",
+    "Respiration",
+    "Others - Allergy"
   ],
   "hybrid": {
     "VARNUM": "25",

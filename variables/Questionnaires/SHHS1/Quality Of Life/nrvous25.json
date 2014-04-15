@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "allnone6",
   "labels": [
-    "NRVOUS25"
+    "NRVOUS25",
+    "Nervousness"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

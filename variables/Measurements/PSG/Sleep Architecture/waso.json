@@ -6,7 +6,10 @@
   "units": "minute",
   "calculation": "timebedp - slpprdp - slplatp",
   "labels": [
-    "waso"
+    "waso",
+    "Waking",
+    "Onset of sleep",
+    "Binge eating disorder"
   ],
   "commonly_used": true,
   "hybrid": {

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "IPRTR2"
+    "IPRTR2",
+    "Anticholinergic Agents",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "282",

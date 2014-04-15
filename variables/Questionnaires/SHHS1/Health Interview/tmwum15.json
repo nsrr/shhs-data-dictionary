@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "minute",
   "labels": [
-    "TMWUM15"
+    "TMWUM15",
+    "Waking"
   ],
   "hybrid": {
     "VARNUM": "147",

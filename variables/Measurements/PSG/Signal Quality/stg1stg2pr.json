@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "Stg1Stg2Pr"
+    "Stg1Stg2Pr",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "498",

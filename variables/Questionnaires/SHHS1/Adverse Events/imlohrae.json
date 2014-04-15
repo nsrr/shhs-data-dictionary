@@ -1,11 +1,12 @@
 {
   "id": "imlohrae",
-  "display_name": "Adverse Events (SHHS1): Heart Rate < 30",
-  "description": "Heart rate < 30 for > 2 minutes at rest?",
+  "display_name": "Adverse Events (SHHS1): Heart Rate \u003c 30",
+  "description": "Heart rate \u003c 30 for \u003e 2 minutes at rest?",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "IMLOHRAE"
+    "IMLOHRAE",
+    "Adverse event"
   ],
   "forms": [
     "shhs1_adverse_events_form"
@@ -13,7 +14,7 @@
   "hybrid": {
     "VARNUM": "51",
     "TABLE": "SHHS1",
-    "LABEL": "AE HR<30",
+    "LABEL": "AE HR\u003c30",
     "sensitivity": "0",
     "design_name": "Adverse Events Form (SHHS1)",
     "MEMNAME": "shhs1_1",

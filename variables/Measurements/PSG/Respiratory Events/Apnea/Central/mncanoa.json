@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "mncanoa"
+    "mncanoa",
+    "Sleep Apnea, Central",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "440",

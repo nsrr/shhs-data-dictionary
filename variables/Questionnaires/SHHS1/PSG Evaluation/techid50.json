@@ -4,7 +4,8 @@
   "description": "Technician ID",
   "type": "text",
   "labels": [
-    "TECHID50"
+    "TECHID50",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_sleep_data_retrieval_form"

@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "Abdodur"
+    "Abdodur",
+    "Polysomnography",
+    "Exertion"
   ],
   "hybrid": {
     "VARNUM": "469",

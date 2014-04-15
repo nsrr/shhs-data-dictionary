@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "excpoor5",
   "labels": [
-    "GENHTH25"
+    "GENHTH25",
+    "General body state finding"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

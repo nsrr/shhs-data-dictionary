@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "H2B2"
+    "H2B2",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "277",

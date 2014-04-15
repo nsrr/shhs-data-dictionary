@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "nonvsev6",
   "labels": [
-    "ql207"
+    "ql207",
+    "Pain NOS Adverse Event"
   ],
   "hybrid": {
     "VARNUM": "192",

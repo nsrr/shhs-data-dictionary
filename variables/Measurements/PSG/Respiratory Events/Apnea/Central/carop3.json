@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "central apnea events",
   "labels": [
-    "carop3"
+    "carop3",
+    "Sleep Apnea, Central"
   ],
   "hybrid": {
     "VARNUM": "610",

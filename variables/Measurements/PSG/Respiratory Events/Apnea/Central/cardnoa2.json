@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "cardnoa2"
+    "cardnoa2",
+    "Sleep Apnea, Central",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "371",

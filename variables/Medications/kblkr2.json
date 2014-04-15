@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "KBLKR2"
+    "KBLKR2",
+    "Potassium Ion",
+    "diabetic",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "284",

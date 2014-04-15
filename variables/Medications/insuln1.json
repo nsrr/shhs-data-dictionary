@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "INSULN1"
+    "INSULN1",
+    "Insulin",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "forms": [

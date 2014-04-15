@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "mxcarbp3"
+    "mxcarbp3",
+    "Sleep Apnea, Central"
   ],
   "hybrid": {
     "VARNUM": "609",

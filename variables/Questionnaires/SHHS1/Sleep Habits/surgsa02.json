@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "SurgSA02"
+    "SurgSA02",
+    "Behaviorial Habits",
+    "Therapeutic procedure"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "sh308g"
+    "sh308g",
+    "Behaviorial Habits",
+    "Practice Experience"
   ],
   "hybrid": {
     "VARNUM": "52",

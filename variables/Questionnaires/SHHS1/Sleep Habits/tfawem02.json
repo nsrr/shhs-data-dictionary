@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "minute",
   "labels": [
-    "TFAWEM02"
+    "TFAWEM02",
+    "Behaviorial Habits",
+    "Falls"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

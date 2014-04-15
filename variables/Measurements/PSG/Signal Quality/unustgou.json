@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "UnuStgOu"
+    "UnuStgOu",
+    "Polysomnography",
+    "Sleep Stages"
   ],
   "hybrid": {
     "VARNUM": "513",

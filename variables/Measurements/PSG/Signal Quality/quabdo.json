@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "sigqus2",
   "labels": [
-    "QuAbdo"
+    "QuAbdo",
+    "Polysomnography",
+    "Exertion"
   ],
   "hybrid": {
     "VARNUM": "479",

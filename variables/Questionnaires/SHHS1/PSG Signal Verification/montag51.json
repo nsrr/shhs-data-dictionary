@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "ecgmon",
   "labels": [
-    "MONTAG51"
+    "MONTAG51",
+    "Polysomnography",
+    "Used by",
+    "Electrocardiography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "NOART50"
+    "NOART50",
+    "Polysomnography",
+    "Fuzzy head"
   ],
   "forms": [
     "shhs1_sleep_data_retrieval_form"

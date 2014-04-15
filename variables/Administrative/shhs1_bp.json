@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "shhs1_bp"
+    "shhs1_bp",
+    "Pressure (finding)"
   ],
   "hybrid": {
     "VARNUM": "726",

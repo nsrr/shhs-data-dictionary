@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "sh319d"
+    "sh319d",
+    "Behaviorial Habits",
+    "Falls",
+    "Emotions"
   ],
   "hybrid": {
     "VARNUM": "63",

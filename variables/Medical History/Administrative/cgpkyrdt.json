@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "CgPkYrDT"
+    "CgPkYrDT",
+    "Cigarette smoking behavior"
   ],
   "hybrid": {
     "VARNUM": "19",

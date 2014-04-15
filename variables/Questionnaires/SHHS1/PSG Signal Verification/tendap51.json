@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "ampmf",
   "labels": [
-    "TENDAP51"
+    "TENDAP51",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

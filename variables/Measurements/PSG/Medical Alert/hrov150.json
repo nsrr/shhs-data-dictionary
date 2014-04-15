@@ -1,16 +1,17 @@
 {
   "id": "hrov150",
-  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - HR > 150",
+  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - HR \u003e 150",
   "description": "Medical Alert for heart rate over 150.",
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "HRov150"
+    "HRov150",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "487",
     "TABLE": "SHHS2",
-    "LABEL": "QS - Medical Alert - HR > 150",
+    "LABEL": "QS - Medical Alert - HR \u003e 150",
     "sensitivity": "0",
     "design_name": "PSG QS Form (SHHS2)",
     "MEMNAME": "shhs2_2",

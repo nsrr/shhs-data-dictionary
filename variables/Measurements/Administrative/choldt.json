@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "CholDT"
+    "CholDT",
+    "High Density Lipoprotein Cholesterol",
+    "HDL-triglyceride"
   ],
   "hybrid": {
     "VARNUM": "36",

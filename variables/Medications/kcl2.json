@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "KCL2"
+    "KCL2",
+    "Potassium supplement",
+    "Potassium Ion",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "285",

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "BENZOD1"
+    "BENZOD1",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "forms": [

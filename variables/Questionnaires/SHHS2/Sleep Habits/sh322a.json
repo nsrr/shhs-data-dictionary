@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "years",
   "labels": [
-    "sh322a"
+    "sh322a",
+    "Behaviorial Habits"
   ],
   "hybrid": {
     "VARNUM": "70",

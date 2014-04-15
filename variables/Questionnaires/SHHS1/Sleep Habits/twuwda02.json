@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "ampmf",
   "labels": [
-    "TWUWDA02"
+    "TWUWDA02",
+    "Behaviorial Habits",
+    "wake ups"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "WUDNRS02"
+    "WUDNRS02",
+    "Behaviorial Habits",
+    "Difficulty sleeping",
+    "wake ups"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

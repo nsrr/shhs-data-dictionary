@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "LIPID2"
+    "LIPID2",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "hybrid": {

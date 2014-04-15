@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "ovqus2",
   "labels": [
-    "overall_shhs2"
+    "overall_shhs2",
+    "Polysomnography",
+    "School Grade",
+    "Electroencephalography"
   ],
   "commonly_used": true,
   "hybrid": {

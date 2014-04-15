@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "HvSnrd02"
+    "HvSnrd02",
+    "Behaviorial Habits",
+    "Snoring"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

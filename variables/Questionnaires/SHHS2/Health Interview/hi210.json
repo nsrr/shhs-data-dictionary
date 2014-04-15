@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "bothr5",
   "labels": [
-    "hi210"
+    "hi210",
+    "Restless Legs Syndrome",
+    "Symptoms"
   ],
   "hybrid": {
     "VARNUM": "86",

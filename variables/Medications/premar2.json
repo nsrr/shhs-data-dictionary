@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "PREMAR2"
+    "PREMAR2",
+    "Estrogens, Conjugated (USP)",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "304",

@@ -5,7 +5,10 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "pm226h"
+    "pm226h",
+    "Physical assessment findings",
+    "Reading (datum presentation)",
+    "H NOS Antibodies"
   ],
   "hybrid": {
     "VARNUM": "185",

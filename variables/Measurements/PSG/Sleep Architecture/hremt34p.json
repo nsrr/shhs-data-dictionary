@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "stage shifts",
   "labels": [
-    "hremt34p"
+    "hremt34p",
+    "3/4"
   ],
   "hybrid": {
     "VARNUM": "322",

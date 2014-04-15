@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "hi201c"
+    "hi201c",
+    "Chronic Obstructive Airway Disease"
   ],
   "commonly_used": true,
   "hybrid": {

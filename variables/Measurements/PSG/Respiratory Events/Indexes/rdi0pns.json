@@ -1,14 +1,16 @@
 {
   "id": "rdi0pns",
   "display_name": "Overall RDI (non-Supine) all oxygen desaturations",
-  "description": "Non-Supine RDI at 2% oxygen desaturation  [(Total number of apneas and hypopneas in non-supine body position associated with >= 2% oxygen desaturation) / (hours of sleep)]",
+  "description": "Non-Supine RDI at 2% oxygen desaturation  [(Total number of apneas and hypopneas in non-supine body position associated with \u003e\u003d 2% oxygen desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrop + hnrop + carop + canop + oarop + oanop ) / ( remepop + nremepop )",
   "labels": [
     "rdi0pns",
     "rdi",
-    "ahi"
+    "ahi",
+    "Apnea",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "553",

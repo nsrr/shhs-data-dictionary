@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "nevrusu3",
   "labels": [
-    "sh316"
+    "sh316",
+    "Behaviorial Habits",
+    "1/3 meter (distance vision finding)",
+    "Asleep"
   ],
   "hybrid": {
     "VARNUM": "29",

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "sigqus1",
   "labels": [
-    "Chstqual"
+    "Chstqual",
+    "Polysomnography",
+    "Exertion"
   ],
   "forms": [
     "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"

@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "SitRd02"
+    "SitRd02",
+    "Behaviorial Habits",
+    "Falls",
+    "Sitting position",
+    "Reading (datum presentation)"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "BENZOD2"
+    "BENZOD2",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "hybrid": {

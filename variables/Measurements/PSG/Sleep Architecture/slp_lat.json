@@ -6,7 +6,8 @@
   "units": "minute",
   "calculation": "slplatp",
   "labels": [
-    "slp_lat"
+    "slp_lat",
+    "time out"
   ],
   "commonly_used": true,
   "hybrid": {

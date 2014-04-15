@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "ovqus2",
   "labels": [
-    "overall_shhs1"
+    "overall_shhs1",
+    "Polysomnography",
+    "School Grade",
+    "Electroencephalography"
   ],
   "forms": [
     "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"

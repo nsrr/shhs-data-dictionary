@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "MAOI1"
+    "MAOI1",
+    "Monoamine Oxidase Inhibitors",
+    "Pharmaceutical Preparations"
   ],
   "forms": [
     "shhs1_medications_prescription_and_over_the_counter_form"

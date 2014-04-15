@@ -1,11 +1,13 @@
 {
   "id": "hi215",
   "display_name": "Health Interview (SHHS2): Age when restless leg symptoms first noticed",
-  "description": "C. Restless legs  [Questions #11-15 refer to all symptoms you checked as present in item #8.11.] 15. How old were you when you first noticed these symptoms? (write in \"D\" if Don't know)  _____ _____ age in years (approximate OK)",
+  "description": "C. Restless legs  [Questions #11-15 refer to all symptoms you checked as present in item #8.11.] 15. How old were you when you first noticed these symptoms? (write in \"D\" if Don\u0027t know)  _____ _____ age in years (approximate OK)",
   "type": "numeric",
   "units": "years",
   "labels": [
-    "hi215"
+    "hi215",
+    "Restless Legs Syndrome",
+    "Write - language ability"
   ],
   "hybrid": {
     "VARNUM": "91",

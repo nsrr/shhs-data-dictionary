@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "minute",
   "labels": [
-    "TotMinSlpWD"
+    "TotMinSlpWD",
+    "Behaviorial Habits"
   ],
   "hybrid": {
     "VARNUM": "16",

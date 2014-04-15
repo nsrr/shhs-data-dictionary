@@ -1,11 +1,12 @@
 {
   "id": "yrssnr02",
   "display_name": "Sleep Habits (SHHS1): Years of snoring",
-  "description": "For how many years have you been snoring? (number of years, up to 2 digits) Don't know=88",
+  "description": "For how many years have you been snoring? (number of years, up to 2 digits) Don\u0027t know\u003d88",
   "type": "numeric",
   "units": "years",
   "labels": [
-    "YrsSnr02"
+    "YrsSnr02",
+    "Behaviorial Habits"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

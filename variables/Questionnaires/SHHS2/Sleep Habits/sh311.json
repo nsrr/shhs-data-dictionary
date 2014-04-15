@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "snrloud5",
   "labels": [
-    "sh311"
+    "sh311",
+    "Behaviorial Habits",
+    "Respiration",
+    "Others - Allergy"
   ],
   "hybrid": {
     "VARNUM": "24",

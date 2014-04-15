@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "pm201"
+    "pm201",
+    "Weighing patient"
   ],
   "hybrid": {
     "VARNUM": "143",

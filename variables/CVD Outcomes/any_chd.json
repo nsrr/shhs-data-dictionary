@@ -6,7 +6,10 @@
   "domain": "noyes01",
   "labels": [
     "any_chd",
-    "coronary heart disease"
+    "coronary heart disease",
+    "Choline Dehydrogenase, Mitochondrial",
+    "Coronary Arteriosclerosis",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "22",

@@ -1,11 +1,12 @@
 {
   "id": "issnor02",
   "display_name": "Sleep Habits (SHHS1): Changes in snoring",
-  "description": "Is your snoring: (increasing, decreasing, etc) 1=Increasing over time, 2=Decreasing over time, 3=Staying the same, 8=Don't know",
+  "description": "Is your snoring: (increasing, decreasing, etc) 1\u003dIncreasing over time, 2\u003dDecreasing over time, 3\u003dStaying the same, 8\u003dDon\u0027t know",
   "type": "choices",
   "domain": "incdec4",
   "labels": [
-    "IsSnor02"
+    "IsSnor02",
+    "Behaviorial Habits"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

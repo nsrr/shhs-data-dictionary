@@ -1,16 +1,18 @@
- {
+{
   "id": "pcstah3d",
-  "display_name": "% Sleep time in Apnea+Hypopnea with >3% oxygen desaturation",
-  "description": "% Sleep time in Apnea+Hypopnea with >3% oxygen desaturation",
+  "display_name": "% Sleep time in Apnea+Hypopnea with \u003e3% oxygen desaturation",
+  "description": "% Sleep time in Apnea+Hypopnea with \u003e3% oxygen desaturation",
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "pcstah3d"
+    "pcstah3d",
+    "Apnea Adverse Event",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "451",
     "TABLE": "SHHS2",
-    "LABEL": "% Sleep time in Apnea+Hypopnea with >3% oxygen desaturation",
+    "LABEL": "% Sleep time in Apnea+Hypopnea with \u003e3% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

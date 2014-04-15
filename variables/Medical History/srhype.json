@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "SRHype"
+    "SRHype",
+    "Hypertension Adverse Event"
   ],
   "commonly_used": true,
   "hybrid": {

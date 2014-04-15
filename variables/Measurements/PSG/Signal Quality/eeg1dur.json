@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "EEG1dur"
+    "EEG1dur",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "461",

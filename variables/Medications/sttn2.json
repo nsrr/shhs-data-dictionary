@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "STTN2"
+    "STTN2",
+    "3-hydroxy-3-methylglutaryl-coenzyme A",
+    "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "309",

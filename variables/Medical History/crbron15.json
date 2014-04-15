@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "CRBRON15"
+    "CRBRON15",
+    "Simian Acquired Immunodeficiency Syndrome"
   ],
   "hybrid": {
     "VARNUM": "108",

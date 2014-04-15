@@ -1,7 +1,7 @@
 {
   "id": "whencf15",
   "display_name": "Health Interview (SHHS1): when Caffeine data collected",
-  "description": "Caffeine data collected (when) 1=today at home visit, 2=data collected in clinic (date= [CFCLDT15])",
+  "description": "Caffeine data collected (when) 1\u003dtoday at home visit, 2\u003ddata collected in clinic (date\u003d [CFCLDT15])",
   "type": "choices",
   "domain": "homclin",
   "labels": [

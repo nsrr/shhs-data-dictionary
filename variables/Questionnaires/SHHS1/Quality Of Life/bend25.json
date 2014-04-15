@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "lotlit3",
   "labels": [
-    "BEND25"
+    "BEND25",
+    "Does bend",
+    "Kneeling (finding)"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

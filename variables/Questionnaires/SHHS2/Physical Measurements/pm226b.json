@@ -5,7 +5,11 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "pm226b"
+    "pm226b",
+    "Physical assessment findings",
+    "Doppler studies",
+    "Pressure (finding)",
+    "Emotions"
   ],
   "hybrid": {
     "VARNUM": "179",

@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "sh319i"
+    "sh319i",
+    "Behaviorial Habits",
+    "Falls",
+    "Emotions",
+    "Blood group antibody I"
   ],
   "hybrid": {
     "VARNUM": "68",

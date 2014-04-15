@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "trufals5",
   "labels": [
-    "ql211d"
+    "ql211d",
+    "Blood group antigen D"
   ],
   "hybrid": {
     "VARNUM": "224",

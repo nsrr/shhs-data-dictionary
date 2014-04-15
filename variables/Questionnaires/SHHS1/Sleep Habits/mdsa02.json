@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "MDSA02"
+    "MDSA02",
+    "Behaviorial Habits",
+    "Diagnosis"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

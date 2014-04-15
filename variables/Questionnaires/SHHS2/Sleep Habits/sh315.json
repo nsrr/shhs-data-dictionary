@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "raralw5",
   "labels": [
-    "sh315"
+    "sh315",
+    "Behaviorial Habits",
+    "Stop brand of fluoride",
+    "Respiration",
+    "Others - Allergy"
   ],
   "hybrid": {
     "VARNUM": "28",

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "DIG2"
+    "DIG2",
+    "Digitalis preparation",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "269",

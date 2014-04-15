@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "pm226f"
+    "pm226f",
+    "Reading (datum presentation)",
+    "Fluorides"
   ],
   "hybrid": {
     "VARNUM": "183",

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "pm216"
+    "pm216",
+    "Sitting position",
+    "Blood pressure finding"
   ],
   "hybrid": {
     "VARNUM": "148",

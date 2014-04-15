@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "GH_s2"
+    "GH_s2",
+    "General body state finding",
+    "Perception"
   ],
   "hybrid": {
     "VARNUM": "232",

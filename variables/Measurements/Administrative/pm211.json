@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "pm211"
+    "pm211",
+    "Circumference measure"
   ],
   "hybrid": {
     "VARNUM": "147",

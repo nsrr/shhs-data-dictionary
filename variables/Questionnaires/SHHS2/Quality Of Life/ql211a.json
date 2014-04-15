@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "trufals5",
   "labels": [
-    "ql211a"
+    "ql211a",
+    "Blood group antibody I",
+    "Little\u0027s Disease"
   ],
   "hybrid": {
     "VARNUM": "221",

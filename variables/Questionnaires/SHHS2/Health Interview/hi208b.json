@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "hi208b"
+    "hi208b",
+    "Emotions",
+    "Restless Legs Syndrome",
+    "Sitting position",
+    "Telling untruths"
   ],
   "hybrid": {
     "VARNUM": "101",

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "shorlon5",
   "labels": [
-    "ms204b"
+    "ms204b",
+    "Quality of sleep"
   ],
   "hybrid": {
     "VARNUM": "117",

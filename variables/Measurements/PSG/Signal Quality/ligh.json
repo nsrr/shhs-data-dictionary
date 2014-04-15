@@ -5,12 +5,13 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ligh"
+    "ligh",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "482",
     "TABLE": "SHHS2",
-    "LABEL": "QS - Lights calibration appropriate (1=yes,0=no)",
+    "LABEL": "QS - Lights calibration appropriate (1\u003dyes,0\u003dno)",
     "sensitivity": "2",
     "design_name": "PSG QS Form (SHHS2)",
     "MEMNAME": "shhs2_2",

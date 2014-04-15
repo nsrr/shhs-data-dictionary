@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "ASTH1215"
+    "ASTH1215",
+    "Observation of attack"
   ],
   "hybrid": {
     "VARNUM": "111",

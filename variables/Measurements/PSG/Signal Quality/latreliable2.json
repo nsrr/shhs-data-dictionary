@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "latrel",
   "labels": [
-    "latreliable2"
+    "latreliable2",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "483",

@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "oardnba3"
+    "oardnba3",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "398",

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "PHCTDN25"
+    "PHCTDN25",
+    "physical conditioning (finding)"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "notextr5",
   "labels": [
-    "PROBSA25"
+    "PROBSA25",
+    "physical conditioning (finding)"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

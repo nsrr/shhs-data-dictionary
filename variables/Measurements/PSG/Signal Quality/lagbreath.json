@@ -6,7 +6,8 @@
   "domain": "yesnon",
   "labels": [
     "lagbreath",
-    "cheyne stokes"
+    "cheyne stokes",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "512",

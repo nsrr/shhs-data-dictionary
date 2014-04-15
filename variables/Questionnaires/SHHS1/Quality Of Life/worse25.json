@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "trufals5",
   "labels": [
-    "WORSE25"
+    "WORSE25",
+    "Deterioration of status",
+    "Blood group antibody I"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

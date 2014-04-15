@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "MANPLS51"
+    "MANPLS51",
+    "Polysomnography",
+    "Physiologic pulse"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

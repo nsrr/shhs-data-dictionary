@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "nvevry4",
   "labels": [
-    "sh305"
+    "sh305",
+    "Behaviorial Habits",
+    "Napping"
   ],
   "hybrid": {
     "VARNUM": "21",

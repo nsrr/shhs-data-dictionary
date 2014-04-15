@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "hi214a"
+    "hi214a",
+    "Restless Legs Syndrome",
+    "Deterioration of status"
   ],
   "hybrid": {
     "VARNUM": "102",

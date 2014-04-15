@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "minute",
   "labels": [
-    "TotMinNap"
+    "TotMinNap",
+    "Napping"
   ],
   "hybrid": {
     "VARNUM": "81",

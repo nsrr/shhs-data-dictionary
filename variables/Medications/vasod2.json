@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "VASOD2"
+    "VASOD2",
+    "Vasodilator Agents",
+    "Mixed Cell Morphology",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "317",

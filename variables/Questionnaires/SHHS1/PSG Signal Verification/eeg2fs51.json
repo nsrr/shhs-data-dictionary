@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "kohms",
   "labels": [
-    "EEG2FS51"
+    "EEG2FS51",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

@@ -5,7 +5,10 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "pm219b"
+    "pm219b",
+    "Sitting position",
+    "Blood pressure finding",
+    "Emotions"
   ],
   "hybrid": {
     "VARNUM": "158",

@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "rp_s1"
+    "rp_s1",
+    "Physical assessment findings"
   ],
   "hybrid": {
     "VARNUM": "705",

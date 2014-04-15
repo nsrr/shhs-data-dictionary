@@ -1,16 +1,19 @@
 {
   "id": "urdbpae",
-  "display_name": "Adverse Events (SHHS1): Diastolic BP > 100",
-  "description": "Diastolic blood pressure > 100 (and not on BP meds)?",
+  "display_name": "Adverse Events (SHHS1): Diastolic BP \u003e 100",
+  "description": "Diastolic blood pressure \u003e 100 (and not on BP meds)?",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "URDBPAE"
+    "URDBPAE",
+    "Adverse event",
+    "Diastolic blood pressure measurement",
+    "MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME"
   ],
   "hybrid": {
     "VARNUM": "53",
     "TABLE": "SHHS1",
-    "LABEL": "AE DystBP>100",
+    "LABEL": "AE DystBP\u003e100",
     "sensitivity": "0",
     "design_name": "Adverse Events Form (SHHS1)",
     "MEMNAME": "shhs1_1",

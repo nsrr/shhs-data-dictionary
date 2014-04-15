@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "SYMPTH2"
+    "SYMPTH2",
+    "Inspiration function",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "310",

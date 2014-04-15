@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "Oximdur"
+    "Oximdur",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "470",

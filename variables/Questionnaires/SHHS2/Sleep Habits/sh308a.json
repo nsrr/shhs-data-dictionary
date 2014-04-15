@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "sh308a"
+    "sh308a",
+    "Behaviorial Habits",
+    "Initial insomnia",
+    "Practice Experience"
   ],
   "hybrid": {
     "VARNUM": "46",

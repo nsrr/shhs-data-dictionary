@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "restlf5",
   "labels": [
-    "ms204c"
+    "ms204c",
+    "Agitation",
+    "Quality of sleep"
   ],
   "hybrid": {
     "VARNUM": "118",

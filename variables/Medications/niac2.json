@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "NIAC2"
+    "NIAC2",
+    "Niacin",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "290",

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "in_shhs1", "SHHS1 Participant"
+    "in_shhs1",
+    "SHHS1 Participant"
   ],
   "commonly_used": true,
   "hybrid": {

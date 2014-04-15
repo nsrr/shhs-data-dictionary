@@ -6,7 +6,9 @@
   "units": "events per hour",
   "calculation": "60 * ( arnrembp + arnremop ) / ( slpprdp - minremp )",
   "labels": [
-    "ai_nrem"
+    "ai_nrem",
+    "Cannot be aroused sexually",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "537",

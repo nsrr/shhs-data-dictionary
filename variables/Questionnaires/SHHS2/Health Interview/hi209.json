@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "daymonf",
   "labels": [
-    "hi209"
+    "hi209",
+    "Restless Legs Syndrome",
+    "Symptoms"
   ],
   "hybrid": {
     "VARNUM": "85",

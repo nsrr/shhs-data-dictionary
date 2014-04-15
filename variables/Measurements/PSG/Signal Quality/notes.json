@@ -4,7 +4,8 @@
   "description": "Scorer notes",
   "type": "text",
   "labels": [
-    "Notes"
+    "Notes",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "517",

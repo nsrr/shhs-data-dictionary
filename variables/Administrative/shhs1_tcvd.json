@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "shhs1_tcvd"
+    "shhs1_tcvd",
+    "Cardiovascular Diseases"
   ],
   "hybrid": {
     "VARNUM": "738",

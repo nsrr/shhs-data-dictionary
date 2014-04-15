@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "milligram per deciliter",
   "labels": [
-    "HDL"
+    "HDL",
+    "High Density Lipoprotein Cholesterol"
   ],
   "commonly_used": true,
   "hybrid": {

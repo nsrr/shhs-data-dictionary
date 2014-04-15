@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "slpeffp"
+    "slpeffp",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "313",

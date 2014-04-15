@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "DIAS120"
+    "DIAS120",
+    "Reading (datum presentation)",
+    "Sitting position"
   ],
   "forms": [
     "shhs1_seated_bp_weight_neck_circumference_form"

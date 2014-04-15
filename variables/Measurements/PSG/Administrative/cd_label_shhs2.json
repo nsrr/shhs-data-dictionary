@@ -5,7 +5,8 @@
   "type": "text",
   "labels": [
     "CDLabel",
-    " CD_Label"
+    " CD_Label",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "460",

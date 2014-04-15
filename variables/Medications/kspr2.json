@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "KSPR2"
+    "KSPR2",
+    "Potassium Ion",
+    "Pharmacologic Substance",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "286",

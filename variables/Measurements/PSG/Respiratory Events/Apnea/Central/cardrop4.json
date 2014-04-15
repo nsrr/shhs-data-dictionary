@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "cardrop4"
+    "cardrop4",
+    "Sleep Apnea, Central"
   ],
   "hybrid": {
     "VARNUM": "405",

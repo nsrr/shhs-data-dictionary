@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ASA2"
+    "ASA2",
+    "Pharmacologic Substance",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "258",

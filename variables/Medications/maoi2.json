@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "MAOI2"
+    "MAOI2",
+    "Monoamine Oxidase Inhibitors",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "288",

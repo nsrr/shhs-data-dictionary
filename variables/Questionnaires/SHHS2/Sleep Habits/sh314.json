@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "sh314"
+    "sh314",
+    "Behaviorial Habits",
+    "Respiration",
+    "Others - Allergy"
   ],
   "hybrid": {
     "VARNUM": "27",

@@ -4,7 +4,8 @@
   "description": "Technician ID",
   "type": "text",
   "labels": [
-    "RTECHID51"
+    "RTECHID51",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

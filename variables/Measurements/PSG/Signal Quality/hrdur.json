@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "HRdur"
+    "HRdur",
+    "Polysomnography",
+    "Electrocardiography"
   ],
   "hybrid": {
     "VARNUM": "466",

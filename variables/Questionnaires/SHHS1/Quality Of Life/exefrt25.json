@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "EXEFRT25"
+    "EXEFRT25",
+    "physical conditioning (finding)",
+    "Exertion"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

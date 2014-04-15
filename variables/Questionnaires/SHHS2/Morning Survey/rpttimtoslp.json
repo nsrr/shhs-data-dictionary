@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "minute",
   "labels": [
-    "RptTimtoSlp"
+    "RptTimtoSlp",
+    "Falls"
   ],
   "hybrid": {
     "VARNUM": "111",

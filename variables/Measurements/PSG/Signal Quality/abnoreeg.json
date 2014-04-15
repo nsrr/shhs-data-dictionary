@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "AbnorEEG"
+    "AbnorEEG",
+    "Polysomnography",
+    "Electroencephalogram abnormal"
   ],
   "hybrid": {
     "VARNUM": "507",

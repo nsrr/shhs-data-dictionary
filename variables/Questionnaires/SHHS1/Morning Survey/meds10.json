@@ -1,11 +1,12 @@
 {
   "id": "meds10",
   "display_name": "Morning Survey (SHHS1): medications before bed",
-  "description": "Did you take any meds that you didn't tell us about yesterday? 0=No, 1=Yes, 2=Unsure (enter med names, digitized using meds software)",
+  "description": "Did you take any meds that you didn\u0027t tell us about yesterday? 0\u003dNo, 1\u003dYes, 2\u003dUnsure (enter med names, digitized using meds software)",
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "MEDS10"
+    "MEDS10",
+    "MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME"
   ],
   "forms": [
     "shhs1_morning_survey_form"

@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "ahremop"
+    "ahremop",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "325",

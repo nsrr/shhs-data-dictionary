@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "rdirop3"
+    "rdirop3",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "377",

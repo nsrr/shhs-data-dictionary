@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "arousals",
   "labels": [
-    "arrembp"
+    "arrembp",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "340",

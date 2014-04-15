@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "kilogram",
   "labels": [
-    "Weight"
+    "Weight",
+    "Weighing patient"
   ],
   "commonly_used": true,
   "hybrid": {

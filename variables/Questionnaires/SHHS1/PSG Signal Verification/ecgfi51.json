@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "kohms",
   "labels": [
-    "ECGFI51"
+    "ECGFI51",
+    "Polysomnography",
+    "Electrocardiography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

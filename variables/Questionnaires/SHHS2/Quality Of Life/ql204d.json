@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ql204d"
+    "ql204d",
+    "Experimental Result",
+    "physical conditioning (finding)",
+    "Exertion"
   ],
   "hybrid": {
     "VARNUM": "208",

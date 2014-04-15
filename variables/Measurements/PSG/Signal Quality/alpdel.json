@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "AlpDEL"
+    "AlpDEL",
+    "Polysomnography",
+    "Dental Intrusion"
   ],
   "hybrid": {
     "VARNUM": "508",

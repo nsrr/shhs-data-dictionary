@@ -4,7 +4,8 @@
   "description": "Specify other surgery, if yes on question 2d [OTHRCS15]",
   "type": "text",
   "labels": [
-    "OCSSPC15"
+    "OCSSPC15",
+    "Cardiac Surgery procedures"
   ],
   "hybrid": {
     "VARNUM": "104",

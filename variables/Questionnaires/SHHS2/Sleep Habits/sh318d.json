@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "check",
   "labels": [
-    "sh318d"
+    "sh318d",
+    "Behaviorial Habits",
+    "Diagnosis",
+    "Sleep disturbances"
   ],
   "hybrid": {
     "VARNUM": "59",

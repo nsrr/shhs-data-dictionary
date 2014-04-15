@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "cardrbp3"
+    "cardrbp3",
+    "Sleep Apnea, Central"
   ],
   "hybrid": {
     "VARNUM": "380",

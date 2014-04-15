@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "visitcd",
   "labels": [
-    "visit_sh"
+    "visit_sh",
+    "Behaviorial Habits"
   ],
   "hybrid": {
     "VARNUM": "12",

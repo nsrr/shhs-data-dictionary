@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "HCTZ1"
+    "HCTZ1",
+    "Potassium Ion",
+    "Pharmacologic Substance",
+    "Pharmaceutical Preparations"
   ],
   "forms": [
     "shhs1_medications_prescription_and_over_the_counter_form"

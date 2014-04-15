@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "MALERT51"
+    "MALERT51",
+    "Polysomnography",
+    "Adverse event"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

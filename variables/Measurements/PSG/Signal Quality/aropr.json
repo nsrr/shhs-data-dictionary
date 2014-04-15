@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "AroPr"
+    "AroPr",
+    "Polysomnography",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "502",

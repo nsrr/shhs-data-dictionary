@@ -4,7 +4,8 @@
   "description": "If yes [alternate placement sites needed], which ones and where placed",
   "type": "text",
   "labels": [
-    "WHERE51"
+    "WHERE51",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

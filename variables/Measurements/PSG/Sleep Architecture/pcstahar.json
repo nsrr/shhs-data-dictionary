@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "pcstahar"
+    "pcstahar",
+    "Apnea Adverse Event",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "450",

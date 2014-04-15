@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "TMWUH15"
+    "TMWUH15",
+    "Waking"
   ],
   "hybrid": {
     "VARNUM": "146",

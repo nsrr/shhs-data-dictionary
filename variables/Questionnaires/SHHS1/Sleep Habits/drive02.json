@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "Drive02"
+    "Drive02",
+    "Behaviorial Habits",
+    "Falls"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

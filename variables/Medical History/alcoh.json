@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "drinks per day",
   "labels": [
-    "Alcoh"
+    "Alcoh",
+    "Alcohol consumption"
   ],
   "commonly_used": true,
   "hybrid": {

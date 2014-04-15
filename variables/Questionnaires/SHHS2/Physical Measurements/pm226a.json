@@ -5,7 +5,10 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "pm226a"
+    "pm226a",
+    "Doppler studies",
+    "Systolic blood pressure measurement",
+    "Pressure (finding)"
   ],
   "hybrid": {
     "VARNUM": "178",

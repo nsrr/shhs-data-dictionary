@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "sh317"
+    "sh317",
+    "Behaviorial Habits",
+    "Diagnosis",
+    "Sleep disturbances"
   ],
   "commonly_used": true,
   "hybrid": {

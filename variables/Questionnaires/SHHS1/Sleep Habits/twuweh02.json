@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "TWUWEH02"
+    "TWUWEH02",
+    "Behaviorial Habits",
+    "wake ups"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

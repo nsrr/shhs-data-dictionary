@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "pm208"
+    "pm208",
+    "Physical assessment findings"
   ],
   "hybrid": {
     "VARNUM": "138",

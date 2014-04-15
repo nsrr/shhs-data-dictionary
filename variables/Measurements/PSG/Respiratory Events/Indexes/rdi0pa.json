@@ -8,7 +8,9 @@
   "labels": [
     "rdi0pa",
     "rdi",
-    "ahi"
+    "ahi",
+    "Apnea",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "543",

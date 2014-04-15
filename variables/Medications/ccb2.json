@@ -1,16 +1,18 @@
 {
   "id": "ccb2",
   "display_name": "Any Calcium-Channel Blocker (Ccir Or Ccbsr Or Ccbt) (SHHS2)",
-  "description": "Participant taking ANY CALCIUM-CHANNEL BLOCKER = CCIR OR CCBSR OR CCBT within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking ANY CALCIUM-CHANNEL BLOCKER \u003d CCIR OR CCBSR OR CCBT within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "CCB2"
+    "CCB2",
+    "Calcium Channel Blockers",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "264",
     "TABLE": "SHHS2",
-    "LABEL": "ANY CALCIUM-CHANNEL BLOCKER = CCIR OR CCBSR OR CCBT",
+    "LABEL": "ANY CALCIUM-CHANNEL BLOCKER \u003d CCIR OR CCBSR OR CCBT",
     "sensitivity": "0",
     "design_name": "Medication Form (SHHS2)",
     "MEMNAME": "shhs2_1",

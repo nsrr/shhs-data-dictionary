@@ -6,7 +6,8 @@
   "domain": "siteid",
   "labels": [
     "RSITE51",
-    "site"
+    "site",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

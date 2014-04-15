@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ECG"
+    "ECG",
+    "Electrocardiography"
   ],
   "hybrid": {
     "VARNUM": "44",

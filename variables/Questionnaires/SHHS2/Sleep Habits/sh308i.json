@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "sh308i"
+    "sh308i",
+    "Behaviorial Habits",
+    "Muscle twitch",
+    "Practice Experience",
+    "Blood group antibody I"
   ],
   "hybrid": {
     "VARNUM": "54",

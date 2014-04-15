@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "HTNDerv_s2"
+    "HTNDerv_s2",
+    "Hypertension Adverse Event",
+    "Blood pressure finding",
+    "Medical History",
+    "Hypertensive disease"
   ],
   "commonly_used": true,
   "hybrid": {

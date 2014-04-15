@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "hi216"
+    "hi216",
+    "Medical History",
+    "Restless Legs Syndrome"
   ],
   "commonly_used": true,
   "hybrid": {

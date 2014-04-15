@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "ArmBP"
+    "ArmBP",
+    "Blood pressure finding"
   ],
   "hybrid": {
     "VARNUM": "42",

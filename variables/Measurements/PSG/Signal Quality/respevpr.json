@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "RespEvPr"
+    "RespEvPr",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "505",

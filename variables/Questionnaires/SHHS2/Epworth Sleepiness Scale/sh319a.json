@@ -5,7 +5,12 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "sh319a"
+    "sh319a",
+    "Behaviorial Habits",
+    "Falls",
+    "Sitting position",
+    "Reading (datum presentation)",
+    "Emotions"
   ],
   "hybrid": {
     "VARNUM": "60",

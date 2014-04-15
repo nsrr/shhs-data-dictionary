@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "OTHPRBAE"
+    "OTHPRBAE",
+    "Adverse event"
   ],
   "hybrid": {
     "VARNUM": "62",

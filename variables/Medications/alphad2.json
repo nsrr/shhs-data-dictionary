@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ALPHAD2"
+    "ALPHAD2",
+    "Adrenergic alpha-Antagonists",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "250",

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "RemArUnrel"
+    "RemArUnrel",
+    "Polysomnography",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "504",

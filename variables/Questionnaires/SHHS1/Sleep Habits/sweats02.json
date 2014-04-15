@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "Sweats02"
+    "Sweats02",
+    "Behaviorial Habits",
+    "Sweating",
+    "Hot flushes"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

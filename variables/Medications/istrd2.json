@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ISTRD2"
+    "ISTRD2",
+    "Inspiration function",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "hybrid": {

@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "sh308h"
+    "sh308h",
+    "Behaviorial Habits",
+    "Nasal congestion (finding)",
+    "Practice Experience",
+    "H NOS Antibodies"
   ],
   "hybrid": {
     "VARNUM": "53",

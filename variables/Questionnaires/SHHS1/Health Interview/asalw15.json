@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "day",
   "labels": [
-    "ASALW15"
+    "ASALW15",
+    "MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME"
   ],
   "hybrid": {
     "VARNUM": "140",

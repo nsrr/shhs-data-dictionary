@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "HTNDerv_s1"
+    "HTNDerv_s1",
+    "Hypertension Adverse Event",
+    "Hypertensive disease",
+    "MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME"
   ],
   "commonly_used": true,
   "hybrid": {

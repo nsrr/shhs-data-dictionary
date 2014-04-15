@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "result",
   "labels": [
-    "Result03"
+    "Result03",
+    "Experimental Result"
   ],
   "forms": [
     "shhs1_contact_form"

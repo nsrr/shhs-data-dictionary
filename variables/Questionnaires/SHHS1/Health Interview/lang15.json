@@ -1,7 +1,7 @@
 {
   "id": "lang15",
   "display_name": "Health Interview (SHHS1): Language of interview",
-  "description": "Language of interview 1=English, 2=Spanish, 3=Lakota, 4=Pima, 5=Other (specify [LANGOT15]), 6=Unknown",
+  "description": "Language of interview 1\u003dEnglish, 2\u003dSpanish, 3\u003dLakota, 4\u003dPima, 5\u003dOther (specify [LANGOT15]), 6\u003dUnknown",
   "type": "choices",
   "domain": "lang6",
   "labels": [

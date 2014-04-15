@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "lighdar5",
   "labels": [
-    "ms204a"
+    "ms204a",
+    "Quality of sleep"
   ],
   "hybrid": {
     "VARNUM": "116",

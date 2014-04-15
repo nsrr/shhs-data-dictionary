@@ -5,7 +5,8 @@
   "type": "text",
   "labels": [
     "CDLabel",
-    "CD_Label"
+    "CD_Label",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"

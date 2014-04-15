@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "minute",
   "labels": [
-    "LengPMNap"
+    "LengPMNap",
+    "Behaviorial Habits",
+    "Napping"
   ],
   "hybrid": {
     "VARNUM": "19",

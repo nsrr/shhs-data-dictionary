@@ -6,7 +6,8 @@
   "units": "events per hour",
   "calculation": "60 * ( arrembp + arremop + arnrembp + arnremop ) / slpprdp",
   "labels": [
-    "ai_all"
+    "ai_all",
+    "Arousal"
   ],
   "commonly_used": true,
   "hybrid": {

@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ApnHypPr"
+    "ApnHypPr",
+    "Polysomnography",
+    "Apnea Adverse Event",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "506",

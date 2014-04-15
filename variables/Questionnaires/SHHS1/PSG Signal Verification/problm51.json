@@ -4,7 +4,8 @@
   "description": "Describe any problems with hook-up or sensor checks",
   "type": "text",
   "labels": [
-    "PROBLM51"
+    "PROBLM51",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

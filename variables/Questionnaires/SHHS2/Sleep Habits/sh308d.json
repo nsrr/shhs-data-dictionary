@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "sh308d"
+    "sh308d",
+    "Behaviorial Habits",
+    "Emotions",
+    "Practice Experience"
   ],
   "hybrid": {
     "VARNUM": "49",

@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "kohms",
   "labels": [
-    "EOGLFI51"
+    "EOGLFI51",
+    "Polysomnography",
+    "Electrooculography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

@@ -1,14 +1,16 @@
 {
   "id": "rdi2pa",
   "display_name": "Overall RDI at 2% oxygen desaturation or arousal",
-  "description": "RDI at 2% oxygen desaturation or arousal  [(Total number of apneas and hypopneas with arousal associated with >= 2% oxygen desaturation) / (hours of sleep)]",
+  "description": "RDI at 2% oxygen desaturation or arousal  [(Total number of apneas and hypopneas with arousal associated with \u003e\u003d 2% oxygen desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hremba2 + hroa2 + hnrba2 + hnroa2 + carba2 + caroa2 + canba2 + canoa2 + oarba2 + oaroa2 + oanba2 + oanoa2 ) / slpprdp",
   "labels": [
     "rdi2pa",
     "rdi",
-    "ahi"
+    "ahi",
+    "Apnea",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "544",

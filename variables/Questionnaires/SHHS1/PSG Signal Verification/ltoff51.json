@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "LTOFF51"
+    "LTOFF51",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

@@ -7,7 +7,10 @@
   "labels": [
     "mi_fatal",
     "heart attack",
-    "myocardial infarction"
+    "myocardial infarction",
+    "Death Related to Adverse Event",
+    "Myocardial Infarction",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "9",

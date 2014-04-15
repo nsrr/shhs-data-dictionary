@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "O2THPY02"
+    "O2THPY02",
+    "Behaviorial Habits",
+    "Ambulatory Status - Oxygen therapy"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

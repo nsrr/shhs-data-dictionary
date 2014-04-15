@@ -4,7 +4,9 @@
   "description": "Other action taken if alert noted",
   "type": "text",
   "labels": [
-    "OTHACTAE"
+    "OTHACTAE",
+    "Adverse event",
+    "Consciousness clear"
   ],
   "forms": [
     "shhs1_adverse_events_form"

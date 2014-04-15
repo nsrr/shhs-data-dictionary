@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "NTCA1"
+    "NTCA1",
+    "Tricyclic Antidepressive Agents",
+    "Monoamine Oxidase Inhibitors",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "forms": [

@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "central apnea events",
   "labels": [
-    "carba"
+    "carba",
+    "Sleep Apnea, Central",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "426",

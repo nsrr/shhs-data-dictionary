@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ANAR32"
+    "ANAR32",
+    "Anti-Arrhythmia Agents",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "256",

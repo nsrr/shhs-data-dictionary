@@ -6,7 +6,10 @@
   "units": "percent",
   "calculation": "mnsao2nh",
   "labels": [
-    "losao2nr"
+    "losao2nr",
+    "internal-external locus of control scale",
+    "3/4",
+    "Sleep, Slow-Wave"
   ],
   "hybrid": {
     "VARNUM": "582",

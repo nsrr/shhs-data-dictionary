@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "PainJt02"
+    "PainJt02",
+    "Behaviorial Habits",
+    "Pain NOS Adverse Event"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

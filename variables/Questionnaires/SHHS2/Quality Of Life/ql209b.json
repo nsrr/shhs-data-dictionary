@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "allnone6",
   "labels": [
-    "ql209b"
+    "ql209b",
+    "Nervousness",
+    "Emotions"
   ],
   "hybrid": {
     "VARNUM": "213",

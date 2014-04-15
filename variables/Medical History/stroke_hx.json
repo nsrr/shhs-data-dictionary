@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "Stroke"
+    "Stroke",
+    "Medical History",
+    "Cerebrovascular accident"
   ],
   "commonly_used": true,
   "hybrid": {

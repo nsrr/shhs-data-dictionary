@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "trufals5",
   "labels": [
-    "HLTHY25"
+    "HLTHY25",
+    "Blood group antibody I"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

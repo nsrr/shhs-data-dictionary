@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "StpBrt02"
+    "StpBrt02",
+    "Behaviorial Habits",
+    "Respiration"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

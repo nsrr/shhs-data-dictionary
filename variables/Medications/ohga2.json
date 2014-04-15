@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "OHGA2"
+    "OHGA2",
+    "Oral hypoglycemic",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "hybrid": {

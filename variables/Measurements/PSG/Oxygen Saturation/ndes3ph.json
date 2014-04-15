@@ -1,7 +1,7 @@
 {
   "id": "ndes3ph",
-  "display_name": "Number of oxygen desaturation with >= 3% oxygen desaturation",
-  "description": "Number of oxygen desaturation with >= 3% oxygen desaturation",
+  "display_name": "Number of oxygen desaturation with \u003e\u003d 3% oxygen desaturation",
+  "description": "Number of oxygen desaturation with \u003e\u003d 3% oxygen desaturation",
   "type": "numeric",
   "units": "oxygen desaturation events",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "291",
     "TABLE": "SHHS2",
-    "LABEL": "Number of oxygen desaturation with >= 3% oxygen desaturation",
+    "LABEL": "Number of oxygen desaturation with \u003e\u003d 3% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "mxoanoa4"
+    "mxoanoa4",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "109",

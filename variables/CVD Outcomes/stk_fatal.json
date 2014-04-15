@@ -6,7 +6,10 @@
   "domain": "noyes01",
   "labels": [
     "stk_fatal",
-    "stroke"
+    "stroke",
+    "Death Related to Adverse Event",
+    "Cerebrovascular accident",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "11",

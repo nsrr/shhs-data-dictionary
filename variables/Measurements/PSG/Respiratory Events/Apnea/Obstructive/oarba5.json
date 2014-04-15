@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "obstructive apnea events",
   "labels": [
-    "oarba5"
+    "oarba5",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "214",

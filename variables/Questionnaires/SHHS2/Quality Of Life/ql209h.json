@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "allnone6",
   "labels": [
-    "ql209h"
+    "ql209h",
+    "Happiness",
+    "Emotions",
+    "H NOS Antibodies"
   ],
   "hybrid": {
     "VARNUM": "219",

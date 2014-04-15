@@ -1,14 +1,15 @@
 {
   "id": "oahi",
   "display_name": "Obstructive Apnea Hypopnea Index (OAHI) at 4% oxygen desaturation",
-  "description": "Obstructive Apnea Hypopnea Index at 4% oxygen desaturation.  Ratio of the count of all obstructive apneas plus the count of hypopneas associated with at least a 4% oxygen desaturation to the total sleep time expressed in hours. {[(Total number of obstructive apneas) + (Total number of hypopneas associated with >= 4% oxygen desaturation)] / (hours of sleep)}",
+  "description": "Obstructive Apnea Hypopnea Index at 4% oxygen desaturation.  Ratio of the count of all obstructive apneas plus the count of hypopneas associated with at least a 4% oxygen desaturation to the total sleep time expressed in hours. {[(Total number of obstructive apneas) + (Total number of hypopneas associated with \u003e\u003d 4% oxygen desaturation)] / (hours of sleep)}",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp4 + hrop4 + hnrbp4 + hnrop4 + oarbp + oarop + oanbp + oanop ) / slpprdp",
   "labels": [
     "oahi",
     "rdi",
-    "ahi"
+    "ahi",
+    "Slow shallow breathing"
   ],
   "commonly_used": true,
   "hybrid": {

@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "mxdnoa5"
+    "mxdnoa5",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "233",

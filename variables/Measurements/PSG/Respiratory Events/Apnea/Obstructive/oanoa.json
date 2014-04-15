@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "obstructive apnea events",
   "labels": [
-    "oanoa"
+    "oanoa",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "454",

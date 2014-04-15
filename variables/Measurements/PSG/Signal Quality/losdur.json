@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "LosDur"
+    "LosDur",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "495",

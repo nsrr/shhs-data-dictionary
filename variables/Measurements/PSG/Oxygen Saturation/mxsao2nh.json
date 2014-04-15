@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "mxsao2nh"
+    "mxsao2nh",
+    "Sleep, Slow-Wave"
   ],
   "hybrid": {
     "VARNUM": "299",

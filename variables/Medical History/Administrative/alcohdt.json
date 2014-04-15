@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "AlcohDT"
+    "AlcohDT",
+    "Alcohol consumption"
   ],
   "hybrid": {
     "VARNUM": "21",

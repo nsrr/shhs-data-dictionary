@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "snrloud5",
   "labels": [
-    "LoudSn02"
+    "LoudSn02",
+    "Behaviorial Habits"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

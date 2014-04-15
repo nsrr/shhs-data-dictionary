@@ -6,7 +6,9 @@
   "units": "number of events",
   "labels": [
     "prev_chf",
-    "congestive heart failure"
+    "congestive heart failure",
+    "Congestive heart failure",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "20",

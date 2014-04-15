@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "bottles",
   "labels": [
-    "sh329"
+    "sh329",
+    "Behaviorial Habits"
   ],
   "hybrid": {
     "VARNUM": "39",

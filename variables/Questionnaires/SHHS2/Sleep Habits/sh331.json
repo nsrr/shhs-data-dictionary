@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "sh331"
+    "sh331",
+    "Behaviorial Habits"
   ],
   "hybrid": {
     "VARNUM": "15",

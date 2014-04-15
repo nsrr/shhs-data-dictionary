@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ADPI2"
+    "ADPI2",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "247",

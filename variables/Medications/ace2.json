@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ace2"
+    "ace2",
+    "Angiotensin-Converting Enzyme Inhibitors",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "hybrid": {

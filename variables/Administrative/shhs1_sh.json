@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "shhs1_sh"
+    "shhs1_sh",
+    "Behaviorial Habits"
   ],
   "hybrid": {
     "VARNUM": "729",

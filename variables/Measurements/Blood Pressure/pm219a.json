@@ -5,7 +5,12 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "pm219a"
+    "pm219a",
+    "Emotions",
+    "Physiologic pulse",
+    "Sitting position",
+    "Blood pressure finding",
+    "Pressure (finding)"
   ],
   "hybrid": {
     "VARNUM": "157",

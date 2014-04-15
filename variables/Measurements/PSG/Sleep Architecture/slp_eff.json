@@ -6,7 +6,8 @@
   "units": "percent",
   "calculation": "100 * ( slpprdp ) / timebedp",
   "labels": [
-    "slp_eff"
+    "slp_eff",
+    "Asleep"
   ],
   "commonly_used": true,
   "hybrid": {

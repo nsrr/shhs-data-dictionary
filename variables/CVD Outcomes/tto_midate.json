@@ -6,7 +6,8 @@
   "units": "days from index date",
   "labels": [
     "tto_midate",
-    "myocardial infarction"
+    "myocardial infarction",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "34",

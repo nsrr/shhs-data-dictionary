@@ -1,16 +1,17 @@
 {
   "id": "alzh2",
   "display_name": "Acetylcholine Esterase Inhibitors For Alzheimers (SHHS2)",
-  "description": "Participant taking ACETYLCHOLINE ESTERASE INHIBITORS FOR ALZH'S within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking ACETYLCHOLINE ESTERASE INHIBITORS FOR ALZH\u0027S within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ALZH2"
+    "ALZH2",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "251",
     "TABLE": "SHHS2",
-    "LABEL": "ACETYLCHOLINE ESTERASE INHIBITORS FOR ALZH'S",
+    "LABEL": "ACETYLCHOLINE ESTERASE INHIBITORS FOR ALZH\u0027S",
     "sensitivity": "0",
     "design_name": "Medication Form (SHHS2)",
     "MEMNAME": "shhs2_1",

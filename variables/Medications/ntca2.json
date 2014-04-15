@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "NTCA2"
+    "NTCA2",
+    "Tricyclic Antidepressive Agents",
+    "Monoamine Oxidase Inhibitors",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "294",

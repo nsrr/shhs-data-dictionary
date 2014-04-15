@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "allnone6",
   "labels": [
-    "BLUE25"
+    "BLUE25",
+    "Emotions"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

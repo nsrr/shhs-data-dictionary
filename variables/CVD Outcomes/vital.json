@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "3",
     "TABLE": "SHHSCVD",
-    "LABEL": "Vital Status (0 = dead, 1 = alive)",
+    "LABEL": "Vital Status (0 \u003d dead, 1 \u003d alive)",
     "sensitivity": "0",
     "design_name": "CVD Outcomes (SHHSCVD)",
     "MEMNAME": "shhs_cvd",

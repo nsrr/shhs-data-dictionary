@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "sigqus2",
   "labels": [
-    "QuChest"
+    "QuChest",
+    "Polysomnography",
+    "Exertion"
   ],
   "hybrid": {
     "VARNUM": "478",

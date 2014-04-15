@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "RDATE50"
+    "RDATE50",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_sleep_data_retrieval_form"

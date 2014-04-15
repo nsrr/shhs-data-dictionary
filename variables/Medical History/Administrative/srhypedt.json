@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "SRHypeDT"
+    "SRHypeDT",
+    "Hypertension Adverse Event"
   ],
   "hybrid": {
     "VARNUM": "15",

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "WakSlePr"
+    "WakSlePr",
+    "Polysomnography",
+    "Waking"
   ],
   "hybrid": {
     "VARNUM": "497",

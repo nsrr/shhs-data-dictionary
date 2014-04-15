@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ECGGD51"
+    "ECGGD51",
+    "Polysomnography",
+    "Electrocardiography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "sigqus2",
   "labels": [
-    "QuEEG1"
+    "QuEEG1",
+    "Polysomnography",
+    "Electroencephalography"
   ],
   "hybrid": {
     "VARNUM": "471",

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "NIFIR2"
+    "NIFIR2",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "291",

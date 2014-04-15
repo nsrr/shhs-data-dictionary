@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "notextr5",
   "labels": [
-    "ql206"
+    "ql206",
+    "physical conditioning (finding)"
   ],
   "hybrid": {
     "VARNUM": "191",

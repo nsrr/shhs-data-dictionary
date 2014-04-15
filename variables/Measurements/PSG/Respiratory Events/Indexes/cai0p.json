@@ -6,7 +6,8 @@
   "units": "events per hour",
   "calculation": "60 * ( carbp + carop + canbp + canop ) / slpprdp",
   "labels": [
-    "cai0p"
+    "cai0p",
+    "Sleep Apnea, Central"
   ],
   "commonly_used": true,
   "hybrid": {

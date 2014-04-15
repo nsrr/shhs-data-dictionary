@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "pm226c"
+    "pm226c",
+    "Physical assessment findings",
+    "Reading (datum presentation)"
   ],
   "hybrid": {
     "VARNUM": "180",

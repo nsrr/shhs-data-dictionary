@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "lotlitn",
   "labels": [
-    "ql203h"
+    "ql203h",
+    "H NOS Antibodies"
   ],
   "hybrid": {
     "VARNUM": "202",

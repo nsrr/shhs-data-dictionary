@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "TMARRH51"
+    "TMARRH51",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

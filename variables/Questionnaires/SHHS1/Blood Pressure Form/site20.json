@@ -6,7 +6,8 @@
   "domain": "siteid",
   "labels": [
     "SITE20",
-    "site"
+    "site",
+    "Blood pressure finding"
   ],
   "forms": [
     "shhs1_seated_bp_weight_neck_circumference_form"

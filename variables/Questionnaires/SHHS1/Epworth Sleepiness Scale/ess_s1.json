@@ -5,7 +5,8 @@
   "type": "integer",
   "units": "score",
   "labels": [
-    "ess_s1"
+    "ess_s1",
+    "Drowsiness"
   ],
   "commonly_used": true,
   "forms": [

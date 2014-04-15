@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "CPAP02"
+    "CPAP02",
+    "Behaviorial Habits",
+    "Pressure (finding)",
+    "Continuous Positive Airway Pressure"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

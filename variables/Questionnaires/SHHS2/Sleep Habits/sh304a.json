@@ -5,7 +5,10 @@
   "type": "numeric",
   "units": "naps",
   "labels": [
-    "sh304a"
+    "sh304a",
+    "Behaviorial Habits",
+    "5 minutes Office visit",
+    "Napping"
   ],
   "hybrid": {
     "VARNUM": "41",

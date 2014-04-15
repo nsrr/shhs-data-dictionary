@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "RcvdDtqa"
+    "RcvdDtqa",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"

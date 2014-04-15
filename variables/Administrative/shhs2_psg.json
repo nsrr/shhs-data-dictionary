@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "shhs2_psg"
+    "shhs2_psg",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "332",

@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "glasses",
   "labels": [
-    "sh328"
+    "sh328",
+    "Behaviorial Habits"
   ],
   "hybrid": {
     "VARNUM": "38",

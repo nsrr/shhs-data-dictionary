@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "sh313"
+    "sh313",
+    "Behaviorial Habits",
+    "Others - Allergy",
+    "Therapeutic procedure"
   ],
   "hybrid": {
     "VARNUM": "26",

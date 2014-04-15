@@ -14,7 +14,7 @@
   "hybrid": {
     "VARNUM": "722",
     "TABLE": "SHHS1",
-    "LABEL": "Derived Smoking Status SHHS 1 0=never 1=current 2=former",
+    "LABEL": "Derived Smoking Status SHHS 1 0\u003dnever 1\u003dcurrent 2\u003dformer",
     "sensitivity": "0",
     "design_name": "Sleep Habits (SHHS1)",
     "MEMNAME": "shhs1_2",

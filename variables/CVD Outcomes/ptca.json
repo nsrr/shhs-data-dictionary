@@ -7,7 +7,9 @@
   "labels": [
     "ptca",
     "stent",
-    "percutaneous transluminal coronary angioplasty"
+    "percutaneous transluminal coronary angioplasty",
+    "Angioplasty, Balloon, Coronary",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "18",

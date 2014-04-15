@@ -6,7 +6,10 @@
   "units": "days from index date",
   "labels": [
     "tto_chddthdt",
-    "coronary heart disease"
+    "coronary heart disease",
+    "Choline Dehydrogenase, Mitochondrial",
+    "altretamine/cisplatin/cyclophosphamide protocol",
+    "Death (finding)"
   ],
   "hybrid": {
     "VARNUM": "31",

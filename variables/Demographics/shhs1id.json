@@ -4,7 +4,8 @@
   "description": "SHHS1ID - identifies sleep study from SHHS1",
   "type": "file",
   "labels": [
-    "shhs1id"
+    "shhs1id",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "7",

@@ -5,7 +5,10 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "pm220a1"
+    "pm220a1",
+    "Sitting position",
+    "Blood pressure finding",
+    "Reading (datum presentation)"
   ],
   "hybrid": {
     "VARNUM": "159",

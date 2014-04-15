@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "ampmf",
   "labels": [
-    "TMDEPA51"
+    "TMDEPA51",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

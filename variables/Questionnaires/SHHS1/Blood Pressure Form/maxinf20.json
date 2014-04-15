@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "MAXINF20"
+    "MAXINF20",
+    "Blood pressure finding",
+    "Emotions"
   ],
   "forms": [
     "shhs1_seated_bp_weight_neck_circumference_form"

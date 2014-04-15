@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "liter",
   "labels": [
-    "FEV1"
+    "FEV1",
+    "Pulmonary Function Test/Forced Expiratory Volume 1"
   ],
   "commonly_used": true,
   "hybrid": {

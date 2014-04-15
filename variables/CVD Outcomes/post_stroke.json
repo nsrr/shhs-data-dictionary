@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "number of events",
   "labels": [
-    "stroke"
+    "stroke",
+    "Cerebrovascular accident",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "10",

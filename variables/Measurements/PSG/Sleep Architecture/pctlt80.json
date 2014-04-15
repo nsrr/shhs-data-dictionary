@@ -1,7 +1,7 @@
 {
   "id": "pctlt80",
-  "display_name": "Percent Sleep time with < 80% SaO2",
-  "description": "Percent of sleep time with oxygen saturation < 80%",
+  "display_name": "Percent Sleep time with \u003c 80% SaO2",
+  "description": "Percent of sleep time with oxygen saturation \u003c 80%",
   "type": "numeric",
   "units": "percent",
   "calculation": "pctsa80h",
@@ -12,7 +12,7 @@
   "hybrid": {
     "VARNUM": "577",
     "TABLE": "SHHS2",
-    "LABEL": "Calculated - pct time < 80% oxygen desaturation",
+    "LABEL": "Calculated - pct time \u003c 80% oxygen desaturation",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

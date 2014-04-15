@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "pm225c2"
+    "pm225c2",
+    "Exanthema"
   ],
   "hybrid": {
     "VARNUM": "169",

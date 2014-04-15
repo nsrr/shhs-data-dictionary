@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "THRMFL51"
+    "THRMFL51",
+    "Polysomnography",
+    "Fuzzy head"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

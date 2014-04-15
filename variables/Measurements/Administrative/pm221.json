@@ -5,7 +5,10 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "pm221"
+    "pm221",
+    "Physical assessment findings",
+    "Sitting position",
+    "Blood pressure finding"
   ],
   "hybrid": {
     "VARNUM": "140",

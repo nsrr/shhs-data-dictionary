@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "sh319e"
+    "sh319e",
+    "Behaviorial Habits",
+    "Falls",
+    "Telling untruths",
+    "Emotions"
   ],
   "hybrid": {
     "VARNUM": "64",

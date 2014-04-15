@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "Cough02"
+    "Cough02",
+    "Behaviorial Habits"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

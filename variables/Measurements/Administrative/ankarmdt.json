@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "AnkArmDT"
+    "AnkArmDT",
+    "Blood pressure finding"
   ],
   "hybrid": {
     "VARNUM": "43",

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "AbnorEye"
+    "AbnorEye",
+    "Polysomnography",
+    "Abnormal ocular motility"
   ],
   "hybrid": {
     "VARNUM": "509",

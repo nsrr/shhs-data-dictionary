@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "COX22"
+    "COX22",
+    "Cyclooxygenase 2 Inhibitors",
+    "Anti-Inflammatory Agents, Non-Steroidal",
+    "Pharmacologic Substance",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "268",

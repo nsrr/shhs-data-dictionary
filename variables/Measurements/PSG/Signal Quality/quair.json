@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "sigqus2",
   "labels": [
-    "QuAir"
+    "QuAir",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "477",

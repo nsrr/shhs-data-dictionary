@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "pm213"
+    "pm213",
+    "Circumference measure"
   ],
   "hybrid": {
     "VARNUM": "139",

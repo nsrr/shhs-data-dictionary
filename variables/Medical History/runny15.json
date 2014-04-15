@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "RUNNY15"
+    "RUNNY15",
+    "Nasal congestion (finding)"
   ],
   "hybrid": {
     "VARNUM": "114",

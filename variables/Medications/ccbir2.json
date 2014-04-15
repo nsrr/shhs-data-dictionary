@@ -1,16 +1,17 @@
 {
   "id": "ccbir2",
   "display_name": "Immediate-Release Ccbs (Nifir Or Dihir Or Verir Or Dltir) (SHHS2)",
-  "description": "Participant taking IMMEDIATE-RELEASE CCBS = NIFIR OR DIHIR OR VERIR OR DLTIR within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "description": "Participant taking IMMEDIATE-RELEASE CCBS \u003d NIFIR OR DIHIR OR VERIR OR DLTIR within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "CCBIR2"
+    "CCBIR2",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "265",
     "TABLE": "SHHS2",
-    "LABEL": "IMMEDIATE-RELEASE CCBS = NIFIR OR DIHIR OR VERIR OR DLTIR",
+    "LABEL": "IMMEDIATE-RELEASE CCBS \u003d NIFIR OR DIHIR OR VERIR OR DLTIR",
     "sensitivity": "0",
     "design_name": "Medication Form (SHHS2)",
     "MEMNAME": "shhs2_1",

@@ -5,7 +5,10 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "pm233"
+    "pm233",
+    "Physical assessment findings",
+    "Fluorides",
+    "Electrocardiography"
   ],
   "hybrid": {
     "VARNUM": "142",

@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "hi212"
+    "hi212",
+    "Restless Legs Syndrome",
+    "Deterioration of status",
+    "Sitting position"
   ],
   "hybrid": {
     "VARNUM": "88",

@@ -7,7 +7,10 @@
   "labels": [
     "revasc_proc",
     "revascularization procedure",
-    "stent"
+    "stent",
+    "Revascularization - action",
+    "Interventional procedure",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "17",

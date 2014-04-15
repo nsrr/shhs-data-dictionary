@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "CCBT2"
+    "CCBT2",
+    "T-Type Calcium Channels",
+    "Calcium Channel Blockers",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "267",

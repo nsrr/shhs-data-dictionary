@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "ampmf",
   "labels": [
-    "TFAWEA02"
+    "TFAWEA02",
+    "Behaviorial Habits",
+    "Falls"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

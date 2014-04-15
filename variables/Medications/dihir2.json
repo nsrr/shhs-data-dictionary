@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "DIHIR2"
+    "DIHIR2",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "270",

@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "havbroh"
+    "havbroh",
+    "heart rate average"
   ],
   "hybrid": {
     "VARNUM": "269",

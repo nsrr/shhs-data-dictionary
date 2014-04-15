@@ -1,7 +1,7 @@
 {
   "id": "hwwell10",
   "display_name": "Morning Survey (SHHS1): Quality of sleep compared to usual",
-  "description": "Compared to your usual night's sleep, how well did you sleep last night?",
+  "description": "Compared to your usual night\u0027s sleep, how well did you sleep last night?",
   "type": "choices",
   "domain": "wrsbet5",
   "labels": [

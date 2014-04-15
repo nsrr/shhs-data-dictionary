@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "avoanoa"
+    "avoanoa",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "455",

@@ -1,16 +1,17 @@
 {
   "id": "oxyund70",
-  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - SaO2 < 70",
+  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - SaO2 \u003c 70",
   "description": "Medical Alert for Oxygen saturation under 70.",
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "OXYund70"
+    "OXYund70",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "489",
     "TABLE": "SHHS2",
-    "LABEL": "QS - Medical Alert - Oximetry < 70",
+    "LABEL": "QS - Medical Alert - Oximetry \u003c 70",
     "sensitivity": "0",
     "design_name": "PSG QS Form (SHHS2)",
     "MEMNAME": "shhs2_2",

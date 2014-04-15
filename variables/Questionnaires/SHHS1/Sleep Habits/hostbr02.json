@@ -1,11 +1,14 @@
 {
   "id": "hostbr02",
   "display_name": "Sleep Habits (SHHS1): Frequency of stopping breathing during sleep",
-  "description": "How often do you have times when you stop breathing during your sleep? 1=Rarely-less than 1night/wk, 2=Sometimes-1 or 2nights/wk, 3=Frequently-3 to 5nights/wk, 4=Always or almost always-6 or 7nights/wk, 8=Don't know",
+  "description": "How often do you have times when you stop breathing during your sleep? 1\u003dRarely-less than 1night/wk, 2\u003dSometimes-1 or 2nights/wk, 3\u003dFrequently-3 to 5nights/wk, 4\u003dAlways or almost always-6 or 7nights/wk, 8\u003dDon\u0027t know",
   "type": "choices",
   "domain": "raralw5",
   "labels": [
-    "HOStBr02"
+    "HOStBr02",
+    "Behaviorial Habits",
+    "Stop brand of fluoride",
+    "Respiration"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

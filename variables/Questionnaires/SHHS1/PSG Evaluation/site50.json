@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "siteid",
   "labels": [
-    "SITE50"
+    "SITE50",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_sleep_data_retrieval_form"

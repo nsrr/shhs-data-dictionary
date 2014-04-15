@@ -1,16 +1,18 @@
 {
   "id": "prknsn2",
-  "display_name": "Drugs Used To Treat Parkinson's (SHHS2)",
-  "description": "Participant taking DRUGS USED TO TREAT PARKINSON'S within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Drugs Used To Treat Parkinson\u0027s (SHHS2)",
+  "description": "Participant taking DRUGS USED TO TREAT PARKINSON\u0027S within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "PRKNSN2"
+    "PRKNSN2",
+    "Pharmaceutical Preparations",
+    "Used by"
   ],
   "hybrid": {
     "VARNUM": "303",
     "TABLE": "SHHS2",
-    "LABEL": "DRUGS USED TO TREAT PARKINSON'S",
+    "LABEL": "DRUGS USED TO TREAT PARKINSON\u0027S",
     "sensitivity": "0",
     "design_name": "Medication Form (SHHS2)",
     "MEMNAME": "shhs2_1",

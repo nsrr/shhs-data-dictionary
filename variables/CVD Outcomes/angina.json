@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "number of events",
   "labels": [
-    "angina"
+    "angina",
+    "Angina Pectoris",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "15",

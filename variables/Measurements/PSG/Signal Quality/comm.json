@@ -4,7 +4,9 @@
   "description": "Scorer comments on signal quality issues observed.",
   "type": "text",
   "labels": [
-    "Comm"
+    "Comm",
+    "Polysomnography",
+    "Problem"
   ],
   "hybrid": {
     "VARNUM": "485",

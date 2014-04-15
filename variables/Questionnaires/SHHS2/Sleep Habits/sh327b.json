@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "cans",
   "labels": [
-    "sh327b"
+    "sh327b",
+    "Behaviorial Habits"
   ],
   "hybrid": {
     "VARNUM": "73",

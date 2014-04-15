@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "centimeter",
   "labels": [
-    "pm212a"
+    "pm212a",
+    "internal-external locus of control scale"
   ],
   "hybrid": {
     "VARNUM": "154",

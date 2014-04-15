@@ -1,11 +1,13 @@
 {
   "id": "dfsent50",
   "display_name": "PSG Evaluation (SHHS1): data file sent to Reading Center",
-  "description": "Was data file sent to Cleveland? 0=No (reason=[WHYNOT50]), 1=Yes-complete, 2=Yes-partial",
+  "description": "Was data file sent to Cleveland? 0\u003dNo (reason\u003d[WHYNOT50]), 1\u003dYes-complete, 2\u003dYes-partial",
   "type": "choices",
   "domain": "compl2",
   "labels": [
-    "DFSENT50"
+    "DFSENT50",
+    "Polysomnography",
+    "Reading (datum presentation)"
   ],
   "forms": [
     "shhs1_sleep_data_retrieval_form"

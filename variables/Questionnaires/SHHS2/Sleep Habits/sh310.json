@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "snore6",
   "labels": [
-    "sh310"
+    "sh310",
+    "Behaviorial Habits",
+    "Respiration",
+    "Others - Allergy",
+    "Snoring"
   ],
   "hybrid": {
     "VARNUM": "23",

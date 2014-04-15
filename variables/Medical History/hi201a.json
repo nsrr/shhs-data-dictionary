@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "hi201a"
+    "hi201a",
+    "Pathological accumulation of air in tissues"
   ],
   "commonly_used": true,
   "hybrid": {

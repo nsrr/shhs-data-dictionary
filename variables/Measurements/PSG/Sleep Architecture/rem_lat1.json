@@ -6,7 +6,8 @@
   "units": "minute",
   "calculation": "remlaip",
   "labels": [
-    "rem_lat1"
+    "rem_lat1",
+    "Blood group antibody I"
   ],
   "hybrid": {
     "VARNUM": "532",

@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ql205b"
+    "ql205b",
+    "Emotions",
+    "Depressed mood",
+    "Anxiety"
   ],
   "hybrid": {
     "VARNUM": "210",

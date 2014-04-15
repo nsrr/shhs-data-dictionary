@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "years",
   "labels": [
-    "age_s1"
+    "age_s1",
+    "Polysomnography"
   ],
   "commonly_used": true,
   "hybrid": {

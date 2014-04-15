@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "EDD2"
+    "EDD2",
+    "Erectile Dysfunction Adverse Event",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "274",

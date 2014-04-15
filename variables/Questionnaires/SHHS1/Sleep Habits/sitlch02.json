@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "SitLch02"
+    "SitLch02",
+    "Behaviorial Habits",
+    "Falls",
+    "Sitting position",
+    "Alcohols"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

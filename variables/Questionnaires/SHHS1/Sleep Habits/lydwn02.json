@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "LyDwn02"
+    "LyDwn02",
+    "Behaviorial Habits",
+    "Falls",
+    "Telling untruths"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "OSTRD1"
+    "OSTRD1",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "forms": [

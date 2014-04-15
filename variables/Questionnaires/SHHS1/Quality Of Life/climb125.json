@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "lotlit3",
   "labels": [
-    "CLIMB125"
+    "CLIMB125",
+    "Does climb"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

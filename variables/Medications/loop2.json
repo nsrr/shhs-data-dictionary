@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "LOOP2"
+    "LOOP2",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "287",

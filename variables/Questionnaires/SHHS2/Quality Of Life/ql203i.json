@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "lotlitn",
   "labels": [
-    "ql203i"
+    "ql203i",
+    "Blood group antibody I"
   ],
   "hybrid": {
     "VARNUM": "203",

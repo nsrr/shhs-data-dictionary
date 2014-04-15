@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "frmseq",
   "labels": [
-    "formseq_pm"
+    "formseq_pm",
+    "Physical assessment findings"
   ],
   "hybrid": {
     "VARNUM": "132",

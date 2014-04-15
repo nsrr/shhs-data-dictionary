@@ -5,7 +5,12 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "sh308e"
+    "sh308e",
+    "Behaviorial Habits",
+    "Excessive daytime somnolence",
+    "Practice Experience",
+    "Emotions",
+    "Drowsiness"
   ],
   "hybrid": {
     "VARNUM": "50",

@@ -1,14 +1,16 @@
 {
   "id": "rdi5ps",
   "display_name": "Overall RDI (Supine) at 5% oxygen desaturation",
-  "description": "Supine RDI at 5% oxygen desaturation  [(Total number of apneas and hypopneas in supine body position associated with >= 5% oxygen desaturation) / (hours of sleep)]",
+  "description": "Supine RDI at 5% oxygen desaturation  [(Total number of apneas and hypopneas in supine body position associated with \u003e\u003d 5% oxygen desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp5 + hnrbp5 + carbp5 + canbp5 + oarbp5 + oanbp5 ) / ( remepbp + nremepbp )",
   "labels": [
     "rdi5ps",
     "rdi",
-    "ahi"
+    "ahi",
+    "Apnea",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "552",

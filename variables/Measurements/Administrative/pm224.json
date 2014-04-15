@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "aaiwin",
   "labels": [
-    "pm224"
+    "pm224",
+    "Physical assessment findings"
   ],
   "hybrid": {
     "VARNUM": "151",

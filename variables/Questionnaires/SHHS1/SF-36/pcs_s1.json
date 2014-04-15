@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "score",
   "labels": [
-    "pcs_s1"
+    "pcs_s1",
+    "Physical assessment findings"
   ],
   "hybrid": {
     "VARNUM": "718",

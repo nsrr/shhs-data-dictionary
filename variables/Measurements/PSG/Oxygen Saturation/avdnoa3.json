@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "avdnoa3"
+    "avdnoa3",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "705",

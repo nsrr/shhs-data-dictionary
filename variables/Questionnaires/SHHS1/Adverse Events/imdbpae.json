@@ -1,11 +1,14 @@
 {
   "id": "imdbpae",
-  "display_name": "Adverse Events (SHHS1): Diastolic BP > 120",
-  "description": "Diastolic blood pressure > 120 (and not on BP meds)?",
+  "display_name": "Adverse Events (SHHS1): Diastolic BP \u003e 120",
+  "description": "Diastolic blood pressure \u003e 120 (and not on BP meds)?",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "IMDBPAE"
+    "IMDBPAE",
+    "Adverse event",
+    "Diastolic blood pressure measurement",
+    "MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME"
   ],
   "forms": [
     "shhs1_adverse_events_form"
@@ -13,7 +16,7 @@
   "hybrid": {
     "VARNUM": "48",
     "TABLE": "SHHS1",
-    "LABEL": "AE Dsyt BP>120",
+    "LABEL": "AE Dsyt BP\u003e120",
     "sensitivity": "0",
     "design_name": "Adverse Events Form (SHHS1)",
     "MEMNAME": "shhs1_1",

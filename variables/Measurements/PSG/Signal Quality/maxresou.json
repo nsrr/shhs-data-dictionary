@@ -5,12 +5,13 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "MaxResOu"
+    "MaxResOu",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "515",
     "TABLE": "SHHS2",
-    "LABEL": "QS - Outlier - max length respiratory event > 150s verified",
+    "LABEL": "QS - Outlier - max length respiratory event \u003e 150s verified",
     "sensitivity": "0",
     "design_name": "PSG QS Form (SHHS2)",
     "MEMNAME": "shhs2_2",

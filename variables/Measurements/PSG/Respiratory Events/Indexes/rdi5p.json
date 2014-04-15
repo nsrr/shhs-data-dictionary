@@ -1,14 +1,16 @@
 {
   "id": "rdi5p",
   "display_name": "Overall RDI at 5% oxygen desaturation",
-  "description": "RDI at 5% oxygen desaturation  [(Total number of apneas and hypopneas associated with >= 5% oxygen desaturation) / (hours of sleep)]",
+  "description": "RDI at 5% oxygen desaturation  [(Total number of apneas and hypopneas associated with \u003e\u003d 5% oxygen desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp5 + hrop5 + hnrbp5 + hnrop5 + carbp5 + carop5 + canbp5 + canop5 + oarbp5 + oarop5 + oanbp5 + oanop5 ) / slpprdp",
   "labels": [
     "rdi5p",
     "rdi",
-    "ahi"
+    "ahi",
+    "Apnea",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "542",

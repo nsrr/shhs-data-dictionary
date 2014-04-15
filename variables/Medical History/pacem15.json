@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "PACEM15"
+    "PACEM15",
+    "Simian Acquired Immunodeficiency Syndrome"
   ],
   "hybrid": {
     "VARNUM": "105",

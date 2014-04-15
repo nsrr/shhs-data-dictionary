@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ms212"
+    "ms212",
+    "Nasal congestion (finding)"
   ],
   "hybrid": {
     "VARNUM": "115",

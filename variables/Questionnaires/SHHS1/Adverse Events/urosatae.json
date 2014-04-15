@@ -1,11 +1,12 @@
 {
   "id": "urosatae",
   "display_name": "Adverse Events (SHHS1): SaO2 80-85%",
-  "description": "O2 saturation between 80% and 85% for > 2 minutes at rest?",
+  "description": "O2 saturation between 80% and 85% for \u003e 2 minutes at rest?",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "UROSATAE"
+    "UROSATAE",
+    "Adverse event"
   ],
   "hybrid": {
     "VARNUM": "54",

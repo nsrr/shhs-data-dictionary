@@ -6,7 +6,11 @@
   "domain": "noyes01",
   "labels": [
     "chd_death",
-    "coronary heart disease"
+    "coronary heart disease",
+    "Death Related to Adverse Event",
+    "Choline Dehydrogenase, Mitochondrial",
+    "Coronary Arteriosclerosis",
+    "Death (finding)"
   ],
   "hybrid": {
     "VARNUM": "12",

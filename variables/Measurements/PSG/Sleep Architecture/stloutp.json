@@ -4,7 +4,9 @@
   "description": "Lights out time (hh:mm:ss)",
   "type": "time",
   "labels": [
-    "stloutp"
+    "stloutp",
+    "time out",
+    "homoharringtonine"
   ],
   "hybrid": {
     "VARNUM": "338",

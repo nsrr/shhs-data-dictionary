@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "check",
   "labels": [
-    "pm225f2"
+    "pm225f2",
+    "Physical assessment findings",
+    "Hearing"
   ],
   "hybrid": {
     "VARNUM": "175",

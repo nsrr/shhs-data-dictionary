@@ -1,16 +1,17 @@
 {
   "id": "rdi0ou",
-  "display_name": "PSG Quality Assessment (SHHS2): RDI=0 real",
-  "description": "If RDI = 0, scorer has verified that this value is real.",
+  "display_name": "PSG Quality Assessment (SHHS2): RDI\u003d0 real",
+  "description": "If RDI \u003d 0, scorer has verified that this value is real.",
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "RDI0Ou"
+    "RDI0Ou",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "514",
     "TABLE": "SHHS2",
-    "LABEL": "QS - Outlier - RDI=0 real",
+    "LABEL": "QS - Outlier - RDI\u003d0 real",
     "sensitivity": "0",
     "design_name": "PSG QS Form (SHHS2)",
     "MEMNAME": "shhs2_2",

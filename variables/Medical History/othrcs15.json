@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "OTHRCS15"
+    "OTHRCS15",
+    "Cardiac Surgery procedures",
+    "Simian Acquired Immunodeficiency Syndrome"
   ],
   "hybrid": {
     "VARNUM": "103",

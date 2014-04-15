@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "avhrop2"
+    "avhrop2",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "475",

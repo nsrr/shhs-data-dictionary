@@ -1,16 +1,17 @@
 {
   "id": "hrund30",
-  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - HR < 30",
+  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - HR \u003c 30",
   "description": "Medical Alert for heart rate under 30. ",
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "HRund30"
+    "HRund30",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "488",
     "TABLE": "SHHS2",
-    "LABEL": "QS - Medical Alert - HR < 30",
+    "LABEL": "QS - Medical Alert - HR \u003c 30",
     "sensitivity": "0",
     "design_name": "PSG QS Form (SHHS2)",
     "MEMNAME": "shhs2_2",

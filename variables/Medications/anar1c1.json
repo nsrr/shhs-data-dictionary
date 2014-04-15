@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ANAR1C1"
+    "ANAR1C1",
+    "Anti-Arrhythmia Agents",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "forms": [

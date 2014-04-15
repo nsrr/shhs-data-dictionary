@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "RecAfSle"
+    "RecAfSle",
+    "Polysomnography",
+    "Onset of sleep"
   ],
   "hybrid": {
     "VARNUM": "491",

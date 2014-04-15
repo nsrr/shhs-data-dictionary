@@ -1,11 +1,12 @@
 {
   "id": "ysdk02",
   "display_name": "Sleep Habits (SHHS1): (Administrative Variable)",
-  "description": "***Administrative Variable*** (all records = \"No\")",
+  "description": "***Administrative Variable*** (all records \u003d \"No\")",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "YSDK02"
+    "YSDK02",
+    "Behaviorial Habits"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

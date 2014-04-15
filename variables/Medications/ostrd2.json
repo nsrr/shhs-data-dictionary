@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "OSTRD2"
+    "OSTRD2",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "hybrid": {

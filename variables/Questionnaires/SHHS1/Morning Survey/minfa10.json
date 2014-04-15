@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "minute",
   "labels": [
-    "MINFA10"
+    "MINFA10",
+    "Falls"
   ],
   "forms": [
     "shhs1_morning_survey_form"

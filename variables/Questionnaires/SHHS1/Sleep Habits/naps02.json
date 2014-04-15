@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "naps",
   "labels": [
-    "Naps02"
+    "Naps02",
+    "Behaviorial Habits",
+    "Napping"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

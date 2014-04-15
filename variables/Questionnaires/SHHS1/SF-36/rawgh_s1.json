@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "score",
   "labels": [
-    "RAWGH_s1"
+    "RAWGH_s1",
+    "General body state finding",
+    "Perception"
   ],
   "hybrid": {
     "VARNUM": "708",

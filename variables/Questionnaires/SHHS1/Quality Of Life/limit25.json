@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "LIMIT25"
+    "LIMIT25",
+    "physical conditioning (finding)",
+    "Able (finding)"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

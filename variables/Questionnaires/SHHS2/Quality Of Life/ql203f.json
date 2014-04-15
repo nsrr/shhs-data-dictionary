@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "lotlitn",
   "labels": [
-    "ql203f"
+    "ql203f",
+    "Does bend",
+    "Kneeling (finding)"
   ],
   "hybrid": {
     "VARNUM": "200",

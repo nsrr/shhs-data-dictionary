@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "drinks",
   "labels": [
-    "ms209b"
+    "ms209b",
+    "Mixed Cell Morphology",
+    "Writing (function)"
   ],
   "hybrid": {
     "VARNUM": "120",

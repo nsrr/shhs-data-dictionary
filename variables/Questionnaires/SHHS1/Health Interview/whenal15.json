@@ -1,11 +1,12 @@
 {
   "id": "whenal15",
   "display_name": "Health Interview (SHHS1): when Alcohol data collected",
-  "description": "Alcohol data collected on date? 1=today at home visit, 2=data collected in clinic (date=[ALCLDT15])",
+  "description": "Alcohol data collected on date? 1\u003dtoday at home visit, 2\u003ddata collected in clinic (date\u003d[ALCLDT15])",
   "type": "choices",
   "domain": "homclin",
   "labels": [
-    "WHENAL15"
+    "WHENAL15",
+    "Alcohols"
   ],
   "hybrid": {
     "VARNUM": "132",

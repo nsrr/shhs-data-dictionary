@@ -1,11 +1,13 @@
 {
   "id": "ccb1",
-  "display_name": "Any calcium-channel blocker = CCIR or CCBSR or CCBT (SHHS1)",
-  "description": "Participant taking ANY CALCIUM-CHANNEL BLOCKER = CCIR OR CCBSR OR CCBT within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Any calcium-channel blocker \u003d CCIR or CCBSR or CCBT (SHHS1)",
+  "description": "Participant taking ANY CALCIUM-CHANNEL BLOCKER \u003d CCIR OR CCBSR OR CCBT within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "CCB1"
+    "CCB1",
+    "Calcium Channel Blockers",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "forms": [
@@ -14,7 +16,7 @@
   "hybrid": {
     "VARNUM": "196",
     "TABLE": "SHHS1",
-    "LABEL": "MU Any calcium-channel blocker = CCIR or CCBSR or CCBT",
+    "LABEL": "MU Any calcium-channel blocker \u003d CCIR or CCBSR or CCBT",
     "sensitivity": "0",
     "design_name": "Medication Form (SHHS1)",
     "MEMNAME": "shhs1_1",

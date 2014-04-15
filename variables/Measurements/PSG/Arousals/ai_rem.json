@@ -6,7 +6,8 @@
   "units": "events per hour",
   "calculation": "60 * ( arrembp + arremop ) / minremp",
   "labels": [
-    "ai_rem"
+    "ai_rem",
+    "Arousal"
   ],
   "hybrid": {
     "VARNUM": "536",

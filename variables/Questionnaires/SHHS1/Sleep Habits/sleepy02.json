@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "Sleepy02"
+    "Sleepy02",
+    "Behaviorial Habits",
+    "Excessive daytime somnolence",
+    "Emotions",
+    "Drowsiness"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

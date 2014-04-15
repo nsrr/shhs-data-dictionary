@@ -4,7 +4,8 @@
   "description": "Comments by Sleep Study Resource",
   "type": "text",
   "labels": [
-    "SSRCMT50"
+    "SSRCMT50",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_sleep_data_retrieval_form"

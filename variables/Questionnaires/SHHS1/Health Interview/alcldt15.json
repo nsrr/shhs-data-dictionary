@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "ALCLDT15"
+    "ALCLDT15",
+    "Alcohols"
   ],
   "hybrid": {
     "VARNUM": "133",

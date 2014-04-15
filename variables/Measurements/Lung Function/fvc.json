@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "liter",
   "labels": [
-    "FVC"
+    "FVC",
+    "Vital capacity test"
   ],
   "commonly_used": true,
   "hybrid": {

@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "pm226e"
+    "pm226e",
+    "Reading (datum presentation)"
   ],
   "hybrid": {
     "VARNUM": "182",

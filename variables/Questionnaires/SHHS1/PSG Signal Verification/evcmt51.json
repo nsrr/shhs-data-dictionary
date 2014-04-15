@@ -4,7 +4,8 @@
   "description": "",
   "type": "text",
   "labels": [
-    "EVCMT51"
+    "EVCMT51",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

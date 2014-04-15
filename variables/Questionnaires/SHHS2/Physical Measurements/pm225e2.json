@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "check",
   "labels": [
-    "pm225e2"
+    "pm225e2",
+    "Reaching",
+    "Blood pressure finding"
   ],
   "hybrid": {
     "VARNUM": "173",

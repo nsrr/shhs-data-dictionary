@@ -1,14 +1,16 @@
 {
   "id": "rdirem4p",
   "display_name": "Overall RDI (REM) at 4% oxygen desaturation",
-  "description": "REM RDI at 4% oxygen desaturation  [(Total number of apneas and hypopneas in REM sleep associated with >= 4% oxygen desaturation) / (hours of REM sleep)]",
+  "description": "REM RDI at 4% oxygen desaturation  [(Total number of apneas and hypopneas in REM sleep associated with \u003e\u003d 4% oxygen desaturation) / (hours of REM sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp4 + hrop4 + carbp4 + carop4 + oarbp4 + oarop4 ) / minremp",
   "labels": [
     "rdirem4p",
     "rdi",
-    "ahi"
+    "ahi",
+    "Apnea",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "562",

@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "hypopnea events",
   "labels": [
-    "hrop5"
+    "hrop5",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "126",

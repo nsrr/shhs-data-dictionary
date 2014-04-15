@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "EOGLFL51"
+    "EOGLFL51",
+    "Polysomnography",
+    "Fuzzy head",
+    "Electrooculography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "perbed3",
   "labels": [
-    "ms208"
+    "ms208",
+    "Asleep"
   ],
   "hybrid": {
     "VARNUM": "114",

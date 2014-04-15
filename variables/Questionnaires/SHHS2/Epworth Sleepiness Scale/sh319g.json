@@ -5,7 +5,12 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "sh319g"
+    "sh319g",
+    "Behaviorial Habits",
+    "Falls",
+    "Sitting position",
+    "Emotions",
+    "Alcohols"
   ],
   "hybrid": {
     "VARNUM": "66",

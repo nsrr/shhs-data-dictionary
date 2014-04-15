@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "drinks",
   "labels": [
-    "ms209a"
+    "ms209a",
+    "Writing (function)"
   ],
   "hybrid": {
     "VARNUM": "119",

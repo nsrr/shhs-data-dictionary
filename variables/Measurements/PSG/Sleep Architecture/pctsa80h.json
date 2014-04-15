@@ -1,7 +1,7 @@
 {
   "id": "pctsa80h",
-  "display_name": "% sleep time SaO2 is below < 80%",
-  "description": "% sleep time SaO2 is below < 80%",
+  "display_name": "% sleep time SaO2 is below \u003c 80%",
+  "description": "% sleep time SaO2 is below \u003c 80%",
   "type": "numeric",
   "units": "percent",
   "labels": [
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "456",
     "TABLE": "SHHS2",
-    "LABEL": "% sleep time SaO2 is below < 80%",
+    "LABEL": "% sleep time SaO2 is below \u003c 80%",
     "sensitivity": "0",
     "design_name": "PSG Report (SHHS2)",
     "MEMNAME": "shhs2_2",

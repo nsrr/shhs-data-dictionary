@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "check",
   "labels": [
-    "sh307c"
+    "sh307c",
+    "Behaviorial Habits",
+    "Napping",
+    "Emotions",
+    "Blood group antibody I"
   ],
   "hybrid": {
     "VARNUM": "44",

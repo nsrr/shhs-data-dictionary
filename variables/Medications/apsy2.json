@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "APSY2"
+    "APSY2",
+    "Psychotic Disorders",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "257",

@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "OAIA2"
+    "OAIA2",
+    "Anti-Inflammatory Agents",
+    "Leukotriene Antagonists",
+    "Oxygenases",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "hybrid": {

@@ -6,7 +6,9 @@
   "units": "days from index date",
   "labels": [
     "tto_ptcadate",
-    "percutaneous transluminal coronary angioplasty"
+    "percutaneous transluminal coronary angioplasty",
+    "Angioplasty, Balloon, Coronary",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "36",

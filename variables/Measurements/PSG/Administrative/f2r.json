@@ -4,7 +4,8 @@
   "description": "Raw data txt file name",
   "type": "text",
   "labels": [
-    "f2r"
+    "f2r",
+    "Taxotere"
   ],
   "hybrid": {
     "VARNUM": "334",

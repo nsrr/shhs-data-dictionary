@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "WaTV02"
+    "WaTV02",
+    "Behaviorial Habits",
+    "Falls"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

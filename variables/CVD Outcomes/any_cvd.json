@@ -6,7 +6,9 @@
   "domain": "noyes01",
   "labels": [
     "any_cvd",
-    "cardiovascular disease"
+    "cardiovascular disease",
+    "Cardiovascular Diseases",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "23",

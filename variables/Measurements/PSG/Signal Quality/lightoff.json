@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "lighapp",
   "labels": [
-    "LightOff"
+    "LightOff",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"

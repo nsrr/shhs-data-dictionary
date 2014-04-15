@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "mnhrbp5"
+    "mnhrbp5",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "124",

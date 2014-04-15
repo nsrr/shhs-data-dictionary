@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ASA15"
+    "ASA15",
+    "MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME"
   ],
   "hybrid": {
     "VARNUM": "139",

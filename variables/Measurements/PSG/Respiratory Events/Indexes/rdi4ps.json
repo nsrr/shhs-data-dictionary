@@ -1,14 +1,16 @@
 {
   "id": "rdi4ps",
   "display_name": "Overall RDI (Supine) at 4% oxygen desaturation",
-  "description": "Supine RDI at 4% oxygen desaturation  [(Total number of apneas and hypopneas in supine body position associated with >= 4% oxygen desaturation) / (hours of sleep)]",
+  "description": "Supine RDI at 4% oxygen desaturation  [(Total number of apneas and hypopneas in supine body position associated with \u003e\u003d 4% oxygen desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp4 + hnrbp4 + carbp4 + canbp4 + oarbp4 + oanbp4 ) / ( remepbp + nremepbp )",
   "labels": [
     "rdi4ps",
     "rdi",
-    "ahi"
+    "ahi",
+    "Apnea",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "551",

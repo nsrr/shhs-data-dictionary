@@ -1,11 +1,14 @@
 {
   "id": "eogltr51",
   "display_name": "PSG Signal Verification (SHHS1): Number of sensor replacements: EOG (L)",
-  "description": "Number of times EOG (L) electrode replaced (0 if first check = final check)",
+  "description": "Number of times EOG (L) electrode replaced (0 if first check \u003d final check)",
   "type": "numeric",
   "units": "replacements",
   "labels": [
-    "EOGLTR51"
+    "EOGLTR51",
+    "Polysomnography",
+    "Surgical Replantation",
+    "Electrooculography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

@@ -4,7 +4,8 @@
   "description": "Interviewer or Reviewer ID",
   "type": "text",
   "labels": [
-    "IntID02"
+    "IntID02",
+    "Behaviorial Habits"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

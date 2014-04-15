@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "siteid",
   "labels": [
-    "Site02"
+    "Site02",
+    "Behaviorial Habits"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

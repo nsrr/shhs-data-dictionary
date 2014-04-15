@@ -7,7 +7,11 @@
   "labels": [
     "mip",
     "myocardial infarction",
-    "heart attack"
+    "heart attack",
+    "Interventional procedure",
+    "Related personal status",
+    "Myocardial Infarction",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "8",

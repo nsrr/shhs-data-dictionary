@@ -1,11 +1,14 @@
 {
   "id": "whenwt20",
-  "display_name": "Blood Pressure (SHHS1): Weight measured when? (1=tonight; 2=at clinic on (date) [WTCLDT20])",
-  "description": "Weight measured when? (1=tonight; 2=at clinic on (date) [WTCLDT20])",
+  "display_name": "Blood Pressure (SHHS1): Weight measured when? (1\u003dtonight; 2\u003dat clinic on (date) [WTCLDT20])",
+  "description": "Weight measured when? (1\u003dtonight; 2\u003dat clinic on (date) [WTCLDT20])",
   "type": "choices",
   "domain": "tclinic",
   "labels": [
-    "WHENWT20"
+    "WHENWT20",
+    "Blood pressure finding",
+    "Weighing patient",
+    "Measured Tumor Identification"
   ],
   "forms": [
     "shhs1_seated_bp_weight_neck_circumference_form"

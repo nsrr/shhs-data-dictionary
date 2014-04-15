@@ -1,11 +1,14 @@
 {
   "id": "ecgtr51",
   "display_name": "PSG Signal Verification (SHHS1): Number of sensor replacements: ECG",
-  "description": "Number of times ECG electrode replaced (0 if first check = final check)",
+  "description": "Number of times ECG electrode replaced (0 if first check \u003d final check)",
   "type": "numeric",
   "units": "replacements",
   "labels": [
-    "ECGTR51"
+    "ECGTR51",
+    "Polysomnography",
+    "Surgical Replantation",
+    "Electrocardiography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

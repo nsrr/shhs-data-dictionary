@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "ecgposi",
   "labels": [
-    "pm232"
+    "pm232",
+    "Electrocardiography"
   ],
   "hybrid": {
     "VARNUM": "153",

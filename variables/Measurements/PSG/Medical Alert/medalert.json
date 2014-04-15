@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "MedAlert"
+    "MedAlert",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "486",

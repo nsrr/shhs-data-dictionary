@@ -6,7 +6,9 @@
   "units": "number of events",
   "labels": [
     "prev_stk",
-    "stroke"
+    "stroke",
+    "Cerebrovascular accident",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "6",

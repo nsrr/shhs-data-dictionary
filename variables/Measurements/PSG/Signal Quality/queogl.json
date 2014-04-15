@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "sigqus2",
   "labels": [
-    "QuEOGL"
+    "QuEOGL",
+    "Polysomnography",
+    "Electrooculography"
   ],
   "hybrid": {
     "VARNUM": "473",

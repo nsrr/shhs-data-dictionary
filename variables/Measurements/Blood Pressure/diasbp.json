@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "DiasBP"
+    "DiasBP",
+    "Sitting position",
+    "Diastolic blood pressure measurement"
   ],
   "commonly_used": true,
   "hybrid": {

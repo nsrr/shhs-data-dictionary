@@ -1,6 +1,6 @@
 {
   "id": "respscch",
-  "display_name": "PSG Scoring Notes (SHHS1): Predominant (>=75%) Channel for Scoring Respiratory",
+  "display_name": "PSG Scoring Notes (SHHS1): Predominant (\u003e\u003d75%) Channel for Scoring Respiratory",
   "description": "",
   "type": "choices",
   "domain": "respch",
@@ -10,7 +10,7 @@
   "hybrid": {
     "VARNUM": "693",
     "TABLE": "SHHS1",
-    "LABEL": "Predominant (>=75%) Channel for Scoring Respiratory",
+    "LABEL": "Predominant (\u003e\u003d75%) Channel for Scoring Respiratory",
     "sensitivity": "0",
     "design_name": "PSG Scoring Notes (SHHS1)",
     "MEMNAME": "shhs1_1",

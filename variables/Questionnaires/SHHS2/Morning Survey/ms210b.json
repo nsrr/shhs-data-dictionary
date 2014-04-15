@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "cups",
   "labels": [
-    "ms210b"
+    "ms210b",
+    "Writing (function)"
   ],
   "hybrid": {
     "VARNUM": "123",

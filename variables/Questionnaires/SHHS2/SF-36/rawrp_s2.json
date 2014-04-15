@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "score",
   "labels": [
-    "RAWRP_s2"
+    "RAWRP_s2",
+    "Physical assessment findings"
   ],
   "hybrid": {
     "VARNUM": "227",

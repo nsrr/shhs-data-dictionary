@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ANAR1C2"
+    "ANAR1C2",
+    "Anti-Arrhythmia Agents",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "255",

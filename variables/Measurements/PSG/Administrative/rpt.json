@@ -4,7 +4,8 @@
   "description": "Compumedics Report Version",
   "type": "text",
   "labels": [
-    "rpt"
+    "rpt",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "459",

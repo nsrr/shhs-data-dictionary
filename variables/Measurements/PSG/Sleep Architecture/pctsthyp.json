@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "pctsthyp"
+    "pctsthyp",
+    "Slow shallow breathing"
   ],
   "hybrid": {
     "VARNUM": "449",

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "COPD15"
+    "COPD15",
+    "Chronic Obstructive Airway Disease",
+    "Simian Acquired Immunodeficiency Syndrome"
   ],
   "hybrid": {
     "VARNUM": "109",

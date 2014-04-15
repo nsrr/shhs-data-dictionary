@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "trufals5",
   "labels": [
-    "ql211b"
+    "ql211b",
+    "Blood group antibody I"
   ],
   "hybrid": {
     "VARNUM": "222",

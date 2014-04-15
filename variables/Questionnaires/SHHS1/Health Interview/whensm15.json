@@ -1,7 +1,7 @@
 {
   "id": "whensm15",
   "display_name": "Health Interview (SHHS1): when smoking data collected",
-  "description": "Data on smoking collected when? (date=[SMCLDT15])",
+  "description": "Data on smoking collected when? (date\u003d[SMCLDT15])",
   "type": "choices",
   "domain": "homclin",
   "labels": [

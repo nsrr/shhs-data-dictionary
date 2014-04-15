@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "SIGEA50"
+    "SIGEA50",
+    "Polysomnography",
+    "internal-external locus of control scale"
   ],
   "forms": [
     "shhs1_sleep_data_retrieval_form"

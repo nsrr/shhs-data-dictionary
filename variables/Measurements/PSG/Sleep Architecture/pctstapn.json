@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "pctstapn"
+    "pctstapn",
+    "Apnea Adverse Event"
   ],
   "hybrid": {
     "VARNUM": "448",

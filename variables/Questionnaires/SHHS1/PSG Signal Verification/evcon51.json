@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "EVCON51"
+    "EVCON51",
+    "Polysomnography"
   ],
   "forms": [
     "shhs1_signal_verifications_form"

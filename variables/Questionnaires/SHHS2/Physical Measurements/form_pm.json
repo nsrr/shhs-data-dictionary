@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "frmid",
   "labels": [
-    "form_pm"
+    "form_pm",
+    "Physical assessment findings"
   ],
   "hybrid": {
     "VARNUM": "131",

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "timeday4",
   "labels": [
-    "hi214"
+    "hi214",
+    "Restless Legs Syndrome"
   ],
   "hybrid": {
     "VARNUM": "90",

@@ -1,14 +1,17 @@
 {
   "id": "rdinr4p",
   "display_name": "Overall RDI (NREM) at 4% oxygen desaturation",
-  "description": "Non-REM RDI at 4% oxygen desaturation  [(Total number of apneas and hypopneas in non-REM sleep associated with >= 4% oxygen desaturation) / (hours of NREM sleep)]",
+  "description": "Non-REM RDI at 4% oxygen desaturation  [(Total number of apneas and hypopneas in non-REM sleep associated with \u003e\u003d 4% oxygen desaturation) / (hours of NREM sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hnrbp4 + hnrop4 + canbp4 + canop4 + oanbp4 + oanop4 ) / ( slpprdp - minremp )",
   "labels": [
     "rdinr4p",
     "rdi",
-    "ahi"
+    "ahi",
+    "Apnea",
+    "Slow shallow breathing",
+    "Sleep, Slow-Wave"
   ],
   "hybrid": {
     "VARNUM": "567",

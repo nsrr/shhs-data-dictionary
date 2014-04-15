@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "score",
   "labels": [
-    "RAWRE_s2"
+    "RAWRE_s2",
+    "Emotions"
   ],
   "hybrid": {
     "VARNUM": "237",

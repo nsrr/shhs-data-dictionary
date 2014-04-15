@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "RemNRemPr"
+    "RemNRemPr",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "500",

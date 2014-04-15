@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "cups",
   "labels": [
-    "sh325"
+    "sh325",
+    "Behaviorial Habits"
   ],
   "hybrid": {
     "VARNUM": "36",

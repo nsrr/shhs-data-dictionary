@@ -5,7 +5,11 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "SysDiaDT"
+    "SysDiaDT",
+    "Blood pressure finding",
+    "Systolic blood pressure measurement",
+    "Diastolic blood pressure measurement",
+    "Measured Tumor Identification"
   ],
   "hybrid": {
     "VARNUM": "24",

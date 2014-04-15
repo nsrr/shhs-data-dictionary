@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "nevrusu3",
   "labels": [
-    "MembHH02"
+    "MembHH02",
+    "Behaviorial Habits",
+    "1/3 meter (distance vision finding)",
+    "Asleep"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

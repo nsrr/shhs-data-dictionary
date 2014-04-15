@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "TFA02"
+    "TFA02",
+    "Behaviorial Habits",
+    "Initial insomnia"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

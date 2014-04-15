@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "TCAP1"
+    "TCAP1",
+    "Psychotic Disorders",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "forms": [

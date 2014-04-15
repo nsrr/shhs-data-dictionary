@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "rlegocc",
   "labels": [
-    "hi211"
+    "hi211",
+    "Restless Legs Syndrome"
   ],
   "hybrid": {
     "VARNUM": "87",

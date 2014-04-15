@@ -6,7 +6,8 @@
   "units": "minute",
   "calculation": "slpprdp",
   "labels": [
-    "slp_rdi"
+    "slp_rdi",
+    "Used by"
   ],
   "hybrid": {
     "VARNUM": "520",

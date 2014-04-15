@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "lotlit3",
   "labels": [
-    "BATHE25"
+    "BATHE25",
+    "Bathing self care"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

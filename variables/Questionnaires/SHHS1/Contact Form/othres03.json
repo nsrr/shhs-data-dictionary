@@ -4,7 +4,8 @@
   "description": "Result of final recruitment contact, other",
   "type": "text",
   "labels": [
-    "OthRes03"
+    "OthRes03",
+    "Experimental Result"
   ],
   "forms": [
     "shhs1_contact_form"

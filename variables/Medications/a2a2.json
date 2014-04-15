@@ -5,7 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "A2A2"
+    "A2A2",
+    "Angiotensin II",
+    "Angiotensins",
+    "Pharmaceutical Preparations"
   ],
   "hybrid": {
     "VARNUM": "243",

@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "MI15"
+    "MI15",
+    "Simian Acquired Immunodeficiency Syndrome",
+    "Myocardial Infarction"
   ],
   "hybrid": {
     "VARNUM": "98",

@@ -1,7 +1,7 @@
 {
   "id": "slpill15",
   "display_name": "Health Interview (SHHS1): Sleeping pills at least 1 day per week",
-  "description": "Do you take sleeping pills at least 1 day per week? 1=Yes; 0=No; 8=Unsure",
+  "description": "Do you take sleeping pills at least 1 day per week? 1\u003dYes; 0\u003dNo; 8\u003dUnsure",
   "type": "choices",
   "domain": "yesnod",
   "labels": [

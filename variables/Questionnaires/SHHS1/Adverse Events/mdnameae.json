@@ -4,7 +4,8 @@
   "description": "Name of notified physician",
   "type": "text",
   "labels": [
-    "MDNAMEAE"
+    "MDNAMEAE",
+    "Adverse event"
   ],
   "hybrid": {
     "VARNUM": "57",

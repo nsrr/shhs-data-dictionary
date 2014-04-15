@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "BETA2"
+    "BETA2",
+    "Adrenergic beta-Antagonists",
+    "Pharmaceutical Preparations"
   ],
   "commonly_used": true,
   "hybrid": {

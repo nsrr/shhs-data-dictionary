@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "check",
   "labels": [
-    "pm225g1"
+    "pm225g1",
+    "Physical assessment findings"
   ],
   "hybrid": {
     "VARNUM": "176",

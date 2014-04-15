@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "sh309"
+    "sh309",
+    "Behaviorial Habits",
+    "Snoring",
+    "Respiration",
+    "Others - Allergy"
   ],
   "hybrid": {
     "VARNUM": "22",

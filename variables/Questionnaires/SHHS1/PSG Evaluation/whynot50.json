@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "prob3",
   "labels": [
-    "WHYNOT50"
+    "WHYNOT50",
+    "Polysomnography",
+    "Reading (datum presentation)"
   ],
   "forms": [
     "shhs1_sleep_data_retrieval_form"

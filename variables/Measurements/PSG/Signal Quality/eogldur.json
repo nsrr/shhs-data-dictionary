@@ -5,7 +5,10 @@
   "type": "numeric",
   "units": "hour",
   "labels": [
-    "EOGLdur"
+    "EOGLdur",
+    "Polysomnography",
+    "Electrooculography",
+    "Cardiac Lead Procedure"
   ],
   "hybrid": {
     "VARNUM": "463",

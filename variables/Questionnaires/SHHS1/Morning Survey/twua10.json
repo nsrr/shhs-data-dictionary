@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "ampmf",
   "labels": [
-    "TWUA10"
+    "TWUA10",
+    "Waking"
   ],
   "forms": [
     "shhs1_morning_survey_form"

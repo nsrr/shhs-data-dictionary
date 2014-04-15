@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "kilogram",
   "labels": [
-    "pm202"
+    "pm202",
+    "Weighing patient"
   ],
   "commonly_used": true,
   "hybrid": {

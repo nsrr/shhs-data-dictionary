@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "RE_s2"
+    "RE_s2",
+    "Emotions"
   ],
   "hybrid": {
     "VARNUM": "238",

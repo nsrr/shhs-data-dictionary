@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "tto_angdate"
+    "tto_angdate",
+    "Angina Pectoris",
+    "Polysomnography"
   ],
   "hybrid": {
     "VARNUM": "28",

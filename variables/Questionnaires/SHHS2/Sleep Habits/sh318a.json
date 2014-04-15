@@ -5,7 +5,11 @@
   "type": "choices",
   "domain": "check",
   "labels": [
-    "sh318a"
+    "sh318a",
+    "Behaviorial Habits",
+    "Diagnosis",
+    "Insomnia Adverse Event",
+    "Sleep disturbances"
   ],
   "hybrid": {
     "VARNUM": "56",

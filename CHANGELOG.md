@@ -1,6 +1,8 @@
 ## 0.3.0
 
 - Removed `in_shhs2_lad` variable (i.e. participant was part of SHHS2 Limited Access Dataset) as it is no longer relevant
+- **Gem Changes**
+  - Updated to spout 0.7.0
 
 ## 0.2.0 (March 24, 2014)
 

@@ -7,15 +7,5 @@
   "calculation": "avsao2rh",
   "labels": [
     "sao2rem"
-  ],
-  "hybrid": {
-    "VARNUM": "579",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - avg sao2 rem",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:avgsat"
-  }
+  ]
 }

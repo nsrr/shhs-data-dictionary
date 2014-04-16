@@ -7,15 +7,5 @@
   "labels": [
     "smokstat_s2"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "14",
-    "TABLE": "SHHS2",
-    "LABEL": "Current Smoking Status SHHS2",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": "comorb:smoking"
-  }
+  "commonly_used": true
 }

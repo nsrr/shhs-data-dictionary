@@ -6,15 +6,5 @@
   "domain": "check",
   "labels": [
     "pm225d2"
-  ],
-  "hybrid": {
-    "VARNUM": "171",
-    "TABLE": "SHHS2",
-    "LABEL": "PM 25d Left -  Amputation",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "avhrop"
-  ],
-  "hybrid": {
-    "VARNUM": "355",
-    "TABLE": "SHHS2",
-    "LABEL": "Average Hypopnea length (REM, Other, all oxygen desaturations) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

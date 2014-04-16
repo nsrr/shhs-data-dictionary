@@ -8,15 +8,5 @@
     "mip",
     "myocardial infarction",
     "heart attack"
-  ],
-  "hybrid": {
-    "VARNUM": "8",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Number of MI Procedures Since Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

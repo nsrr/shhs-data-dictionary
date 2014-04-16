@@ -7,15 +7,5 @@
   "labels": [
     "tto_revprodt",
     "revascularization procedure"
-  ],
-  "hybrid": {
-    "VARNUM": "37",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Days to First Revascularization Procedure Since Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

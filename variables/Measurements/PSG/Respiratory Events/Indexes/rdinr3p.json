@@ -10,15 +10,5 @@
     "rdi",
     "ahi"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "566",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - Overall Non-rem RDI at 3% oxygen desaturation",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:ahi_nrem"
-  }
+  "commonly_used": true
 }

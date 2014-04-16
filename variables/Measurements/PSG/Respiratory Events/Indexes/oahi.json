@@ -10,15 +10,5 @@
     "rdi",
     "ahi"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "558",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - Obstructive apnea (all oxygen desaturations) Hypopnea (4% oxygen desaturation) Index",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:oahi"
-  }
+  "commonly_used": true
 }

@@ -7,15 +7,5 @@
   "labels": [
     "index_date_year"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "6",
-    "TABLE": "SHHS2",
-    "LABEL": "Year in which index date occurred",
-    "sensitivity": "0",
-    "design_name": null,
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  "commonly_used": true
 }

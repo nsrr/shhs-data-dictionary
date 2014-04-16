@@ -6,15 +6,5 @@
   "domain": "nhchan4",
   "labels": [
     "sh319b"
-  ],
-  "hybrid": {
-    "VARNUM": "61",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 19b Watching TV",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

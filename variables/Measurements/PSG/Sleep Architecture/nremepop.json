@@ -6,15 +6,5 @@
   "units": "minute",
   "labels": [
     "nremepop"
-  ],
-  "hybrid": {
-    "VARNUM": "312",
-    "TABLE": "SHHS2",
-    "LABEL": "Sleep Time (NREM, Other) (minutes)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:sleeptime"
-  }
+  ]
 }

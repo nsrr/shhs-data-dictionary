@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "AnkArmDT"
-  ],
-  "hybrid": {
-    "VARNUM": "43",
-    "TABLE": "SHHS1",
-    "LABEL": "AV AnkArmDT",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

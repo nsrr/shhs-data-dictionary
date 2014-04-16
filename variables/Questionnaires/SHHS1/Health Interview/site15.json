@@ -7,15 +7,5 @@
   "labels": [
     "SITE15",
     "site"
-  ],
-  "hybrid": {
-    "VARNUM": "94",
-    "TABLE": "SHHS1",
-    "LABEL": "HI Site 15",
-    "sensitivity": "1",
-    "design_name": "Health Interview (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

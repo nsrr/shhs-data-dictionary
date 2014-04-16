@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "shhs2_hi"
-  ],
-  "hybrid": {
-    "VARNUM": "326",
-    "TABLE": "SHHS2",
-    "LABEL": "Health Interview form present 0-No, 1-Yes",
-    "sensitivity": "0",
-    "design_name": "Health Interview (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

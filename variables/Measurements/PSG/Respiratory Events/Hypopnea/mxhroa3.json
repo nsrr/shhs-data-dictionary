@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "mxhroa3"
-  ],
-  "hybrid": {
-    "VARNUM": "657",
-    "TABLE": "SHHS2",
-    "LABEL": "Maximum Hypopnea length w/ arousals (REM, Other, 3% oxygen desaturation) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

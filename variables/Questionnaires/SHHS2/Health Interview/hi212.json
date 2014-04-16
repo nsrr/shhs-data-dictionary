@@ -6,15 +6,5 @@
   "domain": "yesnod",
   "labels": [
     "hi212"
-  ],
-  "hybrid": {
-    "VARNUM": "88",
-    "TABLE": "SHHS2",
-    "LABEL": "12  Worse when not moving",
-    "sensitivity": "0",
-    "design_name": "Health Interview (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

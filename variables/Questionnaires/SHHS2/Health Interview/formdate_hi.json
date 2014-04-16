@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "formdate_hi"
-  ],
-  "hybrid": {
-    "VARNUM": "75",
-    "TABLE": "SHHS2",
-    "LABEL": "Date of Health Interview form",
-    "sensitivity": "0",
-    "design_name": "Health Interview (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

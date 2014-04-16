@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "ANAR1A2"
-  ],
-  "hybrid": {
-    "VARNUM": "253",
-    "TABLE": "SHHS2",
-    "LABEL": "ANTI-ARRHYTHMICS, CLASS 1A",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

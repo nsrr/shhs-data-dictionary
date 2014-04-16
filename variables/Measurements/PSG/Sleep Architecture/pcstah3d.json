@@ -6,15 +6,5 @@
   "units": "percent",
   "labels": [
     "pcstah3d"
-  ],
-  "hybrid": {
-    "VARNUM": "451",
-    "TABLE": "SHHS2",
-    "LABEL": "% Sleep time in Apnea+Hypopnea with >3% oxygen desaturation",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:pctsleeptime"
-  }
+  ]
 }

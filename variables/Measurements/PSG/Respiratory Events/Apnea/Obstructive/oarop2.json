@@ -6,15 +6,5 @@
   "units": "obstructive apnea events",
   "labels": [
     "oarop2"
-  ],
-  "hybrid": {
-    "VARNUM": "506",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of Obstructive Apnea (REM, Other, 2% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": "psg:oa"
-  }
+  ]
 }

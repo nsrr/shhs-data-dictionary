@@ -7,11 +7,5 @@
     "pptidr",
     "id"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "LABEL": "Randomized ID: Incorporates parent study random ID",
-    "sensitivity": "1",
-    "design_name": null,
-    "design_file": null
-  }
+  "commonly_used": true
 }

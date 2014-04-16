@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "shhs2_pm"
-  ],
-  "hybrid": {
-    "VARNUM": "329",
-    "TABLE": "SHHS2",
-    "LABEL": "Physical Measurements form present 0-No, 1-Yes",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

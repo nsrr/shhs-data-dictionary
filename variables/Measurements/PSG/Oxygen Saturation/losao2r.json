@@ -7,15 +7,5 @@
   "calculation": "mnsao2rh",
   "labels": [
     "losao2r"
-  ],
-  "hybrid": {
-    "VARNUM": "581",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - min sao2 rem",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:minsat"
-  }
+  ]
 }

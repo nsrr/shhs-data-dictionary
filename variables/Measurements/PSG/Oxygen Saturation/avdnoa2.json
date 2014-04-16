@@ -6,15 +6,5 @@
   "units": "percent",
   "labels": [
     "avdnoa2"
-  ],
-  "hybrid": {
-    "VARNUM": "585",
-    "TABLE": "SHHS2",
-    "LABEL": "Average oxygen desaturation w/ arousals (NREM, Other, 2% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

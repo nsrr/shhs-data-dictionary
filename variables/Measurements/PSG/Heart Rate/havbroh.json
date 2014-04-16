@@ -6,15 +6,5 @@
   "units": "beats per minute",
   "labels": [
     "havbroh"
-  ],
-  "hybrid": {
-    "VARNUM": "269",
-    "TABLE": "SHHS2",
-    "LABEL": "Average Heart Rate (REM, Other, 3% oxygen desaturation) (bpm)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:avgheartrate"
-  }
+  ]
 }

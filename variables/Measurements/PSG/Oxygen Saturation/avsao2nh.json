@@ -6,15 +6,5 @@
   "units": "percent",
   "labels": [
     "avsao2nh"
-  ],
-  "hybrid": {
-    "VARNUM": "295",
-    "TABLE": "SHHS2",
-    "LABEL": "Average SaO2 % during NREM sleep",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:avgsat"
-  }
+  ]
 }

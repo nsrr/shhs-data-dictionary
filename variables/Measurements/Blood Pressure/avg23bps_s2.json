@@ -7,15 +7,5 @@
   "labels": [
     "avg23bps_s2"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "135",
-    "TABLE": "SHHS2",
-    "LABEL": "Average of 2nd and 3rd Systolic BP measures",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": "bp:systolic"
-  }
+  "commonly_used": true
 }

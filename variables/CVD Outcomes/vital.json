@@ -6,15 +6,5 @@
   "domain": "vitalstat",
   "labels": [
     "vital"
-  ],
-  "hybrid": {
-    "VARNUM": "3",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Vital Status (0 = dead, 1 = alive)",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

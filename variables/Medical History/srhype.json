@@ -7,15 +7,5 @@
   "labels": [
     "SRHype"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "14",
-    "TABLE": "SHHS1",
-    "LABEL": "AV Self Reported Hypertension",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": "comorb:htn"
-  }
+  "commonly_used": true
 }

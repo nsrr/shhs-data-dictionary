@@ -7,15 +7,5 @@
   "calculation": "mnstg34p",
   "labels": [
     "timest34"
-  ],
-  "hybrid": {
-    "VARNUM": "529",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - time stage 3-4 minutes",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:sleeptime"
-  }
+  ]
 }

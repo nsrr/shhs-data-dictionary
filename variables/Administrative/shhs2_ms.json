@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "shhs2_ms"
-  ],
-  "hybrid": {
-    "VARNUM": "328",
-    "TABLE": "SHHS2",
-    "LABEL": "Morning Survey form present 0-No, 1-Yes",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

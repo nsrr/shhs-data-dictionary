@@ -6,15 +6,5 @@
   "units": "cigarettes",
   "labels": [
     "ms211a"
-  ],
-  "hybrid": {
-    "VARNUM": "125",
-    "TABLE": "SHHS2",
-    "LABEL": "MS 11a Number of cigarettes",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

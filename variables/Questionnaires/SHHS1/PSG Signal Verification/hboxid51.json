@@ -9,15 +9,5 @@
   ],
   "forms": [
     "shhs1_signal_verifications_form"
-  ],
-  "hybrid": {
-    "VARNUM": "694",
-    "TABLE": "SHHS1",
-    "LABEL": "Headbox ID",
-    "sensitivity": "0",
-    "design_name": "PSG Signal Verification (SHHS1)",
-    "MEMNAME": "shhs1_2",
-    "design_file": "SHHS1 PSG Signal Verification.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

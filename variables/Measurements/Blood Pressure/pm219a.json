@@ -6,15 +6,5 @@
   "units": "millimeters of mercury",
   "labels": [
     "pm219a"
-  ],
-  "hybrid": {
-    "VARNUM": "157",
-    "TABLE": "SHHS2",
-    "LABEL": "PM 19a Palpated Systolic pulse pressure",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -8,15 +8,5 @@
   "labels": [
     "oai0p"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "569",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - Obstructive Apnea Index all oxygen desaturations",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:oai"
-  }
+  "commonly_used": true
 }

@@ -8,15 +8,5 @@
     "revasc_proc",
     "revascularization procedure",
     "stent"
-  ],
-  "hybrid": {
-    "VARNUM": "17",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Number of Revascularizations Procedures Since to Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

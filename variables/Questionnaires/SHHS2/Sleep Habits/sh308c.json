@@ -6,15 +6,5 @@
   "domain": "nevralw5",
   "labels": [
     "sh308c"
-  ],
-  "hybrid": {
-    "VARNUM": "48",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 8c  Wake up too early/unable to sleep ag",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

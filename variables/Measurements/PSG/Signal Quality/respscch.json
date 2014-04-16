@@ -6,15 +6,5 @@
   "domain": "respch",
   "forms": [
     "shhs1_psg_scoring_notes_form"
-  ],
-  "hybrid": {
-    "VARNUM": "693",
-    "TABLE": "SHHS1",
-    "LABEL": "Predominant (>=75%) Channel for Scoring Respiratory",
-    "sensitivity": "0",
-    "design_name": "PSG Scoring Notes (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 PSG Scoring Notes (SN).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

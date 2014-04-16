@@ -6,15 +6,5 @@
   "domain": "visitcd",
   "labels": [
     "visit_pm"
-  ],
-  "hybrid": {
-    "VARNUM": "130",
-    "TABLE": "SHHS2",
-    "LABEL": "Visit ID code",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

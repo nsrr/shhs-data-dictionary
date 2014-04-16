@@ -7,15 +7,5 @@
   "labels": [
     "tto_chfdate",
     "congestive heart failure"
-  ],
-  "hybrid": {
-    "VARNUM": "32",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Days to First CHF Since Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "domain": "armbp",
   "labels": [
     "pm217"
-  ],
-  "hybrid": {
-    "VARNUM": "149",
-    "TABLE": "SHHS2",
-    "LABEL": "PM 17  Site of arm BP measurement",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "units": "bowls",
   "labels": [
     "ms211b"
-  ],
-  "hybrid": {
-    "VARNUM": "126",
-    "TABLE": "SHHS2",
-    "LABEL": "MS 11b Number of pipe bowls",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

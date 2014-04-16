@@ -7,15 +7,5 @@
   "labels": [
     "Alcoh"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "20",
-    "TABLE": "SHHS1",
-    "LABEL": "AV Alcohol",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  "commonly_used": true
 }

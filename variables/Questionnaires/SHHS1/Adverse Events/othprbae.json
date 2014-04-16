@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "OTHPRBAE"
-  ],
-  "hybrid": {
-    "VARNUM": "62",
-    "TABLE": "SHHS1",
-    "LABEL": "AE OthProb",
-    "sensitivity": "1",
-    "design_name": "Adverse Events Form (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Adverse Events (AE).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

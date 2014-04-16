@@ -9,15 +9,5 @@
   ],
   "forms": [
     "shhs1_contact_form"
-  ],
-  "hybrid": {
-    "VARNUM": "87",
-    "TABLE": "SHHS1",
-    "LABEL": "CF Method03",
-    "sensitivity": "0",
-    "design_name": "Contact Form (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Contact Form (CF).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

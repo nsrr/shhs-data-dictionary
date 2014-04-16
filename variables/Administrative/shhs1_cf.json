@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "shhs1_cf"
-  ],
-  "hybrid": {
-    "VARNUM": "727",
-    "TABLE": "SHHS1",
-    "LABEL": "Contact form present 0-No, 1-Yes",
-    "sensitivity": "0",
-    "design_name": null,
-    "MEMNAME": "shhs1_2",
-    "design_file": "SHHS1 Contact Form (CF).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

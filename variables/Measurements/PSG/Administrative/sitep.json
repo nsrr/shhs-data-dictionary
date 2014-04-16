@@ -3,15 +3,5 @@
   "display_name": "PSG (SHHS1): Site ID",
   "description": "Field center/site ID",
   "type": "choices",
-  "domain": "siteid",
-  "hybrid": {
-    "VARNUM": "497",
-    "TABLE": "SHHS1",
-    "LABEL": "SiteP",
-    "sensitivity": "1",
-    "design_name": "PSG Report (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  "domain": "siteid"
 }

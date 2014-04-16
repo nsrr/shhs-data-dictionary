@@ -7,15 +7,5 @@
   "labels": [
     "stk_fatal",
     "stroke"
-  ],
-  "hybrid": {
-    "VARNUM": "11",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Fatal Stroke since Baseline?",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -7,15 +7,5 @@
   "labels": [
     "INSULN2"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "281",
-    "TABLE": "SHHS2",
-    "LABEL": "INSULINS",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  "commonly_used": true
 }

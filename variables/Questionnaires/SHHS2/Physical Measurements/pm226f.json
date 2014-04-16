@@ -6,15 +6,5 @@
   "units": "millimeters of mercury",
   "labels": [
     "pm226f"
-  ],
-  "hybrid": {
-    "VARNUM": "183",
-    "TABLE": "SHHS2",
-    "LABEL": "PM 26f 2nd: Left leg posterior systolic BP",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

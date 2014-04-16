@@ -6,15 +6,5 @@
   "domain": "allnone5",
   "labels": [
     "ql210"
-  ],
-  "hybrid": {
-    "VARNUM": "194",
-    "TABLE": "SHHS2",
-    "LABEL": "QL 10  Health limited social activities",
-    "sensitivity": "0",
-    "design_name": "Quality of Life (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

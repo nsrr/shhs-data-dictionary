@@ -6,15 +6,5 @@
   "domain": "betwrs5",
   "labels": [
     "ql202"
-  ],
-  "hybrid": {
-    "VARNUM": "190",
-    "TABLE": "SHHS2",
-    "LABEL": "QL 2   Health compared to one year ago",
-    "sensitivity": "0",
-    "design_name": "Quality of Life (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

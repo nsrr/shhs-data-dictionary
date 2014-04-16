@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "avoanba"
-  ],
-  "hybrid": {
-    "VARNUM": "451",
-    "TABLE": "SHHS2",
-    "LABEL": "Average Obstructive Apnea length w/ arousals (NREM, Back, all oxygen desaturations) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

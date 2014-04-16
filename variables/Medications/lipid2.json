@@ -7,15 +7,5 @@
   "labels": [
     "LIPID2"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "324",
-    "TABLE": "SHHS2",
-    "LABEL": "ANY LIPID-LOWERING MEDICATION",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  "commonly_used": true
 }

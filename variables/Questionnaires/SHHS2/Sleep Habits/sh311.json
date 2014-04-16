@@ -6,15 +6,5 @@
   "domain": "snrloud5",
   "labels": [
     "sh311"
-  ],
-  "hybrid": {
-    "VARNUM": "24",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 11  How loud is snoring",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "units": "percent",
   "labels": [
     "mndrba3"
-  ],
-  "hybrid": {
-    "VARNUM": "706",
-    "TABLE": "SHHS2",
-    "LABEL": "Minumum SaO2 w/ arousals (REM, Back, 3% oxygen desaturation) (%)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": "psg:minsat"
-  }
+  ]
 }

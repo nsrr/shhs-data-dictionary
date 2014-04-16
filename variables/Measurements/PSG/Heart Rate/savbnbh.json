@@ -6,15 +6,5 @@
   "units": "beats per minute",
   "labels": [
     "savbnbh"
-  ],
-  "hybrid": {
-    "VARNUM": "248",
-    "TABLE": "SHHS2",
-    "LABEL": "Average Heart Rate (NREM, Back, all oxygen desaturations) (bpm)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:avgheartrate"
-  }
+  ]
 }

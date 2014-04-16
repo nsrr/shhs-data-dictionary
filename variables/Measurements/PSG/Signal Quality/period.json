@@ -7,15 +7,5 @@
   "labels": [
     "period",
     "cheyne stokes"
-  ],
-  "hybrid": {
-    "VARNUM": "511",
-    "TABLE": "SHHS2",
-    "LABEL": "QS - Unusual Occurrences - Periodic breathing > 5 min",
-    "sensitivity": "0",
-    "design_name": "PSG QS Form (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": "SHHS2 PSG QS form.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

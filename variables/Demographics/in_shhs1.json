@@ -7,11 +7,5 @@
   "labels": [
     "in_shhs1", "SHHS1 Participant"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "8",
-    "sensitivity": "0",
-    "design_name": null,
-    "design_file": null
-  }
+  "commonly_used": true
 }

@@ -6,15 +6,5 @@
   "domain": "trufals5",
   "labels": [
     "ql211c"
-  ],
-  "hybrid": {
-    "VARNUM": "223",
-    "TABLE": "SHHS2",
-    "LABEL": "QL 11c Expect health to get worse",
-    "sensitivity": "0",
-    "design_name": "Quality of Life (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

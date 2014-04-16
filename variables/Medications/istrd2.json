@@ -7,15 +7,5 @@
   "labels": [
     "ISTRD2"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "283",
-    "TABLE": "SHHS2",
-    "LABEL": "INHALED STEROIDS FOR ASTHMA",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  "commonly_used": true
 }

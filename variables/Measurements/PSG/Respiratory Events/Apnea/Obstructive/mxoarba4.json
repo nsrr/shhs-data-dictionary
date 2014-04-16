@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "mxoarba4"
-  ],
-  "hybrid": {
-    "VARNUM": "97",
-    "TABLE": "SHHS2",
-    "LABEL": "Maximum Obstructive Apnea length w/ arousals (REM, Back, 4% oxygen desaturation) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "ms212a"
-  ],
-  "hybrid": {
-    "VARNUM": "128",
-    "TABLE": "SHHS2",
-    "LABEL": "MS 12a Nasal stuffiness interfered w/sleep",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

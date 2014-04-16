@@ -6,15 +6,5 @@
   "domain": "scoridf",
   "forms": [
     "shhs1_psg_scoring_notes_form"
-  ],
-  "hybrid": {
-    "VARNUM": "687",
-    "TABLE": "SHHS1",
-    "LABEL": "Scorer ID",
-    "sensitivity": "1",
-    "design_name": "PSG Scoring Notes (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 PSG Scoring Notes (SN).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -10,15 +10,5 @@
   "commonly_used": true,
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "hybrid": {
-    "VARNUM": "724",
-    "TABLE": "SHHS1",
-    "LABEL": "Epworth Sleepiness Score",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS1)",
-    "MEMNAME": "shhs1_2",
-    "design_file": "SHHS1 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

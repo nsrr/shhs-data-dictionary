@@ -6,15 +6,5 @@
   "units": "years",
   "labels": [
     "sh323a"
-  ],
-  "hybrid": {
-    "VARNUM": "71",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 23a Years since stopped smoking",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

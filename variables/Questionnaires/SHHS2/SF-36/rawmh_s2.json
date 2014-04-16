@@ -6,15 +6,5 @@
   "units": "score",
   "labels": [
     "RAWMH_s2"
-  ],
-  "hybrid": {
-    "VARNUM": "239",
-    "TABLE": "SHHS2",
-    "LABEL": "RAW SF-36 MENTAL HEALTH INDEX",
-    "sensitivity": "0",
-    "design_name": "SF-36 Calculated (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

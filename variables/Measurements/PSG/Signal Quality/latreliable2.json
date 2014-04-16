@@ -6,15 +6,5 @@
   "domain": "latrel",
   "labels": [
     "latreliable2"
-  ],
-  "hybrid": {
-    "VARNUM": "483",
-    "TABLE": "SHHS2",
-    "LABEL": "QS - Sleep latency reliable?",
-    "sensitivity": "0",
-    "design_name": "PSG QS Form (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": "SHHS2 PSG QS form.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

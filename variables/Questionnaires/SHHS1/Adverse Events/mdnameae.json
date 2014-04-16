@@ -5,15 +5,5 @@
   "type": "text",
   "labels": [
     "MDNAMEAE"
-  ],
-  "hybrid": {
-    "VARNUM": "57",
-    "TABLE": "SHHS1",
-    "LABEL": "AE Name MD Notif",
-    "sensitivity": "2",
-    "design_name": "Adverse Events Form (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Adverse Events (AE).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

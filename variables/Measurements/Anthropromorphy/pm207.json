@@ -7,15 +7,5 @@
   "labels": [
     "pm207"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "146",
-    "TABLE": "SHHS2",
-    "LABEL": "PM 7 Height in cm",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": "anthropromorphy:height"
-  }
+  "commonly_used": true
 }

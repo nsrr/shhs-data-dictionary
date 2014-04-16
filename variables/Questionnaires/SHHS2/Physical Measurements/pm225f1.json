@@ -6,15 +6,5 @@
   "domain": "check",
   "labels": [
     "pm225f1"
-  ],
-  "hybrid": {
-    "VARNUM": "174",
-    "TABLE": "SHHS2",
-    "LABEL": "PM 25f Right - Unable to hear sound",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

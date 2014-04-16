@@ -6,15 +6,5 @@
   "units": "drinks",
   "labels": [
     "sh330"
-  ],
-  "hybrid": {
-    "VARNUM": "40",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 30  Drinks of hard liquor per week",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

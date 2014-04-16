@@ -6,15 +6,5 @@
   "domain": "timeday4",
   "labels": [
     "hi214"
-  ],
-  "hybrid": {
-    "VARNUM": "90",
-    "TABLE": "SHHS2",
-    "LABEL": "14  Symptoms during what time of day",
-    "sensitivity": "0",
-    "design_name": "Health Interview (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

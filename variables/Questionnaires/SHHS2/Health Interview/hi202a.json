@@ -6,15 +6,5 @@
   "units": "day",
   "labels": [
     "hi202a"
-  ],
-  "hybrid": {
-    "VARNUM": "99",
-    "TABLE": "SHHS2",
-    "LABEL": "2a  Number of days took aspirin",
-    "sensitivity": "0",
-    "design_name": "Health Interview (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

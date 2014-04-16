@@ -10,15 +10,5 @@
   ],
   "forms": [
     "shhs1_morning_survey_form"
-  ],
-  "hybrid": {
-    "VARNUM": "204",
-    "TABLE": "SHHS1",
-    "LABEL": "MS Site10",
-    "sensitivity": "1",
-    "design_name": "Morning Survey (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

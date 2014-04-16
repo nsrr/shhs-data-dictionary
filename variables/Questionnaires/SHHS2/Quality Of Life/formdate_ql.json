@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "formdate_ql"
-  ],
-  "hybrid": {
-    "VARNUM": "186",
-    "TABLE": "SHHS2",
-    "LABEL": "Date of Quality of Life form",
-    "sensitivity": "0",
-    "design_name": "Quality of Life (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

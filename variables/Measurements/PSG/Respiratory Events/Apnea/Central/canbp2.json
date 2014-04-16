@@ -6,15 +6,5 @@
   "units": "central apnea events",
   "labels": [
     "canbp2"
-  ],
-  "hybrid": {
-    "VARNUM": "494",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of Central Apnea (NREM, Back, 2% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": "psg:ca"
-  }
+  ]
 }

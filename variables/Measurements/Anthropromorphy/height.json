@@ -7,15 +7,5 @@
   "labels": [
     "Height"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "25",
-    "TABLE": "SHHS1",
-    "LABEL": "AV Height",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": "anthropromorphy:height"
-  }
+  "commonly_used": true
 }

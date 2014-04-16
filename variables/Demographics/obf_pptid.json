@@ -7,11 +7,5 @@
     "obf_pptid",
     "id"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "LABEL": "Obfuscated Participant ID",
-    "sensitivity": "1",
-    "design_name": null,
-    "design_file": null
-  }
+  "commonly_used": true
 }

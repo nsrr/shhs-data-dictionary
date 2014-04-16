@@ -7,15 +7,5 @@
   "labels": [
     "tto_mipdate",
     "myocardial infarction"
-  ],
-  "hybrid": {
-    "VARNUM": "35",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Days to First MI procedure Since Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

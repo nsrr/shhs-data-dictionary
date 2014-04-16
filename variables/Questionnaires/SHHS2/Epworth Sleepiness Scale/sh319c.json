@@ -6,15 +6,5 @@
   "domain": "nhchan4",
   "labels": [
     "sh319c"
-  ],
-  "hybrid": {
-    "VARNUM": "62",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 19c Sitting inactive in public place",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

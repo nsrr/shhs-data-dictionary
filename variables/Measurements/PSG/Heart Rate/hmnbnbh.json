@@ -6,15 +6,5 @@
   "units": "beats per minute",
   "labels": [
     "hmnbnbh"
-  ],
-  "hybrid": {
-    "VARNUM": "273",
-    "TABLE": "SHHS2",
-    "LABEL": "Minumum Heart Rate (NREM, Back, 3% oxygen desaturation) (bpm)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:minheartrate"
-  }
+  ]
 }

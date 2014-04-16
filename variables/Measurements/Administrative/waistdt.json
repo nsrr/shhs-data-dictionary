@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "WaistDT"
-  ],
-  "hybrid": {
-    "VARNUM": "30",
-    "TABLE": "SHHS1",
-    "LABEL": "AV WaistDT",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

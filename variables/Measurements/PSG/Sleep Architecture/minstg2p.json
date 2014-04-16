@@ -6,15 +6,5 @@
   "units": "minute",
   "labels": [
     "minstg2p"
-  ],
-  "hybrid": {
-    "VARNUM": "306",
-    "TABLE": "SHHS2",
-    "LABEL": "Time in stage 2 sleep (minutes)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:sleeptime"
-  }
+  ]
 }

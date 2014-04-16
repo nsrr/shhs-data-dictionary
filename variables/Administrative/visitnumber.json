@@ -7,10 +7,5 @@
   "labels": [
     "visitnumber"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "sensitivity": "0",
-    "design_name": null,
-    "design_file": null
-  }
+  "commonly_used": true
 }

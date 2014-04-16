@@ -6,15 +6,5 @@
   "units": "events per hour",
   "labels": [
     "rdirop4"
-  ],
-  "hybrid": {
-    "VARNUM": "401",
-    "TABLE": "SHHS2",
-    "LABEL": "Hypopnea per hour (REM, Other, 4% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:hi"
-  }
+  ]
 }

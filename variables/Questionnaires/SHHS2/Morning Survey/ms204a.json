@@ -6,15 +6,5 @@
   "domain": "lighdar5",
   "labels": [
     "ms204a"
-  ],
-  "hybrid": {
-    "VARNUM": "116",
-    "TABLE": "SHHS2",
-    "LABEL": "MS 4a  Light vs Deep sleep",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

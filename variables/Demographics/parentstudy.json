@@ -7,10 +7,5 @@
   "labels": [
     "parentstudy"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "sensitivity": "1",
-    "design_name": null,
-    "design_file": null
-  }
+  "commonly_used": true
 }

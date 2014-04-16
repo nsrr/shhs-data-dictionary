@@ -6,15 +6,5 @@
   "units": "minute",
   "labels": [
     "TotMinSlpWD"
-  ],
-  "hybrid": {
-    "VARNUM": "16",
-    "TABLE": "SHHS2",
-    "LABEL": "1 Total minutes slept on weekdays",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "scoredt"
-  ],
-  "hybrid": {
-    "VARNUM": "337",
-    "TABLE": "SHHS2",
-    "LABEL": "Date study scored",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

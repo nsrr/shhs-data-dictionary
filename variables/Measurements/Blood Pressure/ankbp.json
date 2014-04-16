@@ -6,15 +6,5 @@
   "units": "millimeters of mercury",
   "labels": [
     "AnkBP"
-  ],
-  "hybrid": {
-    "VARNUM": "41",
-    "TABLE": "SHHS1",
-    "LABEL": "AV AnkBP",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

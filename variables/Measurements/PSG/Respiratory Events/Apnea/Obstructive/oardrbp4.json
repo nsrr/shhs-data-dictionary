@@ -6,15 +6,5 @@
   "units": "events per hour",
   "labels": [
     "oardrbp4"
-  ],
-  "hybrid": {
-    "VARNUM": "408",
-    "TABLE": "SHHS2",
-    "LABEL": "Obstructive Apnea per hour (REM, Back, 4% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:oai"
-  }
+  ]
 }

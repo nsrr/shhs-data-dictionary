@@ -9,15 +9,5 @@
   ],
   "forms": [
     "shhs1_medications_prescription_and_over_the_counter_form"
-  ],
-  "hybrid": {
-    "VARNUM": "202",
-    "TABLE": "SHHS1",
-    "LABEL": "MU Digitalis preps",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Medications.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

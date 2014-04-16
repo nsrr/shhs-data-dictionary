@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "CCBIR2"
-  ],
-  "hybrid": {
-    "VARNUM": "265",
-    "TABLE": "SHHS2",
-    "LABEL": "IMMEDIATE-RELEASE CCBS = NIFIR OR DIHIR OR VERIR OR DLTIR",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

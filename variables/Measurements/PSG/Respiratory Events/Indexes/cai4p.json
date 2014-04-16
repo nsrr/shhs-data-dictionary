@@ -7,15 +7,5 @@
   "calculation": "60 * ( carbp4 + carop4 + canbp4 + canop4 ) / slpprdp",
   "labels": [
     "cai4p"
-  ],
-  "hybrid": {
-    "VARNUM": "573",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - Central Apnea Index 4% oxygen desaturation",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:cai"
-  }
+  ]
 }

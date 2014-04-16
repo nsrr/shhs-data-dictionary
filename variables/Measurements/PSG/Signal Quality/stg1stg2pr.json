@@ -6,15 +6,5 @@
   "domain": "yesnon",
   "labels": [
     "Stg1Stg2Pr"
-  ],
-  "hybrid": {
-    "VARNUM": "498",
-    "TABLE": "SHHS2",
-    "LABEL": "QS - Sleep Staging Problem - scoring stage1/stage2 unreliable",
-    "sensitivity": "0",
-    "design_name": "PSG QS Form (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": "SHHS2 PSG QS form.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

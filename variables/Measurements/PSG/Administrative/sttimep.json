@@ -3,15 +3,5 @@
   "display_name": "PSG (SHHS1): PSG Start Time",
   "description": "Start time of PSG recording",
   "type": "numeric",
-  "units": "minute",
-  "hybrid": {
-    "VARNUM": "500",
-    "TABLE": "SHHS1",
-    "LABEL": "StTimeP",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  "units": "minute"
 }

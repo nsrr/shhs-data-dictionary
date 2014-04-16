@@ -6,15 +6,5 @@
   "units": "events per hour",
   "labels": [
     "cardnoa4"
-  ],
-  "hybrid": {
-    "VARNUM": "419",
-    "TABLE": "SHHS2",
-    "LABEL": "Central Apnea per hour w/ arousals (NREM, Other, 4% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:cai"
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "mxcarop5"
-  ],
-  "hybrid": {
-    "VARNUM": "145",
-    "TABLE": "SHHS2",
-    "LABEL": "Maximum Central Apnea length (REM, Other, 5% oxygen desaturation) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

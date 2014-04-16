@@ -5,15 +5,5 @@
   "type": "text",
   "labels": [
     "RptTimSlp"
-  ],
-  "hybrid": {
-    "VARNUM": "107",
-    "TABLE": "SHHS2",
-    "LABEL": "Reported time went to sleep last night",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

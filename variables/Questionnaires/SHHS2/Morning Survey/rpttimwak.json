@@ -5,15 +5,5 @@
   "type": "text",
   "labels": [
     "RptTimWak"
-  ],
-  "hybrid": {
-    "VARNUM": "108",
-    "TABLE": "SHHS2",
-    "LABEL": "Reported time awakening today",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

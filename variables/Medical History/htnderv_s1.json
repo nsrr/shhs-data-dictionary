@@ -7,15 +7,5 @@
   "labels": [
     "HTNDerv_s1"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "723",
-    "TABLE": "SHHS1",
-    "LABEL": "Hypertension Status based on 2nd and 3rd BP readings OR being treated with HTN meds",
-    "sensitivity": "0",
-    "design_name": null,
-    "MEMNAME": "shhs1_2",
-    "design_file": null,
-    "PARENT TERM": "comorb:htn"
-  }
+  "commonly_used": true
 }

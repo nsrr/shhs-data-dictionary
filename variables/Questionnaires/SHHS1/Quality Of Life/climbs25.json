@@ -9,15 +9,5 @@
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"
-  ],
-  "hybrid": {
-    "VARNUM": "249",
-    "TABLE": "SHHS1",
-    "LABEL": "QL SevStairs Lmt 25",
-    "sensitivity": "0",
-    "design_name": "Quality of Life (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

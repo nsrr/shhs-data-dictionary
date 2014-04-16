@@ -8,15 +8,5 @@
   "labels": [
     "slp_lat"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "519",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - sleep latency (minutes)",
-    "sensitivity": "2",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  "commonly_used": true
 }

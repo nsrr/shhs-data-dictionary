@@ -6,15 +6,5 @@
   "units": "percent",
   "labels": [
     "mxdrbp4"
-  ],
-  "hybrid": {
-    "VARNUM": "50",
-    "TABLE": "SHHS2",
-    "LABEL": "Maximum oxygen desaturation (REM, Back, 4% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

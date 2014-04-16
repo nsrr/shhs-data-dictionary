@@ -6,15 +6,5 @@
   "units": "beats per minute",
   "labels": [
     "amxbrbh"
-  ],
-  "hybrid": {
-    "VARNUM": "256",
-    "TABLE": "SHHS2",
-    "LABEL": "Maximum Heart Rate with arousal (REM, Back, all oxygen desaturations) (bpm)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:maxheartrate"
-  }
+  ]
 }

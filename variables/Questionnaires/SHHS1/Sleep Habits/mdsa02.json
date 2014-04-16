@@ -9,15 +9,5 @@
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "hybrid": {
-    "VARNUM": "329",
-    "TABLE": "SHHS1",
-    "LABEL": "SH MD Apnea 02",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

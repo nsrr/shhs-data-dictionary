@@ -6,15 +6,5 @@
   "domain": "lotlitn",
   "labels": [
     "ql203h"
-  ],
-  "hybrid": {
-    "VARNUM": "202",
-    "TABLE": "SHHS2",
-    "LABEL": "QL 3h  Walking several blocks",
-    "sensitivity": "0",
-    "design_name": "Quality of Life (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

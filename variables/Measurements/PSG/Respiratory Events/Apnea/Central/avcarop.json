@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "avcarop"
-  ],
-  "hybrid": {
-    "VARNUM": "371",
-    "TABLE": "SHHS2",
-    "LABEL": "Average Central Apnea length (REM, Other, all oxygen desaturations) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

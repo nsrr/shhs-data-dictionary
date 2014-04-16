@@ -6,15 +6,5 @@
   "units": "percent",
   "labels": [
     "avdrop5"
-  ],
-  "hybrid": {
-    "VARNUM": "175",
-    "TABLE": "SHHS2",
-    "LABEL": "Average oxygen desaturation (REM, Other, 5% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

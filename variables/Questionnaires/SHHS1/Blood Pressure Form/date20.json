@@ -9,15 +9,5 @@
   ],
   "forms": [
     "shhs1_seated_bp_weight_neck_circumference_form"
-  ],
-  "hybrid": {
-    "VARNUM": "80",
-    "TABLE": "SHHS1",
-    "LABEL": "BP Date 20",
-    "sensitivity": "0",
-    "design_name": "Blood Pressure Form (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Blood Pressure Form (BP).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

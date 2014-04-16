@@ -5,15 +5,5 @@
   "type": "time",
   "labels": [
     "stonsetp"
-  ],
-  "hybrid": {
-    "VARNUM": "339",
-    "TABLE": "SHHS2",
-    "LABEL": "Sleep onset time (hh:mm:ss)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

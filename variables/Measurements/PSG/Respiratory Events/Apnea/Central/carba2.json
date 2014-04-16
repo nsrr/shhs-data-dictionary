@@ -6,15 +6,5 @@
   "units": "central apnea events",
   "labels": [
     "carba2"
-  ],
-  "hybrid": {
-    "VARNUM": "546",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of Central Apnea w/ arousals (REM, Back, 2% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": "psg:ca"
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "avhroa2"
-  ],
-  "hybrid": {
-    "VARNUM": "535",
-    "TABLE": "SHHS2",
-    "LABEL": "Average Hypopnea length w/ arousals (REM, Other, 2% oxygen desaturation) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

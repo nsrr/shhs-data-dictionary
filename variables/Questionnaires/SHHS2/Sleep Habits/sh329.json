@@ -6,15 +6,5 @@
   "units": "bottles",
   "labels": [
     "sh329"
-  ],
-  "hybrid": {
-    "VARNUM": "39",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 29  Can/bottles of beer per week",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

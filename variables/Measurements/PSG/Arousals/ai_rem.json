@@ -7,13 +7,5 @@
   "calculation": "60 * ( arrembp + arremop ) / minremp",
   "labels": [
     "ai_rem"
-  ],
-  "hybrid": {
-    "VARNUM": "536",
-    "LABEL": "Calculated - arousal index rem sleep",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "design_file": null,
-    "PARENT TERM": "psg:ai"
-  }
+  ]
 }

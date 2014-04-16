@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "pm225c2"
-  ],
-  "hybrid": {
-    "VARNUM": "169",
-    "TABLE": "SHHS2",
-    "LABEL": "PM 25c Left - Rash",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

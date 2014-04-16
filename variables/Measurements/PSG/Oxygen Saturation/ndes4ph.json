@@ -6,15 +6,5 @@
   "units": "oxygen desaturation events",
   "labels": [
     "ndes4ph"
-  ],
-  "hybrid": {
-    "VARNUM": "292",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of oxygen desaturation with >= 4% oxygen desaturation",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:oxygen desaturation"
-  }
+  ]
 }

@@ -7,15 +7,5 @@
   "labels": [
     "saqli"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "585",
-    "TABLE": "SHHS2",
-    "LABEL": "SAQLI Score",
-    "sensitivity": "0",
-    "design_name": "Short SAQLI (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  "commonly_used": true
 }

@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "mxhrop4"
-  ],
-  "hybrid": {
-    "VARNUM": "9",
-    "TABLE": "SHHS2",
-    "LABEL": "Maximum Hypopnea length (REM, Other, 4% oxygen desaturation) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

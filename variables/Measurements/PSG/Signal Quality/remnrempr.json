@@ -6,15 +6,5 @@
   "domain": "yesnon",
   "labels": [
     "RemNRemPr"
-  ],
-  "hybrid": {
-    "VARNUM": "500",
-    "TABLE": "SHHS2",
-    "LABEL": "QS - Sleep Staging Problem - scoring rem/nrem unreliable",
-    "sensitivity": "0",
-    "design_name": "PSG QS Form (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": "SHHS2 PSG QS form.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

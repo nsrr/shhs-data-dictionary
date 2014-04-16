@@ -8,15 +8,5 @@
   "labels": [
     "minsat"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "584",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - min SaO2 in sleep",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:minsat"
-  }
+  "commonly_used": true
 }

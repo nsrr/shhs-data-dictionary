@@ -5,15 +5,5 @@
   "type": "text",
   "labels": [
     "f2r"
-  ],
-  "hybrid": {
-    "VARNUM": "334",
-    "TABLE": "SHHS2",
-    "LABEL": "Raw data txt file name",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

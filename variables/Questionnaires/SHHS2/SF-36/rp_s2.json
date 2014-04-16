@@ -6,15 +6,5 @@
   "units": "percent",
   "labels": [
     "RP_s2"
-  ],
-  "hybrid": {
-    "VARNUM": "228",
-    "TABLE": "SHHS2",
-    "LABEL": "SF-36 ROLE-PHYSICAL (0-100)",
-    "sensitivity": "0",
-    "design_name": "SF-36 Calculated (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

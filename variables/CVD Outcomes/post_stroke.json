@@ -6,15 +6,5 @@
   "units": "number of events",
   "labels": [
     "stroke"
-  ],
-  "hybrid": {
-    "VARNUM": "10",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Number of Strokes Since Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

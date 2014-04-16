@@ -6,15 +6,5 @@
   "units": "obstructive apnea events",
   "labels": [
     "oanba4"
-  ],
-  "hybrid": {
-    "VARNUM": "102",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of Obstructive Apnea w/ arousals (NREM, Back, 4% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:oa"
-  }
+  ]
 }

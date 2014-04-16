@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "URSBPAE"
-  ],
-  "hybrid": {
-    "VARNUM": "52",
-    "TABLE": "SHHS1",
-    "LABEL": "AE Syst BP>170",
-    "sensitivity": "0",
-    "design_name": "Adverse Events Form (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Adverse Events (AE).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

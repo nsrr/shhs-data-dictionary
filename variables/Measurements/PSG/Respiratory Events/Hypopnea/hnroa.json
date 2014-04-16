@@ -6,15 +6,5 @@
   "units": "hypopnea events",
   "labels": [
     "hnroa"
-  ],
-  "hybrid": {
-    "VARNUM": "422",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of Hypopnea w/ arousals (NREM, Other, all oxygen desaturations)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": "psg:hypopnea"
-  }
+  ]
 }

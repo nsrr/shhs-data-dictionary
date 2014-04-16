@@ -6,15 +6,5 @@
   "domain": "check",
   "labels": [
     "sh318b"
-  ],
-  "hybrid": {
-    "VARNUM": "57",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 18b Restless legs",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

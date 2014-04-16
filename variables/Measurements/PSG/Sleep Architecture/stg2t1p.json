@@ -6,15 +6,5 @@
   "units": "stage shifts",
   "labels": [
     "stg2t1p"
-  ],
-  "hybrid": {
-    "VARNUM": "344",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of stage 2 to stage 1 shifts during sleep",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -7,15 +7,5 @@
   "labels": [
     "avg23bpd_s2"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "136",
-    "TABLE": "SHHS2",
-    "LABEL": "Average of 2nd and 3rd Diastolic BP measures",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": "bp:diastolic"
-  }
+  "commonly_used": true
 }

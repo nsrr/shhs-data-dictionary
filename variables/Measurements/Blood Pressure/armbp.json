@@ -6,15 +6,5 @@
   "units": "millimeters of mercury",
   "labels": [
     "ArmBP"
-  ],
-  "hybrid": {
-    "VARNUM": "42",
-    "TABLE": "SHHS1",
-    "LABEL": "AV ArmBP",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

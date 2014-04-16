@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "EDD2"
-  ],
-  "hybrid": {
-    "VARNUM": "274",
-    "TABLE": "SHHS2",
-    "LABEL": "ERECTILE DYSFUNCTION DRUGS",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

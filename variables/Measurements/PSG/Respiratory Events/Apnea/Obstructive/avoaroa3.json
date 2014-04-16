@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "avoaroa3"
-  ],
-  "hybrid": {
-    "VARNUM": "687",
-    "TABLE": "SHHS2",
-    "LABEL": "Average Obstructive Apnea length w/ arousals (REM, Other, 3% oxygen desaturation) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

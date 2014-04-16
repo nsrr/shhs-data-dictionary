@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "mxhnba4"
-  ],
-  "hybrid": {
-    "VARNUM": "73",
-    "TABLE": "SHHS2",
-    "LABEL": "Maximum Hypopnea length w/ arousals (NREM, Back, 4% oxygen desaturation) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

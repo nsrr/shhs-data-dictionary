@@ -6,15 +6,5 @@
   "units": "drinks",
   "labels": [
     "ms210c"
-  ],
-  "hybrid": {
-    "VARNUM": "124",
-    "TABLE": "SHHS2",
-    "LABEL": "MS 10c Glasses/cans of caffeinated soda",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "units": "stage shifts",
   "labels": [
     "remt1p"
-  ],
-  "hybrid": {
-    "VARNUM": "346",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of REM to stage 1 shifts during sleep",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "domain": "incdec4",
   "labels": [
     "sh312"
-  ],
-  "hybrid": {
-    "VARNUM": "25",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 12  How has snoring changed over time",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

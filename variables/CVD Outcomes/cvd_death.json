@@ -7,15 +7,5 @@
   "labels": [
     "cvd_death",
     "cardiovascular disease"
-  ],
-  "hybrid": {
-    "VARNUM": "13",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Died from CVD?",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

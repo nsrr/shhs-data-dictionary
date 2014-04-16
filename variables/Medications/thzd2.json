@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "THZD2"
-  ],
-  "hybrid": {
-    "VARNUM": "314",
-    "TABLE": "SHHS2",
-    "LABEL": "THIAZOLIDINEDIONES",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

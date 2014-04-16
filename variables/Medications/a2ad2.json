@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "A2AD2"
-  ],
-  "hybrid": {
-    "VARNUM": "244",
-    "TABLE": "SHHS2",
-    "LABEL": "COMBINATIONS OF ANGIOTENSIN II ANTAGONISTS PLUS DIURETICS",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

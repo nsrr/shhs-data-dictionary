@@ -7,15 +7,5 @@
   "labels": [
     "tto_cabgdate",
     "coronary artery bypass graft"
-  ],
-  "hybrid": {
-    "VARNUM": "29",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Days to First CABG Since Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

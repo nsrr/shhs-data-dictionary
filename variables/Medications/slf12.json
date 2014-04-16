@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "SLF12"
-  ],
-  "hybrid": {
-    "VARNUM": "307",
-    "TABLE": "SHHS2",
-    "LABEL": "FIRST GENERATION SULFONYLUREAS",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

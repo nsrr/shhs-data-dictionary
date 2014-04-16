@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "mnoanop4"
-  ],
-  "hybrid": {
-    "VARNUM": "48",
-    "TABLE": "SHHS2",
-    "LABEL": "Minumum Obstructive Apnea length (NREM, Other, 4% oxygen desaturation) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

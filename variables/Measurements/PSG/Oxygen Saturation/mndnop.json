@@ -6,15 +6,5 @@
   "units": "percent",
   "labels": [
     "mndnop"
-  ],
-  "hybrid": {
-    "VARNUM": "409",
-    "TABLE": "SHHS2",
-    "LABEL": "Minumum SaO2 (NREM, Other, all oxygen desaturations) (%)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": "psg:minsat"
-  }
+  ]
 }

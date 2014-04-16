@@ -7,15 +7,5 @@
   "labels": [
     "BMI_s1"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "721",
-    "TABLE": "SHHS1",
-    "LABEL": "Derived Body Mass Index SHHS 1",
-    "sensitivity": "0",
-    "design_name": null,
-    "MEMNAME": "shhs1_2",
-    "design_file": null,
-    "PARENT TERM": "anthropromorphy:bmi"
-  }
+  "commonly_used": true
 }

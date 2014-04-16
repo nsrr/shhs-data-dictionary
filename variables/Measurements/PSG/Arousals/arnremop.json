@@ -6,12 +6,5 @@
   "units": "arousals",
   "labels": [
     "arnremop"
-  ],
-  "hybrid": {
-    "VARNUM": "343",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "design_file": null,
-    "PARENT TERM": "psg:arousals"
-  }
+  ]
 }

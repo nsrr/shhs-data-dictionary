@@ -7,13 +7,5 @@
   "calculation": "60 * ( arnrembp + arnremop ) / ( slpprdp - minremp )",
   "labels": [
     "ai_nrem"
-  ],
-  "hybrid": {
-    "VARNUM": "537",
-    "LABEL": "Calculated - arousal index non-rem",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "design_file": null,
-    "PARENT TERM": "psg:ai"
-  }
+  ]
 }

@@ -5,15 +5,5 @@
   "type": "text",
   "labels": [
     "rpt"
-  ],
-  "hybrid": {
-    "VARNUM": "459",
-    "TABLE": "SHHS2",
-    "LABEL": "Compumedics Report Version",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

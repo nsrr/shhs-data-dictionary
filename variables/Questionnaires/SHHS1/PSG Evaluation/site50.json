@@ -9,15 +9,5 @@
   ],
   "forms": [
     "shhs1_sleep_data_retrieval_form"
-  ],
-  "hybrid": {
-    "VARNUM": "284",
-    "TABLE": "SHHS1",
-    "LABEL": "SR Site 50",
-    "sensitivity": "1",
-    "design_name": "PSG Evaluation (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Sleep Data Retrieval.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

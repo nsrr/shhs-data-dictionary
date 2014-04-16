@@ -6,15 +6,5 @@
   "units": "hour",
   "labels": [
     "Oximdur"
-  ],
-  "hybrid": {
-    "VARNUM": "470",
-    "TABLE": "SHHS2",
-    "LABEL": "QS - hours of usable oximetry",
-    "sensitivity": "0",
-    "design_name": "PSG QS Form (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": "SHHS2 PSG QS form.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

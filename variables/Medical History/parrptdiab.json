@@ -7,15 +7,5 @@
   "labels": [
     "ParRptDiab"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "16",
-    "TABLE": "SHHS1",
-    "LABEL": "Diabetes Status",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": "comorb:diabetes"
-  }
+  "commonly_used": true
 }

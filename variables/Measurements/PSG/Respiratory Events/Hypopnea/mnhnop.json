@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "mnhnop"
-  ],
-  "hybrid": {
-    "VARNUM": "364",
-    "TABLE": "SHHS2",
-    "LABEL": "Minumum Hypopnea length (NREM, Other, all oxygen desaturations) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

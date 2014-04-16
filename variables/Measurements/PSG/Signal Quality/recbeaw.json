@@ -6,15 +6,5 @@
   "domain": "yesnon",
   "labels": [
     "RecBeAw"
-  ],
-  "hybrid": {
-    "VARNUM": "492",
-    "TABLE": "SHHS2",
-    "LABEL": "QS - Data Lost - Recording ended before wake",
-    "sensitivity": "0",
-    "design_name": "PSG QS Form (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": "SHHS2 PSG QS form.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

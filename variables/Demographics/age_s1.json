@@ -7,15 +7,5 @@
   "labels": [
     "age_s1"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "720",
-    "TABLE": "SHHS1",
-    "LABEL": "Derived age for SHHS 1",
-    "sensitivity": "0",
-    "design_name": null,
-    "MEMNAME": "shhs1_2",
-    "design_file": null,
-    "PARENT TERM": "demo:age"
-  }
+  "commonly_used": true
 }

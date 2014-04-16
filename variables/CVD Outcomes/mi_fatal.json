@@ -8,15 +8,5 @@
     "mi_fatal",
     "heart attack",
     "myocardial infarction"
-  ],
-  "hybrid": {
-    "VARNUM": "9",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Fatal MI since Baseline?",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

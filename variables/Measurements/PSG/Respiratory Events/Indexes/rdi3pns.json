@@ -9,15 +9,5 @@
     "rdi3pns",
     "rdi",
     "ahi"
-  ],
-  "hybrid": {
-    "VARNUM": "555",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - Overall Non-Supine RDI at 3% oxygen desaturation",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:ahi_nonsupine"
-  }
+  ]
 }

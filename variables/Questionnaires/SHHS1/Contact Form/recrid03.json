@@ -8,15 +8,5 @@
   ],
   "forms": [
     "shhs1_contact_form"
-  ],
-  "hybrid": {
-    "VARNUM": "85",
-    "TABLE": "SHHS1",
-    "LABEL": "CF Recruit ID 03",
-    "sensitivity": "1",
-    "design_name": "Contact Form (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Contact Form (CF).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

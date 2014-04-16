@@ -6,15 +6,5 @@
   "units": "hypopnea events",
   "labels": [
     "hnrop4"
-  ],
-  "hybrid": {
-    "VARNUM": "14",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of Hypopnea (NREM, Other, 4% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:hypopnea"
-  }
+  ]
 }

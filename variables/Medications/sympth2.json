@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "SYMPTH2"
-  ],
-  "hybrid": {
-    "VARNUM": "310",
-    "TABLE": "SHHS2",
-    "LABEL": "SYMPATHOMIMETICS, ORAL AND INHALED",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "units": "minute",
   "labels": [
     "minremp"
-  ],
-  "hybrid": {
-    "VARNUM": "308",
-    "TABLE": "SHHS2",
-    "LABEL": "Time in REM sleep (minutes)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:sleeptime"
-  }
+  ]
 }

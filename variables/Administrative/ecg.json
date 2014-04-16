@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "ECG"
-  ],
-  "hybrid": {
-    "VARNUM": "44",
-    "TABLE": "SHHS1",
-    "LABEL": "AV ECG",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

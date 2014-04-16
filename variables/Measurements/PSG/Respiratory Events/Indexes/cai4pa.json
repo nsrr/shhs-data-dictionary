@@ -7,15 +7,5 @@
   "calculation": "60 * ( carba4 + caroa4 + canba4 + canoa4 ) / slpprdp",
   "labels": [
     "cai4pa"
-  ],
-  "hybrid": {
-    "VARNUM": "574",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - Central Apnea Index 4% or arousal",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:cai"
-  }
+  ]
 }

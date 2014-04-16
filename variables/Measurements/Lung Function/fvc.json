@@ -7,15 +7,5 @@
   "labels": [
     "FVC"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "38",
-    "TABLE": "SHHS1",
-    "LABEL": "AV ForcVitalCap",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  "commonly_used": true
 }

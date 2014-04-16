@@ -6,15 +6,5 @@
   "units": "minute",
   "labels": [
     "timebedp"
-  ],
-  "hybrid": {
-    "VARNUM": "303",
-    "TABLE": "SHHS2",
-    "LABEL": "Time in bed (minutes)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

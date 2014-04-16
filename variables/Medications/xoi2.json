@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "XOI2"
-  ],
-  "hybrid": {
-    "VARNUM": "322",
-    "TABLE": "SHHS2",
-    "LABEL": "XANTHINE OXIDASE INHIBITORS",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

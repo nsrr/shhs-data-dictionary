@@ -7,15 +7,5 @@
   "calculation": "remlaip",
   "labels": [
     "rem_lat1"
-  ],
-  "hybrid": {
-    "VARNUM": "532",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - rem latency I in minutes slp onset to first rem",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

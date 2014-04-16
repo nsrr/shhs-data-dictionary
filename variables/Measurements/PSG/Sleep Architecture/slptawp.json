@@ -6,15 +6,5 @@
   "units": "stage shifts",
   "labels": [
     "slptawp"
-  ],
-  "hybrid": {
-    "VARNUM": "349",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of sleep to awake shifts",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

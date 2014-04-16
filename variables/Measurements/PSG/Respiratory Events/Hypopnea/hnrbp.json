@@ -6,15 +6,5 @@
   "units": "hypopnea events",
   "labels": [
     "hnrbp"
-  ],
-  "hybrid": {
-    "VARNUM": "358",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of Hypopnea (NREM, Back, all oxygen desaturations)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": "psg:hypopnea"
-  }
+  ]
 }

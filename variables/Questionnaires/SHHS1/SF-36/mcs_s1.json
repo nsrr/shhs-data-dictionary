@@ -6,15 +6,5 @@
   "units": "score",
   "labels": [
     "mcs_s1"
-  ],
-  "hybrid": {
-    "VARNUM": "719",
-    "TABLE": "SHHS1",
-    "LABEL": "STANDARDIZED MENTAL COMPONENT SCALE-00",
-    "sensitivity": "0",
-    "design_name": "SF-36 Calculated (SHHS1)",
-    "MEMNAME": "shhs1_2",
-    "design_file": "SHHS1 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

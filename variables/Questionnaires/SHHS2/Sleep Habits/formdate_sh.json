@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "formdate_sh"
-  ],
-  "hybrid": {
-    "VARNUM": "11",
-    "TABLE": "SHHS2",
-    "LABEL": "Date of Sleep Habits form",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

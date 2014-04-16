@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "sh313"
-  ],
-  "hybrid": {
-    "VARNUM": "26",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 13  Ever had somnoplasty/surgery for sno",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

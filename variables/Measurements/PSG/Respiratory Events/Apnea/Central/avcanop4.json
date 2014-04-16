@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "avcanop4"
-  ],
-  "hybrid": {
-    "VARNUM": "31",
-    "TABLE": "SHHS2",
-    "LABEL": "Average Central Apnea length (NREM, Other, 4% oxygen desaturation) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "domain": "nhchan4",
   "labels": [
     "sh319f"
-  ],
-  "hybrid": {
-    "VARNUM": "65",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 19f Sitting and talking to someone",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -9,15 +9,5 @@
     "rdirem0p",
     "rdi",
     "ahi"
-  ],
-  "hybrid": {
-    "VARNUM": "559",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - Overall rem RDI at 0% oxygen desaturation",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:ahi_rem"
-  }
+  ]
 }

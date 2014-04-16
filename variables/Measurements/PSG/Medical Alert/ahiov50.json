@@ -6,15 +6,5 @@
   "domain": "yesnon",
   "labels": [
     "AHIov50"
-  ],
-  "hybrid": {
-    "VARNUM": "490",
-    "TABLE": "SHHS2",
-    "LABEL": "QS - Medical Alert - AHI > 50",
-    "sensitivity": "0",
-    "design_name": "PSG QS Form (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": "SHHS2 PSG QS form.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

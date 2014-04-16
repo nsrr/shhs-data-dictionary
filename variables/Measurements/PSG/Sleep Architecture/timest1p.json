@@ -8,15 +8,5 @@
   "labels": [
     "timest1p"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "524",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - pct time stage 1",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:pctsleeptime"
-  }
+  "commonly_used": true
 }

@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "formdate_ms"
-  ],
-  "hybrid": {
-    "VARNUM": "103",
-    "TABLE": "SHHS2",
-    "LABEL": "Date of Morning Survey form",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

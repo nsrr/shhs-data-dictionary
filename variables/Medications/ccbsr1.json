@@ -9,15 +9,5 @@
   ],
   "forms": [
     "shhs1_medications_prescription_and_over_the_counter_form"
-  ],
-  "hybrid": {
-    "VARNUM": "182",
-    "TABLE": "SHHS1",
-    "LABEL": "MU Slow-release CCBS = NIFSR or DIHSR or VERSR or DLTSR or AMLOD",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Medications.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "domain": "check",
   "labels": [
     "sh318a"
-  ],
-  "hybrid": {
-    "VARNUM": "56",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 18a Insomnia",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "domain": "nhchan4",
   "labels": [
     "sh319i"
-  ],
-  "hybrid": {
-    "VARNUM": "68",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 19i At dinner table",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "shhs2_sh"
-  ],
-  "hybrid": {
-    "VARNUM": "327",
-    "TABLE": "SHHS2",
-    "LABEL": "Sleep Habits form present 0-No, 1-Yes",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

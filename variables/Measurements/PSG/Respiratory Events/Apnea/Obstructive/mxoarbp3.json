@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "mxoarbp3"
-  ],
-  "hybrid": {
-    "VARNUM": "625",
-    "TABLE": "SHHS2",
-    "LABEL": "Maximum Obstructive Apnea length (REM, Back, 3% oxygen desaturation) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

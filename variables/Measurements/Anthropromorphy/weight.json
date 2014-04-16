@@ -7,15 +7,5 @@
   "labels": [
     "Weight"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "27",
-    "TABLE": "SHHS1",
-    "LABEL": "AV Weight",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": "anthropromorphy:weight"
-  }
+  "commonly_used": true
 }

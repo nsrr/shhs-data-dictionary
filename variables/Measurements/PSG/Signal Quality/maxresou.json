@@ -6,15 +6,5 @@
   "domain": "yesnon",
   "labels": [
     "MaxResOu"
-  ],
-  "hybrid": {
-    "VARNUM": "515",
-    "TABLE": "SHHS2",
-    "LABEL": "QS - Outlier - max length respiratory event > 150s verified",
-    "sensitivity": "0",
-    "design_name": "PSG QS Form (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": "SHHS2 PSG QS form.pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

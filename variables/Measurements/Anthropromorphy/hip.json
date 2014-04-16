@@ -7,15 +7,5 @@
   "labels": [
     "Hip"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "31",
-    "TABLE": "SHHS1",
-    "LABEL": "AV Hip",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": "anthropromorphy:hipcf"
-  }
+  "commonly_used": true
 }

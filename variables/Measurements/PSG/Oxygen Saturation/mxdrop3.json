@@ -6,15 +6,5 @@
   "units": "percent",
   "labels": [
     "mxdrop3"
-  ],
-  "hybrid": {
-    "VARNUM": "639",
-    "TABLE": "SHHS2",
-    "LABEL": "Maximum oxygen desaturation (REM, Other, 3% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

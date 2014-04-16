@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "shhs2_all"
-  ],
-  "hybrid": {
-    "VARNUM": "333",
-    "TABLE": "SHHS2",
-    "LABEL": "All SHHS2 forms present 0-No, 1-Yes",
-    "sensitivity": "0",
-    "design_name": null,
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

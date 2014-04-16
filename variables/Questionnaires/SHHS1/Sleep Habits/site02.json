@@ -9,15 +9,5 @@
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "hybrid": {
-    "VARNUM": "295",
-    "TABLE": "SHHS1",
-    "LABEL": "SH Site ID 02",
-    "sensitivity": "1",
-    "design_name": "Sleep Habits (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

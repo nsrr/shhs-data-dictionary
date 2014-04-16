@@ -10,15 +10,5 @@
   "commonly_used": true,
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "hybrid": {
-    "VARNUM": "722",
-    "TABLE": "SHHS1",
-    "LABEL": "Derived Smoking Status SHHS 1 0=never 1=current 2=former",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS1)",
-    "MEMNAME": "shhs1_2",
-    "design_file": null,
-    "PARENT TERM": "comorb:smoking"
-  }
+  ]
 }

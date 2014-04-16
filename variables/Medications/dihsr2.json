@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "DIHSR2"
-  ],
-  "hybrid": {
-    "VARNUM": "271",
-    "TABLE": "SHHS2",
-    "LABEL": "SLOW-RELEASE DIHYDROPYRIDINES OTHER THAN NIFEDIPINE OR AMLOPIDINE",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

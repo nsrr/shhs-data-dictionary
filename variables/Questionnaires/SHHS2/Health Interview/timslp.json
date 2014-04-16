@@ -5,15 +5,5 @@
   "type": "text",
   "labels": [
     "TimSlp"
-  ],
-  "hybrid": {
-    "VARNUM": "79",
-    "TABLE": "SHHS2",
-    "LABEL": "3 Time went to sleep last night",
-    "sensitivity": "0",
-    "design_name": "Health Interview (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

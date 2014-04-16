@@ -7,15 +7,5 @@
   "labels": [
     "bmi_s2"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "133",
-    "TABLE": "SHHS2",
-    "LABEL": "Body Mass Index SHHS2",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": "anthropromorphy:bmi"
-  }
+  "commonly_used": true
 }

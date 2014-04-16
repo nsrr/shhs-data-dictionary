@@ -7,15 +7,5 @@
   "labels": [
     "Stroke"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "357",
-    "TABLE": "SHHS1",
-    "LABEL": "CVD Stroke",
-    "sensitivity": "0",
-    "design_name": null,
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  "commonly_used": true
 }

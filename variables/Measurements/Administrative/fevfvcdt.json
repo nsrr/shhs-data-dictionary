@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "FEVFVCDT"
-  ],
-  "hybrid": {
-    "VARNUM": "39",
-    "TABLE": "SHHS1",
-    "LABEL": "AV FEVolFVCapDT",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

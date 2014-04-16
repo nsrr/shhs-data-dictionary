@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "AlcohDT"
-  ],
-  "hybrid": {
-    "VARNUM": "21",
-    "TABLE": "SHHS1",
-    "LABEL": "AV AlcohDT",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

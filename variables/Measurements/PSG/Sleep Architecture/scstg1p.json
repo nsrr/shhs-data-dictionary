@@ -3,15 +3,5 @@
   "display_name": "Time in stage 1 sleep (SHHS1)",
   "description": "",
   "type": "numeric",
-  "units": "seconds",
-  "hybrid": {
-    "VARNUM": "510",
-    "TABLE": "SHHS1",
-    "LABEL": "ScStg1P",
-    "sensitivity": "2",
-    "design_name": "PSG Report (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": "psg:sleeptime"
-  }
+  "units": "seconds"
 }

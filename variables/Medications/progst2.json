@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "PROGST2"
-  ],
-  "hybrid": {
-    "VARNUM": "302",
-    "TABLE": "SHHS2",
-    "LABEL": "PROGESTINS",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

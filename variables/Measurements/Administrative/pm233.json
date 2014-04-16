@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "pm233"
-  ],
-  "hybrid": {
-    "VARNUM": "142",
-    "TABLE": "SHHS2",
-    "LABEL": "PM 33  Date of ECG measurement",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

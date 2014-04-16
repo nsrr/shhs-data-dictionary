@@ -6,15 +6,5 @@
   "units": "percent",
   "labels": [
     "avdnba"
-  ],
-  "hybrid": {
-    "VARNUM": "464",
-    "TABLE": "SHHS2",
-    "LABEL": "Average oxygen desaturation w/ arousals (NREM, Back, all oxygen desaturations)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

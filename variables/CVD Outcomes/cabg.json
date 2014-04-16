@@ -8,15 +8,5 @@
     "cabg",
     "stent",
     "coronary artery bypass graft"
-  ],
-  "hybrid": {
-    "VARNUM": "19",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Number of CABGs Since Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

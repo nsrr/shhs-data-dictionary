@@ -6,15 +6,5 @@
   "units": "naps",
   "labels": [
     "sh304a"
-  ],
-  "hybrid": {
-    "VARNUM": "41",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 4a  Number of 5+ minute naps during week",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

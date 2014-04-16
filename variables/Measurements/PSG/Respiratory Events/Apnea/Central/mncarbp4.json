@@ -6,15 +6,5 @@
   "units": "seconds",
   "labels": [
     "mncarbp4"
-  ],
-  "hybrid": {
-    "VARNUM": "20",
-    "TABLE": "SHHS2",
-    "LABEL": "Minumum Central Apnea length (REM, Back, 4% oxygen desaturation) (seconds)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

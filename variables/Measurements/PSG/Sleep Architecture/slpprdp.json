@@ -6,15 +6,5 @@
   "units": "minute",
   "labels": [
     "slpprdp"
-  ],
-  "hybrid": {
-    "VARNUM": "304",
-    "TABLE": "SHHS2",
-    "LABEL": "Sleep Time (minutes)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:sleeptime"
-  }
+  ]
 }

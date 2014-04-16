@@ -6,15 +6,5 @@
   "units": "drinks",
   "labels": [
     "ms209b"
-  ],
-  "hybrid": {
-    "VARNUM": "120",
-    "TABLE": "SHHS2",
-    "LABEL": "MS 9b  Drinks with hard liquor (1 shot)",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

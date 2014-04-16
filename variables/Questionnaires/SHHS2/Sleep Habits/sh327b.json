@@ -6,15 +6,5 @@
   "units": "cans",
   "labels": [
     "sh327b"
-  ],
-  "hybrid": {
-    "VARNUM": "73",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 27  Cans of cola per day",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

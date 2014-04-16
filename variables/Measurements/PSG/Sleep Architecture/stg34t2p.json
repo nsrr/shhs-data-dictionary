@@ -6,15 +6,5 @@
   "units": "stage shifts",
   "labels": [
     "stg34t2p"
-  ],
-  "hybrid": {
-    "VARNUM": "345",
-    "TABLE": "SHHS2",
-    "LABEL": "Number of stage 3/4 to stage 1/2 shifts during sleep",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

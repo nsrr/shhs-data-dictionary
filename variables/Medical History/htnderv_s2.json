@@ -7,15 +7,5 @@
   "labels": [
     "HTNDerv_s2"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "134",
-    "TABLE": "SHHS2",
-    "LABEL": "Classified as having Hypertension SHHS2",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": "comorb:htn"
-  }
+  "commonly_used": true
 }

@@ -7,15 +7,5 @@
   "labels": [
     "any_chd",
     "coronary heart disease"
-  ],
-  "hybrid": {
-    "VARNUM": "22",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Any CHD Since Baseline?",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

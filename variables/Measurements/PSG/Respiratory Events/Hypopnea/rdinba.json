@@ -6,15 +6,5 @@
   "units": "events per hour",
   "labels": [
     "rdinba"
-  ],
-  "hybrid": {
-    "VARNUM": "342",
-    "TABLE": "SHHS2",
-    "LABEL": "Hypopnea per hour w/ arousals (NREM, Back, all oxygen desaturations)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:hi"
-  }
+  ]
 }

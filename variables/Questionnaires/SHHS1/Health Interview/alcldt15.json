@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "ALCLDT15"
-  ],
-  "hybrid": {
-    "VARNUM": "133",
-    "TABLE": "SHHS1",
-    "LABEL": "HI DT Alc Coll 15",
-    "sensitivity": "0",
-    "design_name": "Health Interview (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

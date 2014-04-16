@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "SysDiaDT"
-  ],
-  "hybrid": {
-    "VARNUM": "24",
-    "TABLE": "SHHS1",
-    "LABEL": "AV SysDiaDT",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

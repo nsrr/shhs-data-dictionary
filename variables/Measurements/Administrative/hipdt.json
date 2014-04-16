@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "HipDT"
-  ],
-  "hybrid": {
-    "VARNUM": "32",
-    "TABLE": "SHHS1",
-    "LABEL": "AV HipDT",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

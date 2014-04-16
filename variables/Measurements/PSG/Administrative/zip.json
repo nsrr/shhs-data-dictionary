@@ -8,15 +8,5 @@
   ],
   "forms": [
     "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
-  ],
-  "hybrid": {
-    "VARNUM": "587",
-    "TABLE": "SHHS1",
-    "LABEL": "Zip Cartridge #",
-    "sensitivity": "1",
-    "design_name": "PSG Quality Assessment (SHHS1)",
-    "MEMNAME": "shhs1_2",
-    "design_file": "SHHS1 PSG Quality Assessment (QC).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

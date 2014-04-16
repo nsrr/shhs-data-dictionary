@@ -5,15 +5,5 @@
   "type": "time",
   "labels": [
     "stloutp"
-  ],
-  "hybrid": {
-    "VARNUM": "338",
-    "TABLE": "SHHS2",
-    "LABEL": "Lights out time (hh:mm:ss)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

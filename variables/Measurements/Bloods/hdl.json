@@ -7,15 +7,5 @@
   "labels": [
     "HDL"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "34",
-    "TABLE": "SHHS1",
-    "LABEL": "AV HDL",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  "commonly_used": true
 }

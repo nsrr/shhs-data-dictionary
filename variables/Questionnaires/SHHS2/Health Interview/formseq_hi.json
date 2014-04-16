@@ -6,15 +6,5 @@
   "domain": "frmseq",
   "labels": [
     "formseq_hi"
-  ],
-  "hybrid": {
-    "VARNUM": "78",
-    "TABLE": "SHHS2",
-    "LABEL": "Form sequence number",
-    "sensitivity": "0",
-    "design_name": "Health Interview (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -7,15 +7,5 @@
   "calculation": "60 * ( oarbp4 + oarop4 + oanbp4 + oanop4 ) / slpprdp",
   "labels": [
     "oai4p"
-  ],
-  "hybrid": {
-    "VARNUM": "570",
-    "TABLE": "SHHS2",
-    "LABEL": "Calculated - Obstructive Apnea Index 4% oxygen desaturation",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": null,
-    "PARENT TERM": "psg:oai"
-  }
+  ]
 }

@@ -7,15 +7,5 @@
   "labels": [
     "overall_shhs2"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "481",
-    "TABLE": "SHHS2",
-    "LABEL": "QS - Overall study grade",
-    "sensitivity": "0",
-    "design_name": "PSG QS Form (SHHS2)",
-    "MEMNAME": "shhs2_2",
-    "design_file": "SHHS2 PSG QS form.pdf",
-    "PARENT TERM": null
-  }
+  "commonly_used": true
 }

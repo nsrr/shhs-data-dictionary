@@ -7,15 +7,5 @@
   "labels": [
     "tto_stkdate",
     "stroke"
-  ],
-  "hybrid": {
-    "VARNUM": "38",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Days to First Stroke Since Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

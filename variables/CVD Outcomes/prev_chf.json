@@ -7,15 +7,5 @@
   "labels": [
     "prev_chf",
     "congestive heart failure"
-  ],
-  "hybrid": {
-    "VARNUM": "20",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Number of CHF Prior to Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "units": "years",
   "labels": [
     "hi215"
-  ],
-  "hybrid": {
-    "VARNUM": "91",
-    "TABLE": "SHHS2",
-    "LABEL": "15  Age when symptoms first noticed",
-    "sensitivity": "0",
-    "design_name": "Health Interview (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

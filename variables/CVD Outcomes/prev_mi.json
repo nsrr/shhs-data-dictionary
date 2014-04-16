@@ -8,15 +8,5 @@
     "prev_mi",
     "myocardial infarction",
     "heart attack"
-  ],
-  "hybrid": {
-    "VARNUM": "4",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Number of MIs Prior to Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

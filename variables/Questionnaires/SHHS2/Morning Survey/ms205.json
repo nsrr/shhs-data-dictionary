@@ -6,15 +6,5 @@
   "domain": "betwrs5",
   "labels": [
     "ms205"
-  ],
-  "hybrid": {
-    "VARNUM": "112",
-    "TABLE": "SHHS2",
-    "LABEL": "MS 5   Last night compared to usual sleep",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

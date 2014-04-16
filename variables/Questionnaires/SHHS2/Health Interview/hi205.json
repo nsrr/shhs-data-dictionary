@@ -6,15 +6,5 @@
   "domain": "wrsbet5",
   "labels": [
     "hi205"
-  ],
-  "hybrid": {
-    "VARNUM": "83",
-    "TABLE": "SHHS2",
-    "LABEL": "5   How well slept last night",
-    "sensitivity": "0",
-    "design_name": "Health Interview (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

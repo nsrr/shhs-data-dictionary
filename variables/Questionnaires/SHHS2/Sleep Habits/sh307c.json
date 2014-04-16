@@ -6,15 +6,5 @@
   "domain": "check",
   "labels": [
     "sh307c"
-  ],
-  "hybrid": {
-    "VARNUM": "44",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 7c  Nap to feel refreshed",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

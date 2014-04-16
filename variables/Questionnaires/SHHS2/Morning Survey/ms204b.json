@@ -6,15 +6,5 @@
   "domain": "shorlon5",
   "labels": [
     "ms204b"
-  ],
-  "hybrid": {
-    "VARNUM": "117",
-    "TABLE": "SHHS2",
-    "LABEL": "MS 4b  Short vs Long sleep",
-    "sensitivity": "0",
-    "design_name": "Morning Survey (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Morning Survey (MS).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

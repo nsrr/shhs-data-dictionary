@@ -6,15 +6,5 @@
   "units": "cigarettes",
   "labels": [
     "AVESMK15"
-  ],
-  "hybrid": {
-    "VARNUM": "131",
-    "TABLE": "SHHS1",
-    "LABEL": "HI AveSmk a day15",
-    "sensitivity": "0",
-    "design_name": "Health Interview (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 Health Interview (HI).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

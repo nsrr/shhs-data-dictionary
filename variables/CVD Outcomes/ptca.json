@@ -8,15 +8,5 @@
     "ptca",
     "stent",
     "percutaneous transluminal coronary angioplasty"
-  ],
-  "hybrid": {
-    "VARNUM": "18",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Number of PTCAs Since Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

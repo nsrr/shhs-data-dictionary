@@ -6,15 +6,5 @@
   "units": "percent",
   "labels": [
     "mxdrba2"
-  ],
-  "hybrid": {
-    "VARNUM": "578",
-    "TABLE": "SHHS2",
-    "LABEL": "Maximum oxygen desaturation w/ arousals (REM, Back, 2% oxygen desaturation)",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "AMLOD2"
-  ],
-  "hybrid": {
-    "VARNUM": "252",
-    "TABLE": "SHHS2",
-    "LABEL": "AMLODIPINE",
-    "sensitivity": "0",
-    "design_name": "Medication Form (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Medications (MD).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

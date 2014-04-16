@@ -6,15 +6,5 @@
   "units": "centimeter",
   "labels": [
     "pm212b"
-  ],
-  "hybrid": {
-    "VARNUM": "155",
-    "TABLE": "SHHS2",
-    "LABEL": "PM 12b Neck circumference (cm) - 2nd read",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": "anthropromorphy:neckcf"
-  }
+  ]
 }

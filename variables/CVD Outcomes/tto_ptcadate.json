@@ -7,15 +7,5 @@
   "labels": [
     "tto_ptcadate",
     "percutaneous transluminal coronary angioplasty"
-  ],
-  "hybrid": {
-    "VARNUM": "36",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Days to First PTCA Since Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

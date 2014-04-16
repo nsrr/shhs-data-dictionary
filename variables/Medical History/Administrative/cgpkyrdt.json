@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "CgPkYrDT"
-  ],
-  "hybrid": {
-    "VARNUM": "19",
-    "TABLE": "SHHS1",
-    "LABEL": "AV CigPackYrDT",
-    "sensitivity": "0",
-    "design_name": "A-variables",
-    "MEMNAME": "shhs1_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

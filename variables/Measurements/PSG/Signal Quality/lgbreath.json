@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "forms": [
     "shhs1_psg_scoring_notes_form"
-  ],
-  "hybrid": {
-    "VARNUM": "692",
-    "TABLE": "SHHS1",
-    "LABEL": "Periodic Large Breaths",
-    "sensitivity": "0",
-    "design_name": "PSG Scoring Notes (SHHS1)",
-    "MEMNAME": "shhs1_1",
-    "design_file": "SHHS1 PSG Scoring Notes (SN).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

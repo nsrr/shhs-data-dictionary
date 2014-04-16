@@ -6,15 +6,5 @@
   "units": "days from index date",
   "labels": [
     "stdatep"
-  ],
-  "hybrid": {
-    "VARNUM": "336",
-    "TABLE": "SHHS2",
-    "LABEL": "PSG Start Date",
-    "sensitivity": "0",
-    "design_name": "PSG Report (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

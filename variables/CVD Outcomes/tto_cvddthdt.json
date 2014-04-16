@@ -7,15 +7,5 @@
   "labels": [
     "tto_cvddthdt",
     "cardiovascular disease"
-  ],
-  "hybrid": {
-    "VARNUM": "33",
-    "TABLE": "SHHSCVD",
-    "LABEL": "Days to First CVD Since Baseline",
-    "sensitivity": "0",
-    "design_name": "CVD Outcomes (SHHSCVD)",
-    "MEMNAME": "shhs_cvd",
-    "design_file": null,
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "ql205b"
-  ],
-  "hybrid": {
-    "VARNUM": "210",
-    "TABLE": "SHHS2",
-    "LABEL": "QL 5b  Accomplished less than liked",
-    "sensitivity": "0",
-    "design_name": "Quality of Life (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

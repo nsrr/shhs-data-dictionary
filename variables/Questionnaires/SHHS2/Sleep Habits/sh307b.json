@@ -6,15 +6,5 @@
   "domain": "check",
   "labels": [
     "sh307b"
-  ],
-  "hybrid": {
-    "VARNUM": "43",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 7b  Nap due to illness or medical reason",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

@@ -6,15 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "ql204a"
-  ],
-  "hybrid": {
-    "VARNUM": "205",
-    "TABLE": "SHHS2",
-    "LABEL": "QL 4a  Reduce time spent on work/other acti",
-    "sensitivity": "0",
-    "design_name": "Quality of Life (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

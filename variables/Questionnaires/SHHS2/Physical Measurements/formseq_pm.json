@@ -6,15 +6,5 @@
   "domain": "frmseq",
   "labels": [
     "formseq_pm"
-  ],
-  "hybrid": {
-    "VARNUM": "132",
-    "TABLE": "SHHS2",
-    "LABEL": "Form sequence number",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

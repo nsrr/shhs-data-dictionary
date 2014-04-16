@@ -6,15 +6,5 @@
   "domain": "check",
   "labels": [
     "sh307d"
-  ],
-  "hybrid": {
-    "VARNUM": "45",
-    "TABLE": "SHHS2",
-    "LABEL": "SH 7d  Other reason for nap",
-    "sensitivity": "0",
-    "design_name": "Sleep Habits (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Sleep Habits (SH).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

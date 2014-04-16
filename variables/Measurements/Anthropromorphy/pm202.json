@@ -7,15 +7,5 @@
   "labels": [
     "pm202"
   ],
-  "commonly_used": true,
-  "hybrid": {
-    "VARNUM": "144",
-    "TABLE": "SHHS2",
-    "LABEL": "PM 2 Weight in kg",
-    "sensitivity": "0",
-    "design_name": "Physical Measurements (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Physical Measurements (PM).pdf",
-    "PARENT TERM": "anthropromorphy:weight"
-  }
+  "commonly_used": true
 }

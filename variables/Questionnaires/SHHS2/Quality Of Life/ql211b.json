@@ -6,15 +6,5 @@
   "domain": "trufals5",
   "labels": [
     "ql211b"
-  ],
-  "hybrid": {
-    "VARNUM": "222",
-    "TABLE": "SHHS2",
-    "LABEL": "QL 11b As healthy as anybody I know",
-    "sensitivity": "0",
-    "design_name": "Quality of Life (SHHS2)",
-    "MEMNAME": "shhs2_1",
-    "design_file": "SHHS2 Quality of Life (QL).pdf",
-    "PARENT TERM": null
-  }
+  ]
 }

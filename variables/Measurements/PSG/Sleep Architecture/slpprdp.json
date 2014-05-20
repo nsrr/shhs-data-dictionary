@@ -3,7 +3,7 @@
   "display_name": "Sleep Time",
   "description": "Sleep Time (minutes)",
   "type": "numeric",
-  "units": "minute",
+  "units": "seconds",
   "labels": [
     "slpprdp"
   ]

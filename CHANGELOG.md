@@ -4,6 +4,11 @@
 - **Gem Changes**
   - Use of Ruby 2.1.2 is now recommended
   - Updated to spout 0.7.0
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.3.0\`
+    - `shhs1-dataset-0.3.0.beta1.csv`
+    - `shhs2-dataset-0.3.0.beta1.csv`
+    - `shhs-cvd-dataset-0.3.0.beta1.csv`
 
 ## 0.2.0 (March 24, 2014)
 

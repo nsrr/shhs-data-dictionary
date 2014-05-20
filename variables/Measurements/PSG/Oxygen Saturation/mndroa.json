@@ -1,7 +1,7 @@
 {
   "id": "mndroa",
   "display_name": "Minumum SaO2 w/ arousals (REM, Other, all oxygen desaturations)",
-  "description": "Minumum SaO2 w/ arousals (REM, Other, all oxygen desaturations) (%)",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

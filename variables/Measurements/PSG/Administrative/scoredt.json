@@ -1,7 +1,7 @@
 {
   "id": "scoredt",
   "display_name": "Date study scored (SHHS2)",
-  "description": "Date study scored",
+  "description": "",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

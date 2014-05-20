@@ -1,7 +1,7 @@
 {
   "id": "avdnbp4",
   "display_name": "Average oxygen desaturation (NREM, Back, 4% oxygen desaturation)",
-  "description": "Average oxygen desaturation (NREM, Back, 4% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

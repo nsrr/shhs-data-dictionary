@@ -1,7 +1,7 @@
 {
   "id": "mndnbp5",
   "display_name": "Minumum SaO2 (NREM, Back, 5% oxygen desaturation)",
-  "description": "Minumum SaO2 (NREM, Back, 5% oxygen desaturation) (%)",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

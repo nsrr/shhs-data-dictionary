@@ -1,7 +1,7 @@
 {
   "id": "scoridsn",
   "display_name": "PSG Scoring Notes (SHHS1): Scorer ID",
-  "description": "Scorer ID",
+  "description": "",
   "type": "choices",
   "domain": "scoridf",
   "forms": [

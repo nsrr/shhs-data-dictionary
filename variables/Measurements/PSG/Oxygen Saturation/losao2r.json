@@ -1,7 +1,7 @@
 {
   "id": "losao2r",
   "display_name": "Minimum SaO2 in REM sleep",
-  "description": "Minimum SaO2% in REM sleep.  The minimum of all oxygen saturation values in epochs scored as stage REM.  [Min(all SaO2 values in REM sleep)]",
+  "description": "The minimum of all oxygen saturation values in epochs scored as stage REM.",
   "type": "numeric",
   "units": "percent",
   "calculation": "mnsao2rh",

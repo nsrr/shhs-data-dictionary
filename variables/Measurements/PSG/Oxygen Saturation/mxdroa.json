@@ -1,7 +1,7 @@
 {
   "id": "mxdroa",
-  "display_name": "Maximum oxygen desaturation w/ arousals (REM, Other, all oxygen desaturations)",
-  "description": "Maximum oxygen desaturation w/ arousals (REM, Other, all oxygen desaturations)",
+  "display_name": "Maximum oxygen desaturation with arousals (REM, Other, all oxygen desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

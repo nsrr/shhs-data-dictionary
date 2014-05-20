@@ -1,7 +1,7 @@
 {
   "id": "avdrbp2",
   "display_name": "Average oxygen desaturation (REM, Back, 2% oxygen desaturation)",
-  "description": "Average oxygen desaturation (REM, Back, 2% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

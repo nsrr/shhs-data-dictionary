@@ -1,7 +1,7 @@
 {
   "id": "avdroa",
   "display_name": "Average oxygen desaturation w/ arousals (REM, Other, all oxygen desaturations)",
-  "description": "Average oxygen desaturation w/ arousals (REM, Other, all oxygen desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

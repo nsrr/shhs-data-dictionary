@@ -1,7 +1,7 @@
 {
   "id": "scoridqa",
   "display_name": "PSG Quality Assessment (SHHS1): Assigned Scorer ID",
-  "description": "Scorer ID",
+  "description": "",
   "type": "choices",
   "domain": "scoridf",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "mnsao2rh",
   "display_name": "Minumum SaO2 % during REM sleep",
-  "description": "Minumum SaO2 % during REM sleep",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "f2r",
   "display_name": "Raw data txt file name (SHHS2)",
-  "description": "Raw data txt file name",
+  "description": "",
   "type": "text",
   "labels": [
     "f2r"

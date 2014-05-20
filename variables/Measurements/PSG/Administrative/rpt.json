@@ -1,7 +1,7 @@
 {
   "id": "rpt",
   "display_name": "PSG (SHHS2): Compumedics Report Version",
-  "description": "Compumedics Report Version",
+  "description": "",
   "type": "text",
   "labels": [
     "rpt"

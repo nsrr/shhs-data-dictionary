@@ -1,7 +1,7 @@
 {
   "id": "sao2rem",
   "display_name": "Average SaO2 in REM sleep",
-  "description": "Average SaO2% in REM sleep.  The mean of all oxygen saturation values in epochs scored as stage REM.  [Mean(all SaO2 values in REM sleep)]",
+  "description": "The mean of all oxygen saturation values in epochs scored as stage REM.",
   "type": "numeric",
   "units": "percent",
   "calculation": "avsao2rh",

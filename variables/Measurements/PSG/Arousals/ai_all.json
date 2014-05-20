@@ -1,7 +1,7 @@
 {
   "id": "ai_all",
   "display_name": "Arousal Index",
-  "description": "Total number of arousals per hour of sleep.  Ratio of count of arousals to total sleep time in hours.   [(Total number of arousals) / (hours of sleep)]",
+  "description": "Total number of arousals per hour of sleep.  Ratio of count of arousals to total sleep time in hours.",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( arrembp + arremop + arnrembp + arnremop ) / slpprdp",

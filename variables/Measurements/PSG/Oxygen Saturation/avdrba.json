@@ -1,7 +1,7 @@
 {
   "id": "avdrba",
   "display_name": "Average oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
-  "description": "Average oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

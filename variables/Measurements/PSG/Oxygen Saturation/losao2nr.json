@@ -1,7 +1,7 @@
 {
   "id": "losao2nr",
   "display_name": "Minimum SaO2 in non-REM sleep",
-  "description": "Minimum SaO2% in non-REM sleep.  The minimum of all oxygen saturation values in epochs scored as stages other than REM (i.e., 1,2,3/4).  [Min(all SaO2 values in NREM sleep)]",
+  "description": "The minimum of all oxygen saturation values in epochs scored as stages other than REM (i.e., 1,2,3/4).",
   "type": "numeric",
   "units": "percent",
   "calculation": "mnsao2nh",

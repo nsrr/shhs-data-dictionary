@@ -1,7 +1,7 @@
 {
   "id": "weight20",
   "display_name": "Weight at Blood Pressure measurement (SHHS1)",
-  "description": "Weight in kilograms (kilograms, up to 3 digits to the left of the decimal, 1 digit to the right of the decimal)",
+  "description": "Weight in kilograms",
   "type": "numeric",
   "units": "kilograms",
   "labels": [

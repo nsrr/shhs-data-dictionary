@@ -1,7 +1,7 @@
 {
   "id": "dias220",
   "display_name": "Diastolic BP: reading 2 of 3 (SHHS1)",
-  "description": "Seated diastolic BP- second  reading (number, up to 3 digits)",
+  "description": "Seated diastolic BP- second reading",
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [

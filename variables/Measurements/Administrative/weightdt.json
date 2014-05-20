@@ -1,7 +1,7 @@
 {
   "id": "weightdt",
   "display_name": "Date collected: Weight (SHHS1)",
-  "description": "Date Weight measured (days from index date)",
+  "description": "Date Weight measured",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

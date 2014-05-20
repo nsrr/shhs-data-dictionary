@@ -1,7 +1,7 @@
 {
   "id": "syst220",
   "display_name": "Systolic BP: reading 2 of 3 (SHHS1)",
-  "description": "Seated systolic BP- second reading (number, up to 3 digits)",
+  "description": "Seated systolic BP- second reading",
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [

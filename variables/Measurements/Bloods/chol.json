@@ -1,7 +1,7 @@
 {
   "id": "chol",
   "display_name": "Cholesterol (SHHS1)",
-  "description": "Cholesterol mg/dl",
+  "description": "Cholesterol",
   "type": "numeric",
   "units": "milligram per deciliter",
   "labels": [

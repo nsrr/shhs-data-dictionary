@@ -1,7 +1,7 @@
 {
   "id": "pm211",
   "display_name": "Physical Measurements (SHHS2): Neck circumference within window",
-  "description": "11.Neck circumference measurement\r\rwithin the data collection window?",
+  "description": "11.Neck circumference measurement within the data collection window?",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

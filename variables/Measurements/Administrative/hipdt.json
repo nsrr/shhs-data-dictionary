@@ -1,7 +1,7 @@
 {
   "id": "hipdt",
   "display_name": "Date collected: Hip Circumference (SHHS1)",
-  "description": "Date Hip circumference measured (days from index date)]",
+  "description": "Date Hip circumference measured",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

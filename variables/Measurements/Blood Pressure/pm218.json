@@ -1,7 +1,7 @@
 {
   "id": "pm218",
   "display_name": "Cuff size for BP Measurement (SHHS2)",
-  "description": "18. Cuff Size:  Arm Circumference Cuff Size\r\r16.0 - 22.5 cm Pediatric\r\r22.6 - 30.0 cm Regular (adult)\r\r30.1 - 37.5 cm Large arm\r\r37.6 - 43.7 cm Thigh",
+  "description": "18. Cuff Size:  Arm Circumference Cuff Size",
   "type": "choices",
   "domain": "cuffs5",
   "labels": [

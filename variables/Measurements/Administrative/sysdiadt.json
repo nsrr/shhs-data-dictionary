@@ -1,7 +1,7 @@
 {
   "id": "sysdiadt",
   "display_name": "Date collected: Blood Pressure (SHHS1)",
-  "description": "Date Systolic/Diastolic Blood Pressure measured (days from index date)",
+  "description": "Date Systolic/Diastolic Blood Pressure measured",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

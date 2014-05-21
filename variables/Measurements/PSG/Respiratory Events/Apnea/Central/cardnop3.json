@@ -1,7 +1,7 @@
 {
   "id": "cardnop3",
   "display_name": "Central Apnea per hour (NREM, Other, 3% oxygen desaturation)",
-  "description": "Central Apnea per hour (NREM, Other, 3% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

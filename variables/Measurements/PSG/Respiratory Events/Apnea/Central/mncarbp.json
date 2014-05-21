@@ -1,7 +1,7 @@
 {
   "id": "mncarbp",
   "display_name": "Minumum Central Apnea length (REM, Back, all oxygen desaturations)",
-  "description": "Minumum Central Apnea length (REM, Back, all oxygen desaturations) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

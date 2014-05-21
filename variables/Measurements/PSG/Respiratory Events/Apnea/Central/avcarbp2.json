@@ -1,7 +1,7 @@
 {
   "id": "avcarbp2",
   "display_name": "Average Central Apnea length (REM, Back, 2% oxygen desaturation)",
-  "description": "Average Central Apnea length (REM, Back, 2% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

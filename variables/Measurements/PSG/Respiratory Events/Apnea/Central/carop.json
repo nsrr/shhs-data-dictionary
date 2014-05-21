@@ -1,7 +1,7 @@
 {
   "id": "carop",
   "display_name": "Number of Central Apnea (REM, Other, all oxygen desaturations)",
-  "description": "Number of Central Apnea (REM, Other, all oxygen desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "central apnea events",
   "labels": [

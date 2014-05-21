@@ -1,7 +1,7 @@
 {
   "id": "mxcarba3",
   "display_name": "Maximum Central Apnea length w/ arousals (REM, Back, 3% oxygen desaturation)",
-  "description": "Maximum Central Apnea length w/ arousals (REM, Back, 3% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "mncanba",
   "display_name": "Minumum Central Apnea length w/ arousals (NREM, Back, all oxygen desaturations)",
-  "description": "Minumum Central Apnea length w/ arousals (NREM, Back, all oxygen desaturations) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "avcanoa",
   "display_name": "Average Central Apnea length w/ arousals (NREM, Other, all oxygen desaturations)",
-  "description": "Average Central Apnea length w/ arousals (NREM, Other, all oxygen desaturations) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "avcanbp",
   "display_name": "Average Central Apnea length (NREM, Back, all oxygen desaturations)",
-  "description": "Average Central Apnea length (NREM, Back, all oxygen desaturations) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

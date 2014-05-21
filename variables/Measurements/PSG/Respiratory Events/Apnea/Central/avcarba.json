@@ -1,7 +1,7 @@
 {
   "id": "avcarba",
   "display_name": "Average Central Apnea length w/ arousals (REM, Back, all oxygen desaturations)",
-  "description": "Average Central Apnea length w/ arousals (REM, Back, all oxygen desaturations) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

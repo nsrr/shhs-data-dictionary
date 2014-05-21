@@ -1,7 +1,7 @@
 {
   "id": "mncaroa",
   "display_name": "Minumum Central Apnea length w/ arousals (REM, Other, all oxygen desaturations)",
-  "description": "Minumum Central Apnea length w/ arousals (REM, Other, all oxygen desaturations) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

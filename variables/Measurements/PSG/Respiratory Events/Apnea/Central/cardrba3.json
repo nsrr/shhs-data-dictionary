@@ -1,7 +1,7 @@
 {
   "id": "cardrba3",
   "display_name": "Central Apnea per hour w/ arousals (REM, Back, 3% oxygen desaturation)",
-  "description": "Central Apnea per hour w/ arousals (REM, Back, 3% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "cardrop",
   "display_name": "Central Apnea per hour (REM, Other, all oxygen desaturations)",
-  "description": "Central Apnea per hour (REM, Other, all oxygen desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "canba4",
   "display_name": "Number of Central Apnea w/ arousals (NREM, Back, 4% oxygen desaturation)",
-  "description": "Number of Central Apnea w/ arousals (NREM, Back, 4% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "central apnea events",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "oaroa",
   "display_name": "Number of Obstructive Apnea w/ arousals (REM, Other, all oxygen desaturations)",
-  "description": "Number of Obstructive Apnea w/ arousals (REM, Other, all oxygen desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "obstructive apnea events",
   "labels": [

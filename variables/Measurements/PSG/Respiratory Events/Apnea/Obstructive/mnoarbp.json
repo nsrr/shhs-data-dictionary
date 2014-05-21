@@ -1,7 +1,7 @@
 {
   "id": "mnoarbp",
   "display_name": "Minumum Obstructive Apnea length (REM, Back, all oxygen desaturations)",
-  "description": "Minumum Obstructive Apnea length (REM, Back, all oxygen desaturations) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

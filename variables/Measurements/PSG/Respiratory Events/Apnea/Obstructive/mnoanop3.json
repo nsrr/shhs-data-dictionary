@@ -1,7 +1,7 @@
 {
   "id": "mnoanop3",
   "display_name": "Minumum Obstructive Apnea length (NREM, Other, 3% oxygen desaturation)",
-  "description": "Minumum Obstructive Apnea length (NREM, Other, 3% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

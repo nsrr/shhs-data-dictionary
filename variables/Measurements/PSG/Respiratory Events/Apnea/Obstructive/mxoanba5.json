@@ -1,7 +1,7 @@
 {
   "id": "mxoanba5",
   "display_name": "Maximum Obstructive Apnea length w/ arousals (NREM, Back, 5% oxygen desaturation)",
-  "description": "Maximum Obstructive Apnea length w/ arousals (NREM, Back, 5% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

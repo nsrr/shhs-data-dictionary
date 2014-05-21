@@ -1,7 +1,7 @@
 {
   "id": "oardrop4",
   "display_name": "Obstructive Apnea per hour (REM, Other, 4% oxygen desaturation)",
-  "description": "Obstructive Apnea per hour (REM, Other, 4% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

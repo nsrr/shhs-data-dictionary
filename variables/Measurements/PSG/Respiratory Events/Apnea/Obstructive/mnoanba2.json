@@ -1,7 +1,7 @@
 {
   "id": "mnoanba2",
   "display_name": "Minumum Obstructive Apnea length w/ arousals (NREM, Back, 2% oxygen desaturation)",
-  "description": "Minumum Obstructive Apnea length w/ arousals (NREM, Back, 2% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

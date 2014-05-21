@@ -1,7 +1,7 @@
 {
   "id": "mnoanbp4",
   "display_name": "Minumum Obstructive Apnea length (NREM, Back, 4% oxygen desaturation)",
-  "description": "Minumum Obstructive Apnea length (NREM, Back, 4% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

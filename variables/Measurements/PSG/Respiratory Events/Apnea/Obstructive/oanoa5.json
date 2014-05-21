@@ -1,7 +1,7 @@
 {
   "id": "oanoa5",
   "display_name": "Number of Obstructive Apnea w/ arousals (NREM, Other, 5% oxygen desaturation)",
-  "description": "Number of Obstructive Apnea w/ arousals (NREM, Other, 5% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "obstructive apnea events",
   "labels": [

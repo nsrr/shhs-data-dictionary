@@ -1,7 +1,7 @@
 {
   "id": "mxoanbp",
   "display_name": "Maximum Obstructive Apnea length (NREM, Back, all oxygen desaturations)",
-  "description": "Maximum Obstructive Apnea length (NREM, Back, all oxygen desaturations) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

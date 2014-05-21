@@ -1,7 +1,7 @@
 {
   "id": "avoarba5",
   "display_name": "Average Obstructive Apnea length w/ arousals (REM, Back, 5% oxygen desaturation)",
-  "description": "Average Obstructive Apnea length w/ arousals (REM, Back, 5% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

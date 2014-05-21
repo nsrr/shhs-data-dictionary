@@ -1,7 +1,7 @@
 {
   "id": "oanop",
   "display_name": "Number of Obstructive Apnea (NREM, Other, all oxygen desaturations)",
-  "description": "Number of Obstructive Apnea (NREM, Other, all oxygen desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "obstructive apnea events",
   "labels": [

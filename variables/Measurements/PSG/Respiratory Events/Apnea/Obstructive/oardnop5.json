@@ -1,7 +1,7 @@
 {
   "id": "oardnop5",
   "display_name": "Obstructive Apnea per hour (NREM, Other, 5% oxygen desaturation)",
-  "description": "Obstructive Apnea per hour (NREM, Other, 5% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

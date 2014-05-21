@@ -1,7 +1,7 @@
 {
   "id": "mxoaroa3",
   "display_name": "Maximum Obstructive Apnea length w/ arousals (REM, Other, 3% oxygen desaturation)",
-  "description": "Maximum Obstructive Apnea length w/ arousals (REM, Other, 3% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

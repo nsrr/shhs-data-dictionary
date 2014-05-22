@@ -1,7 +1,7 @@
 {
   "id": "hremba2",
   "display_name": "Number of Hypopnea w/ arousals (REM, Back, 2% oxygen desaturation)",
-  "description": "Number of Hypopnea w/ arousals (REM, Back, 2% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "hypopnea events",
   "labels": [

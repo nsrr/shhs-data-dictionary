@@ -1,7 +1,7 @@
 {
   "id": "mnhnoa",
   "display_name": "Minumum Hypopnea length w/ arousals (NREM, Other, all oxygen desaturations)",
-  "description": "Minumum Hypopnea length w/ arousals (NREM, Other, all oxygen desaturations) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

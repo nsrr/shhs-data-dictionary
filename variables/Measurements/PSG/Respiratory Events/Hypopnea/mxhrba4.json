@@ -1,7 +1,7 @@
 {
   "id": "mxhrba4",
   "display_name": "Maximum Hypopnea length w/ arousals (REM, Back, 4% oxygen desaturation)",
-  "description": "Maximum Hypopnea length w/ arousals (REM, Back, 4% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

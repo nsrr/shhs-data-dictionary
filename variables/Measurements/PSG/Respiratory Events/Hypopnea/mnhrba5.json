@@ -1,7 +1,7 @@
 {
   "id": "mnhrba5",
   "display_name": "Minumum Hypopnea length w/ arousals (REM, Back, 5% oxygen desaturation)",
-  "description": "Minumum Hypopnea length w/ arousals (REM, Back, 5% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

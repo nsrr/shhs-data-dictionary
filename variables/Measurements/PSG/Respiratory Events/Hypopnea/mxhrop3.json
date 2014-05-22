@@ -1,7 +1,7 @@
 {
   "id": "mxhrop3",
   "display_name": "Maximum Hypopnea length (REM, Other, 3% oxygen desaturation)",
-  "description": "Maximum Hypopnea length (REM, Other, 3% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

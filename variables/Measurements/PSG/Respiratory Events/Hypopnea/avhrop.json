@@ -1,7 +1,7 @@
 {
   "id": "avhrop",
   "display_name": "Average Hypopnea length (REM, Other, all oxygen desaturations)",
-  "description": "Average Hypopnea length (REM, Other, all oxygen desaturations) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

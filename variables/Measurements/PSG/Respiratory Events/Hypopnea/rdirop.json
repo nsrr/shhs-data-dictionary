@@ -1,7 +1,7 @@
 {
   "id": "rdirop",
   "display_name": "Hypopnea per hour (REM, Other, all oxygen desaturations)",
-  "description": "Hypopnea per hour (REM, Other, all oxygen desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

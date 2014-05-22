@@ -1,7 +1,7 @@
 {
   "id": "avhrba3",
   "display_name": "Average Hypopnea length w/ arousals (REM, Back, 3% oxygen desaturation)",
-  "description": "Average Hypopnea length w/ arousals (REM, Back, 3% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

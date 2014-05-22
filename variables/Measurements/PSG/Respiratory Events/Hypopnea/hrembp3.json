@@ -1,7 +1,7 @@
 {
   "id": "hrembp3",
   "display_name": "Number of Hypopnea (REM, Back, 3% oxygen desaturation)",
-  "description": "Number of Hypopnea (REM, Back, 3% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "hypopnea events",
   "labels": [

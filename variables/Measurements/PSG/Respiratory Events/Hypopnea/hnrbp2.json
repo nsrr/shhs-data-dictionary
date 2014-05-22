@@ -1,7 +1,7 @@
 {
   "id": "hnrbp2",
   "display_name": "Number of Hypopnea (NREM, Back, 2% oxygen desaturation)",
-  "description": "Number of Hypopnea (NREM, Back, 2% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "hypopnea events",
   "labels": [

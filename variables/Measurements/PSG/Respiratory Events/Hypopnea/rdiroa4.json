@@ -1,7 +1,7 @@
 {
   "id": "rdiroa4",
   "display_name": "Hypopnea per hour w/ arousals (REM, Other, 4% oxygen desaturation)",
-  "description": "Hypopnea per hour w/ arousals (REM, Other, 4% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

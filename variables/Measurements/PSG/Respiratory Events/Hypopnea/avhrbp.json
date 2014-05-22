@@ -1,7 +1,7 @@
 {
   "id": "avhrbp",
   "display_name": "Average Hypopnea length (REM, Back, all oxygen desaturations)",
-  "description": "Average Hypopnea length (REM, Back, all oxygen desaturations) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

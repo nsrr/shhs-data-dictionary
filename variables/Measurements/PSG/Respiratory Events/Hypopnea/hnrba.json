@@ -1,7 +1,7 @@
 {
   "id": "hnrba",
   "display_name": "Number of Hypopnea w/ arousals (NREM, Back, all oxygen desaturations)",
-  "description": "Number of Hypopnea w/ arousals (NREM, Back, all oxygen desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "hypopnea events",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "avhnop4",
   "display_name": "Average Hypopnea length (NREM, Other, 4% oxygen desaturation)",
-  "description": "Average Hypopnea length (NREM, Other, 4% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

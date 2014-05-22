@@ -1,7 +1,7 @@
 {
   "id": "rdinbp",
   "display_name": "Hypopnea per hour (NREM, Back, all oxygen desaturations)",
-  "description": "Hypopnea per hour (NREM, Back, all oxygen desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

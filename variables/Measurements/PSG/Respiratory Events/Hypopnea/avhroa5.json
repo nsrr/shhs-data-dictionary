@@ -1,7 +1,7 @@
 {
   "id": "avhroa5",
   "display_name": "Average Hypopnea length w/ arousals (REM, Other, 5% oxygen desaturation)",
-  "description": "Average Hypopnea length w/ arousals (REM, Other, 5% oxygen desaturation) (seconds)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

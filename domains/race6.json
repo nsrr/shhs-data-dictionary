@@ -1,32 +1,32 @@
 [
   {
     "value": "1",
-    "display_name": "white",
+    "display_name": "White",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "black",
+    "display_name": "Black",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "native amer/alaskan",
+    "display_name": "Native American or Alaska Native",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "asian/pacific islander",
+    "display_name": "Asian or Pacific Islander",
     "description": ""
   },
   {
     "value": "5",
-    "display_name": "hispanic/mex. amer",
+    "display_name": "Hispanic or Mexican American",
     "description": ""
   },
   {
     "value": "6",
-    "display_name": "other",
+    "display_name": "Other",
     "description": ""
   }
 ]

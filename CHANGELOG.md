@@ -12,6 +12,7 @@
 - The SAS export now adds race, gender, and age at SHHS1 to each of the CSV datasets
 - Valid race domain choices were changed to be White, Black, and Other
 - Valid gender values were updated from characters to numeric values for consistency across other domains
+- Ethnicity has been added as a separate variable, rather than being classified within the race domain
 
 ## 0.2.0 (March 24, 2014)
 

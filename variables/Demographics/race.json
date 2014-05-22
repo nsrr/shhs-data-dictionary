@@ -3,7 +3,7 @@
   "display_name": "Race",
   "description": "Race category as reported by Parent Cohort",
   "type": "choices",
-  "domain": "race6",
+  "domain": "race123",
   "labels": [
     "race"
   ],

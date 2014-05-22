@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "White",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Black",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Other",
+    "description": ""
+  }
+]

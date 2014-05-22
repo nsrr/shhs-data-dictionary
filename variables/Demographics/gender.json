@@ -3,7 +3,7 @@
   "display_name": "Gender",
   "description": "Gender as reported by Parent Cohort",
   "type": "choices",
-  "domain": "gendermf",
+  "domain": "gender12",
   "labels": [
     "gender"
   ],

@@ -1,7 +1,7 @@
 {
   "id": "rdi2p",
   "display_name": "Overall RDI at 2% oxygen desaturation",
-  "description": "RDI at 2% oxygen desaturation  [(Total number of apneas and hypopneas associated with >= 2% oxygen desaturation) / (hours of sleep)]",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp2 + hrop2 + hnrbp2 + hnrop2 + carbp2 + carop2 + canbp2 + canop2 + oarbp2 + oarop2 + oanbp2 + oanop2 ) / slpprdp",

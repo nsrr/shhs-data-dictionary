@@ -1,7 +1,7 @@
 {
   "id": "rdinr2p",
   "display_name": "Overall RDI (NREM) at 2% oxygen desaturation",
-  "description": "Non-REM RDI at 2% oxygen desaturation  [(Total number of apneas and hypopneas in non-REM sleep associated with >= 2% oxygen desaturation) / (hours of NREM sleep)]",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hnrbp2 + hnrop2 + canbp2 + canop2 + oanbp2 + oanop2 ) / ( slpprdp - minremp )",

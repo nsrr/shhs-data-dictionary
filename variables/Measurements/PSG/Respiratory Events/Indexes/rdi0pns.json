@@ -1,7 +1,7 @@
 {
   "id": "rdi0pns",
   "display_name": "Overall RDI (non-Supine) all oxygen desaturations",
-  "description": "Non-Supine RDI at 2% oxygen desaturation  [(Total number of apneas and hypopneas in non-supine body position associated with >= 2% oxygen desaturation) / (hours of sleep)]",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrop + hnrop + carop + canop + oarop + oanop ) / ( remepop + nremepop )",

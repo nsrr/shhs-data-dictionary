@@ -1,7 +1,7 @@
 {
   "id": "cai0p",
   "display_name": "Central Apnea Index all oxygen desaturations",
-  "description": "Central Apnea Index at all oxygen desaturations  [(Total number of central apneas associated with all oxygen desaturations) / (hours of sleep)]",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( carbp + carop + canbp + canop ) / slpprdp",

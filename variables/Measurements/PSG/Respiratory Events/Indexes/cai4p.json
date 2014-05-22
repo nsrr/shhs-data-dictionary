@@ -1,7 +1,7 @@
 {
   "id": "cai4p",
   "display_name": "Central Apnea Index 4% oxygen desaturation",
-  "description": "Central Apnea Index at 4% oxygen desaturation  [(Total number of central apneas associated with >= 4% oxygen desaturation) / (hours of sleep)]",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( carbp4 + carop4 + canbp4 + canop4 ) / slpprdp",

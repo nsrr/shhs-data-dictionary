@@ -1,7 +1,7 @@
 {
   "id": "rdi4pa",
   "display_name": "Overall RDI at 4% oxygen desaturation or arousal",
-  "description": "RDI at 4% oxygen desaturation or arousal  [(Total number of apneas and hypopneas associated with arousal or >= 4% oxygen desaturation) / (hours of sleep)]",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hremba4 + hroa4 + hnrba4 + hnroa4 + carba4 + caroa4 + canba4 + canoa4 + oarba4 + oaroa4 + oanba4 + oanoa4 ) / slpprdp",

@@ -1,7 +1,7 @@
 {
   "id": "rdi5pns",
   "display_name": "Overall RDI (non-Supine) at 5% oxygen desaturation",
-  "description": "Non-Supine RDI at 5% oxygen desaturation  [(Total number of apneas and hypopneas in non-supine body position associated with >= 5% oxygen desaturation) / (hours of sleep)]",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrop5 + hnrop5 + carop5 + canop5 + oarop5 + oanop5 ) / ( remepop + nremepop )",

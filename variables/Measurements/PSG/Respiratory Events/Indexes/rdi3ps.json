@@ -1,7 +1,7 @@
 {
   "id": "rdi3ps",
   "display_name": "Overall RDI (Supine) at 3% oxygen desaturation",
-  "description": "Supine RDI at 3% oxygen desaturation  [(Total number of apneas and hypopneas in supine body position associated with >= 3% oxygen desaturation) / (hours of sleep)]",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp3 + hnrbp3 + carbp3 + canbp3 + oarbp3 + oanbp3 ) / ( remepbp + nremepbp )",

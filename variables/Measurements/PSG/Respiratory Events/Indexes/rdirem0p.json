@@ -1,7 +1,7 @@
 {
   "id": "rdirem0p",
   "display_name": "Overall RDI (REM) all oxygen desaturations",
-  "description": "REM RDI at all oxygen desaturations  [(Total number of apneas and hypopneas in REM sleep) / (hours of REM sleep)]",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp + hrop + carbp + carop + oarbp + oarop ) / minremp",

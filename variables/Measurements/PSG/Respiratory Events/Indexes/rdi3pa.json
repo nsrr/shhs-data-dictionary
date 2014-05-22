@@ -1,7 +1,7 @@
 {
   "id": "rdi3pa",
   "display_name": "Overall RDI at 3% oxygen desaturation or arousal",
-  "description": "RDI at 3% oxygen desaturation or arousal  [(Total number of apneas and hypopneas associated with arousal or >= 3% oxygen desaturation) / (hours of sleep)]",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hremba3 + hroa3 + hnrba3 + hnroa3 + carba3 + caroa3 + canba3 + canoa3 + oarba3 + oaroa3 + oanba3 + oanoa3 ) / slpprdp",

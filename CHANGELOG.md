@@ -10,6 +10,8 @@
     - `shhs2-dataset-0.3.0.beta2.csv`
     - `shhs-cvd-dataset-0.3.0.beta2.csv`
 - The SAS export now adds race, gender, and age at SHHS1 to each of the CSV datasets
+- Valid race domain choices were changed to be White, Black, and Other
+- Valid gender values were updated from characters to numeric values for consistency across other domains
 
 ## 0.2.0 (March 24, 2014)
 

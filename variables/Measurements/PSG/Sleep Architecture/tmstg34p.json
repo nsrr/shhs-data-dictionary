@@ -1,7 +1,7 @@
 {
   "id": "tmstg34p",
-  "display_name": "Pct. sleep time in stage 3-4 sleep",
-  "description": "Pct. sleep time in stage 3-4 sleep (%)",
+  "display_name": "Percent of sleep time in stage 3-4 sleep",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

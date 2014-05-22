@@ -1,7 +1,7 @@
 {
   "id": "pctstapn",
-  "display_name": "% Sleep time in Apnea",
-  "description": "% Sleep time in Apnea",
+  "display_name": "Percent of sleep time in Apnea",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

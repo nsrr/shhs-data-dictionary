@@ -1,7 +1,7 @@
 {
   "id": "timest1p",
   "display_name": "Percent Time in Stage 1",
-  "description": "Percent of sleep time in stage 1 [100*(Number of minutes scored as stage 1) / (total sleep time)]",
+  "description": "Percent of sleep time in stage 1",
   "type": "numeric",
   "units": "percent",
   "calculation": "tmstg1p",

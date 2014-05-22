@@ -1,7 +1,7 @@
 {
   "id": "tmremp",
-  "display_name": "Pct. sleep time in REM sleep",
-  "description": "Pct. sleep time in REM sleep (%)",
+  "display_name": "Percent of sleep time in REM sleep",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

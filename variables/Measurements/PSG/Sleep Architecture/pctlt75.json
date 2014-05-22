@@ -1,7 +1,7 @@
 {
   "id": "pctlt75",
-  "display_name": "Percent Sleep time with < 75% SaO2",
-  "description": "Percent of sleep time with oxygen saturation < 75%",
+  "display_name": "Percent of sleep time with less than 75% SaO2",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "calculation": "pctsa75h",

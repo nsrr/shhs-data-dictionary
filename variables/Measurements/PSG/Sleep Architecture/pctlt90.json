@@ -1,7 +1,7 @@
 {
   "id": "pctlt90",
-  "display_name": "Percent Sleep time with < 90% SaO2",
-  "description": "Percent of sleep time with oxygen saturation < 90%.  Ratio of the number of minutes with oxygen saturation under 90% to the total sleep time expressed in hours.",
+  "display_name": "Percent of sleep time with less than 90% SaO2",
+  "description": "Ratio of the number of minutes with oxygen saturation under 90% to the total sleep time expressed in hours.",
   "type": "numeric",
   "units": "percent",
   "calculation": "pctsa90h",

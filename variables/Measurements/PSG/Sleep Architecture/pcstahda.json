@@ -1,7 +1,7 @@
 {
   "id": "pcstahda",
-  "display_name": "% Sleep time in Apnea+Hypopnea with > 3% oxygen desaturation or arousal",
-  "description": "% Sleep time in Apnea+Hypopnea with > 3% oxygen desaturation or arousal",
+  "display_name": "Percent of sleep time in Apnea+Hypopnea with greater than 3% oxygen desaturation or arousal",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

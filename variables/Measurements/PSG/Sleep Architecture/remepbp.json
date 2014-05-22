@@ -1,7 +1,7 @@
 {
   "id": "remepbp",
   "display_name": "Sleep Time (REM, Back)",
-  "description": "Sleep Time (REM, Back) (minutes)",
+  "description": "",
   "type": "numeric",
   "units": "minute",
   "labels": [

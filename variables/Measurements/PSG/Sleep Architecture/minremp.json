@@ -1,7 +1,7 @@
 {
   "id": "minremp",
   "display_name": "Time in REM sleep",
-  "description": "Time in REM sleep (minutes)",
+  "description": "",
   "type": "numeric",
   "units": "minute",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "slpprdp",
   "display_name": "Sleep Time",
-  "description": "Sleep Time (minutes)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

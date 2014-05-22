@@ -1,7 +1,7 @@
 {
   "id": "pctlt80",
-  "display_name": "Percent Sleep time with < 80% SaO2",
-  "description": "Percent of sleep time with oxygen saturation < 80%",
+  "display_name": "Percent of sleep time with less than 80% SaO2",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "calculation": "pctsa80h",

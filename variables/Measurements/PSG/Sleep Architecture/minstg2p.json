@@ -1,7 +1,7 @@
 {
   "id": "minstg2p",
   "display_name": "Time in stage 2 sleep",
-  "description": "Time in stage 2 sleep (minutes)",
+  "description": "",
   "type": "numeric",
   "units": "minute",
   "labels": [

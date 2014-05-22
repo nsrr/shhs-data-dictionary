@@ -1,7 +1,7 @@
 {
   "id": "remlaip",
   "display_name": "REM Latency I - including wake time",
-  "description": "REM Latency I - including wake time (minutes)",
+  "description": "",
   "type": "numeric",
   "units": "minute",
   "labels": [

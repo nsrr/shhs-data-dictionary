@@ -6,9 +6,9 @@
   - Updated to spout 0.7.0
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.3.0\`
-    - `shhs1-dataset-0.3.0.beta3.csv`
-    - `shhs2-dataset-0.3.0.beta3.csv`
-    - `shhs-cvd-dataset-0.3.0.beta3.csv`
+    - `shhs1-dataset-0.3.0.beta4.csv`
+    - `shhs2-dataset-0.3.0.beta4.csv`
+    - `shhs-cvd-dataset-0.3.0.beta4.csv`
 - The SAS export now adds race, gender, and age at SHHS1 to each of the CSV datasets
 - Valid race domain choices were changed to be White, Black, and Other
 - Valid gender values were updated from characters to numeric values for consistency across other domains

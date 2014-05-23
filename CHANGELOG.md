@@ -6,13 +6,14 @@
   - Updated to spout 0.7.0
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.3.0\`
-    - `shhs1-dataset-0.3.0.beta2.csv`
-    - `shhs2-dataset-0.3.0.beta2.csv`
-    - `shhs-cvd-dataset-0.3.0.beta2.csv`
+    - `shhs1-dataset-0.3.0.beta3.csv`
+    - `shhs2-dataset-0.3.0.beta3.csv`
+    - `shhs-cvd-dataset-0.3.0.beta3.csv`
 - The SAS export now adds race, gender, and age at SHHS1 to each of the CSV datasets
 - Valid race domain choices were changed to be White, Black, and Other
 - Valid gender values were updated from characters to numeric values for consistency across other domains
 - Ethnicity has been added as a separate variable, rather than being classified within the race domain
+- Visit number has been re-added to each of the BioLINCC datasets
 
 ## 0.2.0 (March 24, 2014)
 

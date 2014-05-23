@@ -2,10 +2,10 @@
   "id": "age_category_s2",
   "display_name": "Categorical age at SHHS2",
   "description": "Age category, based on CDC age groups",
-  "type": "numeric",
-  "units": "years",
+  "type": "choices",
+  "domain": "agecat",
   "labels": [
-    "age_s1"
+    "age_category_s2"
   ],
   "commonly_used": true
 }

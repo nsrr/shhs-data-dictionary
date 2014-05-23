@@ -32,6 +32,18 @@ data shhs1;
 	merge shhs1_ecg shhs1_psg shhs1_other;
 	by pptid;
 
+	if age_s1 < 1 then age_category_s1 = 0;
+	else if 1 =< age_s1 =< 4 then age_category_s1 = 1;
+	else if 5 =< age_s1 =< 14 then age_category_s1 = 2;
+	else if 15 =< age_s1 =< 24 then age_category_s1 = 3;
+	else if 25 =< age_s1 =< 34 then age_category_s1 = 4;
+	else if 35 =< age_s1 =< 44 then age_category_s1 = 5;
+	else if 45 =< age_s1 =< 54 then age_category_s1 = 6;
+	else if 55 =< age_s1 =< 64 then age_category_s1 = 7;
+	else if 65 =< age_s1 =< 74 then age_category_s1 = 8;
+	else if 75 =< age_s1 =< 84 then age_category_s1 = 9;
+	else if 85 =< age_s1 then age_category_s1 = 10;
+
 	visitnumber = 1;
 run;
 
@@ -51,6 +63,19 @@ data shhs2;
 	by pptid;
 
 	if a and b;
+
+	if age_s2 < 1 then age_category_s2 = 0;
+	else if 1 =< age_s2 =< 4 then age_category_s2 = 1;
+	else if 5 =< age_s2 =< 14 then age_category_s2 = 2;
+	else if 15 =< age_s2 =< 24 then age_category_s2 = 3;
+	else if 25 =< age_s2 =< 34 then age_category_s2 = 4;
+	else if 35 =< age_s2 =< 44 then age_category_s2 = 5;
+	else if 45 =< age_s2 =< 54 then age_category_s2 = 6;
+	else if 55 =< age_s2 =< 64 then age_category_s2 = 7;
+	else if 65 =< age_s2 =< 74 then age_category_s2 = 8;
+	else if 75 =< age_s2 =< 84 then age_category_s2 = 9;
+	else if 85 =< age_s2 then age_category_s2 = 10;
+
 
 	visitnumber = 2;
 

@@ -1,0 +1,53 @@
+[
+  {
+    "value": "0",
+    "display_name": "Under 1 year",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "1-4 years",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "5-14 years",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "15-24 years",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "25-34 years",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "35-44 years",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "45-54 years",
+    "description": ""
+  },{
+    "value": "7",
+    "display_name": "55-64 years",
+    "description": ""
+  },{
+    "value": "8",
+    "display_name": "65-74 years",
+    "description": ""
+  },{
+    "value": "9",
+    "display_name": "75-84 years",
+    "description": ""
+  },{
+    "value": "10",
+    "display_name": "85 years or older",
+    "description": ""
+  },
+]

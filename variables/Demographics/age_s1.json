@@ -1,7 +1,7 @@
 {
   "id": "age_s1",
   "display_name": "Age at SHHS1",
-  "description": "Age at time of study in years, based on start date of SHHS1 PSG recording.  [((PSG start date) - (date of birth)) / 365.25]",
+  "description": "Age at time of study in years, based on start date of SHHS1 PSG recording.",
   "type": "numeric",
   "units": "years",
   "labels": [

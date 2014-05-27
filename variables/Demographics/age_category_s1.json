@@ -1,7 +1,7 @@
 {
   "id": "age_category_s1",
-  "display_name": "Categorical age at SHHS1",
-  "description": "Age category, based on CDC age groups",
+  "display_name": "Age at SHHS1",
+  "description": "Age at time of study in years, based on start date of SHHS1 PSG recording.",
   "type": "choices",
   "domain": "agecat",
   "labels": [

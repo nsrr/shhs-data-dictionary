@@ -1,7 +1,7 @@
 {
   "id": "tto_chfdate",
   "display_name": "Days to First CHF Since Baseline",
-  "description": "Time since SHHS 1 Sleep Study to date of first CHF (days) since bl psg",
+  "description": "Time since SHHS 1 Sleep Study to date of first CHF",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

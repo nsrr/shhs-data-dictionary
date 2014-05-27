@@ -1,7 +1,7 @@
 {
   "id": "tto_angdate",
   "display_name": "Days to First Angina Since Baseline",
-  "description": "Time since SHHS 1 Sleep Study to date of first angina pectoris (days) since bl psg",
+  "description": "Time since SHHS 1 Sleep Study to date of first angina pectoris",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

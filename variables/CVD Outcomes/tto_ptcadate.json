@@ -1,7 +1,7 @@
 {
   "id": "tto_ptcadate",
   "display_name": "Days to First PTCA Since Baseline",
-  "description": "Time since SHHS 1 Sleep Study to date of first PTCA (days) since bl psg",
+  "description": "Time since SHHS 1 Sleep Study to date of first PTCA",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

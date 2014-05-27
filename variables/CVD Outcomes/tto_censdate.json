@@ -1,7 +1,7 @@
 {
   "id": "tto_censdate",
   "display_name": "Days to Most Recent Contact or Death Since Baseline",
-  "description": "Time since SHHS 1 Sleep Study to date of last contact/death (days)",
+  "description": "Time since SHHS 1 Sleep Study to date of last contact/death",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

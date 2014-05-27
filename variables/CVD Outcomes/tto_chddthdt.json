@@ -1,7 +1,7 @@
 {
   "id": "tto_chddthdt",
   "display_name": "Days to First CHD Since Baseline",
-  "description": "Time since SHHS 1 Sleep Study to date of CHD death (days)",
+  "description": "Time since SHHS 1 Sleep Study to date of CHD death",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

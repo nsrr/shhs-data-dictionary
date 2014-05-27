@@ -1,7 +1,7 @@
 {
   "id": "shhs2_sh",
   "display_name": "Has SHHS2 Sleep Habits form",
-  "description": "Sleep Habits form present 0-No, 1-Yes",
+  "description": "",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

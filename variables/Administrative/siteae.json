@@ -1,7 +1,7 @@
 {
   "id": "siteae",
   "display_name": "Adverse Events (SHHS1): Site ID",
-  "description": "Field center/site ID",
+  "description": "",
   "type": "choices",
   "domain": "siteid",
   "labels": [

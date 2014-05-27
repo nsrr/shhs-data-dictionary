@@ -1,7 +1,7 @@
 {
   "id": "shhs2_hi",
   "display_name": "Has SHHS2 Health Interview form",
-  "description": "Health Interview form present 0-No, 1-Yes",
+  "description": "",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

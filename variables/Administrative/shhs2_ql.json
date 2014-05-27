@@ -1,7 +1,7 @@
 {
   "id": "shhs2_ql",
   "display_name": "Has SHHS2 Quality of Life form",
-  "description": "Quality of Life form present 0-No, 1-Yes",
+  "description": "",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

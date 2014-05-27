@@ -1,7 +1,7 @@
 {
   "id": "shhs2_all",
   "display_name": "Has all SHHS2 Forms",
-  "description": "All SHHS2 forms present 0-No, 1-Yes",
+  "description": "",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

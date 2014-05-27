@@ -1,7 +1,7 @@
 {
   "id": "shhs2_ms",
   "display_name": "Has SHHS2 Morning Survey",
-  "description": "Morning Survey form present 0-No, 1-Yes",
+  "description": "",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

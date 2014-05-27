@@ -1,0 +1,8 @@
+visit: visitnumber
+charts:
+- chart: age_category_s1
+  title: Age
+- chart: gender
+  title: Gender
+- chart: race
+  title: Race

@@ -15,6 +15,7 @@
 - Ethnicity has been added as a separate variable, rather than being classified within the race domain
 - Visit number has been re-added to each of the BioLINCC datasets
 - Categorical age has been added to SHHS1 and SHHS2 BioLINCC datasets
+  - Categorical age at SHHS1 has been added to the SHHS2 dataset
 
 ## 0.2.0 (March 24, 2014)
 

@@ -1,7 +1,7 @@
 {
   "id": "mstatdt",
   "display_name": "Date collected: Marital status (SHHS1)",
-  "description": "Date Marriage Status collected (days from index date)",
+  "description": "Date Marriage Status collected",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

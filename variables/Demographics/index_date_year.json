@@ -1,7 +1,7 @@
 {
   "id": "index_date_year",
   "display_name": "Year of index date (SHHS2)",
-  "description": "Index date has been withheld to maintain deidentification.  The year of the index date is maintained",
+  "description": "Index date has been withheld to maintain deidentification. The year of the index date is maintained",
   "type": "numeric",
   "units": "year",
   "labels": [

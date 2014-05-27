@@ -1,6 +1,6 @@
 {
   "id": "shhs1_bp",
-  "display_name": "Has SHHS1 Blook Pressure form",
+  "display_name": "Has SHHS1 Blood Pressure form",
   "description": "",
   "type": "choices",
   "domain": "noyes01",

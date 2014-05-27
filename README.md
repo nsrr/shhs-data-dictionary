@@ -7,22 +7,13 @@ The Sleep Heart Health Study Data Dictionary is an asynchronous, multi-user cura
 
 ### Exports
 
-The data dictionary can be exported to various CSV formats by typing the following commands
+The data dictionary can be exported to CSV by typing the following command:
 
 ```
 spout export
 ```
 
-and
-
-```
-spout hybrid
-```
-
 The `spout export` command will generate two CSV files, one that concatentates all the variables together into a CSV file, and another file that concatenates all of the domains.
-
-
-The `spout hybrid` command is used to generate two CSV files that can be imported directly into the Sleep Portal. Hybrid exports contain additional variable information required by the Sleep Portal that are stored in the `hybrid` hash inside of the variable JSON objects.
 
 
 ### Testing

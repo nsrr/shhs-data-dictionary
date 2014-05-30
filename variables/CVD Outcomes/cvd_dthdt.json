@@ -1,5 +1,5 @@
 {
-  "id": "tto_cvddthdt",
+  "id": "cvd_dthdt",
   "display_name": "Days to First CVD Since Baseline",
   "description": "Time since SHHS 1 Sleep Study to date of CVD death",
   "type": "numeric",

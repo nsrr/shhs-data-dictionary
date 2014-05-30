@@ -90,6 +90,7 @@ data shhs2;
 
 	rename insln2 = insuln2;
 	rename prgst2 = progst2;
+	rename prmrn2 = premar2;
 
 	visitnumber = 2;
 

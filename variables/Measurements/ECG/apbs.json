@@ -1,0 +1,12 @@
+{
+  "id": "apbs",
+  "display_name": "Atrial bypasses",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "bypass",
+    "atrium"
+  ]
+}

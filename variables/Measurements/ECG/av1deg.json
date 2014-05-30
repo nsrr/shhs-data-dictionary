@@ -1,0 +1,13 @@
+{
+  "id": "av1deg",
+  "display_name": "First degree atrioventricular block",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "Myocardial",
+    "AV Block",
+    "atrioventricular"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "nonsp_tw",
+  "display_name": "Nonspecific T wave abnormalty",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod2",
+  "labels": [
+    "ECG",
+    "twave"
+  ]
+}

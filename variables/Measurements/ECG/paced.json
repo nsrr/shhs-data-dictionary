@@ -1,0 +1,11 @@
+{
+  "id": "paced",
+  "display_name": "Paced rate",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "pacemaker"
+  ]
+}

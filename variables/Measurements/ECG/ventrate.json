@@ -1,0 +1,11 @@
+{
+  "id": "ventrate",
+  "display_name": "Ventricular rate",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "ECG",
+    "ventricular"
+  ]
+}

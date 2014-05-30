@@ -1,0 +1,14 @@
+{
+  "id": "afib",
+  "display_name": "Atrial Fibrillation or Flutter",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "afib",
+    "fibrillation",
+    "flutter",
+    "atrial",
+    "ecg"
+  ]
+}

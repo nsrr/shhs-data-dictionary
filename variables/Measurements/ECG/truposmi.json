@@ -1,0 +1,14 @@
+{
+  "id": "truposmi",
+  "display_name": "True posterior myocardial infarction",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod2",
+  "labels": [
+    "ECG",
+    "posterior",
+    "myocardial",
+    "infarction",
+    "mi"
+  ]
+}

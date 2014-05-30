@@ -1,0 +1,13 @@
+{
+  "id": "wpw",
+  "display_name": "Wolff-Parkinson-White Syndrome",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "wolff",
+    "parkinson",
+    "white"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "vpbs",
+  "display_name": "Ventricular bypasses",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "bypass",
+    "ventricular"
+  ]
+}

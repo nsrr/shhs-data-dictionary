@@ -1,0 +1,12 @@
+{
+  "id": "rbbb",
+  "display_name": "Right bundle-branch block",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "BB Block",
+    "Bundle branch block"
+  ]
+}

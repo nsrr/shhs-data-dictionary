@@ -1,0 +1,12 @@
+{
+  "id": "lbbb",
+  "display_name": "Left bundle-branch block",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "BB Block",
+    "Bundle branch block"
+  ]
+}

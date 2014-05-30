@@ -1,0 +1,14 @@
+{
+  "id": "antlatmi",
+  "display_name": "Anterolateral Myocaridal Infarction",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod2",
+  "labels": [
+    "ECG",
+    "MI",
+    "Myocardial",
+    "Anterolateral",
+    "Infarct"
+  ]
+}

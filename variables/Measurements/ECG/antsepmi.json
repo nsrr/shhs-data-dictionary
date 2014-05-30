@@ -1,0 +1,14 @@
+{
+  "id": "antsepmi",
+  "display_name": "Anteroseptal Myocaridal Infarction",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod2",
+  "labels": [
+    "ECG",
+    "MI",
+    "Myocardial",
+    "Anteroseptaln",
+    "Infarct"
+  ]
+}

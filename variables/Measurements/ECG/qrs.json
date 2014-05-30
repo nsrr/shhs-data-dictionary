@@ -1,0 +1,10 @@
+{
+  "id": "qrs",
+  "display_name": "QRS Axis",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters",
+  "labels": [
+    "ECG"
+  ]
+}

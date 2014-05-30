@@ -1,0 +1,14 @@
+{
+  "id": "lvhst",
+  "display_name": "Left Ventricular Hypertrophy with ST and T-wave abnormalities",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "hypertrophy",
+    "st-wave",
+    "t-wave",
+    "ventricular"
+  ]
+}

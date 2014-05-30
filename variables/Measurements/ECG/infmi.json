@@ -1,0 +1,13 @@
+{
+  "id": "infmi",
+  "display_name": "Inferior myocardial infarction",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod2",
+  "labels": [
+    "ECG",
+    "MI",
+    "myocardial",
+    "infarction"
+  ]
+}

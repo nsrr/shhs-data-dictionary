@@ -1,0 +1,12 @@
+{
+  "id": "rvh",
+  "display_name": "Right Ventricular Hypertrophy",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "hypertrophy",
+    "ventricular"
+  ]
+}

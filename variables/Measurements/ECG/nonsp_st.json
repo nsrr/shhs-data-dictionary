@@ -1,0 +1,11 @@
+{
+  "id": "nonsp_st",
+  "display_name": "Nonspecific ST wave abnormalty",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod2",
+  "labels": [
+    "ECG",
+    "stwave"
+  ]
+}

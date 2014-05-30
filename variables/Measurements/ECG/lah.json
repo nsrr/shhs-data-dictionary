@@ -1,0 +1,12 @@
+{
+  "id": "lah",
+  "display_name": "Left Atrial Hypertrophy",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "hypertrophy",
+    "atrium"
+  ]
+}

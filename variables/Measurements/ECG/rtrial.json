@@ -1,0 +1,13 @@
+{
+  "id": "rtrial",
+  "display_name": "Right Atrial Enlargement",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "enlargement",
+    "atrium",
+    "rae"
+  ]
+}

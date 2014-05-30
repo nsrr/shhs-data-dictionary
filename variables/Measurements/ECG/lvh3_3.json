@@ -1,0 +1,13 @@
+{
+  "id": "lvh3_3",
+  "display_name": "Left Ventricular Hypertrophy: Voltage 3-3",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "ECG",
+    "hypertrophy",
+    "voltage",
+    "ventricular"
+  ]
+}

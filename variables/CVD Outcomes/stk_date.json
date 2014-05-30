@@ -1,5 +1,5 @@
 {
-  "id": "tto_stkdate",
+  "id": "stk_date",
   "display_name": "Days to First Stroke Since Baseline",
   "description": "Time since SHHS 1 Sleep Study to date of first stroke",
   "type": "numeric",

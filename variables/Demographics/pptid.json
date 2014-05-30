@@ -1,5 +1,5 @@
 {
-  "id": "pptidr",
+  "id": "pptid",
   "display_name": "Randomized ID: Incorporates parent study random ID",
   "description": "This participant ID matches what is present in BioLINCC.",
   "type": "identifier",

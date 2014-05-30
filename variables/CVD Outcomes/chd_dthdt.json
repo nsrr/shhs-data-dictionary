@@ -1,5 +1,5 @@
 {
-  "id": "tto_chddthdt",
+  "id": "chd_dthdt",
   "display_name": "Days to First CHD Since Baseline",
   "description": "Time since SHHS 1 Sleep Study to date of CHD death",
   "type": "numeric",

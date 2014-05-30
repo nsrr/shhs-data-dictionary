@@ -88,6 +88,7 @@ data shhs2;
 	else if 75 =< age_s2 =< 84 then age_category_s2 = 9;
 	else if 85 =< age_s2 then age_category_s2 = 10;
 
+	rename insln2 = insuln2;
 
 	visitnumber = 2;
 

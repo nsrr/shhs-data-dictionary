@@ -1,5 +1,5 @@
 {
-  "id": "post_stroke",
+  "id": "stroke",
   "display_name": "Number of Strokes Since Baseline",
   "description": "Stroke since baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",

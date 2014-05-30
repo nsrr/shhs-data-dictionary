@@ -89,7 +89,7 @@ data shhs2;
 	else if 85 =< age_s2 then age_category_s2 = 10;
 
 	rename insln2 = insuln2;
-	rename prgst2 = progst2;
+	rename prgstn2 = progst2;
 	rename prmrn2 = premar2;
 
 	visitnumber = 2;

@@ -1,0 +1,13 @@
+{
+  "id": "mi_death",
+  "display_name": "Death from myocardial infarct since Baseline?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "mi_death",
+    "mi_fatal",
+    "heart attack",
+    "myocardial infarction"
+  ]
+}

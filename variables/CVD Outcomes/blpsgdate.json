@@ -1,0 +1,7 @@
+{
+  "id": "blpsgdate",
+  "display_name": "Baseline PSG date for SHHS1",
+  "description": "Date of S1 PSG, timepoint zero",
+  "type": "numeric",
+  "units": ""
+}

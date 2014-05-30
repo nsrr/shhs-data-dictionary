@@ -104,6 +104,8 @@ data shhs_cvd;
 
 	visitnumber = 3;
 
+	drop omni
+
 run;
 
 proc export data=shhs1 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.3.0\shhs1-dataset-0.3.0.beta5.csv" dbms=csv replace; run;

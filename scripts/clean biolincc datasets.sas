@@ -104,7 +104,7 @@ data shhs_cvd;
 
 	visitnumber = 3;
 
-	drop omni
+	drop omni;
 
 run;
 

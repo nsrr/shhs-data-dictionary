@@ -1,5 +1,5 @@
 {
-  "id": "tto_cabgdate",
+  "id": "cabg_date",
   "display_name": "Days to First CABG Since Baseline",
   "description": "Time since SHHS 1 Sleep Study to date of first CABG",
   "type": "numeric",

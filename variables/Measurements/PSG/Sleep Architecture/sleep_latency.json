@@ -1,0 +1,7 @@
+{
+  "id": "sleep_latency",
+  "display_name": "Sleep latency",
+  "description": "",
+  "type": "choices",
+  "units": "latencygrade"
+}

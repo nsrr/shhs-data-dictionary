@@ -44,9 +44,11 @@ data shhs1;
 	else if 75 =< age_s1 =< 84 then age_category_s1 = 9;
 	else if 85 =< age_s1 then age_category_s1 = 10;
 
+	rename overall = overall_shhs1;
+
 	visitnumber = 1;
 
-	drop uenrbp--UEROP5A;;
+	drop uenrbp--UEROP5A repsgpptid responqa;
 run;
 
 data shhs2;
@@ -93,9 +95,10 @@ data shhs2;
 	rename insln2 = insuln2;
 	rename prgstn2 = progst2;
 	rename prmrn2 = premar2;
+	rename overall = overall_shhs2;
 
 	visitnumber = 2;
-
+	drop repsgpptid responqa;
 run;
 
 data shhs_cvd;

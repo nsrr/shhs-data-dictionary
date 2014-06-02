@@ -45,6 +45,8 @@ data shhs1;
 	else if 85 =< age_s1 then age_category_s1 = 10;
 
 	visitnumber = 1;
+
+	drop uernrbp--ueropa;
 run;
 
 data shhs2;

@@ -1,0 +1,7 @@
+{
+  "id": "slp_time",
+  "display_name": "Sleep time when entire sleep was captured",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

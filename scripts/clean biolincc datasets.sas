@@ -46,7 +46,7 @@ data shhs1;
 
 	visitnumber = 1;
 
-	drop uernrbp--ueropa;
+	drop uenrbp--UEROP5A;;
 run;
 
 data shhs2;

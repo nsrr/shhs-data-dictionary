@@ -1,0 +1,8 @@
+{
+  "id": "slptime",
+  "display_name": "Total Sleep Time",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "commonly_used": true
+}

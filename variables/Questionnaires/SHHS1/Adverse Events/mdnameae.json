@@ -1,9 +1,0 @@
-{
-  "id": "mdnameae",
-  "display_name": "Adverse Events (SHHS1): Name of notified physician",
-  "description": "Name of notified physician",
-  "type": "text",
-  "labels": [
-    "MDNAMEAE"
-  ]
-}

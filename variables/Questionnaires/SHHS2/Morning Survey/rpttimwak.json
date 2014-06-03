@@ -1,9 +1,0 @@
-{
-  "id": "rpttimwak",
-  "display_name": "Morning Survey (SHHS2): Time woke up",
-  "description": "",
-  "type": "text",
-  "labels": [
-    "RptTimWak"
-  ]
-}

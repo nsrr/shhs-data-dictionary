@@ -1,9 +1,0 @@
-{
-  "id": "rpttimslp",
-  "display_name": "Morning Survey (SHHS2): Time went to sleep",
-  "description": "",
-  "type": "text",
-  "labels": [
-    "RptTimSlp"
-  ]
-}

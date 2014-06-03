@@ -1,9 +1,0 @@
-{
-  "id": "langot15",
-  "display_name": "Health Interview (SHHS1): Other language of interview",
-  "description": "Language of interview, other (if not specified in [LANG15])",
-  "type": "text",
-  "labels": [
-    "LANGOT15"
-  ]
-}

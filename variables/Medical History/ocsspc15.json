@@ -1,9 +1,0 @@
-{
-  "id": "ocsspc15",
-  "display_name": "Specify other Heart Surgery (SHHS1)",
-  "description": "Specify other surgery, if yes on question 2d [OTHRCS15]",
-  "type": "text",
-  "labels": [
-    "OCSSPC15"
-  ]
-}

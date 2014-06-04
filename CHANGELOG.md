@@ -3,7 +3,7 @@
 - Removed `in_shhs2_lad` variable (i.e. participant was part of SHHS2 Limited Access Dataset) as it is no longer relevant
 - **Gem Changes**
   - Use of Ruby 2.1.2 is now recommended
-  - Updated to spout 0.8.0.beta2
+  - Updated to spout 0.8.0.beta13
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.3.0\`
     - `shhs1-dataset-0.3.0.beta5.csv`

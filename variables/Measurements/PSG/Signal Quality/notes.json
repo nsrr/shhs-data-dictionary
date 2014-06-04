@@ -1,9 +1,0 @@
-{
-  "id": "notes",
-  "display_name": "PSG Quality Assessment (SHHS2): Scoring Notes",
-  "description": "Scorer notes",
-  "type": "text",
-  "labels": [
-    "Notes"
-  ]
-}

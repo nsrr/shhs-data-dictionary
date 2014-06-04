@@ -1,9 +1,0 @@
-{
-  "id": "serial_number",
-  "display_name": "PSG Scoring Notes (SHHS1): Serial Number",
-  "description": "",
-  "type": "text",
-  "forms": [
-    "shhs1_psg_scoring_notes_form"
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "id": "shhs1id",
-  "display_name": "SHHS1 PSG ID",
-  "description": "SHHS1ID - identifies sleep study from SHHS1",
-  "type": "file",
-  "labels": [
-    "shhs1id"
-  ]
-}

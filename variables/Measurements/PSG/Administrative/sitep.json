@@ -1,7 +1,0 @@
-{
-  "id": "sitep",
-  "display_name": "PSG (SHHS1): Site ID",
-  "description": "Field center/site ID",
-  "type": "choices",
-  "domain": "siteid"
-}

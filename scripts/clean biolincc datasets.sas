@@ -71,6 +71,7 @@ data shhs1;
 	if mxdrbp4 le 0 then mxdrbp4 = .;
 	if mxdrbp3 le 0 then mxdrbp3 = .;
 	if mxdrbp2 le 0 then mxdrbp2 = .;
+	if mxdrbp le 0 then mxdrbp = .;
 
 	visitnumber = 1;
 

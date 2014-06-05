@@ -46,6 +46,8 @@ data shhs1;
 
 	rename overall = overall_shhs1;
 
+	if yrssnr02 > 110 then yrssnr02 = .;
+
 	visitnumber = 1;
 
 	drop uenrbp--UEROP5A repsgpptid responqa;

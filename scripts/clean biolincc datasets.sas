@@ -64,6 +64,7 @@ data shhs1;
 	if mxdrop le 0 then mxdrop = .;
 	if mxdroa5 le 0 then mxdroa5 = .;
 	if mxdroa4 le 0 then mxdroa4 = .;
+	if mxdroa3 le 0 then mxdroa3 = .;
 
 	visitnumber = 1;
 

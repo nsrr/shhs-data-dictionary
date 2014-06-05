@@ -49,6 +49,8 @@ data shhs1;
 	if yrssnr02 > 110 then yrssnr02 = .;
 	if mi2slp02 = 9999 then mi2slp02 = .;
 	if minfa10 = 9999 then minfa10 = .;
+	if yrsns15 = 9999 then yrsns15 = .;
+	if yrsns15 = 999 then yrsns15 = .;
 
 	visitnumber = 1;
 

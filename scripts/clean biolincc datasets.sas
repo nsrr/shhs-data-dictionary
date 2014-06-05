@@ -96,6 +96,7 @@ data shhs1;
 	if mxdnba4 le 0 then mxdnba4 = .;
 	if mxdnba3 le 0 then mxdnba3 = .;
 	if mxdnba2 le 0 then mxdnba2 = .;
+	if mxdnba le 0 then mxdnba = .;
 
 	visitnumber = 1;
 

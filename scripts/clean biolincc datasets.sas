@@ -52,6 +52,7 @@ data shhs1;
 	if yrsns15 = 9999 then yrsns15 = .;
 	if yrsns15 = 999 then yrsns15 = .;
 	if napsmn15 = 9999 then napsmn15 = .;
+	if napshr15 = 9999 then napshr15 = .;
 
 	visitnumber = 1;
 

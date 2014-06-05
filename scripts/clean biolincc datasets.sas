@@ -55,6 +55,7 @@ data shhs1;
 	if napshr15 = 9999 then napshr15 = .;
 	if cigday15 = 9999 then cigday15 = .;
 	if avesmk15 = 1980 then avesmk15 = .;
+	if asalw15 = 9999 then asalw15 = .;
 
 	visitnumber = 1;
 

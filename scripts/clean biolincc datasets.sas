@@ -79,6 +79,7 @@ data shhs1;
 	if mxdrba le 0 then mxdrba = .;
 	if mxdnop5 le 0 then mxdnop5 = .;
 	if mxdnop4 le 0 then mxdnop4 = .;
+	if mxdnop3 le 0 then mxdnop3 = .;
 
 	visitnumber = 1;
 

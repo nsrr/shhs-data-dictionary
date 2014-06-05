@@ -102,6 +102,7 @@ data shhs1;
 	if mndrop4 le 0 then mndrop4 = .;
 	if mndrop3 le 0 then mndrop3 = .;
 	if mndrop2 le 0 then mndrop2 = .;
+	if mndrop le 0 then mndrop = .;
 
 	visitnumber = 1;
 

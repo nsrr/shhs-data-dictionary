@@ -88,6 +88,8 @@ data shhs1;
 	if mxdnoa2 le 0 then mxdnoa2 = .;
 	if mxdnoa le 0 then mxdnoa = .;
 	if mxdnbp5 le 0 then mxdnbp5 = .;
+	if mxdnbp4 le 0 then mxdnbp4 = .;
+
 
 	visitnumber = 1;
 

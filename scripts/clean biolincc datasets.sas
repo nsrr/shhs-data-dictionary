@@ -47,6 +47,7 @@ data shhs1;
 	rename overall = overall_shhs1;
 
 	if yrssnr02 > 110 then yrssnr02 = .;
+	if mi2slp02 = 9999 then mi2slp02 = .;
 
 	visitnumber = 1;
 

@@ -58,6 +58,7 @@ data shhs1;
 	if asalw15 = 9999 then asalw15 = .;
 	if mxsao2rh le 0 then mxsao2rh = .;
 	if mxdrop5 le 0 then mxdrop5 = .;
+	if mxdrop4 le 0 then mxdrop4 = .;
 
 	visitnumber = 1;
 

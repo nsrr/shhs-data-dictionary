@@ -173,6 +173,7 @@ data shhs1;
 	if avdnbp4 le 0 then avdnbp4 = .;
 	if avdnbp3 le 0 then avdnbp3 = .;
 	if avdnbp2 le 0 then avdnbp2 = .;
+	if avdnbp le 0 then avdnbp = .;
 
 	visitnumber = 1;
 

@@ -127,6 +127,7 @@ data shhs1;
 	if mndnoa4 le 0 then mndnoa4 = .;
 	if mndnoa3 le 0 then mndnoa3 = .;
 	if mndnoa2 le 0 then mndnoa2 = .;
+	if mndnoa le 0 then mndnoa = .;
 
 	visitnumber = 1;
 

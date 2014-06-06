@@ -145,6 +145,7 @@ data shhs1;
 	if avdrop2 le 0 then avdrop2 = .;
 	if avdrop le 0 then avdrop = .;
 	if avdroa5 le 0 then avdroa5 = .;
+	if avdroa4 le 0 then avdroa4 = .;
 
 	visitnumber = 1;
 

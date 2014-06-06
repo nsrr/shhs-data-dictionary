@@ -120,6 +120,7 @@ data shhs1;
 	if mndrba le 0 then mndrba = .;
 	if mndnop5 le 0 then mndnop5 = .;
 	if mndnop4 le 0 then mndnop4 = .;
+	if mndnop3 le 0 then mndnop3 = .;
 
 	visitnumber = 1;
 

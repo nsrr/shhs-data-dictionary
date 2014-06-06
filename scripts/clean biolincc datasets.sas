@@ -57,6 +57,7 @@ data shhs1;
 	if avesmk15 = 1980 then avesmk15 = .;
 	if asalw15 = 9999 then asalw15 = .;
 	if dias120 = 9999 then dias120 = .;
+	if dias220 = 9999 then dias220 = .;
 	if mxsao2rh le 0 then mxsao2rh = .;
 	if mxdrop5 le 0 then mxdrop5 = .;
 	if mxdrop4 le 0 then mxdrop4 = .;

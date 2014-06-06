@@ -167,6 +167,7 @@ data shhs1;
 	if avdnoa5 le 0 then avdnoa5 = .;
 	if avdnoa4 le 0 then avdnoa4 = .;
 	if avdnoa3 le 0 then avdnoa3 = .;
+	if avdnoa2 le 0 then avdnoa2 = .;
 
 	visitnumber = 1;
 

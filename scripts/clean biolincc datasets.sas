@@ -245,6 +245,9 @@ data shhs1;
 
 	visitnumber = 1;
 
+	/*Corrects an erroneous value in the SHHS1 data*/
+	if tfawea02 = 10 then tfawea02 = 2;
+
 	drop uenrbp--UEROP5A repsgpptid responqa;
 run;
 

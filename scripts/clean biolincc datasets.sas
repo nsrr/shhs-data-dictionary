@@ -140,6 +140,7 @@ data shhs1;
 	if mndnba le 0 then mndnba = .;
 	if avsao2rh le 0 then avsao2rh = .;
 	if avdrop5 le 0 then avdrop5 = .;
+	if avdrop4 le 0 then avdrop4 = .;
 
 	visitnumber = 1;
 

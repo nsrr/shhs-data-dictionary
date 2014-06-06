@@ -114,6 +114,7 @@ data shhs1;
 	if mndrbp2 le 0 then mndrbp2 = .;
 	if mndrbp le 0 then mndrbp = .;
 	if mndrba5 le 0 then mndrba5 = .;
+	if mndrba4 le 0 then mndrba4 = .;
 
 	visitnumber = 1;
 

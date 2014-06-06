@@ -180,6 +180,7 @@ data shhs1;
 	if avdnba2 le 0 then avdnba2 = .;
 	if avdnba le 0 then avdnba = .;
 	if smxbroh le 0 then smxbroh = .;
+	if smxbrbh le 0 then smxbrbh = .;
 
 	visitnumber = 1;
 

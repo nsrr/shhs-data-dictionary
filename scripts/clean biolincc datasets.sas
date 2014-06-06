@@ -216,6 +216,7 @@ data shhs1;
 	if davbnoh le 0 then davbnoh = .;
 	if davbnbh le 0 then davbnbh = .;
 	if amxbroh le 0 then amxbroh = .;
+	if amxbrbh le 0 then amxbrbh = .;
 
 	visitnumber = 1;
 

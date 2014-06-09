@@ -378,6 +378,7 @@ data shhs1;
 	if mxoarba5 le 0 then mxoarba5 = .;
 	if mxoarba4 le 0 then mxoarba4 = .;
 	if mxoarba3 le 0 then mxoarba3 = .;
+	if mxoarba2 le 0 then mxoarba2 = .;
 
 	visitnumber = 1;
 

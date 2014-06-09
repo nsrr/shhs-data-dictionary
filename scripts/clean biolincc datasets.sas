@@ -360,6 +360,7 @@ data shhs1;
 	if avhnba3 le 0 then avhnba3 = .;
 	if avhnba2 le 0 then avhnba2 = .;
 	if avhnba le 0 then avhnba = .;
+	if mxoarop5 le 0 then mxoarop5 = .;
 
 	visitnumber = 1;
 

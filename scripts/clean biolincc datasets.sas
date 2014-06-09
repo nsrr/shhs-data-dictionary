@@ -305,6 +305,7 @@ data shhs1;
 	if mnhnop3 le 0 then mnhnop3 = .;
 	if mnhnop2 le 0 then mnhnop2 = .;
 	if mnhnop le 0 then mnhnop = .;
+	if mnhnoa5 le 0 then mnhnoa5 = .;
 
 	visitnumber = 1;
 

@@ -321,6 +321,7 @@ data shhs1;
 	if mnhnba2 le 0 then mnhnba2 = .;
 	if mnhnba le 0 then mnhnba = .;
 	if avhrop5 le 0 then avhrop5 = .;
+	if avhrop4 le 0 then avhrop4 = .;
 
 	visitnumber = 1;
 

@@ -317,6 +317,7 @@ data shhs1;
 	if mnhnbp le 0 then mnhnbp = .;
 	if mnhnba5 le 0 then mnhnba5 = .;
 	if mnhnba4 le 0 then mnhnba4 = .;
+	if mnhnba3 le 0 then mnhnba3 = .;
 
 	visitnumber = 1;
 

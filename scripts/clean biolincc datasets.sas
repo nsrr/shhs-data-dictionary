@@ -394,6 +394,8 @@ data shhs1;
 	if mxoanbp4 le 0 then mxoanbp4 = .;
 	if mxoanbp3 le 0 then mxoanbp3 = .;
 	if mxoanbp2 le 0 then mxoanbp2 = .;
+	if mxoanbp le 0 then mxoanbp = .;
+	if mxoanba5 le 0 then mxoanba5 = .;
 
 	visitnumber = 1;
 

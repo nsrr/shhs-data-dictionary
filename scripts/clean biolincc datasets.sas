@@ -351,6 +351,7 @@ data shhs1;
 	if avhnoa2 le 0 then avhnoa2 = .;
 	if avhnoa le 0 then avhnoa = .;
 	if avhnbp5 le 0 then avhnbp5 = .;
+	if avhnbp4 le 0 then avhnbp4 = .;
 
 	visitnumber = 1;
 

@@ -402,6 +402,7 @@ data shhs1;
 	if mxoanba le 0 then mxoanba = .;
 	if mnoarop5 le 0 then mnoarop5 = .;
 	if mnoarop4 le 0 then mnoarop4 = .;
+	if mnoarop3 le 0 then mnoarop3 = .;
 
 	visitnumber = 1;
 

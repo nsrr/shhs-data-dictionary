@@ -417,6 +417,8 @@ data shhs1;
 	if mnoarbp le 0 then mnoarbp = .;
 	if mnoarba5 le 0 then mnoarba5 = .;
 	if mnoarba4 le 0 then mnoarba4 = .;
+	if mnoarba3 le 0 then mnoarba3 = .;
+	if mnoarba2 le 0 then mnoarba2 = .;
 
 	visitnumber = 1;
 

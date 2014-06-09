@@ -371,7 +371,8 @@ data shhs1;
 	if mxoaroa2 le 0 then mxoaroa2 = .;
 	if mxoaroa le 0 then mxoaroa = .;
 	if mxoarbp5 le 0 then mxoarbp5 = .;
-	if mxoarbp5 le 0 then mxoarbp5 = .;
+	if mxoarbp4 le 0 then mxoarbp4 = .;
+	if mxoarbp3 le 0 then mxoarbp3 = .;
 
 	visitnumber = 1;
 

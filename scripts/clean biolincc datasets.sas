@@ -302,6 +302,7 @@ data shhs1;
 	if mnhrba3 le 0 then mnhrba3 = .;
 	if mnhrba2 le 0 then mnhrba2 = .;
 	if mnhrba le 0 then mnhrba = .;
+	if mnhnop3 le 0 then mnhnop3 = .;
 
 	visitnumber = 1;
 

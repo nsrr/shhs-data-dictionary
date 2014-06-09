@@ -444,6 +444,7 @@ data shhs1;
 	if avoarop4 le 0 then avoarop4 = .;
 	if avoarop3 le 0 then avoarop3 = .;
 	if avoarop2 le 0 then avoarop2 = .;
+	if avoarop le 0 then avoarop = .;
 
 	visitnumber = 1;
 

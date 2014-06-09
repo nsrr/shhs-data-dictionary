@@ -391,6 +391,7 @@ data shhs1;
 	if mxoanoa2 le 0 then mxoanoa2 = .;
 	if mxoanoa le 0 then mxoanoa = .;
 	if mxoanbp5 le 0 then mxoanbp5 = .;
+	if mxoanbp4 le 0 then mxoanbp4 = .;
 
 	visitnumber = 1;
 

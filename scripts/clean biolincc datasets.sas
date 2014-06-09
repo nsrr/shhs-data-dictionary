@@ -328,6 +328,7 @@ data shhs1;
 	if avhroa5 le 0 then avhroa5 = .;
 	if avhroa4 le 0 then avhroa4 = .;
 	if avhroa3 le 0 then avhroa3 = .;
+	if avhroa2 le 0 then avhroa2 = .;
 
 	visitnumber = 1;
 

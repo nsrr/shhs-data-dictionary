@@ -337,6 +337,7 @@ data shhs1;
 	if avhrbp le 0 then avhrbp = .;
 	if avhrba5 le 0 then avhrba5 = .;
 	if avhrba4 le 0 then avhrba4 = .;
+	if avhrba3 le 0 then avhrba3 = .;
 
 	visitnumber = 1;
 

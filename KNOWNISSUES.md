@@ -48,3 +48,5 @@ These are known issues in the current version.
 - Multiple occurrences found: **High values in hmxbrbh**
   - Several maximum heart rate readings above 400 bpm
 - One occurrence found: **hmxbroh value > 460 bpm**
+- Multiple occurrences found: **High values in smxbnbh**
+  - Several maximum heart rate readings above 400 bpm

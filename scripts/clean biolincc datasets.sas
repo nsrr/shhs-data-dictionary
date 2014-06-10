@@ -580,6 +580,7 @@ data shhs1;
   if avcarba3 le 0 then avcarba3 = .;
   if avcarba2 le 0 then avcarba2 = .;
   if avcarba le 0 then avcarba = .;
+  if avcanop5 le 0 then avcanop5 = .;
 
   visitnumber = 1;
 

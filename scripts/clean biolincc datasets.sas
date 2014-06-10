@@ -494,6 +494,7 @@ data shhs1;
 	if mxcarbp4 le 0 then mxcarbp4 = .;
 	if mxcarbp3 le 0 then mxcarbp3 = .;
 	if mxcarbp2 le 0 then mxcarbp2 = .;
+	if mxcarbp le 0 then mxcarbp = .;
 
 	visitnumber = 1;
 

@@ -1,9 +1,9 @@
 {
   "id": "educat",
   "display_name": "Education level (SHHS1)",
-  "description": "Educational level: number of years: (GED = 12 years; years in tech school counted like years of college)",
+  "description": "Educational level: number of years",
   "type": "choices",
-  "units": "eduyears",
+  "domain": "eduyears",
   "labels": [
     "Educat"
   ],

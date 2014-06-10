@@ -23,3 +23,4 @@ These are known issues in the current version.
 - One occurrence found : **syst120 value > 240 mmHg**
 - One occurrence found : **trig value > 1926 mg/dL**
 - One occurrence found: **FVC value > 2763 L/s**
+- One occurrence found: **aavbnoh value >200 bpm**

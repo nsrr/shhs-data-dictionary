@@ -482,6 +482,7 @@ data shhs1;
 	if avoanba le 0 then avoanba = .;
 	if mxcarop5 le 0 then mxcarop5 = .;
 	if mxcarop4 le 0 then mxcarop4 = .;
+	if mxcarop3 le 0 then mxcarop3 = .;
 
 	visitnumber = 1;
 

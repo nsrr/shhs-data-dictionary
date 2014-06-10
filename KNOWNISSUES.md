@@ -29,3 +29,5 @@ These are known issues in the current version.
 - One occurrence found: **amnbroh value > 210 bpm**
 - Multiple occurrences found: **High values in amxbnoh**
   - Several maximum heart rate readings with arousal above 300 bpm
+- Multiple occurrences found: **High values in amxbrbh**
+  - Several maximum heart rate readings with arousal above 300 bpm

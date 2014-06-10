@@ -21,3 +21,4 @@ These are known issues in the current version.
 - Multiple occurences found: **Low values in pm220c2**
   - Several diastolic readings below 40 mmHg
 - One occurrence found : **syst120 value > 240 mmHg**
+- One occurrence found : **trig value > 1926 mg/dL**

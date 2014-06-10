@@ -62,3 +62,5 @@ These are known issues in the current version.
   - Several instances of supine ankle blood pressure over 500 mmHg
 - Multiple occurrences found: **High values in [armbp](https://sleepdata.org/datasets/shhs/variables/armbp)**
   - Several instances of supine arm blood pressure over 500 mmHg
+- Multiple occurrences found: **High values in [mnsao2nh](https://sleepdata.org/datasets/shhs/variables/mnsao2nh)**
+  - Several instances of low SaO2 percentage

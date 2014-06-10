@@ -58,3 +58,5 @@ These are known issues in the current version.
   - Several maximum heart rate readings above 400 bpm
 - Multiple occurrences found: **High values in [alcoh](https://sleepdata.org/datasets/shhs/variables/alcoh)**
   - Several instances of more than 50 alcoholic drinks per day
+- Multiple occurrences found: **High values in [ankbp](https://sleepdata.org/datasets/shhs/variables/ankbp)**
+  - Several instances of supine ankle blood pressure over 500 mmHg

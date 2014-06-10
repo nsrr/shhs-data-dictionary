@@ -1221,6 +1221,7 @@ data shhs2;
   pm212c = pm212c/10;
   scremp = scremp/60;
   scstg1p = scstg1p/60;
+  scstg2p = scstg2p/60;
 
   visitnumber = 2;
   drop repsgpptid responqa;

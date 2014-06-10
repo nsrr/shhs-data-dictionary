@@ -6,3 +6,5 @@ These are known issues in the current version.
 - Multiple occurrences found: **Low values in avg23bpd_s2**
   - Several average diastolic readings below 40 mmHg
 -One occurrence found: **High value in hip > 1012.9 cm**
+- Multiple occurrences found: **Low values in dias120**
+  - Several average diastolic readings below 40 mmHg

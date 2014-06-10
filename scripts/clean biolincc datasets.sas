@@ -565,6 +565,7 @@ data shhs1;
 	if avcarop3 le 0 then avcarop3 = .;
 	if avcarop2 le 0 then avcarop2 = .;
 	if avcarop le 0 then avcarop = .;
+	if avcaroa5 le 0 then avcaroa5 = .;
 
 	visitnumber = 1;
 

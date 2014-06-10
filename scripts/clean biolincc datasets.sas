@@ -551,6 +551,7 @@ data shhs1;
 	if mncanoa2 le 0 then mncanoa2 = .;
 	if mncanoa le 0 then mncanoa = .;
 	if mncanbp5 le 0 then mncanbp5 = .;
+	if mncanbp4 le 0 then mncanbp4 = .;
 
 
 	visitnumber = 1;

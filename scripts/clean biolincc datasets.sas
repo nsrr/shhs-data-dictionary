@@ -522,6 +522,7 @@ data shhs1;
 	if mxcanba le 0 then mxcanba = .;
 	if mncarop5 le 0 then mncarop5 = .;
 	if mncarop4 le 0 then mncarop4 = .;
+	if mncarop3 le 0 then mncarop3 = .;
 
 	visitnumber = 1;
 

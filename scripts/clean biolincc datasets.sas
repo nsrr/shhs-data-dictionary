@@ -1219,6 +1219,7 @@ data shhs2;
   pm212a = pm212a/10;
   pm212b = pm212b/10;
   pm212c = pm212c/10;
+  scremp = scremp/60;
 
   visitnumber = 2;
   drop repsgpptid responqa;

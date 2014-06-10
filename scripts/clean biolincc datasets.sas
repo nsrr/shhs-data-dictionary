@@ -510,6 +510,14 @@ data shhs1;
 	if mxcanoa3 le 0 then mxcanoa3 = .;
 	if mxcanoa2 le 0 then mxcanoa2 = .;
 	if mxcanoa le 0 then mxcanoa = .;
+	if mxcanbp5 le 0 then mxcanbp5 = .;
+	if mxcanbp4 le 0 then mxcanbp4 = .;
+	if mxcanbp3 le 0 then mxcanbp3 = .;
+	if mxcanbp2 le 0 then mxcanbp2 = .;
+	if mxcanbp le 0 then mxcanbp = .;
+	if mxcanba5 le 0 then mxcanba5 = .;
+	if mxcanba4 le 0 then mxcanba4 = .;
+	if mxcanba3 le 0 then mxcanba3 = .;
 
 	visitnumber = 1;
 

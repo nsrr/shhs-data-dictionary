@@ -509,6 +509,7 @@ data shhs1;
 	if mxcanoa4 le 0 then mxcanoa4 = .;
 	if mxcanoa3 le 0 then mxcanoa3 = .;
 	if mxcanoa2 le 0 then mxcanoa2 = .;
+	if mxcanoa le 0 then mxcanoa = .;
 
 	visitnumber = 1;
 

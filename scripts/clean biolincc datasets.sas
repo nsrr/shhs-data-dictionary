@@ -603,6 +603,10 @@ data shhs1;
   if diasbp le 0 then diasbp = .;
   if mnsao2nh le 0 then mnsao2nh = .;
   if tfaweh02 > 12 then tfaweh02 = tfaweh02 - 12;
+  scremp = scremp/60;
+  scstg1p = scstg1p/60;
+  scstg2p = scstg2p/60;
+  scstg34p = scstg34p/60;
 
   visitnumber = 1;
 

@@ -3,7 +3,7 @@
   "display_name": "Height (SHHS2)",
   "description": "7. Height measurement in centimeters",
   "type": "numeric",
-  "units": "centimeter",
+  "units": "centimeters",
   "labels": [
     "pm207"
   ],

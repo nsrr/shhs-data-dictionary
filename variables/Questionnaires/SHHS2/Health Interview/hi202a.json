@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS2): Number of days took aspirin",
   "description": "a. If \"Yes,\" on how many days during the last two weeks did you take this\r\rmedicine?",
   "type": "numeric",
-  "units": "day",
+  "units": "days",
   "labels": [
     "hi202a"
   ]

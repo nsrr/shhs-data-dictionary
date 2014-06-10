@@ -3,7 +3,7 @@
   "display_name": "Percent Time in REM",
   "description": "Total time scored as REM rounded to nearest minute",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "calculation": "minremp",
   "labels": [
     "timerem"

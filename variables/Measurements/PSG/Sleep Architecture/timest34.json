@@ -3,7 +3,7 @@
   "display_name": "Time in Stage 3/4",
   "description": "Total time scored as stage 3/4 rounded to nearest minute",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "calculation": "mnstg34p",
   "labels": [
     "timest34"

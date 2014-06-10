@@ -3,7 +3,7 @@
   "display_name": "Neck Circumference (SHHS1)",
   "description": "Neck circumference in centimeters",
   "type": "numeric",
-  "units": "centimeter",
+  "units": "centimeters",
   "labels": [
     "NECK20"
   ],

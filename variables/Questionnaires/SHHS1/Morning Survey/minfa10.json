@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS1): minutes to fall asleep",
   "description": "How many minutes did it take for you to fall asleep at bedtime last night? (number of minutes, up to 3 digits)",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "labels": [
     "MINFA10"
   ],

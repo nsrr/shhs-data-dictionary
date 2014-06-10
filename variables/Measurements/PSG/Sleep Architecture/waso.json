@@ -3,7 +3,7 @@
   "display_name": "Wake After Sleep Onset",
   "description": "Total amount of time spent awake after going to sleep",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "calculation": "timebedp - slpprdp - slplatp",
   "labels": [
     "waso"

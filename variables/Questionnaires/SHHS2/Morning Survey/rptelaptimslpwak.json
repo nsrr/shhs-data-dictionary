@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (SHHS2): Reported elapsed time between sleep and wakening",
   "description": "",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "labels": [
     "RptElapTimSlpWak"
   ]

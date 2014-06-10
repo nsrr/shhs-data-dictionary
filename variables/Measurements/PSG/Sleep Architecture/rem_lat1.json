@@ -3,7 +3,7 @@
   "display_name": "REM Latency I",
   "description": "Total time from beginning of sleep to first epoch of REM, rounded to nearest minute",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "calculation": "remlaip",
   "labels": [
     "rem_lat1"

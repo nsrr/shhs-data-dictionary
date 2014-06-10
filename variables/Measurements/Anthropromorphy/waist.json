@@ -3,7 +3,7 @@
   "display_name": "Waist Circumference (SHHS1)",
   "description": "Waist measurement in centimeters",
   "type": "numeric",
-  "units": "centimeter",
+  "units": "centimeters",
   "labels": [
     "Waist"
   ],

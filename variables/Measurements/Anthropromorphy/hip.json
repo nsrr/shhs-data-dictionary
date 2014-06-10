@@ -3,7 +3,7 @@
   "display_name": "Hip Circumference (SHHS1)",
   "description": "Hip measurement in centimeters",
   "type": "numeric",
-  "units": "centimeter",
+  "units": "centimeters",
   "labels": [
     "Hip"
   ],

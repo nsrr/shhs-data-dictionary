@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): days taken aspirin in last week",
   "description": "How many days did you take aspirin or aspirin containing meds in last week? (number of days, 1 to 14)",
   "type": "numeric",
-  "units": "day",
+  "units": "days",
   "labels": [
     "ASALW15"
   ]

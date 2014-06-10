@@ -3,7 +3,7 @@
   "display_name": "Time in bed",
   "description": "",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "labels": [
     "timebedp"
   ]

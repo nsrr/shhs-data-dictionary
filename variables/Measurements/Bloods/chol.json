@@ -3,7 +3,7 @@
   "display_name": "Cholesterol (SHHS1)",
   "description": "Cholesterol",
   "type": "numeric",
-  "units": "milligram per deciliter",
+  "units": "milligrams per deciliter",
   "labels": [
     "Chol"
   ],

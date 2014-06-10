@@ -3,7 +3,7 @@
   "display_name": "HDL (SHHS1)",
   "description": "AV HDL cholesterol",
   "type": "numeric",
-  "units": "milligram per deciliter",
+  "units": "milligrams per deciliter",
   "labels": [
     "HDL"
   ],

@@ -9,7 +9,13 @@ class DictionaryTest < Minitest::Test
   # iterators that can be used to write custom tests
   include Spout::Helpers::Iterators
 
-  VALID_UNITS = ['minute', 'arousals', 'days', 'drinks', 'oxygen desaturation events', 'bottles', 'glasses', 'cans', 'cups', 'cigarettes', 'years', 'naps', 'days from index date', 'seconds', 'percent', 'score', 'millimeters of mercury', 'cigars', 'bowls', 'day', 'hour', 'beats per minute', 'replacements', 'kohms', 'replacements', 'year', 'grade', 'cigarettes per day', 'contacts', 'pack years', 'drinks per day', 'stage shifts', 'second', 'events per hour', 'liter', 'milligram per deciliter', 'index', 'kilograms', 'kilogram', 'centimeter', 'kilogram per square meter', 'number of events', 'central apnea events', 'obstructive apnea events', 'hypopnea events','millimeters','minutes','']
+   VALID_UNITS = ["", "arousals", "beats per minute", "bottles", "bowls", "cans", "centimeters",
+    "central apnea events", "cigarettes", "cigarettes per day", "cigars", "cups", "days",
+    "days from index date", "drinks", "drinks per day", "events per hour", "glasses", "hours",
+    "hypopnea events", "index", "kilograms", "kilograms per square meter", "liters",
+    "milligrams per deciliter", "millimeters", "millimeters of mercury", "minutes", "naps",
+    "number of events", "obstructive apnea events", "oxygen desaturation events", "pack years",
+    "percent", "score", "seconds", "stage shifts", "years"]
 
   @variables.select{|v| ['numeric','integer'].include?(v.type)}.each do |variable|
     define_method("test_units: "+variable.path) do
@@ -18,6 +24,12 @@ class DictionaryTest < Minitest::Test
                 VALID_UNITS.sort.collect{|u| u.inspect.colorize( :white )}.join(', ')
       assert VALID_UNITS.include?(variable.units), message
     end
+  end
+
+  USED_UNITS = @variables.collect{|v| v.units}.uniq.compact
+
+  def test_no_unused_units
+    assert_equal [], VALID_UNITS - USED_UNITS
   end
 
 end

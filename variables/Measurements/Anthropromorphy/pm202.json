@@ -3,7 +3,7 @@
   "display_name": "Weight (SHHS2)",
   "description": "A. Weight measurement  2. Weight: ____ ____ ____ . ____ (kg)",
   "type": "numeric",
-  "units": "kilogram",
+  "units": "kilograms",
   "labels": [
     "pm202"
   ],

@@ -3,7 +3,7 @@
   "display_name": "FEV 1 (SHHS1)",
   "description": "Forced Expiratory Volume in One Second",
   "type": "numeric",
-  "units": "liter",
+  "units": "liters",
   "labels": [
     "FEV1"
   ],

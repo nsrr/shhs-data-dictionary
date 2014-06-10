@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS2): Total minutes slept last night",
   "description": "",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "labels": [
     "TotMinSlp"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Time in stage 1 sleep",
   "description": "",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "labels": [
     "minstg1p"
   ]

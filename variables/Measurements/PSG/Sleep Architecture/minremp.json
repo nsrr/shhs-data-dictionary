@@ -3,7 +3,7 @@
   "display_name": "Time in REM sleep",
   "description": "",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "labels": [
     "minremp"
   ]

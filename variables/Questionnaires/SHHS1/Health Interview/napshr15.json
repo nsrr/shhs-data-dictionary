@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): Hours slept during naps",
   "description": "Hours slept during naps, if any (hours component of time, up to 2 digits) 0=no naps taken",
   "type": "numeric",
-  "units": "hour",
+  "units": "hours",
   "labels": [
     "NAPSHR15"
   ]

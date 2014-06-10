@@ -3,7 +3,7 @@
   "display_name": "Weight (SHHS1)",
   "description": "Weight in kilograms",
   "type": "numeric",
-  "units": "kilogram",
+  "units": "kilograms",
   "labels": [
     "Weight"
   ],

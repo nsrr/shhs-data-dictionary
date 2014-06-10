@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS1): Minutes slept during naps",
   "description": "Minutes slept during naps (minutes component of time, 0 to 59) 0=no naps taken",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "labels": [
     "NAPSMN15"
   ]

@@ -3,7 +3,7 @@
   "display_name": "FVC (SHHS1)",
   "description": "Forced Vital Capacity",
   "type": "numeric",
-  "units": "liter",
+  "units": "liters",
   "labels": [
     "FVC"
   ],

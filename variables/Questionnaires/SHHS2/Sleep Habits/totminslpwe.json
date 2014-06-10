@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (SHHS2): sleep time on weekends",
   "description": "",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "labels": [
     "TotMinSlpWE"
   ]

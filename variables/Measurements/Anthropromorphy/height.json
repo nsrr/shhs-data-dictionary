@@ -3,7 +3,7 @@
   "display_name": "Height (SHHS1)",
   "description": "Height in centimeters",
   "type": "numeric",
-  "units": "centimeter",
+  "units": "centimeters",
   "labels": [
     "Height"
   ],

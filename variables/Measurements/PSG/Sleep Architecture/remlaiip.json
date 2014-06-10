@@ -3,7 +3,7 @@
   "display_name": "REM Latency II - excluding wake",
   "description": "",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "labels": [
     "remlaiip"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Health Interview (SHHS2): Total minutes slept during nap",
   "description": "",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "labels": [
     "TotMinNap"
   ]

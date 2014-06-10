@@ -3,7 +3,7 @@
   "display_name": "REM Latency I - including wake time",
   "description": "",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "labels": [
     "remlaip"
   ]

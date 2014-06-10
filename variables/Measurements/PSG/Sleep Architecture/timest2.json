@@ -3,7 +3,7 @@
   "display_name": "Time in Stage 2",
   "description": "Total time scored as stage 2 rounded to nearest minute",
   "type": "numeric",
-  "units": "minute",
+  "units": "minutes",
   "calculation": "minstg2p",
   "labels": [
     "timest2"

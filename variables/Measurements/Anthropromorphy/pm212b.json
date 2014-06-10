@@ -3,7 +3,7 @@
   "display_name": "Neck circumference (measurement 2) (SHHS2)",
   "description": "12. Neck circumference (Round up to nearest 1/2 cm, i.e, measurement should end with .0 or .5)  b. Second reading:",
   "type": "numeric",
-  "units": "centimeter",
+  "units": "centimeters",
   "labels": [
     "pm212b"
   ]

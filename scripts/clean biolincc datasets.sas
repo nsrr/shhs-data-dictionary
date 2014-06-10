@@ -524,6 +524,7 @@ data shhs1;
 	if mncarop4 le 0 then mncarop4 = .;
 	if mncarop3 le 0 then mncarop3 = .;
 	if mncarop2 le 0 then mncarop2 = .;
+	if mncarop le 0 then mncarop = .;
 
 	visitnumber = 1;
 

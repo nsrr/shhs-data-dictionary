@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Less than 10 years of education",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "11-15 years of education",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "16-20 years of education",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "More than 20 years of education",
+    "description": ""
+  }
+]

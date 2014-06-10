@@ -1214,6 +1214,7 @@ data shhs2;
   if avcanba le 0 then avcanba = .;
   if diasbp le 0 then diasbp = .;
   if mnsao2nh le 0 then mnsao2nh = .;
+  if pm202 > 300 then pm202 = pm202/10;
 
   visitnumber = 2;
   drop repsgpptid responqa;

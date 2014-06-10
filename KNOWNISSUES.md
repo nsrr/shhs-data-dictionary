@@ -7,8 +7,8 @@ These are known issues in the current version.
   - Several average diastolic readings below 40 mmHg
 -One occurrence found: **High value in hip > 1012.9 cm**
 - Multiple occurrences found: **Low values in dias120**
-  - Several average diastolic readings below 40 mmHg
+  - Several diastolic readings below 40 mmHg
 - Multiple occurrences found: **Low values in dias220**
-  - Several average diastolic readings below 40 mmHg
+  - Several diastolic readings below 40 mmHg
 - Multiple occurrences found: **Low values in dias320**
-  - Several average diastolic readings below 40 mmHg
+  - Several diastolic readings below 40 mmHg

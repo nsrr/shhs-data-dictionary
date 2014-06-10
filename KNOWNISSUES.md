@@ -60,3 +60,5 @@ These are known issues in the current version.
   - Several instances of more than 50 alcoholic drinks per day
 - Multiple occurrences found: **High values in [ankbp](https://sleepdata.org/datasets/shhs/variables/ankbp)**
   - Several instances of supine ankle blood pressure over 500 mmHg
+- Multiple occurrences found: **High values in [armbp](https://sleepdata.org/datasets/shhs/variables/armbp)**
+  - Several instances of supine arm blood pressure over 500 mmHg

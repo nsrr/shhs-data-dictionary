@@ -31,3 +31,15 @@ These are known issues in the current version.
   - Several maximum heart rate readings with arousal above 300 bpm
 - Multiple occurrences found: **High values in amxbrbh**
   - Several maximum heart rate readings with arousal above 300 bpm
+- Multiple occurrences found: **High values in amxbroh**
+  - Several maximum heart rate readings with arousal above 300 bpm
+- Multiple occurrences found: **High values in dmxbnbh**
+  - Several maximum heart rate readings with arousal above 300 bpm
+- Multiple occurrences found: **High values in dmxbnoh**
+  - Several maximum heart rate readings with arousal above 400 bpm
+- Multiple occurrences found: **High values in dmxbrbh**
+  - Several maximum heart rate readings with arousal above 400 bpm
+- Multiple occurrences found: **High values in dmxbroh**
+  - Several maximum heart rate readings with arousal above 300 bpm
+- Multiple occurrences found: **High values in hmxbnbh**
+  - Several maximum heart rate readings above 400 bpm

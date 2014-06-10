@@ -56,3 +56,5 @@ These are known issues in the current version.
   - Several maximum heart rate readings above 400 bpm
 - Multiple occurrences found: **High values in [smxbroh](https://sleepdata.org/datasets/shhs/variables/smxbroh)**
   - Several maximum heart rate readings above 400 bpm
+- Multiple occurrences found: **High values in [alcoh](https://sleepdata.org/datasets/shhs/variables/alcoh)**
+  - Several instances of more than 50 alcoholic drinks per day

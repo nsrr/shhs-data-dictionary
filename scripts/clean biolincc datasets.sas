@@ -500,6 +500,7 @@ data shhs1;
 	if mxcarba3 le 0 then mxcarba3 = .;
 	if mxcarba2 le 0 then mxcarba2 = .;
 	if mxcarba le 0 then mxcarba = .;
+	if mxcanop5 le 0 then mxcanop5 = .;
 
 	visitnumber = 1;
 

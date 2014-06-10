@@ -20,8 +20,8 @@ These are known issues in the current version.
   - Several diastolic readings below 40 mmHg
 - Multiple occurences found: **Low values in [pm220c2](https://sleepdata.org/datasets/shhs/variables/pm220c2)**
   - Several diastolic readings below 40 mmHg
-- One occurrence found : **[syst120](https://sleepdata.org/datasets/shhs/variables/syst120) value > 240 mmHg**
-- One occurrence found : **[trig](https://sleepdata.org/datasets/shhs/variables/trig) value > 1926 mg/dL**
+- One occurrence found: **[syst120](https://sleepdata.org/datasets/shhs/variables/syst120) value > 240 mmHg**
+- One occurrence found: **[trig](https://sleepdata.org/datasets/shhs/variables/trig) value > 1926 mg/dL**
 - One occurrence found: **[fvc](https://sleepdata.org/datasets/shhs/variables/fvc) value > 2763 L/s**
 - One occurrence found: **[aavbnoh](https://sleepdata.org/datasets/shhs/variables/aavbnoh) value >200 bpm**
 - One occurrence found: **[aavbroh](https://sleepdata.org/datasets/shhs/variables/aavbroh) value > 200 bpm**

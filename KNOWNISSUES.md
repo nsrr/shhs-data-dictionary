@@ -16,3 +16,5 @@ These are known issues in the current version.
   - Several average diastolic readings below 44 mmHg
 - Multiple occurences found: **Low values in pm220a2**
   - Several diastolic readings below 45 mmHg
+- Multiple occurences found: **Low values in pm220b2**
+  - Several diastolic readings below 40 mmHg

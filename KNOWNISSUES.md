@@ -20,3 +20,4 @@ These are known issues in the current version.
   - Several diastolic readings below 40 mmHg
 - Multiple occurences found: **Low values in pm220c2**
   - Several diastolic readings below 40 mmHg
+- One occurrence found : **syst120 value > 240 mmHg**

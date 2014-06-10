@@ -1217,6 +1217,7 @@ data shhs2;
   if pm202 > 300 then pm202 = pm202/10;
   if pm207 > 300 then pm207 = pm207/10;
   pm212a = pm212a/10;
+  pm212b = pm212b/10;
 
   visitnumber = 2;
   drop repsgpptid responqa;

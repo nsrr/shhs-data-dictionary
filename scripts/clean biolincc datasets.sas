@@ -531,6 +531,7 @@ data shhs1;
 	if mncaroa2 le 0 then mncaroa2 = .;
 	if mncaroa le 0 then mncaroa = .;
 	if mncarbp5 le 0 then mncarbp5 = .;
+	if mncarbp4 le 0 then mncarbp4 = .;
 
 	visitnumber = 1;
 

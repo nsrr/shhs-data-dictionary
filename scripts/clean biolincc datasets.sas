@@ -600,6 +600,7 @@ data shhs1;
   if avcanba3 le 0 then avcanba3 = .;
   if avcanba2 le 0 then avcanba2 = .;
   if avcanba le 0 then avcanba = .;
+  if diasbp le 0 then diasbp = .;
 
   visitnumber = 1;
 
@@ -1209,6 +1210,7 @@ data shhs2;
   if avcanba3 le 0 then avcanba3 = .;
   if avcanba2 le 0 then avcanba2 = .;
   if avcanba le 0 then avcanba = .;
+  if diasbp le 0 then diasbp = .;
 
   visitnumber = 2;
   drop repsgpptid responqa;

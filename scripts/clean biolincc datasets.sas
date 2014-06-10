@@ -491,6 +491,7 @@ data shhs1;
 	if mxcaroa2 le 0 then mxcaroa2 = .;
 	if mxcaroa le 0 then mxcaroa = .;
 	if mxcarbp5 le 0 then mxcarbp5 = .;
+	if mxcarbp4 le 0 then mxcarbp4 = .;
 
 	visitnumber = 1;
 

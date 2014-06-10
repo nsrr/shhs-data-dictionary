@@ -9,7 +9,7 @@ data shhs1_psg;
 run;
 
 data shhs1_other;
-  set biolincc.shhs1final_15jan2014_5839;
+  set biolincc.shhs1final_15jan2014_5839(rename=(ethnic=ethnicity));
 run;
 
 data shhs2_ecg;
@@ -21,7 +21,7 @@ data shhs2_psg;
 run;
 
 data shhs2_other;
-  set biolincc.shhs2final_15jan2014_4103;
+  set biolincc.shhs2final_15jan2014_4103(rename=(ethnic=ethnicity));
 run;
 
 data shhs_cvd;

@@ -519,6 +519,7 @@ data shhs1;
 	if mxcanba4 le 0 then mxcanba4 = .;
 	if mxcanba3 le 0 then mxcanba3 = .;
 	if mxcanba2 le 0 then mxcanba2 = .;
+	if mxcanba le 0 then mxcanba = .;
 
 	visitnumber = 1;
 

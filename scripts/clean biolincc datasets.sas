@@ -602,6 +602,7 @@ data shhs1;
   if avcanba le 0 then avcanba = .;
   if diasbp le 0 then diasbp = .;
   if mnsao2nh le 0 then mnsao2nh = .;
+  if tfaweh02 > 12 then tfaweh02 = tfaweh02 - 12;
 
   visitnumber = 1;
 

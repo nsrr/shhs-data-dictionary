@@ -468,6 +468,7 @@ data shhs1;
 	if avoanoa5 le 0 then avoanoa5 = .;
 	if avoanoa4 le 0 then avoanoa4 = .;
 	if avoanoa3 le 0 then avoanoa3 = .;
+	if avoanoa2 le 0 then avoanoa2 = .;
 
 
 	visitnumber = 1;

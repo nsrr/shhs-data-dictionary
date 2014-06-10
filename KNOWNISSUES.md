@@ -54,3 +54,5 @@ These are known issues in the current version.
   - Several maximum heart rate readings above 400 bpm
 - Multiple occurrences found: **High values in smxbrbh**
   - Several maximum heart rate readings above 400 bpm
+- Multiple occurrences found: **High values in smxbroh**
+  - Several maximum heart rate readings above 400 bpm

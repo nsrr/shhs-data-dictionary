@@ -3,7 +3,7 @@
   "display_name": "SF-36 Calculated (SHHS2): Mental Component Scale Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "score",
+  "units": "",
   "labels": [
     "MCS_s2"
   ]

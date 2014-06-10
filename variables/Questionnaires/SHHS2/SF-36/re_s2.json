@@ -3,7 +3,7 @@
   "display_name": "SF-36 Calculated (SHHS2): Role-Emotional Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "",
   "labels": [
     "RE_s2"
   ]

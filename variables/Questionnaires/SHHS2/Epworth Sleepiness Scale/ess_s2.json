@@ -3,7 +3,7 @@
   "display_name": "Epworth Sleepiness Scale score (SHHS2)",
   "description": "",
   "type": "integer",
-  "units": "score",
+  "units": "",
   "labels": [
     "ess_s2"
   ],

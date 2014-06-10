@@ -3,7 +3,7 @@
   "display_name": "SF-36 Calculated (SHHS2): Mental Health Index Raw Score",
   "description": "",
   "type": "numeric",
-  "units": "score",
+  "units": "",
   "labels": [
     "RAWMH_s2"
   ]

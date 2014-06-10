@@ -3,7 +3,7 @@
   "display_name": "SF-36 Calculated (SHHS1): General Health Perceptions Raw Score",
   "description": "",
   "type": "numeric",
-  "units": "score",
+  "units": "",
   "labels": [
     "RAWGH_s1"
   ]

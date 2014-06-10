@@ -3,7 +3,7 @@
   "display_name": "SF-36 Calculated (SHHS2): Role-Physical Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "",
   "labels": [
     "RP_s2"
   ]

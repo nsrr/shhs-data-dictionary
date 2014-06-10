@@ -3,7 +3,7 @@
   "display_name": "SF-36 Calculated (SHHS2): Vitality Raw Score",
   "description": "",
   "type": "numeric",
-  "units": "score",
+  "units": "",
   "labels": [
     "RAWVT_s2"
   ]

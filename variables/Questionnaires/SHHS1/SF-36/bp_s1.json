@@ -3,7 +3,7 @@
   "display_name": "SF-36 Calculated (SHHS1): Pain Index Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "score",
+  "units": "",
   "labels": [
     "bp_s1"
   ]

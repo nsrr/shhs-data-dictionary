@@ -15,7 +15,7 @@ class DictionaryTest < Minitest::Test
     "hypopnea events", "index", "kilograms", "kilograms per square meter", "liters",
     "milligrams per deciliter", "millimeters", "millimeters of mercury", "minutes", "naps",
     "number of events", "obstructive apnea events", "oxygen desaturation events", "pack years",
-    "percent", "score", "seconds", "stage shifts", "years"]
+    "percent", "seconds", "stage shifts", "years"]
 
   @variables.select{|v| ['numeric','integer'].include?(v.type)}.each do |variable|
     define_method("test_units: "+variable.path) do

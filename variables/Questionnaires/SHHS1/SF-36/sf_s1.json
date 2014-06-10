@@ -3,7 +3,7 @@
   "display_name": "SF-36 Calculated (SHHS1): Social Functioning Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "",
   "labels": [
     "sf_s1"
   ]

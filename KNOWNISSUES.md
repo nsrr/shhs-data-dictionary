@@ -24,3 +24,4 @@ These are known issues in the current version.
 - One occurrence found : **trig value > 1926 mg/dL**
 - One occurrence found: **FVC value > 2763 L/s**
 - One occurrence found: **aavbnoh value >200 bpm**
+- One occurrence found: **aavbroh value > 200 bpm**

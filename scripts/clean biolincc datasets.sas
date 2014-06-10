@@ -460,6 +460,7 @@ data shhs1;
 	if avoarba3 le 0 then avoarba3 = .;
 	if avoarba2 le 0 then avoarba2 = .;
 	if avoarba le 0 then avoarba = .;
+	if avoarnop5 le 0 then avoarnop5 = .;
 
 	visitnumber = 1;
 

@@ -1,4 +1,5 @@
 libname biolincc "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\biolincc-master";
+libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
 
 data shhs1_ecg;
   set biolincc.shhs1final_ecg_14aug2013_4260;
@@ -28,8 +29,13 @@ data shhs_cvd;
   set biolincc.shhs_status_08apr2014_5837;
 run;
 
+data obfid;
+  set obf.all_ids(keep=npptid obf_pptid rename=(npptid=pptid));
+run;
+
 data shhs1;
-  merge shhs1_ecg shhs1_psg shhs1_other;
+  length obf_pptid 8.;
+  merge shhs1_ecg shhs1_psg shhs1_other obfid;
   by pptid;
 
   if age_s1 < 1 then age_category_s1 = 0;
@@ -630,7 +636,8 @@ data shhs_demo;
 run;
 
 data shhs2;
-  merge shhs2(in=a) shhs_demo(in=b);
+  length obf_pptid 8.;
+  merge shhs2(in=a) shhs_demo(in=b) obfid;
   by pptid;
 
   if a and b;
@@ -1235,7 +1242,8 @@ data shhs2;
 run;
 
 data shhs_cvd;
-  merge shhs_cvd(in=a) shhs_demo(in=b);
+  length obf_pptid 8.;
+  merge shhs_cvd(in=a) shhs_demo(in=b) obfid;
   by pptid;
 
   if a and b;

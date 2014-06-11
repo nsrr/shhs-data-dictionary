@@ -11,12 +11,15 @@
     - `shhs-cvd-dataset-0.3.0.beta6.csv`
 - The SAS export now adds race, gender, and age at SHHS1 to each of the CSV datasets
   - Missing codes are now removed by default from all variables in SHHS1 and SHHS2
+  - Null values (in the form of zeroes) are now removed from variables where appropriate
 - Valid race domain choices were changed to be White, Black, and Other
 - Valid gender values were updated from characters to numeric values for consistency across other domains
 - Ethnicity has been added as a separate variable, rather than being classified within the race domain
 - Visit number has been re-added to each of the BioLINCC datasets
 - Categorical age has been added to SHHS1 and SHHS2 BioLINCC datasets
   - Categorical age at SHHS1 has been added to the SHHS2 dataset
+- The obfuscated pptid has now been added to all datasets by default as `obf_pptid`
+- Issues with data from the BioLINCC datasets for v0.3.0 (i.e. extreme values) have been grouped into a [Known Issues](https://github.com/sleepepi/shhs-data-dictionary/blob/master/KNOWNISSUES.md) list
 
 ## 0.2.0 (March 24, 2014)
 

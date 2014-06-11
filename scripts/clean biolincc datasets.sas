@@ -607,6 +607,7 @@ data shhs1;
   scstg1p = scstg1p/60;
   scstg2p = scstg2p/60;
   scstg34p = scstg34p/60;
+  slpprdp = slpprdp/60;
 
   visitnumber = 1;
 

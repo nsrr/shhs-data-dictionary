@@ -76,3 +76,5 @@ These are known issues in the current version.
   - Several instances of left leg posterior systolic blood pressure over 250 mmHg
 - Multiple occurences found: **Low values in [pm226e](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/pm226e)**
   - Several instances of left leg posterior systolic blood pressure below 70 mmHg
+- Multiple occurrences found: **High values in [pm226f](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/pm226f)**
+  - Several instances of left leg posterior systolic blood pressure above 250 mmHg

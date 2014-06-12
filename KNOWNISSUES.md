@@ -101,3 +101,4 @@ These are known issues in the current version.
 - Multiple occurrences found: **High values in [rpttimtoslp](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/rpttimtoslp)**
   - Several instances of time to fall asleep greater than 300 minutes
 - One occurrence found: **[sh324](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/sh324) value > 110**
+- One occurrence found: **[sh325](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/sh325) value > 20**

@@ -90,3 +90,5 @@ These are known issues in the current version.
   - Several instances of time to fall asleep over 200 minutes
 - Multiple occurrences found: **Low values in [systbp](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/systbp)**
   - Several instances of average systolic blood pressure below 70 mmHg
+- Multiple occurrences found: **High values in [minfa10](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/minfa10)**
+  - Several instances of time to fall asleep over 200 minutes

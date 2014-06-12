@@ -88,3 +88,5 @@ These are known issues in the current version.
   - Several instances of total nap time over 400 minutes
 - Multiple occurrences found: **High values in [totminfallslp](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/totminfallslp)**
   - Several instances of time to fall asleep over 200 minutes
+- Multiple occurrences found: **Low values in [systbp](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/systbp)**
+  - Several instances of average systolic blood pressure below 70 mmHg

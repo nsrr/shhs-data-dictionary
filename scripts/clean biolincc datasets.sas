@@ -51,6 +51,8 @@ data shhs1;
   else if 85 =< age_s1 then age_category_s1 = 10;
 
   rename overall = overall_shhs1;
+  rename stroke = prev_hx_stroke;
+  rename mi = prev_hx_mi;
 
   if yrssnr02 > 110 then yrssnr02 = .;
   if mi2slp02 = 9999 then mi2slp02 = .;

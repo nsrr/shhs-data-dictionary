@@ -1,0 +1,7 @@
+{
+  "id": "prev_hx_stroke",
+  "display_name": "Previous history of stroke",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

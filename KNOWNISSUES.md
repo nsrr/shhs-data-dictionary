@@ -96,3 +96,4 @@ These are known issues in the current version.
 - Multiple occurrences found: **High values in [coffee15](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/coffee15)**
   - Several instances of over 20 cups of coffee per day
 - One occurrence found: **[shots10](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/shots10) value > 10**
+- One occurrence found: **[mi2slp02](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/mi2slp02) value > 300 minutes**

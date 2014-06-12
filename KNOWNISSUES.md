@@ -68,3 +68,5 @@ These are known issues in the current version.
   - Several instances of nap lengths over 400 minutes
 - Multiple occurrences found: **Low values in [avg23bps_s2](https://sleepdata.org/datasets/shhs/variables/avg23bps_s2)**
   - Several instances of average systolic blood pressures under 75 mmHg
+- Multiple occurrences found: **High values in [pm226d](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/pm226d)**
+  - Several instances of right leg posterior systolic blood pressure over 250 mmHg

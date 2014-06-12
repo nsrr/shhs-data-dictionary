@@ -86,3 +86,5 @@ These are known issues in the current version.
   - Several instances of right leg posterior systolic blood pressure below 70 mmHg
 - Multiple occurrences found: **High values in [lengpmnap](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/lengpmnap)**
   - Several instances of total nap time over 400 minutes
+- Multiple occurrences found: **High values in [totminfallslp](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/totminfallslp)**
+  - Several instances of time to fall asleep over 200 minutes

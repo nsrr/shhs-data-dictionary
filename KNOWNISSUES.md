@@ -68,37 +68,37 @@ These are known issues in the current version.
   - Several instances of nap lengths over 400 minutes
 - Multiple occurrences found: **Low values in [avg23bps_s2](https://sleepdata.org/datasets/shhs/variables/avg23bps_s2)**
   - Several instances of average systolic blood pressures under 75 mmHg
-- Multiple occurrences found: **High values in [pm226d](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/pm226d)**
+- Multiple occurrences found: **High values in [pm226d](https://sleepdata.org/datasets/shhs/variables/pm226d)**
   - Several instances of right leg posterior systolic blood pressure over 250 mmHg
-- Multiple occurrences found: **Low values in [pm226d](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/pm226d)**
+- Multiple occurrences found: **Low values in [pm226d](https://sleepdata.org/datasets/shhs/variables/pm226d)**
   - Several instances of right leg posterior systolic blood pressure below 75 mmHg
-- Multiple occurrences found: **High values in [pm226e](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/pm226e)**
+- Multiple occurrences found: **High values in [pm226e](https://sleepdata.org/datasets/shhs/variables/pm226e)**
   - Several instances of left leg posterior systolic blood pressure over 250 mmHg
-- Multiple occurences found: **Low values in [pm226e](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/pm226e)**
+- Multiple occurences found: **Low values in [pm226e](https://sleepdata.org/datasets/shhs/variables/pm226e)**
   - Several instances of left leg posterior systolic blood pressure below 70 mmHg
-- Multiple occurrences found: **High values in [pm226f](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/pm226f)**
+- Multiple occurrences found: **High values in [pm226f](https://sleepdata.org/datasets/shhs/variables/pm226f)**
   - Several instances of left leg posterior systolic blood pressure above 250 mmHg
-- Multiple occurrences found: **Low values in [pm226f](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/pm226f)**
+- Multiple occurrences found: **Low values in [pm226f](https://sleepdata.org/datasets/shhs/variables/pm226f)**
   - Several instances of left leg posterior systolic blood pressure below 70 mmHg
-- Multiple occurrences found: **High values in [pm226g](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/pm226g)**
+- Multiple occurrences found: **High values in [pm226g](https://sleepdata.org/datasets/shhs/variables/pm226g)**
   - Several instances of right leg posterior systolic blood pressure over 250 mmHg
-- Multiple occurrences found: **Low values in [pm226g](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/pm226g)**
+- Multiple occurrences found: **Low values in [pm226g](https://sleepdata.org/datasets/shhs/variables/pm226g)**
   - Several instances of right leg posterior systolic blood pressure below 70 mmHg
-- Multiple occurrences found: **High values in [lengpmnap](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/lengpmnap)**
+- Multiple occurrences found: **High values in [lengpmnap](https://sleepdata.org/datasets/shhs/variables/lengpmnap)**
   - Several instances of total nap time over 400 minutes
-- Multiple occurrences found: **High values in [totminfallslp](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/totminfallslp)**
+- Multiple occurrences found: **High values in [totminfallslp](https://sleepdata.org/datasets/shhs/variables/totminfallslp)**
   - Several instances of time to fall asleep over 200 minutes
-- Multiple occurrences found: **Low values in [systbp](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/systbp)**
+- Multiple occurrences found: **Low values in [systbp](https://sleepdata.org/datasets/shhs/variables/systbp)**
   - Several instances of average systolic blood pressure below 70 mmHg
-- Multiple occurrences found: **High values in [minfa10](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/minfa10)**
+- Multiple occurrences found: **High values in [minfa10](https://sleepdata.org/datasets/shhs/variables/minfa10)**
   - Several instances of time to fall asleep over 200 minutes
-- One occurrence found: **[avesmk15](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/avesmk15) value > 80**
-- Multiple occurrences found: **High values in [coffee15](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/coffee15)**
+- One occurrence found: **[avesmk15](https://sleepdata.org/datasets/shhs/variables/avesmk15) value > 80**
+- Multiple occurrences found: **High values in [coffee15](https://sleepdata.org/datasets/shhs/variables/coffee15)**
   - Several instances of over 20 cups of coffee per day
-- One occurrence found: **[shots10](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/shots10) value > 10**
-- One occurrence found: **[mi2slp02](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/mi2slp02) value > 300 minutes**
-- One occurrence found: **[ms209b](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/ms209b) value >7**
-- Multiple occurrences found: **High values in [rpttimtoslp](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/rpttimtoslp)**
+- One occurrence found: **[shots10](https://sleepdata.org/datasets/shhs/variables/shots10) value > 10**
+- One occurrence found: **[mi2slp02](https://sleepdata.org/datasets/shhs/variables/mi2slp02) value > 300 minutes**
+- One occurrence found: **[ms209b](https://sleepdata.org/datasets/shhs/variables/ms209b) value >7**
+- Multiple occurrences found: **High values in [rpttimtoslp](https://sleepdata.org/datasets/shhs/variables/rpttimtoslp)**
   - Several instances of time to fall asleep greater than 300 minutes
-- One occurrence found: **[sh324](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/sh324) value > 110**
-- One occurrence found: **[sh325](https://sleepepi.partners.org/edge/sleepdata/datasets/shhs/variables/sh325) value > 20**
+- One occurrence found: **[sh324](https://sleepdata.org/datasets/shhs/variables/sh324) value > 110**
+- One occurrence found: **[sh325](https://sleepdata.org/datasets/shhs/variables/sh325) value > 20**

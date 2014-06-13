@@ -111,3 +111,5 @@ These are known issues in the current version.
   - Many instances of minimum heart rate below 20 beats per minute
 - Multiple occurrences found: **Low values in [amnbrbh](https://sleepdata.org/datasets/shhs/variables/amnbrbh)**
   - Several instances of minimum heart rate below 20 beats per minute
+- Several instances found: **High values in [amxbnbh](https://sleepdata.org/datasets/shhs/variables/amxbnbh)**
+  - Also several reported maximum heart rates below 50 beats per minute

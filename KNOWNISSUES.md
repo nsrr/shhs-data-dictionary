@@ -102,3 +102,4 @@ These are known issues in the current version.
   - Several instances of time to fall asleep greater than 300 minutes
 - One occurrence found: **[sh324](https://sleepdata.org/datasets/shhs/variables/sh324) value > 110**
 - One occurrence found: **[sh325](https://sleepdata.org/datasets/shhs/variables/sh325) value > 20**
+- One occurrence found: **[syst220](https://sleepdata.org/datasets/shhs/variables/syst220) value > 240 mmHg**

@@ -28,6 +28,7 @@ These are known issues in the current version.
 - One occurrence found: **[amnbnoh](https://sleepdata.org/datasets/shhs/variables/amnbnoh) value > 197 bpm**
   - Also several hundred instances of minimum heart rate below 20 beats per minute
 - One occurrence found: **[amnbroh](https://sleepdata.org/datasets/shhs/variables/amnbroh) value > 210 bpm**
+  - Also many instances of minimum heart rates below 30 beats per minute
 - Multiple occurrences found: **High values in [amxbnoh](https://sleepdata.org/datasets/shhs/variables/amxbnoh)**
   - Several maximum heart rate readings with arousal above 300 bpm
 - Multiple occurrences found: **High values in [amxbrbh](https://sleepdata.org/datasets/shhs/variables/amxbrbh)**

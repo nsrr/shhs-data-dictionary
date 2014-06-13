@@ -108,3 +108,5 @@ These are known issues in the current version.
 - One occurrence found: **[davbnbh](https://sleepdata.org/datasets/shhs/variables/davbnbh) value > 200 beats per minute**
 - Multiple occurrences found: **Low values in [amnbnbh](https://sleepdata.org/datasets/shhs/variables/amnbnbh)**
   - Many instances of minimum heart rate below 20 beats per minute
+- Multiple occurrences found: **Low values in [amnbrbh](https://sleepdata.org/datasets/shhs/variables/amnbrbh)**
+  - Several instances of minimum heart rate below 20 beats per minute

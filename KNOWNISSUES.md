@@ -31,8 +31,8 @@ These are known issues in the current version.
   - Also many instances of minimum heart rates below 30 beats per minute
 - Multiple occurrences found: **High and low values in [amxbnoh](https://sleepdata.org/datasets/shhs/variables/amxbnoh)**
   - Several maximum heart rate readings with arousal above 300 bpm and below 50 beats per minute
-- Multiple occurrences found: **High values in [amxbrbh](https://sleepdata.org/datasets/shhs/variables/amxbrbh)**
-  - Several maximum heart rate readings with arousal above 300 bpm
+- Multiple occurrences found: **High and low values in [amxbrbh](https://sleepdata.org/datasets/shhs/variables/amxbrbh)**
+  - Several maximum heart rate readings with arousal above 300 bpm and below 40 beats per minute
 - Multiple occurrences found: **High values in [amxbroh](https://sleepdata.org/datasets/shhs/variables/amxbroh)**
   - Several maximum heart rate readings with arousal above 300 bpm
 - Multiple occurrences found: **High values in [dmxbnbh](https://sleepdata.org/datasets/shhs/variables/dmxbnbh)**

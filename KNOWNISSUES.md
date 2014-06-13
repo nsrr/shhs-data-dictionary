@@ -103,3 +103,4 @@ These are known issues in the current version.
 - One occurrence found: **[sh324](https://sleepdata.org/datasets/shhs/variables/sh324) value > 110**
 - One occurrence found: **[sh325](https://sleepdata.org/datasets/shhs/variables/sh325) value > 20**
 - One occurrence found: **[syst220](https://sleepdata.org/datasets/shhs/variables/syst220) value > 240 mmHg**
+- One occurrence found: **[systbp](https://sleepdata.org/datasets/shhs/variables/systbp) value < 55 mmHg**

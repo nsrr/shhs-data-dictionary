@@ -651,7 +651,7 @@ data shhs1;
   /*Corrects an erroneous value in the SHHS1 data*/
   if tfawea02 = 10 then tfawea02 = 2;
 
-  drop uenrbp--UEROP5A repsgpptid responqa;
+  drop uenrbp--UEROP5A repsgpptid responqa blpsgdate;
 run;
 
 data shhs2;
@@ -1312,13 +1312,6 @@ data shhs_cvd;
 
   visitnumber = 3;
 
-  drop omni;
+  drop omni blpsgdate;
 
 run;
-/*
-proc export data=shhs1 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.3.0\shhs1-dataset-0.3.0.beta5.csv" dbms=csv replace; run;
-
-proc export data=shhs2 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.3.0\shhs2-dataset-0.3.0.beta5.csv" dbms=csv replace; run;
-
-proc export data=shhs_cvd outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.3.0\shhs-cvd-dataset-0.3.0.beta5.csv" dbms=csv replace; run;
-*/

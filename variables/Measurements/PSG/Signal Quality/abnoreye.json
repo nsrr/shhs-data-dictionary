@@ -6,5 +6,8 @@
   "domain": "yesnon",
   "labels": [
     "AbnorEye"
+  ],
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
   ]
 }

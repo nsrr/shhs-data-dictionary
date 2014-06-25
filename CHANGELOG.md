@@ -4,6 +4,7 @@
   -Health Interview (ARIC, CHS, Tucscon/Strong Heart)
   -Health Interview (Framingham)
   -Health Interview (New York)
+  -PSG Scoring Notes
 
 ## 0.3.0 (June 20, 2014)
 

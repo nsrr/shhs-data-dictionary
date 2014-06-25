@@ -6,5 +6,8 @@
   "domain": "allnone5",
   "labels": [
     "ql210"
+  ],
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
   ]
 }

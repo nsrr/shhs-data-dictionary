@@ -1,3 +1,7 @@
+## 0.3.1
+
+
+
 ## 0.3.0 (June 20, 2014)
 
 - Removed `in_shhs2_lad` variable (i.e. participant was part of SHHS2 Limited Access Dataset) as it is no longer relevant

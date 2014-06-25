@@ -6,6 +6,7 @@
   -Health Interview (New York)
   -PSG Scoring Notes
   -Health Interview (SHHS2)
+  -Morning Survey (SHHS2)
 
 ## 0.3.0 (June 20, 2014)
 

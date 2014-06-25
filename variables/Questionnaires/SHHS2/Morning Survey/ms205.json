@@ -6,5 +6,8 @@
   "domain": "betwrs5",
   "labels": [
     "ms205"
+  ],
+  "forms": [
+    "shhs2_morning_survey_form"
   ]
 }

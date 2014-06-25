@@ -6,5 +6,8 @@
   "domain": "snore6",
   "labels": [
     "sh310"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
   ]
 }

@@ -6,5 +6,8 @@
   "domain": "noyes01",
   "labels": [
     "sh313"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
   ]
 }

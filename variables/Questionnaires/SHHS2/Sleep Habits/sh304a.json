@@ -6,5 +6,8 @@
   "units": "naps",
   "labels": [
     "sh304a"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
   ]
 }

@@ -6,5 +6,8 @@
   "domain": "yesnod",
   "labels": [
     "OTHRCS15"
+  ],
+  "forms": [
+    "shhs1_health_interview_form_aric_chs_tucson_strong_heart"
   ]
 }

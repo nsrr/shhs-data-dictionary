@@ -1,6 +1,7 @@
 ## 0.3.1
 
-
+-Added the following forms to variables
+  -Health Interview (ARIC, CHS, Tucscon/Strong Heart)
 
 ## 0.3.0 (June 20, 2014)
 

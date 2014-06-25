@@ -7,6 +7,8 @@
   -PSG Scoring Notes
   -Health Interview (SHHS2)
   -Morning Survey (SHHS2)
+  -Physical Measurements, Blood Pressure, Ankle-Arm Index, ECG
+  -Quality of Life Survey (SF-36)
 
 ## 0.3.0 (June 20, 2014)
 

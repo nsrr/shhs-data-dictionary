@@ -6,5 +6,8 @@
   "units": "cans",
   "labels": [
     "BEER15"
+  ],
+  "forms": [
+    "shhs1_health_interview_form_new_york"
   ]
 }

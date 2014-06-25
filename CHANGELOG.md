@@ -3,6 +3,7 @@
 -Added the following forms to variables
   -Health Interview (ARIC, CHS, Tucscon/Strong Heart)
   -Health Interview (Framingham)
+  -Health Interview (New York)
 
 ## 0.3.0 (June 20, 2014)
 

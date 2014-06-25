@@ -6,5 +6,8 @@
   "domain": "yesnod",
   "labels": [
     "hi208a"
+  ],
+  "forms": [
+    "shhs2_health_interview"
   ]
 }

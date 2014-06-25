@@ -5,6 +5,7 @@
   -Health Interview (Framingham)
   -Health Interview (New York)
   -PSG Scoring Notes
+  -Health Interview (SHHS2)
 
 ## 0.3.0 (June 20, 2014)
 

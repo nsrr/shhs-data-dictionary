@@ -1,14 +1,14 @@
 ## 0.3.1
 
--Added the following forms to variables
-  -Health Interview (ARIC, CHS, Tucscon/Strong Heart)
-  -Health Interview (Framingham)
-  -Health Interview (New York)
-  -PSG Scoring Notes
-  -Health Interview (SHHS2)
-  -Morning Survey (SHHS2)
-  -Physical Measurements, Blood Pressure, Ankle-Arm Index, ECG
-  -Quality of Life Survey (SF-36)
+- Added the following forms to variables
+  - Health Interview (ARIC, CHS, Tucscon/Strong Heart)
+  - Health Interview (Framingham)
+  - Health Interview (New York)
+  - PSG Scoring Notes
+  - Health Interview (SHHS2)
+  - Morning Survey (SHHS2)
+  - Physical Measurements, Blood Pressure, Ankle-Arm Index, ECG
+  - Quality of Life Survey (SF-36)
 
 ## 0.3.0 (June 20, 2014)
 

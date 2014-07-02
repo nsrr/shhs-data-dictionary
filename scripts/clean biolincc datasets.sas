@@ -1,6 +1,8 @@
 libname biolincc "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\biolincc-master";
 libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
 
+%let release = 0.4.0.rc
+
 data shhs1_ecg;
   set biolincc.shhs1final_ecg_14aug2013_4260;
 run;
@@ -1323,3 +1325,9 @@ data shhs_cvd;
   drop omni blpsgdate permiss;
 
 run;
+
+proc export data=shhs1 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs1-dataset-&release..csv" dbms=csv replace; run;
+
+proc export data=shhs2 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs2-dataset-&release..csv" dbms=csv replace; run;
+
+proc export data=shhs_cvd outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-dataset-&release..csv" dbms=csv replace; run;

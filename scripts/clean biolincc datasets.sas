@@ -30,7 +30,7 @@ data shhs_cvd;
 run;
 
 data obfid;
-  set obf.all_ids(keep=npptid obf_pptid rename=(npptid=pptid));
+  set obf.all_ids(keep=npptid obf_pptid permiss rename=(npptid=pptid));
 run;
 
 data shhs1;
@@ -652,7 +652,9 @@ data shhs1;
   /*Corrects an erroneous value in the SHHS1 data*/
   if tfawea02 = 10 then tfawea02 = 2;
 
-  drop uenrbp--UEROP5A repsgpptid responqa blpsgdate;
+  if permiss = 1;
+
+  drop uenrbp--UEROP5A repsgpptid responqa blpsgdate permiss;
 run;
 
 data shhs2;
@@ -1301,7 +1303,10 @@ data shhs2;
   scstg34p = scstg34p/60;
 
   visitnumber = 2;
-  drop repsgpptid responqa;
+
+  if permiss = 1;
+
+  drop repsgpptid responqa permiss;
 run;
 
 data shhs_cvd;
@@ -1313,6 +1318,8 @@ data shhs_cvd;
 
   visitnumber = 3;
 
-  drop omni blpsgdate;
+  if permiss = 1;
+
+  drop omni blpsgdate permiss;
 
 run;

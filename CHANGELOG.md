@@ -1,3 +1,10 @@
+## 0.4.0
+
+- Removed data for subjects who did not consent to share their data
+- **Gem Changes**
+  - Updated to spout 0.8.0
+- Issues with data from the BioLINCC datasets for v0.4.0 (i.e. extreme values) have been grouped into a [Known Issues](https://github.com/sleepepi/shhs-data-dictionary/blob/master/KNOWNISSUES.md) list
+
 ## 0.3.0 (June 20, 2014)
 
 - Removed `in_shhs2_lad` variable (i.e. participant was part of SHHS2 Limited Access Dataset) as it is no longer relevant

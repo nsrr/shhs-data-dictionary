@@ -5,6 +5,18 @@
   - Updated to spout 0.8.0
 - Issues with data from the BioLINCC datasets for v0.4.0 (i.e. extreme values) have been grouped into a [Known Issues](https://github.com/sleepepi/shhs-data-dictionary/blob/master/KNOWNISSUES.md) list
 
+## 0.3.1
+
+- Added the following forms to variables
+  - Health Interview (ARIC, CHS, Tucscon/Strong Heart)
+  - Health Interview (Framingham)
+  - Health Interview (New York)
+  - PSG Scoring Notes
+  - Health Interview (SHHS2)
+  - Morning Survey (SHHS2)
+  - Physical Measurements, Blood Pressure, Ankle-Arm Index, ECG
+  - Quality of Life Survey (SF-36)
+
 ## 0.3.0 (June 20, 2014)
 
 - Removed `in_shhs2_lad` variable (i.e. participant was part of SHHS2 Limited Access Dataset) as it is no longer relevant

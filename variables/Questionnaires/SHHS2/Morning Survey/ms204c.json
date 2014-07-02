@@ -6,5 +6,8 @@
   "domain": "restlf5",
   "labels": [
     "ms204c"
+  ],
+  "forms": [
+    "shhs2_morning_survey_form"
   ]
 }

@@ -7,5 +7,8 @@
   "labels": [
     "hi201b"
   ],
+  "forms": [
+    "shhs2_health_interview"
+  ],
   "commonly_used": true
 }

@@ -6,5 +6,8 @@
   "domain": "noyes01",
   "labels": [
     "ms212a"
+  ],
+  "forms": [
+    "shhs2_morning_survey_form"
   ]
 }

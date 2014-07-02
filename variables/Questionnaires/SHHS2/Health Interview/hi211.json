@@ -6,5 +6,8 @@
   "domain": "rlegocc",
   "labels": [
     "hi211"
+  ],
+  "forms": [
+    "shhs2_health_interview"
   ]
 }

@@ -6,5 +6,8 @@
   "domain": "check",
   "labels": [
     "sh307d"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
   ]
 }

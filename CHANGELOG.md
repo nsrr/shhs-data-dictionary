@@ -1,12 +1,14 @@
 ## 0.4.0
 
 - Removed data for subjects who did not consent to share their data
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.4.0.rc\`
+    - `shhs1-dataset-0.4.0.rc.csv`
+    - `shhs2-dataset-0.4.0.rc.csv`
+    - `shhs-cvd-dataset-0.4.0.rc.csv`
 - **Gem Changes**
   - Updated to spout 0.8.0
 - Issues with data from the BioLINCC datasets for v0.4.0 (i.e. extreme values) have been grouped into a [Known Issues](https://github.com/sleepepi/shhs-data-dictionary/blob/master/KNOWNISSUES.md) list
-
-## 0.3.1
-
 - Added the following forms to variables
   - Health Interview (ARIC, CHS, Tucscon/Strong Heart)
   - Health Interview (Framingham)

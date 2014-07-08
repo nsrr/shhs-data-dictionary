@@ -6,7 +6,9 @@
   "units": "percent",
   "calculation": "min(losao2r,losao2nr)",
   "labels": [
-    "minsat"
+    "minsat",
+    "hypoxia",
+    "hypoxemia"
   ],
   "commonly_used": true
 }

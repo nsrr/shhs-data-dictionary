@@ -4,9 +4,10 @@
   "description": "Ratio of the number of minutes with oxygen saturation under 90% to the total sleep time expressed in hours.",
   "type": "numeric",
   "units": "percent",
-  "calculation": "pctsa90h",
   "labels": [
-    "pctlt90"
+    "pctlt90",
+    "hypoxia",
+    "hypoxemia"
   ],
   "commonly_used": true
 }

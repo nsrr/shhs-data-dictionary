@@ -1,4 +1,8 @@
-## 0.4.0
+## 0.4.1
+
+- Key desaturation variables have been labeled with `hypoxia` and `hypoxemia` to allow for easy searching on sleepdata.org
+
+## 0.4.0 (July 3, 2014)
 
 - Removed data for subjects who did not consent to share their data
 - The CSV datasets generated from a SAS export is located here:

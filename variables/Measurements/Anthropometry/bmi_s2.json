@@ -7,5 +7,6 @@
   "labels": [
     "bmi_s2"
   ],
+  "calculation": "( pm202 / ( pm207 * pm207 ) )",
   "commonly_used": true
 }

@@ -7,5 +7,6 @@
   "labels": [
     "chd_death",
     "coronary heart disease"
-  ]
+  ],
+  "commonly_used": true
 }

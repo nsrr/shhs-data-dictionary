@@ -6,5 +6,6 @@
   "domain": "vitalstat",
   "labels": [
     "vital"
-  ]
+  ],
+  "commonly_used": true
 }

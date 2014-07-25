@@ -6,5 +6,6 @@
   "units": "number of events",
   "labels": [
     "prev_ang"
-  ]
+  ],
+  "commonly_used": true
 }

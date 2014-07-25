@@ -6,5 +6,6 @@
   "units": "number of events",
   "labels": [
     "angina"
-  ]
+  ],
+  "commonly_used": true
 }

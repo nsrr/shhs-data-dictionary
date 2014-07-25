@@ -7,5 +7,6 @@
   "labels": [
     "cvd_death",
     "cardiovascular disease"
-  ]
+  ],
+  "commonly_used": true
 }

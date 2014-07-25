@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "A2AD2"
+    "A2AD2",
+    "hypertension"
   ]
 }

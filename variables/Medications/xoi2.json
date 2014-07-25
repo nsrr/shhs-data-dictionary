@@ -5,6 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "XOI2"
+    "XOI2",
+    "hyperuricemia",
+    "gout"
   ]
 }

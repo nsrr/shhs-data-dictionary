@@ -5,6 +5,11 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "HPRNS2"
+    "HPRNS2",
+    "anticoagulant",
+    "pulmonary embolism",
+    "DVT",
+    "deep-vein thrombosis",
+    "acute coronary syndrome"
   ]
 }

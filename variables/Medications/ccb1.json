@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "CCB1"
+    "CCB1",
+    "hypertension"
   ],
   "commonly_used": true,
   "forms": [

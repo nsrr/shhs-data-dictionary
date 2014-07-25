@@ -5,6 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "PRKNSN2"
+    "PRKNSN2",
+    "dopaminergics",
+    "dopamine"
   ]
 }

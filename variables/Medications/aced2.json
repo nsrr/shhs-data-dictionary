@@ -6,7 +6,8 @@
   "domain": "noyes01",
   "labels": [
     "aced2",
-    "angiotensin-converting-enzyme"
+    "angiotensin-converting-enzyme",
+    "hypertension"
   ],
   "commonly_used": true
 }

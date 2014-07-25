@@ -5,6 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "WARF2"
+    "WARF2",
+    "pulmonary embolism",
+    "DVT",
+    "deep-vein thrombosis",
+    "acute coronary syndrome"
   ]
 }

@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "WTLS2"
+    "WTLS2",
+    "obesity"
   ]
 }

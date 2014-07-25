@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "BGND2"
+    "BGND2",
+    "diabetes"
   ]
 }

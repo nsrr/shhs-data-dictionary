@@ -5,6 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "FIBR2"
+    "FIBR2",
+    "hypercholesterolemia",
+    "dyslipidemia",
+    "hyperlipidemia"
   ]
 }

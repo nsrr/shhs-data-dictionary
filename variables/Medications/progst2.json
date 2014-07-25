@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "PROGST2"
+    "PROGST2",
+    "hormone therapy"
   ]
 }

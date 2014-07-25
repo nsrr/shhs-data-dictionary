@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "AGDI2"
+    "AGDI2",
+    "diabetes"
   ]
 }

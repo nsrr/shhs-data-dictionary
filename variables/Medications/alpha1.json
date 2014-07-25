@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ALPHA1"
+    "ALPHA1",
+    "hypertension"
   ],
   "forms": [
     "shhs1_medications_prescription_and_over_the_counter_form"

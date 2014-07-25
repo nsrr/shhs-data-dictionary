@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "SLF22"
+    "SLF22",
+    "diabetes"
   ]
 }

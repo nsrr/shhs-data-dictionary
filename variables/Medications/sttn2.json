@@ -5,6 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "STTN2"
+    "STTN2",
+    "hypercholesterolemia",
+    "dyslipidemia",
+    "hyperlipidemia"
   ]
 }

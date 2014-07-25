@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "BETAD1"
+    "BETAD1",
+    "hypertension"
   ],
   "commonly_used": true,
   "forms": [

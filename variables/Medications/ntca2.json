@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "NTCA2"
+    "NTCA2",
+    "depression"
   ]
 }

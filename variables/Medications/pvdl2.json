@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "PVDL2"
+    "PVDL2",
+    "hypertension"
   ]
 }

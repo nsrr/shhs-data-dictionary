@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "NTG1"
+    "NTG1",
+    "hypertension"
   ],
   "commonly_used": true,
   "forms": [

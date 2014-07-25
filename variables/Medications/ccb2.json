@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "CCB2"
+    "CCB2",
+    "hypertension"
   ]
 }

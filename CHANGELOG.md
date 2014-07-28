@@ -3,6 +3,8 @@
 - Key desaturation variables have been labeled with `hypoxia` and `hypoxemia` to allow for easy searching on sleepdata.org
 - Medication variables have been updated with labels for related diseases
 - Calculations have been added to BMI variables that list the appropriate component height and weight variables
+- **Gem Changes**
+  - Updated to spout 0.9.0
 
 
 ## 0.4.0 (July 3, 2014)

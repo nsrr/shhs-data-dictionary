@@ -1,7 +1,7 @@
 {
   "id": "trig",
   "display_name": "Triglycerides (SHHS1)",
-  "description": "Triglycerides",
+  "description": "",
   "type": "numeric",
   "units": "milligrams per deciliter",
   "labels": [

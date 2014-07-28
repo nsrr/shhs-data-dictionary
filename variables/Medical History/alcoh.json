@@ -5,7 +5,14 @@
   "type": "numeric",
   "units": "drinks per day",
   "labels": [
-    "Alcoh"
+    "Alcoh",
+    "beer",
+    "wine",
+    "liquor",
+    "vodka",
+    "gin",
+    "whiskey",
+    "drink"
   ],
   "commonly_used": true
 }

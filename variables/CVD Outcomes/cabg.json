@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "number of events",
   "labels": [
-    "adjudicated"
+    "adjudicated",
     "cabg",
     "stent",
     "coronary artery bypass graft"

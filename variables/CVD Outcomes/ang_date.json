@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "adjudicated"
+    "adjudicated",
     "tto_angdate"
   ]
 }

@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "vitalstat",
   "labels": [
-    "adjudicated"
+    "adjudicated",
     "vital"
   ],
   "commonly_used": true

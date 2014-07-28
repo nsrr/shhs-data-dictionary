@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "number of events",
   "labels": [
-    "adjudicated"
+    "adjudicated",
     "prev_ang"
   ],
   "commonly_used": true

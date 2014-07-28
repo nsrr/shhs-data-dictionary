@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "OHGA2"
+    "OHGA2",
+    "diabetes"
   ],
   "commonly_used": true
 }

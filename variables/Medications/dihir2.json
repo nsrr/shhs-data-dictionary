@@ -1,10 +1,11 @@
 {
   "id": "dihir2",
-  "display_name": "Immediate-Release Dihyropryidines Other Than Nifedipine (SHHS2)",
-  "description": "Participant taking IMMEDIATE-RELEASE DIHYROPRYIDINES OTHER THAN NIFEDIPINE within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Immediate-Release Dihydropyridines Other Than Nifedipine (SHHS2)",
+  "description": "Participant taking IMMEDIATE-RELEASE DIHYDROPYRIDINES OTHER THAN NIFEDIPINE within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "DIHIR2"
+    "DIHIR2",
+    "hypertension"
   ]
 }

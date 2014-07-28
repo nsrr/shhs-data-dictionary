@@ -5,6 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "H2B2"
+    "H2B2",
+    "GERD",
+    "Gastroesophageal Reflux Disorder"
   ]
 }

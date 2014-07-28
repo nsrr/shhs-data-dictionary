@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "COX22"
+    "COX22",
+    "inflammation"
   ]
 }

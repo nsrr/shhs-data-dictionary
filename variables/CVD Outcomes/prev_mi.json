@@ -5,8 +5,10 @@
   "type": "numeric",
   "units": "number of events",
   "labels": [
+    "adjudicated",
     "prev_mi",
     "myocardial infarction",
     "heart attack"
-  ]
+  ],
+  "commonly_used": true
 }

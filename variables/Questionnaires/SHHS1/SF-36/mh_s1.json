@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "",
   "labels": [
+    "sf36",
     "mh_s1"
   ]
 }

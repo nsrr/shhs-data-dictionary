@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "TCA1"
+    "TCA1",
+    "depression"
   ],
   "commonly_used": true,
   "forms": [

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "INSULN1"
+    "INSULN1",
+    "diabetes"
   ],
   "commonly_used": true,
   "forms": [

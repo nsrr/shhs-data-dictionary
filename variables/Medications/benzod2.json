@@ -5,7 +5,13 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "BENZOD2"
+    "BENZOD2",
+    "anti-psychotic",
+    "panic disorder",
+    "Generalized anxiety disorder",
+    "Insomnia",
+    "seizure",
+    "Withdrawal"
   ],
   "commonly_used": true
 }

@@ -5,7 +5,9 @@
   "type": "numeric",
   "units": "number of events",
   "labels": [
+    "adjudicated",
     "chf",
     "congestive heart failure"
-  ]
+  ],
+  "commonly_used": true
 }

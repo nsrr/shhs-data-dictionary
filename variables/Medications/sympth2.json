@@ -5,6 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "SYMPTH2"
+    "SYMPTH2",
+    "hypotension",
+    "heart failure"
   ]
 }

@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "DIHSR2"
+    "DIHSR2",
+    "hypertension"
   ]
 }

@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ace2"
+    "ace2",
+    "hypertension"
   ],
   "commonly_used": true
 }

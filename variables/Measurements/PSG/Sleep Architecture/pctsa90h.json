@@ -5,6 +5,8 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "pctsa90h"
+    "pctsa90h",
+    "hypoxia",
+    "hypoxemia"
   ]
 }

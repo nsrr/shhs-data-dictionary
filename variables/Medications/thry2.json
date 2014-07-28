@@ -5,6 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "THRY2"
+    "THRY2",
+    "goiter",
+    "hypothyroidism"
   ]
 }

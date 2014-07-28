@@ -5,6 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "PROB2"
+    "PROB2",
+    "dyslipidemia",
+    "hyperlipidemia"
   ]
 }

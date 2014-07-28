@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
+    "adjudicated",
     "any_chd",
     "coronary heart disease"
-  ]
+  ],
+  "commonly_used": true
 }

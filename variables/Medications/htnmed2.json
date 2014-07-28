@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "HTNMED2"
+    "HTNMED2",
+    "hypertension"
   ],
   "commonly_used": true
 }

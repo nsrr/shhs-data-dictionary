@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ANAR32"
+    "ANAR32",
+    "arrhythmia"
   ]
 }

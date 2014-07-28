@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
+    "adjudicated",
     "stk_fatal",
     "stroke"
-  ]
+  ],
+  "commonly_used": true
 }

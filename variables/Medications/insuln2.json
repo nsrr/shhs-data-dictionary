@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "INSULN2"
+    "INSULN2",
+    "diabetes"
   ],
   "commonly_used": true
 }

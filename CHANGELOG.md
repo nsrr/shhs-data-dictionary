@@ -1,4 +1,13 @@
-## 0.4.0
+## 0.4.1 (July 28, 2014)
+
+- Key desaturation variables have been labeled with `hypoxia` and `hypoxemia` to allow for easy searching on sleepdata.org
+- Medication variables have been updated with labels for related diseases
+- Calculations have been added to BMI variables that list the appropriate component height and weight variables
+- **Gem Changes**
+  - Updated to spout 0.9.0
+
+
+## 0.4.0 (July 3, 2014)
 
 - Removed data for subjects who did not consent to share their data
 - The CSV datasets generated from a SAS export is located here:

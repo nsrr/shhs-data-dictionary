@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
+    "adjudicated",
     "tto_stkdate",
     "stroke"
   ]

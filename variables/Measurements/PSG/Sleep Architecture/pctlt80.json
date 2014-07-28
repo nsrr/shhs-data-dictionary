@@ -4,9 +4,10 @@
   "description": "",
   "type": "numeric",
   "units": "percent",
-  "calculation": "pctsa80h",
   "labels": [
-    "pctlt80"
+    "pctlt80",
+    "hypoxia",
+    "hypoxemia"
   ],
   "commonly_used": true
 }

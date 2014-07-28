@@ -5,6 +5,8 @@
   "type": "numeric",
   "units": "number of events",
   "labels": [
+    "adjudicated",
     "stroke"
-  ]
+  ],
+  "commonly_used": true
 }

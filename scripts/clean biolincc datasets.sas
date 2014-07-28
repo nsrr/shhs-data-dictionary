@@ -1,7 +1,7 @@
 libname biolincc "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\biolincc-master";
 libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
 
-%let release = 0.4.0;
+%let release = 0.4.1.rc;
 
 data shhs1_ecg;
   set biolincc.shhs1final_ecg_14aug2013_4260;

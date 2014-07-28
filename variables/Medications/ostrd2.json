@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "OSTRD2"
+    "OSTRD2",
+    "autoimmune",
+    "inflammation"
   ],
   "commonly_used": true
 }

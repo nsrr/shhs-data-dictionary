@@ -5,8 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
+    "adjudicated",
     "mi_fatal",
     "heart attack",
     "myocardial infarction"
-  ]
+  ],
+  "commonly_used": true
 }

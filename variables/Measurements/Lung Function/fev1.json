@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "liters",
   "labels": [
-    "FEV1"
+    "FEV1",
+    "spirometry"
   ],
   "commonly_used": true
 }

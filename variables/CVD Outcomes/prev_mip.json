@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "number of events",
   "labels": [
+    "adjudicated"
     "prev_mip",
     "myocardial infarction",
     "heart attack"

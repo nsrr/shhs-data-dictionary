@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "number of events",
   "labels": [
+    "adjudicated"
     "revasc_proc",
     "revascularization procedure",
     "stent"

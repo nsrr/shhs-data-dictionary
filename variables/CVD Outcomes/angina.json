@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "number of events",
   "labels": [
+    "adjudicated"
     "angina"
   ],
   "commonly_used": true

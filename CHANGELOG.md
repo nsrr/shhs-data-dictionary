@@ -1,4 +1,4 @@
-## 0.4.1
+## 0.4.1 (July 28, 2014)
 
 - Key desaturation variables have been labeled with `hypoxia` and `hypoxemia` to allow for easy searching on sleepdata.org
 - Medication variables have been updated with labels for related diseases

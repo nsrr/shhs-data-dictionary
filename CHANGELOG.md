@@ -1,5 +1,8 @@
 ## 0.4.2
 
+- **Gem Changes**
+  - Use of Ruby 2.1.3 is now recommended
+
 ## 0.4.1 (July 28, 2014)
 
 - Key desaturation variables have been labeled with `hypoxia` and `hypoxemia` to allow for easy searching on sleepdata.org
@@ -7,7 +10,6 @@
 - Calculations have been added to BMI variables that list the appropriate component height and weight variables
 - **Gem Changes**
   - Updated to spout 0.9.0
-
 
 ## 0.4.0 (July 3, 2014)
 

@@ -9,7 +9,7 @@
 - Medication variables have been updated with labels for related diseases
 - Calculations have been added to BMI variables that list the appropriate component height and weight variables
 - **Gem Changes**
-  - Updated to spout 0.9.0
+  - Updated to spout 0.9.0.beta1
 
 ## 0.4.0 (July 3, 2014)
 

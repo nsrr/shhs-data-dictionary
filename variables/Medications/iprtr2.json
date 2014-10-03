@@ -8,5 +8,8 @@
     "IPRTR2",
     "asthma",
     "respiratory"
+  ],
+  "forms": [
+  "shhs2_medication_form"
   ]
 }

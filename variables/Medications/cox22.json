@@ -7,5 +7,8 @@
   "labels": [
     "COX22",
     "inflammation"
+  ],
+  "forms": [
+  "shhs2_medication_form"
   ]
 }

@@ -8,5 +8,8 @@
     "PROB2",
     "dyslipidemia",
     "hyperlipidemia"
+  ],
+  "forms": [
+  "shhs2_medication_form"
   ]
 }

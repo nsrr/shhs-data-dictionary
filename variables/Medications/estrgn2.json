@@ -7,5 +7,8 @@
   "labels": [
     "ESTRGN2",
     "hormone therapy"
+  ],
+  "forms": [
+  "shhs2_medication_form"
   ]
 }

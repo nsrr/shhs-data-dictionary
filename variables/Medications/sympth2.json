@@ -8,5 +8,8 @@
     "SYMPTH2",
     "hypotension",
     "heart failure"
+  ],
+  "forms": [
+  "shhs2_medication_form"
   ]
 }

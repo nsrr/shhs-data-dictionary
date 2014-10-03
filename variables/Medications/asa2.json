@@ -8,5 +8,8 @@
     "ASA2",
     "clotting",
     "inflammation"
+  ],
+  "forms": [
+  "shhs2_medication_form"
   ]
 }

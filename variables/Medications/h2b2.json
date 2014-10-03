@@ -8,5 +8,8 @@
     "H2B2",
     "GERD",
     "Gastroesophageal Reflux Disorder"
+  ],
+  "forms": [
+  "shhs2_medication_form"
   ]
 }

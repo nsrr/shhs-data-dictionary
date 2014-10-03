@@ -7,5 +7,8 @@
   "labels": [
     "DIG2",
     "hypertension"
+  ],
+  "forms": [
+  "shhs2_medication_form"
   ]
 }

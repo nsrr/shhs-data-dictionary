@@ -8,5 +8,8 @@
     "VERIR2",
     "hypertension",
     "arrythmia"
+  ],
+  "forms": [
+  "shhs2_medication_form"
   ]
 }

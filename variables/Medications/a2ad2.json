@@ -7,5 +7,9 @@
   "labels": [
     "A2AD2",
     "hypertension"
+  ], 
+  "forms": [
+  "shhs2_medication_form"
   ]
+  
 }

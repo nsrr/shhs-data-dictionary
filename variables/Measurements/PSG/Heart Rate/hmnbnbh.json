@@ -1,6 +1,6 @@
 {
   "id": "hmnbnbh",
-  "display_name": "Minumum Heart Rate (NREM, Back, 3% oxygen desaturation)",
+  "display_name": "Minimum Heart Rate (NREM, Back, 3% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",

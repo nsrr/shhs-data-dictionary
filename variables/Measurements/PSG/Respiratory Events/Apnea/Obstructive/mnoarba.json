@@ -1,6 +1,6 @@
 {
   "id": "mnoarba",
-  "display_name": "Minumum Obstructive Apnea length w/ arousals (REM, Back, all oxygen desaturations)",
+  "display_name": "Minimum Obstructive Apnea length w/ arousals (REM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

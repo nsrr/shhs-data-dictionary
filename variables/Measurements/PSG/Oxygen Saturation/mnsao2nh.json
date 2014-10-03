@@ -1,6 +1,6 @@
 {
   "id": "mnsao2nh",
-  "display_name": "Minumum SaO2 % during NREM sleep",
+  "display_name": "Minimum SaO2 % during NREM sleep",
   "description": "",
   "type": "numeric",
   "units": "percent",

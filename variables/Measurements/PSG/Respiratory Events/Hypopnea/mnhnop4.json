@@ -1,6 +1,6 @@
 {
   "id": "mnhnop4",
-  "display_name": "Minumum Hypopnea length (NREM, Other, 4% oxygen desaturation)",
+  "display_name": "Minimum Hypopnea length (NREM, Other, 4% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

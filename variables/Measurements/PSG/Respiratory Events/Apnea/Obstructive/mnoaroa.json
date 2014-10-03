@@ -1,6 +1,6 @@
 {
   "id": "mnoaroa",
-  "display_name": "Minumum Obstructive Apnea length w/ arousals (REM, Other, all oxygen desaturations)",
+  "display_name": "Minimum Obstructive Apnea length w/ arousals (REM, Other, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

@@ -1,6 +1,6 @@
 {
   "id": "smnbnoh",
-  "display_name": "Minumum Heart Rate (NREM, Other, all oxygen desaturations)",
+  "display_name": "Minimum Heart Rate (NREM, Other, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",

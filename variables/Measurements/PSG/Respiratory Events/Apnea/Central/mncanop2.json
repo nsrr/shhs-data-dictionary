@@ -1,6 +1,6 @@
 {
   "id": "mncanop2",
-  "display_name": "Minumum Central Apnea length (NREM, Other, 2% oxygen desaturation)",
+  "display_name": "Minimum Central Apnea length (NREM, Other, 2% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

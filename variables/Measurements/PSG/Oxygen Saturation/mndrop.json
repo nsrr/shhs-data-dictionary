@@ -1,6 +1,6 @@
 {
   "id": "mndrop",
-  "display_name": "Minumum SaO2 (REM, Other, all oxygen desaturations)",
+  "display_name": "Minimum SaO2 (REM, Other, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "percent",

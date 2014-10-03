@@ -1,6 +1,6 @@
 {
   "id": "mnhnbp2",
-  "display_name": "Minumum Hypopnea length (NREM, Back, 2% oxygen desaturation)",
+  "display_name": "Minimum Hypopnea length (NREM, Back, 2% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

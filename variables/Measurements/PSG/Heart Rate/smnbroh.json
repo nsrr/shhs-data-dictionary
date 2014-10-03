@@ -1,6 +1,6 @@
 {
   "id": "smnbroh",
-  "display_name": "Minumum Heart Rate (REM, Other, all oxygen desaturations)",
+  "display_name": "Minimum Heart Rate (REM, Other, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",

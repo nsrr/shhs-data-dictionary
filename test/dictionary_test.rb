@@ -9,7 +9,14 @@ class DictionaryTest < Minitest::Test
   # iterators that can be used to write custom tests
   include Spout::Helpers::Iterators
 
-   VALID_UNITS = ["", "arousals", "beats per minute", "bottles", "bowls", "cans", "centimeters",
+  # These tests can be removed when spout v0.10.0 is released as it will be included by default
+  @variables.each do |variable|
+    define_method("test_no_more_than_255_display_name: "+variable.path) do
+      assert_operator 255, :>=, variable.display_name.size
+    end
+  end
+
+  VALID_UNITS = ["", "arousals", "beats per minute", "bottles", "bowls", "cans", "centimeters",
     "central apnea events", "cigarettes", "cigarettes per day", "cigars", "cups", "days",
     "days from index date", "drinks", "drinks per day", "events per hour", "glasses", "hours",
     "hypopnea events", "index", "kilograms", "kilograms per square meter", "liters",

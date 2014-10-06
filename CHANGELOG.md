@@ -2,6 +2,7 @@
 
 - Created SHHS2 medications form and linked corresponding variables
 - Fixed misspellings of minimum
+- Added tests to assure that display names didn't exceed 255 characters
 - **Gem Changes**
   - Updated to spout 0.9.0.rc
 

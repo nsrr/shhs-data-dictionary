@@ -1,4 +1,4 @@
-## 0.4.3
+## 0.4.3 (October 6, 2014)
 
 - Created SHHS2 medications form and linked corresponding variables
 - Fixed misspellings of minimum

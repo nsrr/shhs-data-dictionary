@@ -1,5 +1,8 @@
 ## 0.4.4
 
+- **Gem Changes**
+  - Updated to spout 0.10.0.beta4
+
 ## 0.4.3 (October 6, 2014)
 
 - Created SHHS2 medications form and linked corresponding variables

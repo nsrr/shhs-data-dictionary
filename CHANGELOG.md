@@ -1,7 +1,7 @@
 ## 0.4.4
 
 - **Gem Changes**
-  - Updated to spout 0.10.0.beta4
+  - Updated to spout 0.10.0.rc
 
 ## 0.4.3 (October 6, 2014)
 

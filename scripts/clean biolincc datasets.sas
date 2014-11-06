@@ -1,7 +1,7 @@
 libname biolincc "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\biolincc-master";
 libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
 
-%let release = 0.4.1.rc;
+%let release = 0.5.0.beta1;
 
 data shhs1_ecg;
   set biolincc.shhs1final_ecg_14aug2013_4260;
@@ -29,6 +29,10 @@ run;
 
 data shhs_cvd;
   set biolincc.shhs_status_08apr2014_5837;
+run;
+
+data examcycle2;
+	set biolincc.followup1final_09oct2006_6441;
 run;
 
 data obfid;
@@ -669,7 +673,16 @@ data shhs_demo;
 
   keep pptid race gender age_s1;
 run;
+/*
+data shhs_exam2;
+	length obf_pptid 8.;
+	merge examcycle2(in=a) shhs_demo(in=b) obfid;
+	by pptid;
 
+	if a and b;
+
+run;
+*/
 data shhs2;
   length obf_pptid 8.;
   merge shhs2(in=a) shhs_demo(in=b) obfid;

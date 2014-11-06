@@ -1,0 +1,11 @@
+{
+  "id": "miintermin",
+  "display_name": "MI during interval since the prior parent exam",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

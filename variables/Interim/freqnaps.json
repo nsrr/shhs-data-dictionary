@@ -1,0 +1,11 @@
+{
+  "id": "freqnaps",
+  "display_name": "Usual number of naps per week",
+  "description": "",
+  "type": "numeric",
+  "units": "naps",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

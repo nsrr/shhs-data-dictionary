@@ -1,0 +1,11 @@
+{
+  "id": "saspcother",
+  "display_name": "Treatment prescribed: other (text)",
+  "description": "",
+  "type": "text",
+  "units": "",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "palpatedsyst",
+  "display_name": "Palpated systolic blood pressure",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

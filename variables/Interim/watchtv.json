@@ -1,0 +1,11 @@
+{
+  "id": "watchtv",
+  "display_name": "Fall asleep watching television",
+  "description": "",
+  "type": "choices",
+  "domain": "nhchan4",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

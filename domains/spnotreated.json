@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Doctor said not needed",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Participant did not want treatment",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Other",
+    "description": ""
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "id": "cuffsize",
+  "display_name": "Cuff size",
+  "description": "",
+  "type": "choices",
+  "domain": "csize",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

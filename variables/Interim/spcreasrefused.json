@@ -1,0 +1,11 @@
+{
+  "id": "spcreasrefused",
+  "display_name": "Other reason refused repeat study",
+  "description": "",
+  "type": "text",
+  "units": "",
+  "other": {
+    "Table Name": "SCREENER",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "resting",
+  "display_name": "Fall asleep lying down to rest",
+  "description": "",
+  "type": "choices",
+  "domain": "nhchan4",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

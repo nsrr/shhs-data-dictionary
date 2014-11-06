@@ -1,0 +1,11 @@
+{
+  "id": "slpsymfollowup",
+  "display_name": "SleepSym follow-up number",
+  "description": "",
+  "type": "integer",
+  "units": "",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

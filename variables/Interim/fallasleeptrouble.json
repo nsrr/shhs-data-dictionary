@@ -1,0 +1,11 @@
+{
+  "id": "fallasleeptrouble",
+  "display_name": "Trouble falling asleep",
+  "description": "",
+  "type": "choices",
+  "domain": "nevalw",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

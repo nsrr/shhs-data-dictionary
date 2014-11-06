@@ -1,0 +1,11 @@
+{
+  "id": "milesdrive",
+  "display_name": "Miles participant drives each year",
+  "description": "",
+  "type": "numeric",
+  "units": "miles",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

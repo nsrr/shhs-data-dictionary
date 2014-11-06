@@ -1,0 +1,11 @@
+{
+  "id": "snoredever",
+  "display_name": "Have ever snored",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

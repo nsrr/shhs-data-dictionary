@@ -1,0 +1,11 @@
+{
+  "id": "sitread",
+  "display_name": "Fall asleep sitting and reading",
+  "description": "",
+  "type": "choices",
+  "domain": "nhchan4",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

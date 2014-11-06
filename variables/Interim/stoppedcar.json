@@ -1,0 +1,11 @@
+{
+  "id": "stoppedcar",
+  "display_name": "Fall asleep in a stopped car",
+  "description": "",
+  "type": "choices",
+  "domain": "nhchan4",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "treatedsnoring",
+  "display_name": "Treated for snoring since sleep study",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

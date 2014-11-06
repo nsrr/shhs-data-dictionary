@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "Self administered",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Interviewer administered",
+    "description": ""
+  }
+]

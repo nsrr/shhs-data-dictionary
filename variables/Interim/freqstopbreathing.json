@@ -1,0 +1,11 @@
+{
+  "id": "freqstopbreathing",
+  "display_name": "Frequency of breathing stopage during sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "raralw5",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

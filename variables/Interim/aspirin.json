@@ -1,0 +1,11 @@
+{
+  "id": "aspirin",
+  "display_name": "How often aspirin or aspirin-containing medications is taken",
+  "description": "",
+  "type": "choices",
+  "domain": "nevevery",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

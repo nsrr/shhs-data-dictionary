@@ -1,0 +1,11 @@
+{
+  "id": "hrswkday",
+  "display_name": "Weekday or workday: usual hours of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "hours",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

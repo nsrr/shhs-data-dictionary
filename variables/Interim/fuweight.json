@@ -1,0 +1,11 @@
+{
+  "id": "fuweight",
+  "display_name": "FU status weight",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

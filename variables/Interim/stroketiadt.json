@@ -1,0 +1,11 @@
+{
+  "id": "stroketiadt",
+  "display_name": "Date of Stroke or TIA",
+  "description": "",
+  "type": "date",
+  "units": "",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

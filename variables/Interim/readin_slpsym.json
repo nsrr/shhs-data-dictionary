@@ -1,0 +1,11 @@
+{
+  "id": "readin_slpsym",
+  "display_name": "Date on which record was read in at CC",
+  "description": "",
+  "type": "datetime",
+  "units": "",
+  "other": {
+    "Table Name": "SLEEPSYM, ADMIN",
+    "Variable Informat": null
+  }
+}

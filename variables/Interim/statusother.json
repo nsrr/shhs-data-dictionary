@@ -1,0 +1,11 @@
+{
+  "id": "statusother",
+  "display_name": "Participant Status: other (text)",
+  "description": "",
+  "type": "text",
+  "units": "",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

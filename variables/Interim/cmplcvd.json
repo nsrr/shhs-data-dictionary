@@ -1,0 +1,11 @@
+{
+  "id": "cmplcvd",
+  "display_name": "Completed CVD events form (parent study form)",
+  "description": "",
+  "type": "choices",
+  "domain": "complete4",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

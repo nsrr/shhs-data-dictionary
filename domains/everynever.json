@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Everyday",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Sometimes",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Rerely / Never",
+    "description": ""
+  }
+]

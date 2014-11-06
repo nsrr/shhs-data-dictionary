@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Completed",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Refused",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Deceased",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Unable to locate",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Too ill to complete",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Mailed forms not",
+    "description": ""
+  }
+]

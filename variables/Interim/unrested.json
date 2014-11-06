@@ -1,0 +1,11 @@
+{
+  "id": "unrested",
+  "display_name": "Feel unrested during the day",
+  "description": "",
+  "type": "choices",
+  "domain": "nevalw",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

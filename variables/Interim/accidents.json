@@ -1,0 +1,11 @@
+{
+  "id": "accidents",
+  "display_name": "Number of accidents in lifetime",
+  "description": "",
+  "type": "numeric",
+  "units": "accidents",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

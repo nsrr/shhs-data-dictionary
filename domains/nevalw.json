@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Never",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Rarely",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Sometimes",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Often",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Almost always",
+    "description": ""
+  }
+]

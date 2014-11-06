@@ -1,0 +1,11 @@
+{
+  "id": "scrfollowup",
+  "display_name": "Follow-up number",
+  "description": "",
+  "type": "integer",
+  "units": "",
+  "other": {
+    "Table Name": "SCREENER",
+    "Variable Informat": null
+  }
+}

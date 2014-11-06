@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Not interested",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Equipment was uncomfortable",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Slept poorly",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Not convenient",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
+    "description": ""
+  }
+]

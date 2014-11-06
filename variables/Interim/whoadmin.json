@@ -1,0 +1,11 @@
+{
+  "id": "whoadmin",
+  "display_name": "Who administered this form",
+  "description": "",
+  "type": "choices",
+  "domain": "administered",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

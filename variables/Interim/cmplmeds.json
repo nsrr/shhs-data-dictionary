@@ -1,0 +1,11 @@
+{
+  "id": "cmplmeds",
+  "display_name": "Completed medication form",
+  "description": "",
+  "type": "choices",
+  "domain": "complete4",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

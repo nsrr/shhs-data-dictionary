@@ -1,0 +1,11 @@
+{
+  "id": "diastolic2",
+  "display_name": "Diastolic blood pressure: second reading",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

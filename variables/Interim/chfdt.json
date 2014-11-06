@@ -1,0 +1,11 @@
+{
+  "id": "chfdt",
+  "display_name": "Date of CHF",
+  "description": "",
+  "type": "date",
+  "units": "",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

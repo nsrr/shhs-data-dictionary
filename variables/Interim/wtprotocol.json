@@ -1,0 +1,11 @@
+{
+  "id": "wtprotocol",
+  "display_name": "Protocol used to measure weight",
+  "description": "",
+  "type": "choices",
+  "domain": "protocol",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

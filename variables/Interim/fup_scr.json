@@ -1,0 +1,11 @@
+{
+  "id": "fup_scr",
+  "display_name": "Contact Form present",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "Table Name": "INDICATOR VARIABLE",
+    "Variable Informat": null
+  }
+}

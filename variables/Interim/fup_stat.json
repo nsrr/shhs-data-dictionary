@@ -1,0 +1,11 @@
+{
+  "id": "fup_stat",
+  "display_name": "Status, BP and Weight Form present",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "Table Name": "INDICATOR VARIABLE",
+    "Variable Informat": null
+  }
+}

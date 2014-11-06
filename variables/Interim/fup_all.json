@@ -1,0 +1,11 @@
+{
+  "id": "fup_all",
+  "display_name": "All followup forms present",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "Table Name": "INDICATOR VARIABLE",
+    "Variable Informat": null
+  }
+}

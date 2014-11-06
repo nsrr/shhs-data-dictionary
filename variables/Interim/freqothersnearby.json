@@ -1,0 +1,11 @@
+{
+  "id": "freqothersnearby",
+  "display_name": "Frequency others were nearby where participant slept",
+  "description": "",
+  "type": "choices",
+  "domain": "nevrusu3",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

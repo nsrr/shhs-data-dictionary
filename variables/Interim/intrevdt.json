@@ -1,0 +1,11 @@
+{
+  "id": "intrevdt",
+  "display_name": "Interview or Review date",
+  "description": "",
+  "type": "date",
+  "units": "",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

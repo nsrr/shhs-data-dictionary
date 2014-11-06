@@ -1,0 +1,11 @@
+{
+  "id": "midt",
+  "display_name": "Date of MI",
+  "description": "",
+  "type": "date",
+  "units": "",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

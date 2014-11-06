@@ -1,0 +1,11 @@
+{
+  "id": "visitdt",
+  "display_name": "Date of follow-up visit",
+  "description": "",
+  "type": "date",
+  "units": "",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

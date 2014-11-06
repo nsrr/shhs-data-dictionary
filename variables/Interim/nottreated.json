@@ -1,0 +1,11 @@
+{
+  "id": "nottreated",
+  "display_name": "Reason sleep apnea not treated",
+  "description": "",
+  "type": "choices",
+  "domain": "spnotreated",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

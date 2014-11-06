@@ -1,0 +1,11 @@
+{
+  "id": "saother",
+  "display_name": "Treatment prescribed: other",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

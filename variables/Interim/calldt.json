@@ -1,0 +1,11 @@
+{
+  "id": "calldt",
+  "display_name": "Date of call",
+  "description": "",
+  "type": "date",
+  "units": "",
+  "other": {
+    "Table Name": "SCREENER",
+    "Variable Informat": null
+  }
+}

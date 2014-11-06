@@ -1,0 +1,11 @@
+{
+  "id": "yrsdrive",
+  "display_name": "Number of years driving",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "systolic1",
+  "display_name": "Systolic blood pressure: first reading",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

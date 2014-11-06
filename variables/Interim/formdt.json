@@ -1,0 +1,11 @@
+{
+  "id": "formdt",
+  "display_name": "Date form was filled out",
+  "description": "",
+  "type": "date",
+  "units": "",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

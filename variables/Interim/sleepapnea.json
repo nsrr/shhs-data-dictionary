@@ -1,0 +1,11 @@
+{
+  "id": "sleepapnea",
+  "display_name": "Told by doctor that you had sleep apnea",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

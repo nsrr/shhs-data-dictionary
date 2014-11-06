@@ -1,0 +1,11 @@
+{
+  "id": "systolic3",
+  "display_name": "Systolic blood pressure: third reading",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

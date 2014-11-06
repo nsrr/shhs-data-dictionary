@@ -1,0 +1,11 @@
+{
+  "id": "stopbreathing",
+  "display_name": "Stopped breathing during sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

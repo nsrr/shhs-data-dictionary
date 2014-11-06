@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "Not done",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Clinic",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Home",
+    "description": ""
+  }
+]

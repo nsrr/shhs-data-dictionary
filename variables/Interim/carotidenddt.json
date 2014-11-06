@@ -1,0 +1,11 @@
+{
+  "id": "carotidenddt",
+  "display_name": "Date of Carotid Endarterectomy",
+  "description": "",
+  "type": "date",
+  "units": "",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

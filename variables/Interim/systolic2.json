@@ -1,0 +1,11 @@
+{
+  "id": "systolic2",
+  "display_name": "Systolic blood pressure: second reading",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

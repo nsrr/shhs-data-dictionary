@@ -1,0 +1,11 @@
+{
+  "id": "spcnocontact",
+  "display_name": "Other reason contact not made",
+  "description": "",
+  "type": "text",
+  "units": "",
+  "other": {
+    "Table Name": "SCREENER",
+    "Variable Informat": null
+  }
+}

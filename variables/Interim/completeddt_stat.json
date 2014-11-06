@@ -1,0 +1,11 @@
+{
+  "id": "completeddt_stat",
+  "display_name": "Date form was completed",
+  "description": "",
+  "type": "date",
+  "units": "",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

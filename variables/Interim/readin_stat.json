@@ -1,0 +1,11 @@
+{
+  "id": "readin_stat",
+  "display_name": "Date on which record was read in at CC",
+  "description": "",
+  "type": "date",
+  "units": "",
+  "other": {
+    "Table Name": "STATUS, ADMIN",
+    "Variable Informat": null
+  }
+}

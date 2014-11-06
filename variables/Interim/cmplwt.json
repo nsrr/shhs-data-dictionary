@@ -1,0 +1,11 @@
+{
+  "id": "cmplwt",
+  "display_name": "Completed weight",
+  "description": "",
+  "type": "choices",
+  "domain": "complete2",
+  "other": {
+    "Table Name": "STATUS",
+    "Variable Informat": null
+  }
+}

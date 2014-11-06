@@ -1,0 +1,11 @@
+{
+  "id": "sitpublic",
+  "display_name": "Fall asleep sitting in a public place",
+  "description": "",
+  "type": "choices",
+  "domain": "nhchan4",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

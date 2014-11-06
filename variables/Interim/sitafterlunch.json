@@ -1,0 +1,11 @@
+{
+  "id": "sitafterlunch",
+  "display_name": "Fall asleep sitting quietly after lunch",
+  "description": "",
+  "type": "choices",
+  "domain": "nhchan4",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

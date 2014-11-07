@@ -39,6 +39,10 @@ data obfid;
   set obf.all_ids(keep=npptid obf_pptid permiss rename=(npptid=pptid));
 run;
 
+data obfid_c;
+  set obf.all_ids(keep=pptid obf_pptid permiss);
+run;
+
 data shhs1;
   length obf_pptid 8.;
   merge shhs1_ecg shhs1_psg shhs1_other obfid;
@@ -669,20 +673,38 @@ data shhs2;
 run;
 
 data shhs_demo;
-  set shhs1;
-
-  keep pptid race gender age_s1;
-run;
-/*
-data shhs_exam2;
-	length obf_pptid 8.;
-	merge examcycle2(in=a) shhs_demo(in=b) obfid;
+  merge shhs1 obfid;
 	by pptid;
 
-	if a and b;
+  keep obf_pptid race gender age_s1;
+run;
+
+data shhs_exam2;
+	length obf_pptid 8.;
+	merge examcycle2(in=a) obfid_c;
+	by pptid;
+
+	if a;
+
+	drop pptid;
+run;
+
+proc sort data=shhs_exam2;
+	by obf_pptid;
+run;
+
+proc sort data=shhs_demo;
+	by obf_pptid;
+run;
+
+data shhs_exam2;
+	merge shhs_exam2 (in=a) shhs_demo;
+	by obf_pptid;
+
+	if a;
 
 run;
-*/
+
 data shhs2;
   length obf_pptid 8.;
   merge shhs2(in=a) shhs_demo(in=b) obfid;

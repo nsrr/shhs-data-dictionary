@@ -681,10 +681,10 @@ run;
 
 data shhs_exam2;
 	length obf_pptid 8.;
-	merge examcycle2(in=a) obfid_c;
+	merge examcycle2(in=a) obfid_c(in=b);
 	by pptid;
 
-	if a;
+	if a and b;
 
 	drop pptid;
 run;

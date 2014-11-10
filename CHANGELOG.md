@@ -1,7 +1,7 @@
 ## 0.4.4
 
 - **Gem Changes**
-  - Updated to spout 0.10.0.rc
+  - Updated to spout 0.10.0.rc3
   - Use of Ruby 2.1.4 is now recommended
 
 ## 0.4.3 (October 6, 2014)

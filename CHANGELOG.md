@@ -1,4 +1,4 @@
-## 0.4.4
+## 0.4.4 (November 10, 2014)
 
 - **Gem Changes**
   - Updated to spout 0.10.0.rc3

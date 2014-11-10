@@ -2,6 +2,12 @@
 
 - Created Interim variables, domains, and units
 
+## 0.4.4 (November 10, 2014)
+
+- **Gem Changes**
+  - Updated to spout 0.10.0.rc3
+  - Use of Ruby 2.1.4 is now recommended
+
 ## 0.4.3 (October 6, 2014)
 
 - Created SHHS2 medications form and linked corresponding variables

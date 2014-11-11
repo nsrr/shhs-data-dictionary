@@ -2,8 +2,8 @@
   "id": "carotidenddt",
   "display_name": "Date of Carotid Endarterectomy",
   "description": "",
-  "type": "date",
-  "units": "",
+  "type": "numeric",
+  "units": "days from index date",
   "other": {
     "Table Name": "STATUS",
     "Variable Informat": null

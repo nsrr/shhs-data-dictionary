@@ -2,8 +2,8 @@
   "id": "cabgptcadt",
   "display_name": "Date of CABG/PTCA",
   "description": "",
-  "type": "date",
-  "units": "",
+  "type": "numeric",
+  "units": "days from index date",
   "other": {
     "Table Name": "STATUS",
     "Variable Informat": null

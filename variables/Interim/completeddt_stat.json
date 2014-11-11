@@ -2,8 +2,8 @@
   "id": "completeddt_stat",
   "display_name": "Date form was completed",
   "description": "",
-  "type": "date",
-  "units": "",
+  "type": "numeric",
+  "units": "days from index date",
   "other": {
     "Table Name": "STATUS",
     "Variable Informat": null

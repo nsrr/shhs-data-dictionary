@@ -2,8 +2,8 @@
   "id": "chfdt",
   "display_name": "Date of CHF",
   "description": "",
-  "type": "date",
-  "units": "",
+  "type": "numeric",
+  "units": "days from index date",
   "other": {
     "Table Name": "STATUS",
     "Variable Informat": null

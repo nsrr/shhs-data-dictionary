@@ -2,8 +2,8 @@
   "id": "calldt",
   "display_name": "Date of call",
   "description": "",
-  "type": "date",
-  "units": "",
+  "type": "numeric",
+  "units": "days from index date",
   "other": {
     "Table Name": "SCREENER",
     "Variable Informat": null

@@ -2,8 +2,8 @@
   "id": "formdt",
   "display_name": "Date form was filled out",
   "description": "",
-  "type": "date",
-  "units": "",
+  "type": "numeric",
+  "units": "days from index date",
   "other": {
     "Table Name": "SLEEPSYM",
     "Variable Informat": null

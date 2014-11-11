@@ -2,8 +2,8 @@
   "id": "midt",
   "display_name": "Date of MI",
   "description": "",
-  "type": "date",
-  "units": "",
+  "type": "numeric",
+  "units": "days from index date",
   "other": {
     "Table Name": "STATUS",
     "Variable Informat": null

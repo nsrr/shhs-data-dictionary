@@ -2,8 +2,8 @@
   "id": "intrevdt",
   "display_name": "Interview or Review date",
   "description": "",
-  "type": "date",
-  "units": "",
+  "type": "numeric",
+  "units": "days from index date",
   "other": {
     "Table Name": "SLEEPSYM",
     "Variable Informat": null

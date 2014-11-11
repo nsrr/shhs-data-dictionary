@@ -686,7 +686,7 @@ data shhs_exam2;
 
 	if a and b;
 
-	drop pptid;
+	drop pptid intRevID bpTechID;
 run;
 
 proc sort data=shhs_exam2;

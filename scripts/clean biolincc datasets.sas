@@ -719,7 +719,7 @@ data shhs_exam2;
   completedDt_stat2 = datepart(completedDt_stat) - stdydt;
   ReadIn_stat2 = datepart(ReadIn_stat) - stdydt;
 
-	drop pptid shhs clinic omni intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt;
+	drop pptid shhs clinic omni permiss intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt;
 run;
 
 proc sort data=shhs_exam2;
@@ -742,22 +742,8 @@ run;
 
 data shhs2;
   length obf_pptid 8.;
-  merge shhs2(in=a) shhs_demo(in=b) obfid;
+  merge shhs2(in=a) obfid;
   by pptid;
-
-  if a and b;
-
-  if age_s1 < 1 then age_category_s1 = 0;
-  else if 1 =< age_s1 =< 4 then age_category_s1 = 1;
-  else if 5 =< age_s1 =< 14 then age_category_s1 = 2;
-  else if 15 =< age_s1 =< 24 then age_category_s1 = 3;
-  else if 25 =< age_s1 =< 34 then age_category_s1 = 4;
-  else if 35 =< age_s1 =< 44 then age_category_s1 = 5;
-  else if 45 =< age_s1 =< 54 then age_category_s1 = 6;
-  else if 55 =< age_s1 =< 64 then age_category_s1 = 7;
-  else if 65 =< age_s1 =< 74 then age_category_s1 = 8;
-  else if 75 =< age_s1 =< 84 then age_category_s1 = 9;
-  else if 85 =< age_s1 then age_category_s1 = 10;
 
   if age_s2 < 1 then age_category_s2 = 0;
   else if 1 =< age_s2 =< 4 then age_category_s2 = 1;
@@ -1381,18 +1367,52 @@ data shhs2;
   drop repsgpptid responqa permiss;
 run;
 
+proc sort data=shhs2;
+	by obf_pptid;
+run;
+
+data shhs2;
+	merge shhs2(in=a) shhs_demo(in=b);
+	by obf_pptid;
+
+	if a and b;
+
+	if age_s1 < 1 then age_category_s1 = 0;
+  else if 1 =< age_s1 =< 4 then age_category_s1 = 1;
+  else if 5 =< age_s1 =< 14 then age_category_s1 = 2;
+  else if 15 =< age_s1 =< 24 then age_category_s1 = 3;
+  else if 25 =< age_s1 =< 34 then age_category_s1 = 4;
+  else if 35 =< age_s1 =< 44 then age_category_s1 = 5;
+  else if 45 =< age_s1 =< 54 then age_category_s1 = 6;
+  else if 55 =< age_s1 =< 64 then age_category_s1 = 7;
+  else if 65 =< age_s1 =< 74 then age_category_s1 = 8;
+  else if 75 =< age_s1 =< 84 then age_category_s1 = 9;
+  else if 85 =< age_s1 then age_category_s1 = 10;
+
+run;
+
 data shhs_cvd;
   length obf_pptid 8.;
-  merge shhs_cvd(in=a) shhs_demo(in=b) obfid;
+  merge shhs_cvd(in=a) obfid;
   by pptid;
-
-  if a and b;
 
   visitnumber = 3;
 
   if permiss = 1;
 
   drop omni blpsgdate permiss;
+
+run;
+
+proc sort data=shhs_cvd;
+	by obf_pptid;
+run;
+
+data shhs_cvd;
+	merge shhs_cvd(in=a) shhs_demo(in=b);
+	by obf_pptid;
+
+	if a and b;
 
 run;
 

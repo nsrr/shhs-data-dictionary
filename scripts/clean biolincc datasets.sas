@@ -1,4 +1,5 @@
 libname biolincc "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\biolincc-master";
+libname shhs "\\rfa01\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1";
 libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
 
 %let release = 0.5.0.beta1;
@@ -13,6 +14,13 @@ run;
 
 data shhs1_other;
   set biolincc.shhs1final_15jan2014_5839(rename=(ethnic=ethnicity));
+run;
+
+data basedate;
+  set shhs.Shhs1final_13jun2014_6441;
+
+  stdydt = datepart(StDateP)
+  keep pptid stdydt;
 run;
 
 data shhs2_ecg;
@@ -681,7 +689,7 @@ run;
 
 data shhs_exam2;
 	length obf_pptid 8.;
-	merge examcycle2(in=a) obfid_c(in=b);
+	merge examcycle2(in=a) obfid_c(in=b) basedate;
 	by pptid;
 
 	if a and b;
@@ -694,7 +702,24 @@ data shhs_exam2;
   if obf_pptid in (200646,201382) then spcsleepdisorder = "";
   if obf_pptid in (200098,200119,200158,200346,200348,200349,200799,200811,202084) then statusother = "";
 
-	drop pptid intRevID bpTechID;
+  /*deidentify date variables*/
+  callDt2 = datepart(callDt) - stdydt;
+  completedDt_scr2 = datepart(completedDt_scr) - stdydt;
+  ReadIn_scr2 = datepart(ReadIn_scr) - stdydt;
+  formDt2 = datepart(formDt) - stdydt;
+  intRevDt2 = datepart(intRevDt) - stdydt;
+  ReadIn_slpsym2 = datepart(ReadIn_slpsym) - stdydt;
+  visitDt2 = datepart(visitDt) - stdydt;
+  bpTime2 = datepart(bpTime) - stdydt;
+  Midt2 = datepart(Midt) - stdydt;
+  StrokeTIAdt2 = datepart(StrokeTIAdt) - stdydt;
+  CHFdt2 = datepart(CHFdt) - stdydt;
+  CABGPTCAdt2 = datepart(CABGPTCAdt) - stdydt;
+  carotidEndDt2 = datepart(carotidEndDt) - stdydt;
+  completedDt_stat2 = datepart(completedDt_stat) - stdydt;
+  ReadIn_stat2 = datepart(ReadIn_stat) - stdydt;
+
+	drop pptid intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt;
 run;
 
 proc sort data=shhs_exam2;
@@ -710,6 +735,8 @@ data shhs_exam2;
 	by obf_pptid;
 
 	if a;
+
+  rename callDt2=callDt completedDt_scr2=completedDt_scr ReadIn_scr2=ReadIn_scr formDt2=formDt intRevDt2=intRevDt ReadIn_slpsym2=ReadIn_slpsym visitDt2=visitDt bpTime2=bpTime Midt2=Midt StrokeTIAdt2=StrokeTIAdt CHFdt2=CHFdt CABGPTCAdt2=CABGPTCAdt carotidEndDt2=carotidEndDt completedDt_stat2=completedDt_stat ReadIn_stat2=ReadIn_stat;
 
 run;
 

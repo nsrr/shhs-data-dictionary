@@ -719,7 +719,7 @@ data shhs_exam2;
   completedDt_stat2 = datepart(completedDt_stat) - stdydt;
   ReadIn_stat2 = datepart(ReadIn_stat) - stdydt;
 
-	drop pptid intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt;
+	drop pptid shhs clinic omni intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt;
 run;
 
 proc sort data=shhs_exam2;

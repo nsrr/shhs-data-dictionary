@@ -745,6 +745,8 @@ data shhs2;
   merge shhs2(in=a) obfid;
   by pptid;
 
+  if a;
+
   if age_s2 < 1 then age_category_s2 = 0;
   else if 1 =< age_s2 =< 4 then age_category_s2 = 1;
   else if 5 =< age_s2 =< 14 then age_category_s2 = 2;

@@ -719,6 +719,8 @@ data shhs_exam2;
   completedDt_stat2 = datepart(completedDt_stat) - stdydt;
   ReadIn_stat2 = datepart(ReadIn_stat) - stdydt;
 
+  visitnumber = 4;
+
 	drop pptid shhs clinic omni permiss intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt;
 run;
 

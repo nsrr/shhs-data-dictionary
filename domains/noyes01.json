@@ -8,5 +8,10 @@
     "value": "1",
     "display_name": "Yes",
     "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Don't know",
+    "description": ""
   }
 ]

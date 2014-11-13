@@ -28,5 +28,10 @@
     "value": "6",
     "display_name": "Mailed forms not",
     "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Other",
+    "description": ""
   }
 ]

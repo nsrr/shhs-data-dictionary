@@ -1420,7 +1420,7 @@ run;
 
 proc export data=shhs1 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs1-dataset-&release..csv" dbms=csv replace; run;
 
-proc export data=shhs_exam2 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-exam2-dataset-&release..csv" dbms=csv replace; run;
+proc export data=shhs_exam2 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-interim-followup-dataset-&release..csv" dbms=csv replace; run;
 
 proc export data=shhs2 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs2-dataset-&release..csv" dbms=csv replace; run;
 

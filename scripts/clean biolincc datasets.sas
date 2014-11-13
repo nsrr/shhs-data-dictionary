@@ -19,7 +19,7 @@ run;
 data basedate;
   set shhs.Shhs1final_13jun2014_6441;
 
-  stdydt = datepart(StDateP);
+  stdydt = datepart(stdydtqa);
   keep pptid stdydt;
 run;
 

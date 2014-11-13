@@ -1,6 +1,12 @@
 ## 0.5.0
 
 - Created Interim variables, domains, and units
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.5.0.beta1\`
+    - `shhs1-dataset-0.5.0.beta1.csv`
+    - `shhs-interim-followup-dataset-0.5.0.beta1.csv`
+    - `shhs2-dataset-0.5.0.beta1.csv`
+    - `shhs-cvd-dataset-0.5.0.beta1.csv`
 
 ## 0.4.4 (November 10, 2014)
 

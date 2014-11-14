@@ -1,6 +1,6 @@
 {
   "id": "midt",
-  "display_name": "Date of MI",
+  "display_name": "Date of Myocardial Infarction",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

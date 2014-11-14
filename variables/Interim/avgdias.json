@@ -1,9 +1,9 @@
 {
   "id": "avgdias",
-  "display_name": "Average Diastolic: SHHS protocol: avg of 2nd and 3rd reading   PARENT STUDY: avg of all three readings",
+  "display_name": "Average Diastolic: SHHS protocol: avgerage of 2nd and 3rd reading   PARENT STUDY: avgerage of all three readings",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "millimeters of mercury",
   "other": {
     "Table Name": "STATUS",
     "Variable Informat": null

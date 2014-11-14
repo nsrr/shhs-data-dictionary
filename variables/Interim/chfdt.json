@@ -1,6 +1,6 @@
 {
   "id": "chfdt",
-  "display_name": "Date of CHF",
+  "display_name": "Date of Congestive Heart Failure",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

@@ -1,6 +1,6 @@
 {
   "id": "aspirin",
-  "display_name": "How often aspirin or aspirin-containing medications is taken",
+  "display_name": "How often are aspirin or aspirin-containing medications is taken",
   "description": "",
   "type": "choices",
   "domain": "nevevery",

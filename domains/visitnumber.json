@@ -5,6 +5,11 @@
     "description": ""
   },
   {
+    "value": "4",
+    "display_name": "Interim Follow-up Visit",
+    "description": "Interim follow-up visit that took place between SHHS1 and SHHS2 - also commonly referred to as 'Exam Cycle 2"
+  },
+  {
     "value": "2",
     "display_name": "Visit 2",
     "description": ""
@@ -13,10 +18,5 @@
     "value": "3",
     "display_name": "CVD Outcomes",
     "description": ""
-  },
-  {
-    "value": "4",
-    "display_name": "Interim Follow-up Visit",
-    "description": "Interim follow-up visit that took place between SHHS1 and SHHS2 - also commonly referred to as 'Exam Cycle 2"
   }
 ]

@@ -1,12 +1,13 @@
 ## 0.5.0
 
 - Created Interim variables, domains, and units
+- `visitnumber` has been added as a variable to the Interim dataset to allow for graphs and images on www.sleepdata.org
 - The CSV datasets generated from a SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.5.0.beta1\`
-    - `shhs1-dataset-0.5.0.beta1.csv`
-    - `shhs-interim-followup-dataset-0.5.0.beta1.csv`
-    - `shhs2-dataset-0.5.0.beta1.csv`
-    - `shhs-cvd-dataset-0.5.0.beta1.csv`
+  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.5.0.beta2\`
+    - `shhs1-dataset-0.5.0.beta2.csv`
+    - `shhs-interim-followup-dataset-0.5.0.beta2.csv`
+    - `shhs2-dataset-0.5.0.beta2.csv`
+    - `shhs-cvd-dataset-0.5.0.beta2.csv`
 
 ## 0.4.4 (November 10, 2014)
 

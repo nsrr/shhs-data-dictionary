@@ -16,7 +16,7 @@ class DictionaryTest < Minitest::Test
     end
   end
 
-  VALID_UNITS = ["", "arousals", "accidents", "miles", "beats per minute", "bottles", "bowls", "cans", "centimeters",
+  VALID_UNITS = ["", "arousals", "car accidents", "miles", "beats per minute", "bottles", "bowls", "cans", "centimeters",
     "central apnea events", "cigarettes", "cigarettes per day", "cigars", "cups", "days",
     "days from index date", "drinks", "drinks per day", "events per hour", "glasses", "hours",
     "hypopnea events", "index", "kilograms", "kilograms per square meter", "liters",

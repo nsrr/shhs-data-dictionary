@@ -1,0 +1,11 @@
+{
+  "id": "yrautoaccidents",
+  "display_name": "Number of automobile accidents during recent year",
+  "description": "",
+  "type": "numeric",
+  "units": "car accidents",
+  "other": {
+    "Table Name": "SLEEPSYM",
+    "Variable Informat": null
+  }
+}

@@ -1,6 +1,6 @@
 {
   "id": "freqstopbreathing",
-  "display_name": "Frequency of breathing stopage during sleep",
+  "display_name": "Frequency of breathing stoppage during sleep",
   "description": "",
   "type": "choices",
   "domain": "raralw5",

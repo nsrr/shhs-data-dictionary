@@ -1,7 +1,8 @@
 ## 0.5.0
 
-- Created Interim variables, domains, and units
+- Created Interim variables, domains, and units for the 'Exam Cycle 2' dataset
 - `visitnumber` has been added as a variable to the Interim dataset to allow for graphs and images on www.sleepdata.org
+- Spelling mistakes have been largely corrected in the interim followup dataset
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.5.0.beta2\`
     - `shhs1-dataset-0.5.0.beta2.csv`

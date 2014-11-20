@@ -701,6 +701,11 @@ data shhs_exam2;
   if obf_pptid = 205319 then spcothernottreated = "";
   if obf_pptid in (200646,201382) then spcsleepdisorder = "";
   if obf_pptid in (200098,200119,200158,200346,200348,200349,200799,200811,202084) then statusother = "";
+  if diastolic1 = 0 then diastolic1 = .;
+  if diastolic2 = 0 then diastolic2 = .;
+  if diastolic3 = 0 then diastolic3 = .;
+  if avgdias = 0 then avgdias = .;
+  avgdias = mean(diastolic1,diastolic2,diastolic3);
 
   /*deidentify date variables*/
   callDt2 = datepart(callDt) - stdydt;

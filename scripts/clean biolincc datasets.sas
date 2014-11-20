@@ -726,7 +726,7 @@ data shhs_exam2;
 
   visitnumber = 4;
 
-	drop pptid shhs clinic omni permiss intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt;
+	drop pptid shhs clinic omni permiss intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt statfollowup slpsymfollowup;
 run;
 
 proc sort data=shhs_exam2;

@@ -9,6 +9,8 @@
     - `shhs-interim-followup-dataset-0.5.0.beta2.csv`
     - `shhs2-dataset-0.5.0.beta2.csv`
     - `shhs-cvd-dataset-0.5.0.beta2.csv`
+- **Gem Changes**
+  - Updated to spout 0.10.0
 
 ## 0.4.4 (November 10, 2014)
 

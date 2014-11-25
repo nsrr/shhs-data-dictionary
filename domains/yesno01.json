@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "Yes, appropriate",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "No, not appropriate",
+    "description": ""
+  }
+]

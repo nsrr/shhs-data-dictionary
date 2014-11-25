@@ -1,0 +1,7 @@
+{
+  "id": "abdodur",
+  "display_name": "Hours of usable abdominal signal",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

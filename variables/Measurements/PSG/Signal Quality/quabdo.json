@@ -1,0 +1,7 @@
+{
+  "id": "quabdo",
+  "display_name": "Quality of the abdominal signal",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqual2"
+}

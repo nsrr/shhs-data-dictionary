@@ -1,0 +1,7 @@
+{
+  "id": "posdur",
+  "display_name": "Hours of usable position signal",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

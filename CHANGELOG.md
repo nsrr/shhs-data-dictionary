@@ -4,6 +4,7 @@
 - `visitnumber` has been added as a variable to the Interim dataset to allow for graphs and images on www.sleepdata.org
 - Spelling mistakes have been largely corrected in the interim followup dataset
 - The CSV datasets generated from a SAS export is located here:
+- PSG quality variables have been added to the SHHS1 and SHHS2 datasets
   - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.5.0.beta2\`
     - `shhs1-dataset-0.5.0.beta2.csv`
     - `shhs-interim-followup-dataset-0.5.0.beta2.csv`

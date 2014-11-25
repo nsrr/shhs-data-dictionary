@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Less than 2 hours of artifact-free signal",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "At least 2 hours but less than 4 hours of artifact-free signal",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "At least 4 hours but less than 6 hours of artifact-free signal",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "At least 6 hours of artifact-free signal",
+    "description": ""
+  }
+]

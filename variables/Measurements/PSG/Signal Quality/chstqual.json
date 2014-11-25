@@ -1,0 +1,7 @@
+{
+  "id": "chstqual",
+  "display_name": "Quality of the thoracic signal",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqual"
+}

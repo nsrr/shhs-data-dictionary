@@ -1,0 +1,7 @@
+{
+  "id": "quchin",
+  "display_name": "Quality of the chin signal",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqual2"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "eogrqual",
+  "display_name": "Quality of the EOGR signal",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqual"
+}

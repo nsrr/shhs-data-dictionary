@@ -1,0 +1,7 @@
+{
+  "id": "eeg1dur",
+  "display_name": "Hours of usable EEG1 signal",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

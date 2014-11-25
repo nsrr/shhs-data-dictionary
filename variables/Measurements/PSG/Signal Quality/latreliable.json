@@ -1,0 +1,7 @@
+{
+  "id": "latreliable",
+  "display_name": "Is the sleep latency reliable?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

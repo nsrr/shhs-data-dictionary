@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Less than 25% of time with artifact-free signal",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "25-49% of time with artifact-free signal",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "50-74% of time with artifact-free signal",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "75-94% of time with artifact-free signal",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Entire sleep time (at least 95%) artifact-free",
+    "description": ""
+  }
+]

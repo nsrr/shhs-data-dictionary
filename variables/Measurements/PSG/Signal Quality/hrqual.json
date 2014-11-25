@@ -1,0 +1,7 @@
+{
+  "id": "hrqual",
+  "display_name": "Quality of the heart rate signal",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqual"
+}

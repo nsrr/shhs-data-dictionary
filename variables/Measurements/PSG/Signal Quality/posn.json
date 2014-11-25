@@ -1,0 +1,7 @@
+{
+  "id": "posn",
+  "display_name": "Was the position sensor working properly?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

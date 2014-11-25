@@ -1,0 +1,6 @@
+{
+  "id": "rcrdtime",
+  "display_name": "Total recording time",
+  "description": "Note: Recording time was formatted as an actual clock time, rather than as separate hour and minute variables",
+  "type": "time"
+}

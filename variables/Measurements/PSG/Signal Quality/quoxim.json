@@ -1,0 +1,7 @@
+{
+  "id": "quoxim",
+  "display_name": "Quality of the oximetry signal",
+  "description": "",
+  "type": "choices",
+  "domain": "sigqual2"
+}

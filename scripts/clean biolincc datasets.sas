@@ -1,8 +1,18 @@
 libname biolincc "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\biolincc-master";
 libname shhs "\\rfa01\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1";
 libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
+libname shhspsg "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
 
-%let release = 0.5.0.beta2;
+%let release = 0.5.0.rc;
+
+data shhs1_investigator;
+	set shhspsg.Shhs1final_13jun2014_6441(rename=(rcrdtime=rcrdtime2));
+
+	rcrdtime = timepart(rcrdtime2);
+	format rcrdtime time8.;
+
+	keep pptid Abdodur Abdoqual Airdur Airqual Chestdur Chindur Chinqual Chstqual EEG1dur EEG1qual EEG2dur EEG2qual EOGLdur EOGLqual EOGRdur EOGRqual Hrdur Hrqual LightOff Oximdur Oximqual Posdur Posqual RcrdTime;
+run;
 
 data shhs1_ecg;
   set biolincc.shhs1final_ecg_14aug2013_4260;
@@ -21,6 +31,12 @@ data basedate;
 
   stdydt = datepart(stdydtqa);
   keep pptid stdydt;
+run;
+
+data shhs2_investigator;
+	set shhspsg.Shhs2final_15jan2014_4586_psg;
+
+	keep pptid STLOUTP STONSETP latreliable eogldur eogrdur chindur eeg1dur eeg2dur hrdur airdur ligh chestdur abdodur oximdur queogl queogr quchin queeg1 queeg2 quhr quair quchest quabdo quoxim posn;
 run;
 
 data shhs2_ecg;
@@ -49,6 +65,15 @@ run;
 
 data obfid_c;
   set obf.all_ids(keep=pptid obf_pptid permiss);
+run;
+
+data s1_psgqual;
+	merge obfid_c(in=a) shhs1_investigator(in=b);
+	by pptid;
+
+	if a;
+
+	drop pptid;
 run;
 
 data shhs1;
@@ -675,6 +700,19 @@ data shhs1;
   drop uenrbp--UEROP5A repsgpptid responqa blpsgdate permiss;
 run;
 
+proc sort data=s1_psgqual;
+	by obf_pptid;
+run;
+
+data shhs1;
+	merge shhs1(in=a) s1_psgqual;
+	by obf_pptid;
+
+	if a;
+
+	drop permiss;
+run;
+
 data shhs2;
   merge shhs2_ecg shhs2_psg shhs2_other;
   by pptid;
@@ -745,6 +783,15 @@ data shhs_exam2;
 
   rename callDt2=callDt completedDt_scr2=completedDt_scr ReadIn_scr2=ReadIn_scr formDt2=formDt intRevDt2=intRevDt ReadIn_slpsym2=ReadIn_slpsym visitDt2=visitDt bpTime2=bpTime Midt2=Midt StrokeTIAdt2=StrokeTIAdt CHFdt2=CHFdt CABGPTCAdt2=CABGPTCAdt carotidEndDt2=carotidEndDt completedDt_stat2=completedDt_stat ReadIn_stat2=ReadIn_stat;
 
+run;
+
+data s2_psgqual;
+	merge obfid_c(in=a) shhs2_investigator(in=b);
+	by pptid;
+
+	if a;
+
+	drop pptid;
 run;
 
 data shhs2;
@@ -1380,6 +1427,17 @@ proc sort data=shhs2;
 	by obf_pptid;
 run;
 
+proc sort data=s2_psgqual;
+	by obf_pptid;
+run;
+
+data shhs2;
+	merge shhs2(in=a) s2_psgqual;
+	by obf_pptid;
+
+	if a;
+run;
+
 data shhs2;
 	merge shhs2(in=a) shhs_demo(in=b);
 	by obf_pptid;
@@ -1398,6 +1456,7 @@ data shhs2;
   else if 75 =< age_s1 =< 84 then age_category_s1 = 9;
   else if 85 =< age_s1 then age_category_s1 = 10;
 
+	drop permiss;
 run;
 
 data shhs_cvd;

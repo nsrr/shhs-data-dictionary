@@ -1,3 +1,7 @@
+## 0.6.0
+
+- The interim dataset has been pared down to only include individuals who consented to have their data shared
+
 ## 0.5.0 (November 28, 2014)
 
 - Created Interim variables, domains, and units for the 'Exam Cycle 2' dataset

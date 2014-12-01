@@ -763,6 +763,8 @@ data shhs_exam2;
   ReadIn_stat2 = datepart(ReadIn_stat) - stdydt;
 
   visitnumber = 4;
+  
+  if obf_pptid = . then delete;
 
 	drop pptid shhs clinic omni permiss intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt statfollowup slpsymfollowup;
 run;

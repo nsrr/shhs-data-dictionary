@@ -1,6 +1,6 @@
 {
   "id": "readin_stat",
-  "display_name": "Date on which record was read in at CC",
+  "display_name": "Number of days from when the record was read in at CC to the baseline PSG",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

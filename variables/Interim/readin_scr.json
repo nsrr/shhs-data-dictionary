@@ -1,6 +1,6 @@
 {
   "id": "readin_scr",
-  "display_name": "Date on which record was read in at CC",
+  "display_name": "Number of days since the baseline PSG until record was read in at CC",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

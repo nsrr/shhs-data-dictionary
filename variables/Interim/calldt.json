@@ -1,6 +1,6 @@
 {
   "id": "calldt",
-  "display_name": "Date of call",
+  "display_name": "Number of days since call from the baseline PSG",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

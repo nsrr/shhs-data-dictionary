@@ -1,6 +1,6 @@
 {
   "id": "stent_date",
-  "display_name": "Date of first stent since baseline PSG",
+  "display_name": "Number of days of first stent since baseline PSG",
   "description": "",
   "type": "date",
   "labels": [

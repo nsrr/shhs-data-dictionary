@@ -1,6 +1,6 @@
 {
   "id": "stroketiadt",
-  "display_name": "Date of Stroke or Transient Ischemic Attack",
+  "display_name": "Number of days since Stroke or Transient Ischemic Attack from the baseline PSG",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

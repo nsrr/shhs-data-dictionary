@@ -1,6 +1,6 @@
 {
   "id": "completeddt_stat",
-  "display_name": "Date form was completed",
+  "display_name": "Number of days since the baseline PSG until form was completed",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

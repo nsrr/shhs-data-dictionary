@@ -1,6 +1,6 @@
 {
   "id": "ecgdate",
-  "display_name": "Date collected: ECG (SHHS1)",
+  "display_name": "Number of days since the baseline PSG until collected: ECG (SHHS1)",
   "description": "Date of ECG",
   "type": "numeric",
   "units": "days from index date",

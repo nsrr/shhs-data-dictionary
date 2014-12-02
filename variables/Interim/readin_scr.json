@@ -2,8 +2,8 @@
   "id": "readin_scr",
   "display_name": "Date on which record was read in at CC",
   "description": "",
-  "type": "datetime",
-  "units": "",
+  "type": "numeric",
+  "units": "days from index date",
   "other": {
     "Table Name": "SCREENER, ADMIN",
     "Variable Informat": null

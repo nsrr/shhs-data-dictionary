@@ -1,6 +1,6 @@
 {
   "id": "visitdt",
-  "display_name": "Number of days since follow-up visit from the baseline PSG",
+  "display_name": "Days from index date to follow-up visit",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

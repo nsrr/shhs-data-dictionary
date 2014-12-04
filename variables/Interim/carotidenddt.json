@@ -1,6 +1,6 @@
 {
   "id": "carotidenddt",
-  "display_name": "Number of days since Carotid Endarterectomy from the baseline PSG",
+  "display_name": "Days from index date to Carotid Endarterectomy",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

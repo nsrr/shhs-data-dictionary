@@ -1,6 +1,6 @@
 {
   "id": "midt",
-  "display_name": "Number of days since Myocardial Infarction from the baseline PSG",
+  "display_name": "Days from index date to Myocardial Infarction",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

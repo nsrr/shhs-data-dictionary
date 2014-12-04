@@ -1,6 +1,6 @@
 {
   "id": "chfdt",
-  "display_name": "Number of days since Congestive Heart Failure from the baseline PSG",
+  "display_name": "Days from index date to Congestive Heart Failure",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

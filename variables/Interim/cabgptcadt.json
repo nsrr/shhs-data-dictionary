@@ -1,6 +1,6 @@
 {
   "id": "cabgptcadt",
-  "display_name": "Number of days since CABG/PTCA from the baseline PSG",
+  "display_name": "Days from index date to CABG/PTCA",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

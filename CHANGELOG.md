@@ -1,14 +1,14 @@
-## 0.6.0
+## 0.6.0 (December 5, 2014)
 
 - The interim dataset has been pared down to only include individuals who consented to have their data shared
 - Identifiable ages (age > 89) have been recoded as 90 years old in the dataset
   - Categorical age variables were not affected by the change
 - The CSV datasets generated from a SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.6.0.rc\`
-    - `shhs1-dataset-0.6.0.rc.csv`
-    - `shhs-interim-followup-dataset-0.6.0.rc.csv`
-    - `shhs2-dataset-0.6.0.rc.csv`
-    - `shhs-cvd-dataset-0.6.0.rc.csv`
+  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.6.0\`
+    - `shhs1-dataset-0.6.0.csv`
+    - `shhs-interim-followup-dataset-0.6.0.csv`
+    - `shhs2-dataset-0.6.0.csv`
+    - `shhs-cvd-dataset-0.6.0.csv`
 - **Gem Changes**
   - Updated to spout 0.10.1
 

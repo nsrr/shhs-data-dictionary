@@ -3,7 +3,7 @@ libname shhs "\\rfa01\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1"
 libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
 libname shhspsg "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
 
-%let release = 0.6.0;
+%let release = 0.7.0.pre;
 
 data shhs1_investigator;
 	set shhspsg.Shhs1final_13jun2014_6441(rename=(rcrdtime=rcrdtime2));
@@ -51,12 +51,16 @@ data shhs2_other;
   set biolincc.shhs2final_15jan2014_4103;
 run;
 
-data shhs_cvd;
+data shhs_cvd_summary;
   set biolincc.shhs_status_08apr2014_5837;
 run;
 
 data examcycle2;
 	set biolincc.followup1final_09oct2006_6441;
+run;
+
+data shhs_cvd_event;
+  set biolincc.shhs_event_08apr2014_4869;
 run;
 
 data obfid;
@@ -1466,11 +1470,40 @@ data shhs2;
 	drop permiss;
 run;
 
-data shhs_cvd;
+data shhs_cvd_event;
   length obf_pptid 8.;
-  merge shhs_cvd(in=a) obfid;
+  merge shhs_cvd_event(in=a) obfid;
   by pptid;
 
+  if a;
+  visitnumber = 3;
+
+  if permiss = 1;
+
+  drop pptid blpsgdate permiss;
+run;
+
+proc sort data=shhs_cvd_event;
+  by obf_pptid;
+run;
+
+proc sort data=shhs_demo;
+  by obf_pptid;
+run;
+
+data shhs_cvd_event;
+  merge shhs_cvd_event(in=a) shhs_demo(in=b);
+  by obf_pptid;
+
+  if a and b;
+run;
+
+data shhs_cvd_summary;
+  length obf_pptid 8.;
+  merge shhs_cvd_summary(in=a) obfid;
+  by pptid;
+
+  if a;
   visitnumber = 3;
 
   if permiss = 1;
@@ -1479,12 +1512,12 @@ data shhs_cvd;
 
 run;
 
-proc sort data=shhs_cvd;
+proc sort data=shhs_cvd_summary;
 	by obf_pptid;
 run;
 
-data shhs_cvd;
-	merge shhs_cvd(in=a) shhs_demo(in=b);
+data shhs_cvd_summary;
+	merge shhs_cvd_summary(in=a) shhs_demo(in=b);
 	by obf_pptid;
 
 	if a and b;
@@ -1497,4 +1530,6 @@ proc export data=shhs_exam2 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releas
 
 proc export data=shhs2 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs2-dataset-&release..csv" dbms=csv replace; run;
 
-proc export data=shhs_cvd outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-dataset-&release..csv" dbms=csv replace; run;
+proc export data=shhs_cvd_summary outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-summary-dataset-&release..csv" dbms=csv replace; run;
+
+proc export data=shhs_cvd_event outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-events-dataset-&release..csv" dbms=csv replace; run;

@@ -3,5 +3,5 @@
   "display_name": "Time in stage 2 sleep (SHHS1)",
   "description": "",
   "type": "numeric",
-  "units": "seconds"
+  "units": "minutes"
 }

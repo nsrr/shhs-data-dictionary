@@ -1,6 +1,6 @@
 {
   "id": "timerem",
-  "display_name": "Percent Time in REM",
+  "display_name": "Minutes spent in REM sleep",
   "description": "Total time scored as REM rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",

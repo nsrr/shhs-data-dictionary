@@ -1,0 +1,57 @@
+[
+  {
+    "value": "1",
+    "display_name": "Atherothrombotic infarction",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Cerebral embolism",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "DEF_EIB",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "DEF_TIB",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Hemorrhagic",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Intracerebral hemorrhage",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Isch-cardioembolic",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Isch-hemorrhagic",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Isch-lacunar",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "Isch-unknown",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "Ischemic",
+    "description": ""
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "id": "event_dt",
+  "display_name": "Date of mi or stroke",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

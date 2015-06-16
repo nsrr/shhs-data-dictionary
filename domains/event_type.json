@@ -1,0 +1,52 @@
+[
+  {
+    "value": "1",
+    "display_name": "Angina",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Angioplasty",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "CABG",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "CHF",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "MI",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "MIP",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "PTCA",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Revascularization Procedure",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Stent",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "Stroke",
+    "description": ""
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "id": "stk_type",
+  "display_name": "Type of stroke",
+  "description": "",
+  "type": "choices",
+  "domain": "stroke_type"
+}

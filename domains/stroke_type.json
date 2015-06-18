@@ -26,32 +26,47 @@
   },
   {
     "value": "6",
-    "display_name": "Intracerebral hemorrhage",
+    "display_name": "Intra-cerebral hemorrhage",
     "description": ""
   },
   {
     "value": "7",
-    "display_name": "Isch-cardioembolic",
+    "display_name": "Ischemic-cardioembolic",
     "description": ""
   },
   {
     "value": "8",
-    "display_name": "Isch-hemorrhagic",
+    "display_name": "Ischemic-hemorrhagic",
     "description": ""
   },
   {
     "value": "9",
-    "display_name": "Isch-lacunar",
+    "display_name": "Ischemic-lacunar",
     "description": ""
   },
   {
     "value": "10",
-    "display_name": "Isch-unknown",
+    "display_name": "Ischemic-unknown",
     "description": ""
   },
   {
     "value": "11",
     "display_name": "Ischemic",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "Sub-arachnoid hemorrhage",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "Transient Ischemic Attack",
+    "description": ""
+  },
+  {
+    "value": "14",
+    "display_name": "Unknown",
     "description": ""
   }
 ]

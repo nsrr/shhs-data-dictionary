@@ -1,0 +1,7 @@
+{
+  "id": "sigma_bandend",
+  "display_name": "Sigma band end",
+  "description": "",
+  "type": "numeric",
+  "units": "hertz"
+}

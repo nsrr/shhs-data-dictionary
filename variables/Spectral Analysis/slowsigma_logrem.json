@@ -1,0 +1,7 @@
+{
+  "id": "slowsigma_logrem",
+  "display_name": "Log transformed slow sigma power density in REM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

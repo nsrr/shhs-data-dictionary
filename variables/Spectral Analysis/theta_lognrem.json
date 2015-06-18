@@ -1,0 +1,7 @@
+{
+  "id": "theta_lognrem",
+  "display_name": "Log transformed theta power density in NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

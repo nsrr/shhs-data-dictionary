@@ -1,0 +1,7 @@
+{
+  "id": "alpha_bandend",
+  "display_name": "Alpha band end",
+  "description": "",
+  "type": "numeric",
+  "units": "hertz"
+}

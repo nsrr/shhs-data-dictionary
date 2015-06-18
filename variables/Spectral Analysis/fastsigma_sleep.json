@@ -1,0 +1,7 @@
+{
+  "id": "fastsigma_sleep",
+  "display_name": "Fast sigma power density in sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

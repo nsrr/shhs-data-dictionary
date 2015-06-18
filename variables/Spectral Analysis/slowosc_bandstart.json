@@ -1,0 +1,7 @@
+{
+  "id": "slowosc_bandstart",
+  "display_name": "Slow oscillations band start",
+  "description": "",
+  "type": "numeric",
+  "units": "hertz"
+}

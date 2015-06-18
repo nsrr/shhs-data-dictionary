@@ -1,0 +1,7 @@
+{
+  "id": "fastsigma_bandstart",
+  "display_name": "Fast sigma band start",
+  "description": "",
+  "type": "numeric",
+  "units": "hertz"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sigma_logsleep",
+  "display_name": "Log transformed sigma power density in sleep",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

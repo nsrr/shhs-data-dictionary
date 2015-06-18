@@ -1,0 +1,7 @@
+{
+  "id": "alpha_nrem",
+  "display_name": "Alpha power density in NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "beta_sleep",
+  "display_name": "Beta power density in sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

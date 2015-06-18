@@ -1,0 +1,7 @@
+{
+  "id": "slowosc_bandend",
+  "display_name": "Slow oscillations band end",
+  "description": "",
+  "type": "numeric",
+  "units": "hertz"
+}

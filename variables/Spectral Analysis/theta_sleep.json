@@ -1,0 +1,7 @@
+{
+  "id": "theta_sleep",
+  "display_name": "Theta power density in sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

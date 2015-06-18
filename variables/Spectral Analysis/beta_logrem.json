@@ -1,0 +1,7 @@
+{
+  "id": "beta_logrem",
+  "display_name": "Log transformed beta power density in REM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

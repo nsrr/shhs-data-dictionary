@@ -1,0 +1,7 @@
+{
+  "id": "rem_13_hz",
+  "display_name": "REM power density at 13.0 Hertz",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

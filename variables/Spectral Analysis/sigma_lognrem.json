@@ -1,0 +1,7 @@
+{
+  "id": "sigma_lognrem",
+  "display_name": "Log transformed sigma power density in NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

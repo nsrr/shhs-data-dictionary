@@ -1,0 +1,7 @@
+{
+  "id": "theta_bandend",
+  "display_name": "Theta band end",
+  "description": "",
+  "type": "numeric",
+  "units": "hertz"
+}

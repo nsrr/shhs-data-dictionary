@@ -1,0 +1,7 @@
+{
+  "id": "delta_sleep",
+  "display_name": "Delta power density in sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

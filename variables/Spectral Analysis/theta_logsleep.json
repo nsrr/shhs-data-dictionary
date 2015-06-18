@@ -1,0 +1,7 @@
+{
+  "id": "theta_logsleep",
+  "display_name": "Log transformed theta power density in sleep",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

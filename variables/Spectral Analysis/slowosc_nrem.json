@@ -1,0 +1,7 @@
+{
+  "id": "slowosc_nrem",
+  "display_name": "Slow oscillation power density in NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

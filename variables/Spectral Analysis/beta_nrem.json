@@ -1,0 +1,7 @@
+{
+  "id": "beta_nrem",
+  "display_name": "Beta power density in NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

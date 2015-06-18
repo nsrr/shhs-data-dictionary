@@ -1,0 +1,7 @@
+{
+  "id": "beta_bandend",
+  "display_name": "Beta band end",
+  "description": "",
+  "type": "numeric",
+  "units": "hertz"
+}

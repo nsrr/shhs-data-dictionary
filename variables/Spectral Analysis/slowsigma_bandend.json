@@ -1,0 +1,7 @@
+{
+  "id": "slowsigma_bandend",
+  "display_name": "Slow sigma band end",
+  "description": "",
+  "type": "numeric",
+  "units": "hertz"
+}

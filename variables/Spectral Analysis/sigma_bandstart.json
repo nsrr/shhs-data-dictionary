@@ -1,0 +1,7 @@
+{
+  "id": "sigma_bandstart",
+  "display_name": "Sigma band start",
+  "description": "",
+  "type": "numeric",
+  "units": "hertz"
+}

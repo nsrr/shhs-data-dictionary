@@ -1,0 +1,7 @@
+{
+  "id": "nrem_21_hz",
+  "display_name": "NREM power density at 21.0 Hertz",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

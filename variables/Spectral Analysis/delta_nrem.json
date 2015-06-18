@@ -1,0 +1,7 @@
+{
+  "id": "delta_nrem",
+  "display_name": "Delta power density in NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

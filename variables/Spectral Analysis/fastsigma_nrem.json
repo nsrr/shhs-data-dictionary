@@ -1,0 +1,7 @@
+{
+  "id": "fastsigma_nrem",
+  "display_name": "Fast sigma power density in NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

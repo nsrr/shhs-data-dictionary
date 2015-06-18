@@ -1,0 +1,7 @@
+{
+  "id": "slowosc_sleep",
+  "display_name": "Slow oscillation power density in sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "microvolts squared per hertz"
+}

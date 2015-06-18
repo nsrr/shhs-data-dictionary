@@ -1,0 +1,7 @@
+{
+  "id": "delta_bandend",
+  "display_name": "Delta band end",
+  "description": "",
+  "type": "numeric",
+  "units": "hertz"
+}

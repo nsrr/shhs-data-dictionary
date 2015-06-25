@@ -12,4 +12,4 @@ webservers:
   - name: production
     url: https://sleepdata.org
   - name: staging
-    url: https://sleepepi.partners.org/edge/sleepdata
+    url: https://staging.partners.org/sleepdata.org

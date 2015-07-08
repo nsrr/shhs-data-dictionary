@@ -1,11 +1,10 @@
 {
   "id": "fuweight",
   "display_name": "FU status weight",
-  "description": "",
+  "description": "Units are not consistent, contains some values that are in kilograms and other values that are in pounds",
   "type": "numeric",
   "units": "",
   "other": {
     "Table Name": "STATUS",
     "Variable Informat": null
   }
-}

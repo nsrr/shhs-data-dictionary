@@ -113,3 +113,4 @@ These are known issues in the current version.
   - Several instances of minimum heart rate below 20 beats per minute
 - Several instances found: **High values in [amxbnbh](https://sleepdata.org/datasets/shhs/variables/amxbnbh)**
   - Also several reported maximum heart rates below 50 beats per minute
+- One occurrence found: **[fuweight](https://sleepdata.org/datasets/shhs/variables/fuweight) contains some values that are in kilograms and other values that are in pounds**

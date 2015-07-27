@@ -1,7 +1,7 @@
 {
   "id": "av1deg",
   "display_name": "First degree atrioventricular block",
-  "description": "",
+  "description": "MN code 6-3",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

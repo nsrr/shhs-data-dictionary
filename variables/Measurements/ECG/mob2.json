@@ -1,7 +1,7 @@
 {
   "id": "mob2",
   "display_name": "Mobitz Type-2 Heart Block",
-  "description": "Second degree atrioventricular (Mobitz) type-2 heart block",
+  "description": "Second degree atrioventricular (Mobitz) type-2 heart block. MN code 6-2-1",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

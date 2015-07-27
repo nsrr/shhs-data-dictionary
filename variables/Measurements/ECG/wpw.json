@@ -1,7 +1,7 @@
 {
   "id": "wpw",
   "display_name": "Wolff-Parkinson-White Syndrome",
-  "description": "",
+  "description": "MN code 6-4-1",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

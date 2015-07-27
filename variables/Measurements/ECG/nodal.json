@@ -1,7 +1,7 @@
 {
   "id": "nodal",
   "display_name": "Nodal rhythm",
-  "description": "Abnormal heart rhythm resulting from impulses from the atrioventricular node",
+  "description": "Abnormal heart rhythm resulting from impulses from the atrioventricular node. MN code 8-4-1",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

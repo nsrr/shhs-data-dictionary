@@ -1,7 +1,7 @@
 {
   "id": "irbbb",
   "display_name": "Incomplete right bundle-branch block",
-  "description": "",
+  "description": "MN code 7-3",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "st4_1_3",
   "display_name": "ST and T-wave 4-1 to 4-3",
-  "description": "",
+  "description": "MN code  4-1 to 4-3",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

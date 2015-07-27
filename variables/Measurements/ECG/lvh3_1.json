@@ -1,7 +1,7 @@
 {
   "id": "lvh3_1",
   "display_name": "Left Ventricular Hypertrophy: Voltage 3-1",
-  "description": "",
+  "description": "MN code  3-1 ",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

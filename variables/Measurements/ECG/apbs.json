@@ -1,7 +1,7 @@
 {
   "id": "apbs",
   "display_name": "Atrial bypasses",
-  "description": "",
+  "description": "MN code 8-1-1",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

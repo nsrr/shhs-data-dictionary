@@ -1,7 +1,7 @@
 {
   "id": "iventblk",
   "display_name": "Indeterminate intraventricular block pattern",
-  "description": "",
+  "description": "MN code 7-4",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

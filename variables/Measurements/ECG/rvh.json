@@ -1,7 +1,7 @@
 {
   "id": "rvh",
   "display_name": "Right Ventricular Hypertrophy",
-  "description": "",
+  "description": "MN code 3-2",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

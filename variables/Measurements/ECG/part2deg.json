@@ -1,7 +1,7 @@
 {
   "id": "part2deg",
   "display_name": "Partial second degree atrioventricular block",
-  "description": "",
+  "description": "MN code 6-2-2",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

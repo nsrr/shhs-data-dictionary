@@ -1,7 +1,7 @@
 {
   "id": "st5_1_3",
   "display_name": "ST and T-wave 5-1 to 5-3",
-  "description": "",
+  "description": "MN code  5-1 to 5-3",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

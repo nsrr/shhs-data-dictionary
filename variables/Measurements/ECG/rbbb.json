@@ -1,7 +1,7 @@
 {
   "id": "rbbb",
   "display_name": "Right bundle-branch block",
-  "description": "",
+  "description": "MN code 7-2-1",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

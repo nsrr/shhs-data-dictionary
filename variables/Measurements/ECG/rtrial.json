@@ -1,7 +1,7 @@
 {
   "id": "rtrial",
   "display_name": "Right Atrial Enlargement",
-  "description": "",
+  "description": "MN code 9-3",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

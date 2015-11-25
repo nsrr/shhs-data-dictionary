@@ -1508,7 +1508,7 @@ data shhs_cvd_summary;
 
   if permiss = 1;
 
-  drop omni blpsgdate permiss;
+  drop omni blpsgdate permiss stent_date; /* stent_date is removed because there is no data */
 
 run;
 

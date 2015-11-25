@@ -1,6 +1,7 @@
 ## 0.8.0
 
 - Remove extraneous variables from SHHS2 dataset
+- Remove `stent_date` variable from CVD dataset -- did not contain any data
 
 ## 0.7.0 (June 25, 2015)
 

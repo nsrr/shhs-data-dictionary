@@ -3,7 +3,7 @@
   "display_name": "Death from myocardial infarct since Baseline?",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
+  "domain": "noyes",
   "labels": [
     "adjudicated",
     "mi_death",

@@ -103,7 +103,7 @@ data shhs1;
   rename stroke = prev_hx_stroke;
   rename mi = prev_hx_mi;
 
-  if yrssnr02 > 110 then yrssnr02 = .;
+  if yrssnr02 > 87 then yrssnr02 = .; /* should remove values of 88 or above */
   if mi2slp02 = 9999 then mi2slp02 = .;
   if minfa10 = 9999 then minfa10 = .;
   if yrsns15 = 9999 then yrsns15 = .;

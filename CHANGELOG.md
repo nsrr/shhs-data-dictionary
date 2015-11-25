@@ -1,4 +1,6 @@
-## 0.7.1
+## 0.8.0
+
+- Remove extraneous variables from SHHS2 dataset
 
 ## 0.7.0 (June 25, 2015)
 

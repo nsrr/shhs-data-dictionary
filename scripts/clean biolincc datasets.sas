@@ -3,7 +3,7 @@ libname shhs "\\rfa01\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1"
 libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
 libname shhspsg "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
 
-%let release = 0.8.0.pre;
+%let release = 0.8.0.beta1;
 
 data shhs1_investigator;
 	set shhspsg.Shhs1final_13jun2014_6441(rename=(rcrdtime=rcrdtime2));
@@ -698,10 +698,27 @@ data shhs1;
 
   visitnumber = 1;
 
-  /*Corrects an erroneous value in the SHHS1 data*/
+  /* corrects an erroneous value in the SHHS1 data*/
   if tfawea02 = 10 then tfawea02 = 2;
 
+  /* only keep subjects who gave permission for data to be shared */
   if permiss = 1;
+
+  /* create new AHI variables */
+  ahi_a0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_a0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_a0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa + oarba + oaroa + oanba + oanoa ) / slpprdp;
+  ahi_a0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa + oarba + oaroa + oanba + oanoa ) / slpprdp;
+
+  ahi_o0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_o0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_o0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + oarba + oaroa + oanba + oanoa ) / slpprdp;
+  ahi_o0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + oarba + oaroa + oanba + oanoa ) / slpprdp;
+
+  ahi_c0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop ) / slpprdp;
+  ahi_c0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop ) / slpprdp;
+  ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa ) / slpprdp;
+  ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa ) / slpprdp;
 
   drop uenrbp--UEROP5A repsgpptid responqa blpsgdate permiss;
 run;
@@ -1407,6 +1424,22 @@ data shhs2;
   visitnumber = 2;
 
   if permiss = 1;
+
+  /* create new AHI variables */
+  ahi_a0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_a0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_a0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa + oarba + oaroa + oanba + oanoa ) / slpprdp;
+  ahi_a0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa + oarba + oaroa + oanba + oanoa ) / slpprdp;
+
+  ahi_o0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_o0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_o0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + oarba + oaroa + oanba + oanoa ) / slpprdp;
+  ahi_o0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + oarba + oaroa + oanba + oanoa ) / slpprdp;
+
+  ahi_c0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop ) / slpprdp;
+  ahi_c0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop ) / slpprdp;
+  ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa ) / slpprdp;
+  ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa ) / slpprdp;
 
   drop repsgpptid responqa permiss;
 run;

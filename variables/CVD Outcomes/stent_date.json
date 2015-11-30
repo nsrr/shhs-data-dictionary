@@ -1,9 +1,0 @@
-{
-  "id": "stent_date",
-  "display_name": "Number of days of first stent since baseline PSG",
-  "description": "",
-  "type": "date",
-  "labels": [
-    "adjudicated"
-  ]
-}

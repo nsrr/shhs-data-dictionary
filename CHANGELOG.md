@@ -2,6 +2,18 @@
 
 - Remove extraneous variables from SHHS2 dataset
 - Remove `stent_date` variable from CVD dataset -- did not contain any data
+- Added new Apnea-Hypopnea Indices (`ahi_*` variables)
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.8.0.beta1\`
+    - `shhs1-dataset-0.8.0.beta1.rsv`
+    - `shhs1-eeg-band-summary-dataset-0.8.0.beta1.csv`
+    - `shhs1-eeg-spectral-summary-dataset-0.8.0.beta1.csv`
+    - `shhs-interim-followup-dataset-0.8.0.beta1.csv`
+    - `shhs2-dataset-0.8.0.beta1.csv`
+    - `shhs2-eeg-band-summary-dataset-0.8.0.beta1.csv`
+    - `shhs2-eeg-spectral-summary-dataset-0.8.0.beta1.csv`
+    - `shhs-cvd-dataset-0.8.0.beta1.csv`
+    - `shhs-cvd-events-dataset-0.8.0.beta1.csv`
 
 ## 0.7.0 (June 25, 2015)
 

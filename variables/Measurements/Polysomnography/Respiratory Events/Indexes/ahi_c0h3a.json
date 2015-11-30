@@ -1,0 +1,9 @@
+{
+  "id": "ahi_c0h3a",
+  "display_name": "Central AHI 3% -- central apneas and hypopneas with >=3% oxygen desaturation or arousal",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa) / slpprdp",
+  "commonly_used": true
+}

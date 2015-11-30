@@ -1,0 +1,9 @@
+{
+  "id": "ahi_o0h3a",
+  "display_name": "Obstructive AHI 3% -- obstructive apneas and hypopneas with >=3% oxygen desaturation or arousal",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + oarba + oaroa + oanba + oanoa) / slpprdp",
+  "commonly_used": true
+}

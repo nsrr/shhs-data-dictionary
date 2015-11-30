@@ -1,0 +1,9 @@
+{
+  "id": "ahi_a0h4a",
+  "display_name": "AHI 4% -- all apneas and hypopneas with >=4% oxygen desaturation or arousal",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa + oarba + oaroa + oanba + oanoa ) / slpprdp",
+  "commonly_used": true
+}

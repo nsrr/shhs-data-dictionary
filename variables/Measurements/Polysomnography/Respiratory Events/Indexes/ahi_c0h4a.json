@@ -1,0 +1,9 @@
+{
+  "id": "ahi_c0h4a",
+  "display_name": "Central AHI 4% -- central apneas and hypopneas with >=4% oxygen desaturation or arousal",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa) / slpprdp",
+  "commonly_used": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ahi_a0h3",
+  "display_name": "AHI 3% -- all apneas and hypopneas with >=3% oxygen desaturation",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp",
+  "commonly_used": true
+}

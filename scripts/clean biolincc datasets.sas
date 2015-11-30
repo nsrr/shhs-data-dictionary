@@ -798,6 +798,9 @@ data shhs_exam2;
   completedDt_stat2 = datepart(completedDt_stat) - stdydt;
   ReadIn_stat2 = datepart(ReadIn_stat) - stdydt;
 
+  /*rename key variable that overlaps variable from CVD dataset*/
+  rename mi = mi_priorexam;
+
   visitnumber = 4;
 
   if obf_pptid = . then delete;

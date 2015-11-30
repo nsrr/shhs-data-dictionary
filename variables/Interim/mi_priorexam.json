@@ -1,0 +1,11 @@
+{
+  "id": "mi_priorexam",
+  "display_name": "MI during interval since the prior parent exam",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "myocardial infarction",
+    "heart attack"
+  ]
+}

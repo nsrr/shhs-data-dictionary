@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "SitLch02"
+    "ess7"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

@@ -2,7 +2,7 @@
   "id": "mi",
   "display_name": "Number of MIs Since Baseline",
   "description": "MI since baseline PSG (as recorded in parent studies datasets)",
-  "type": "numeric",
+  "type": "integer",
   "units": "number of events",
   "labels": [
     "adjudicated",

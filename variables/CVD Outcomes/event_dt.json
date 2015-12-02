@@ -1,6 +1,6 @@
 {
   "id": "event_dt",
-  "display_name": "Days from baseline to myocardial infarction or stroke",
+  "display_name": "Days from baseline to first myocardial infarction or stroke",
   "description": "",
   "type": "numeric",
   "units": "days"

@@ -1,7 +1,7 @@
 {
   "id": "angina",
-  "display_name": "Number of Anginas Since Baseline",
-  "description": "Angina since baseline PSG (as recorded in parent studies datasets)",
+  "display_name": "Number of Angina episodes Since Baseline",
+  "description": "Angina episodes since baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",
   "labels": [

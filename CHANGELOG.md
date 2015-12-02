@@ -4,6 +4,7 @@
 - Remove `stent_date` variable from CVD dataset -- did not contain any data
 - Added new Apnea-Hypopnea Indices (`ahi_*` variables)
 - Rename `mi` variable in Interim Follow-up dataset
+- Updated `noyes01` domain to remove extraneous option
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.8.0.beta1\`
     - `shhs1-dataset-0.8.0.beta1.rsv`

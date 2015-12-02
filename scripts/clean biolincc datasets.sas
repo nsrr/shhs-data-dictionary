@@ -3,7 +3,7 @@ libname shhs "\\rfa01\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1"
 libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
 libname shhspsg "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
 
-%let release = 0.8.0.beta1;
+%let release = 0.8.0.beta2;
 
 data shhs1_investigator;
 	set shhspsg.Shhs1final_13jun2014_6441(rename=(rcrdtime=rcrdtime2));
@@ -719,6 +719,11 @@ data shhs1;
   ahi_c0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop ) / slpprdp;
   ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa ) / slpprdp;
   ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa ) / slpprdp;
+
+  cent_obs_ratio3 = ahi_c0h3 / ahi_o0h3;
+  cent_obs_ratio4 = ahi_c0h4 / ahi_o0h4;
+  cent_obs_ratio3a = ahi_c0h3a / ahi_o0h3a;
+  cent_obs_ratio4a = ahi_c0h4a / ahi_o0h4a;
 
   drop uenrbp--UEROP5A repsgpptid responqa blpsgdate permiss;
 run;
@@ -1443,6 +1448,11 @@ data shhs2;
   ahi_c0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop ) / slpprdp;
   ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa ) / slpprdp;
   ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa ) / slpprdp;
+
+  cent_obs_ratio3 = ahi_c0h3 / ahi_o0h3;
+  cent_obs_ratio4 = ahi_c0h4 / ahi_o0h4;
+  cent_obs_ratio3a = ahi_c0h3a / ahi_o0h3a;
+  cent_obs_ratio4a = ahi_c0h4a / ahi_o0h4a;
 
   drop repsgpptid responqa permiss;
 run;

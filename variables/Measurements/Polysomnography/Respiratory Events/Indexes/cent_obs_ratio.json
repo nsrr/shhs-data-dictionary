@@ -1,0 +1,8 @@
+{
+  "id": "cent_obs_ratio",
+  "display_name": "Central/Obstructive Apnea ratio at all desaturations",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "calculation": "(carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop)"
+}

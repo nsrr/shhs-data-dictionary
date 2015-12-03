@@ -720,10 +720,8 @@ data shhs1;
   ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa ) / slpprdp;
   ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa ) / slpprdp;
 
-  cent_obs_ratio3 = ahi_c0h3 / ahi_o0h3;
-  cent_obs_ratio4 = ahi_c0h4 / ahi_o0h4;
-  cent_obs_ratio3a = ahi_c0h3a / ahi_o0h3a;
-  cent_obs_ratio4a = ahi_c0h4a / ahi_o0h4a;
+  cent_obs_ratio = (carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop);
+  cent_obs_ratioa = (carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa);
 
   drop uenrbp--UEROP5A repsgpptid responqa blpsgdate permiss;
 run;
@@ -1449,10 +1447,8 @@ data shhs2;
   ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa ) / slpprdp;
   ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa ) / slpprdp;
 
-  cent_obs_ratio3 = ahi_c0h3 / ahi_o0h3;
-  cent_obs_ratio4 = ahi_c0h4 / ahi_o0h4;
-  cent_obs_ratio3a = ahi_c0h3a / ahi_o0h3a;
-  cent_obs_ratio4a = ahi_c0h4a / ahi_o0h4a;
+  cent_obs_ratio = (carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop);
+  cent_obs_ratioa = (carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa);
 
   drop repsgpptid responqa permiss;
 run;

@@ -1,7 +1,7 @@
 {
   "id": "prev_ang",
-  "display_name": "Number of Anginas Prior to Baseline",
-  "description": "Angina prior to baseline PSG (as recorded in parent studies datasets)",
+  "display_name": "Number of Angina Episodes Prior to Baseline",
+  "description": "Angina episodes prior to baseline PSG (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",
   "labels": [

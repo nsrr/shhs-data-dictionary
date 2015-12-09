@@ -1,4 +1,4 @@
-## 0.8.0
+## 0.8.0 (December 9, 2015)
 
 - Remove extraneous variables from SHHS2 dataset
 - Remove `stent_date` variable from CVD dataset -- did not contain any data
@@ -7,15 +7,15 @@
 - Updated `noyes01` domain to remove extraneous option
 - The CSV datasets generated from a SAS export is located here:
   - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.8.0.rc\`
-    - `shhs1-dataset-0.8.0.rc.rsv`
-    - `shhs1-eeg-band-summary-dataset-0.8.0.rc.csv`
-    - `shhs1-eeg-spectral-summary-dataset-0.8.0.rc.csv`
-    - `shhs-interim-followup-dataset-0.8.0.rc.csv`
-    - `shhs2-dataset-0.8.0.rc.csv`
-    - `shhs2-eeg-band-summary-dataset-0.8.0.rc.csv`
-    - `shhs2-eeg-spectral-summary-dataset-0.8.0.rc.csv`
-    - `shhs-cvd-dataset-0.8.0.rc.csv`
-    - `shhs-cvd-events-dataset-0.8.0.rc.csv`
+    - `shhs1-dataset-0.8.0.csv`
+    - `shhs1-eeg-band-summary-dataset-0.8.0.csv`
+    - `shhs1-eeg-spectral-summary-dataset-0.8.0.csv`
+    - `shhs-interim-followup-dataset-0.8.0.csv`
+    - `shhs2-dataset-0.8.0.csv`
+    - `shhs2-eeg-band-summary-dataset-0.8.0.csv`
+    - `shhs2-eeg-spectral-summary-dataset-0.8.0.csv`
+    - `shhs-cvd-dataset-0.8.0.csv`
+    - `shhs-cvd-events-dataset-0.8.0.csv`
 
 ## 0.7.0 (June 25, 2015)
 

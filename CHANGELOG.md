@@ -1,5 +1,7 @@
 ## 0.8.1
 
+- Fixed naming convention of "Physical Measurements, Blood Pressure, Ankle-Arm Index, ECG (SHHS2)" form
+
 ## 0.8.0 (December 9, 2015)
 
 - Remove extraneous variables from SHHS2 dataset

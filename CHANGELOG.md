@@ -1,5 +1,7 @@
 ## 0.2.1
 
+- Backporting updates to be compatible with Spout 0.11.0.beta1
+
 ## 0.2.0 (March 24, 2014)
 
 - The CSV dataset generated from a SAS export is located here:

@@ -1,6 +1,8 @@
 ## 0.8.1
 
 - Fixed naming convention of "Physical Measurements, Blood Pressure, Ankle-Arm Index, ECG (SHHS2)" form
+- **Gem Changes**
+  - Updated to spout 0.11.0.beta1
 
 ## 0.8.0 (December 9, 2015)
 

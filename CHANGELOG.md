@@ -1,3 +1,5 @@
+## 0.8.1
+
 ## 0.8.0 (December 9, 2015)
 
 - Remove extraneous variables from SHHS2 dataset

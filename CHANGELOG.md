@@ -1,5 +1,7 @@
 ## 0.4.5
 
+- Backporting updates to be compatible with Spout 0.11.0.beta1
+
 ## 0.4.4 (November 10, 2014)
 
 - **Gem Changes**

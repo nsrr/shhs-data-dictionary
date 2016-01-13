@@ -1,5 +1,7 @@
 ## 0.5.1
 
+- Backporting updates to be compatible with Spout 0.11.0.beta1
+
 ## 0.5.0 (November 28, 2014)
 
 - Created Interim variables, domains, and units for the 'Exam Cycle 2' dataset

@@ -1,3 +1,5 @@
+## 0.7.1
+
 ## 0.7.0 (June 25, 2015)
 
 - Spectral analysis variables have been added to the dataset for both SHHS Visit 1 and SHHS Visit 2

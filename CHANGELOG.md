@@ -1,5 +1,7 @@
 ## 0.6.1
 
+- Backporting updates to be compatible with Spout 0.11.0.beta1
+
 ## 0.6.0 (December 5, 2014)
 
 - The interim dataset has been pared down to only include individuals who consented to have their data shared

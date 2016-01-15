@@ -2,7 +2,8 @@
 
 - Fixed naming convention of "Physical Measurements, Blood Pressure, Ankle-Arm Index, ECG (SHHS2)" form
 - **Gem Changes**
-  - Updated to spout 0.11.0.beta1
+  - Updated to spout 0.11.0.rc
+  - Updated to Ruby 2.3.0
 
 ## 0.8.0 (December 9, 2015)
 

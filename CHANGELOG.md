@@ -1,4 +1,4 @@
-## 0.5.1
+## 0.5.1 (January 19, 2016)
 
 - Backporting updates to be compatible with Spout 0.11.0
 

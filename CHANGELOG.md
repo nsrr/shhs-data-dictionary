@@ -1,6 +1,6 @@
 ## 0.7.1
 
-- Backporting updates to be compatible with Spout 0.11.0.rc
+- Backporting updates to be compatible with Spout 0.11.0
 
 ## 0.7.0 (June 25, 2015)
 

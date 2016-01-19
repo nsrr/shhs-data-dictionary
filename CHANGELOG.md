@@ -1,6 +1,6 @@
 ## 0.6.1
 
-- Backporting updates to be compatible with Spout 0.11.0.rc
+- Backporting updates to be compatible with Spout 0.11.0
 
 ## 0.6.0 (December 5, 2014)
 

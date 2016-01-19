@@ -1,4 +1,4 @@
-## 0.8.1
+## 0.8.1 (January 19, 2016)
 
 - Fixed naming convention of "Physical Measurements, Blood Pressure, Ankle-Arm Index, ECG (SHHS2)" form
 - **Gem Changes**

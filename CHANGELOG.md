@@ -5,6 +5,7 @@
 - Clean up labels and description for blood draw variables
 - Fix misspellings of `myocardial`
 - Add descriptions for ECG variable set
+- Fix errant domains for some ECG variables
 
 ## 0.8.1 (January 19, 2016)
 

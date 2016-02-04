@@ -3,7 +3,7 @@
   "display_name": "Anteroseptal Myocardial Infarction",
   "description": "Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
   "type": "choices",
-  "domain": "yesnod2",
+  "domain": "antsepmi",
   "labels": [
     "ECG",
     "MI",

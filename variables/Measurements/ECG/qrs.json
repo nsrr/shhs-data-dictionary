@@ -1,7 +1,7 @@
 {
   "id": "qrs",
   "display_name": "QRS Axis",
-  "description": "",
+  "description": "Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
   "type": "numeric",
   "units": "millimeters",
   "labels": [

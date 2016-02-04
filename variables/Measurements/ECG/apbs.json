@@ -1,7 +1,7 @@
 {
   "id": "apbs",
   "display_name": "Atrial bypasses",
-  "description": "MN code 8-1-1",
+  "description": "MN code 8-1-1. Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "st4_1_3",
   "display_name": "ST and T-wave 4-1 to 4-3",
-  "description": "MN code  4-1 to 4-3",
+  "description": "MN code  4-1 to 4-3. Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

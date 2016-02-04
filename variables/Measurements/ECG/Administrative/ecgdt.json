@@ -1,7 +1,7 @@
 {
   "id": "ecgdt",
   "display_name": "Number of days since the baseline PSG until collected: ECG (SHHS1)",
-  "description": "Date of ECG",
+  "description": "Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

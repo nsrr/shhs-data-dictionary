@@ -1,7 +1,7 @@
 {
   "id": "afib",
   "display_name": "Atrial Fibrillation or Flutter",
-  "description": "MN code 8-3-1 or 8-3-2",
+  "description": "MN code 8-3-1 or 8-3-2. Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

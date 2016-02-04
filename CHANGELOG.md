@@ -1,4 +1,4 @@
-## 0.8.2
+## 0.8.2 (February 4, 2016)
 
 - Remove extraneous `\r\r` from variable display names
 - Add labels for key hypertension variables

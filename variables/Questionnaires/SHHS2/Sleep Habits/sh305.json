@@ -1,7 +1,7 @@
 {
   "id": "sh305",
   "display_name": "Sleep Habits (SHHS2): Regular nap every afternoon",
-  "description": "5. Do you try to \"make time\" in your schedule for a regular nap or \"siesta\" in\r\rthe afternoon? (check one)",
+  "description": "5. Do you try to \"make time\" in your schedule for a regular nap or \"siesta\" in the afternoon? (check one)",
   "type": "choices",
   "domain": "nvevry4",
   "labels": [

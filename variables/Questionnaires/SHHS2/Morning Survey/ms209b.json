@@ -1,7 +1,7 @@
 {
   "id": "ms209b",
   "display_name": "Morning Survey (SHHS2): mixed drinks before bed",
-  "description": "9. How many of the following drinks did you have during the 4 hours before\r\ryou went to sleep last night? (Please write \"0\" if you did not drink any of that\r\rbeverage.)  b. ____ drinks with hard liquor (1 shot)",
+  "description": "9. How many of the following drinks did you have during the 4 hours before you went to sleep last night? (Please write \"0\" if you did not drink any of that beverage.)  b. ____ drinks with hard liquor (1 shot)",
   "type": "numeric",
   "units": "drinks",
   "labels": [

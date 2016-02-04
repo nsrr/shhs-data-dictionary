@@ -1,7 +1,7 @@
 {
   "id": "hi217",
   "display_name": "Health Interview (SHHS2): Language of interview",
-  "description": "Field Site Use Only\r\r17. Interviewer administered in:",
+  "description": "Field Site Use Only 17. Interviewer administered in:",
   "type": "choices",
   "domain": "lang6",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "ql202",
   "display_name": "Quality of Life (SHHS2): Health compared to one year ago",
-  "description": "2. Compared to one year ago, how would you rate your health\r\rin general now? (Check one box.)",
+  "description": "2. Compared to one year ago, how would you rate your health in general now? (Check one box.)",
   "type": "choices",
   "domain": "betwrs5",
   "labels": [

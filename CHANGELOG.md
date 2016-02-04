@@ -1,3 +1,7 @@
+## 0.8.2
+
+- Remove extraneous `\r\r` from variable display names
+
 ## 0.8.1 (January 19, 2016)
 
 - Fixed naming convention of "Physical Measurements, Blood Pressure, Ankle-Arm Index, ECG (SHHS2)" form

@@ -1,7 +1,7 @@
 {
   "id": "sh325",
   "display_name": "Sleep Habits (SHHS2): Cups of coffee per day",
-  "description": "25. On a typical day, how many cups of regular coffee (with caffeine) do you\r\rdrink?",
+  "description": "25. On a typical day, how many cups of regular coffee (with caffeine) do you drink?",
   "type": "numeric",
   "units": "cups",
   "labels": [

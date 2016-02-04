@@ -2,6 +2,7 @@
 
 - Remove extraneous `\r\r` from variable display names
 - Add labels for key hypertension variables
+- Clean up labels and description for blood draw variables
 
 ## 0.8.1 (January 19, 2016)
 

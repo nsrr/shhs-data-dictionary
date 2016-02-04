@@ -1,11 +1,8 @@
 {
   "id": "hdl",
-  "display_name": "HDL (SHHS1)",
-  "description": "AV HDL cholesterol",
+  "display_name": "HDL cholesterol",
+  "description": "",
   "type": "numeric",
   "units": "milligrams per deciliter",
-  "labels": [
-    "HDL"
-  ],
   "commonly_used": true
 }

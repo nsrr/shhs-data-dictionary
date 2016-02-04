@@ -1,6 +1,7 @@
 ## 0.8.2
 
 - Remove extraneous `\r\r` from variable display names
+- Add labels for key hypertension variables
 
 ## 0.8.1 (January 19, 2016)
 

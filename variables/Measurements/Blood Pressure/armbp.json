@@ -1,10 +1,7 @@
 {
   "id": "armbp",
-  "display_name": "Supine arm blood pressure (SHHS1)",
-  "description": "Supine Arm Blood Pressure",
+  "display_name": "Supine arm systolic blood pressure",
+  "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
-  "labels": [
-    "ArmBP"
-  ]
+  "units": "millimeters of mercury"
 }

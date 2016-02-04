@@ -1,7 +1,7 @@
 {
   "id": "aai",
   "display_name": "Ankle-arm BP Index (SHHS1)",
-  "description": "Ankle Arm Index",
+  "description": "Ratio of ankle to arm systolic blood pressure",
   "type": "numeric",
   "units": "index",
   "labels": [

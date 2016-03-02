@@ -1,11 +1,8 @@
 {
   "id": "race",
   "display_name": "Race",
-  "description": "Race category as reported by Parent Cohort",
+  "description": "Race is presented as three (3) categories based on [suggested BioLINCC de-identification procedures](http://www.nhlbi.nih.gov/research/funding/human-subjects/set-preparation-guidelines).",
   "type": "choices",
   "domain": "race123",
-  "labels": [
-    "race"
-  ],
   "commonly_used": true
 }

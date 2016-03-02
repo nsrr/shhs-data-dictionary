@@ -1,5 +1,7 @@
 ## 0.9.0
 
+- Added more meaningful descriptions for race and ethnicity variables
+
 ## 0.8.2 (February 4, 2016)
 
 - Remove extraneous `\r\r` from variable display names

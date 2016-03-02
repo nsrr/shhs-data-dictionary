@@ -1,6 +1,7 @@
 ## 0.9.0
 
 - Added more meaningful descriptions for race and ethnicity variables
+- Remove duplicated prevalent condition variables from CVD Summary dataset
 
 ## 0.8.2 (February 4, 2016)
 

@@ -3,7 +3,7 @@ libname shhs "\\rfa01\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1"
 libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
 libname shhspsg "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
 
-%let release = 0.9.0;
+%let release = 0.9.0.pre;
 
 data shhs1_investigator;
 	set shhspsg.Shhs1final_13jun2014_6441(rename=(rcrdtime=rcrdtime2));
@@ -1517,7 +1517,8 @@ data shhs_cvd_summary;
 
   if permiss = 1;
 
-  drop omni blpsgdate permiss stent_date; /* stent_date is removed because there is no data */
+  drop omni blpsgdate permiss stent_date /* stent_date is removed because there is no data */
+    ca15 cabg15 stroke15 mi15 /* baseline prevalent conditions exist in shhs1 and do not need to be duplicated */;
 
 run;
 
@@ -1533,12 +1534,38 @@ data shhs_cvd_summary;
 
 run;
 
-proc export data=shhs1 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs1-dataset-&release..csv" dbms=csv replace; run;
+/* export to CSV to post to sleepdata.org */
 
-proc export data=shhs_exam2 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-interim-followup-dataset-&release..csv" dbms=csv replace; run;
+proc export data=shhs1 
+  outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs1-dataset-&release..csv" 
+  dbms=csv 
+  replace; 
+run;
 
-proc export data=shhs2 outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs2-dataset-&release..csv" dbms=csv replace; run;
+proc export 
+  data=shhs_exam2 
+  outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-interim-followup-dataset-&release..csv" 
+  dbms=csv 
+  replace; 
+run;
 
-proc export data=shhs_cvd_summary outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-summary-dataset-&release..csv" dbms=csv replace; run;
+proc export 
+  data=shhs2 
+  outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs2-dataset-&release..csv" 
+  dbms=csv 
+  replace; 
+run;
 
-proc export data=shhs_cvd_event outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-events-dataset-&release..csv" dbms=csv replace; run;
+proc export 
+  data=shhs_cvd_summary 
+  outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-summary-dataset-&release..csv" 
+  dbms=csv 
+  replace; 
+run;
+
+proc export 
+  data=shhs_cvd_event  
+  outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-events-dataset-&release..csv" 
+  dbms=csv 
+  replace; 
+run;

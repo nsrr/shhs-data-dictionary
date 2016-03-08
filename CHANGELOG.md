@@ -2,6 +2,17 @@
 
 - Added more meaningful descriptions for race and ethnicity variables
 - Remove duplicated prevalent condition variables from CVD Summary dataset
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.9.0.rc\`
+    - `shhs1-dataset-0.9.0.rc.csv`
+    - `shhs1-eeg-band-summary-dataset-0.9.0.rc.csv`
+    - `shhs1-eeg-spectral-summary-dataset-0.9.0.rc.csv`
+    - `shhs-interim-followup-dataset-0.9.0.rc.csv`
+    - `shhs2-dataset-0.9.0.rc.csv`
+    - `shhs2-eeg-band-summary-dataset-0.9.0.rc.csv`
+    - `shhs2-eeg-spectral-summary-dataset-0.9.0.rc.csv`
+    - `shhs-cvd-dataset-0.9.0.rc.csv`
+    - `shhs-cvd-events-dataset-0.9.0.rc.csv`
 
 ## 0.8.2 (February 4, 2016)
 

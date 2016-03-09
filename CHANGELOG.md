@@ -13,6 +13,8 @@
     - `shhs2-eeg-spectral-summary-dataset-0.9.0.rc.csv`
     - `shhs-cvd-dataset-0.9.0.rc.csv`
     - `shhs-cvd-events-dataset-0.9.0.rc.csv`
+- **Gem Changes**
+  - Updated to spout 0.11.1
 
 ## 0.8.2 (February 4, 2016)
 

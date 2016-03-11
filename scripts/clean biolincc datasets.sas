@@ -1,9 +1,11 @@
+
+*set options and libnames;
 libname biolincc "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\biolincc-master";
 libname shhs "\\rfa01\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1";
 libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
 libname shhspsg "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
 
-%let release = 0.9.0.rc;
+%let release = 0.9.0;
 
 data shhs1_investigator;
 	set shhspsg.Shhs1final_13jun2014_6441(rename=(rcrdtime=rcrdtime2));

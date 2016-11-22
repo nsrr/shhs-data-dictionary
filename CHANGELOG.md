@@ -1,6 +1,9 @@
 ## 0.10.0
 
-
+- Add 'icsd' tag to many AHI variables
+- Add HRV analysis datasets
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.10.0.beta1\`
 
 ## 0.9.0 (March 11, 2016)
 

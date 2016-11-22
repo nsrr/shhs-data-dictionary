@@ -1,19 +1,19 @@
 
 *set options and libnames;
-libname biolincc "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\biolincc-master";
-libname shhs "\\rfa01\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1";
-libname obf "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_ids";
-libname shhspsg "\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
+libname biolincc "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\biolincc-master";
+libname shhs "\\rfawin\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1";
+libname obf "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_ids";
+libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
 
 %let release = 0.10.0.pre;
 
 data shhs1_investigator;
-	set shhspsg.Shhs1final_13jun2014_6441(rename=(rcrdtime=rcrdtime2));
+  set shhspsg.Shhs1final_13jun2014_6441(rename=(rcrdtime=rcrdtime2));
 
-	rcrdtime = timepart(rcrdtime2);
-	format rcrdtime time8.;
+  rcrdtime = timepart(rcrdtime2);
+  format rcrdtime time8.;
 
-	keep pptid Abdodur Abdoqual Airdur Airqual Chestdur Chindur Chinqual Chstqual EEG1dur EEG1qual EEG2dur EEG2qual EOGLdur EOGLqual EOGRdur EOGRqual Hrdur Hrqual LightOff Oximdur Oximqual Posdur Posqual RcrdTime;
+  keep pptid Abdodur Abdoqual Airdur Airqual Chestdur Chindur Chinqual Chstqual EEG1dur EEG1qual EEG2dur EEG2qual EOGLdur EOGLqual EOGRdur EOGRqual Hrdur Hrqual LightOff Oximdur Oximqual Posdur Posqual RcrdTime;
 run;
 
 data shhs1_ecg;
@@ -36,9 +36,9 @@ data basedate;
 run;
 
 data shhs2_investigator;
-	set shhspsg.Shhs2final_15jan2014_4586_psg;
+  set shhspsg.Shhs2final_15jan2014_4586_psg;
 
-	keep pptid STLOUTP STONSETP latreliable eogldur eogrdur chindur eeg1dur eeg2dur hrdur airdur ligh chestdur abdodur oximdur queogl queogr quchin queeg1 queeg2 quhr quair quchest quabdo quoxim posn;
+  keep pptid STLOUTP STONSETP latreliable eogldur eogrdur chindur eeg1dur eeg2dur hrdur airdur ligh chestdur abdodur oximdur queogl queogr quchin queeg1 queeg2 quhr quair quchest quabdo quoxim posn;
 run;
 
 data shhs2_ecg;
@@ -58,7 +58,7 @@ data shhs_cvd_summary;
 run;
 
 data examcycle2;
-	set biolincc.followup1final_09oct2006_6441;
+  set biolincc.followup1final_09oct2006_6441;
 run;
 
 data shhs_cvd_event;
@@ -74,12 +74,12 @@ data obfid_c;
 run;
 
 data s1_psgqual;
-	merge obfid_c(in=a) shhs1_investigator(in=b);
-	by pptid;
+  merge obfid_c(in=a) shhs1_investigator(in=b);
+  by pptid;
 
-	if a;
+  if a;
 
-	drop pptid;
+  drop pptid;
 run;
 
 data shhs1;
@@ -729,16 +729,16 @@ data shhs1;
 run;
 
 proc sort data=s1_psgqual;
-	by obf_pptid;
+  by obf_pptid;
 run;
 
 data shhs1;
-	merge shhs1(in=a) s1_psgqual;
-	by obf_pptid;
+  merge shhs1(in=a) s1_psgqual;
+  by obf_pptid;
 
-	if a;
+  if a;
 
-	drop permiss;
+  drop permiss;
 run;
 
 data shhs2;
@@ -767,11 +767,11 @@ data shhs_demo;
 run;
 
 data shhs_exam2;
-	length obf_pptid 8.;
-	merge examcycle2(in=a) obfid_c(in=b) basedate;
-	by pptid;
+  length obf_pptid 8.;
+  merge examcycle2(in=a) obfid_c(in=b) basedate;
+  by pptid;
 
-	if a and b;
+  if a and b;
 
   /*strip PHI out of text variables*/
   if obf_pptid in (200045,200091,200187,200202,200222,200310,200450,200467,200509,200543,200546,200553,200590,200632,200682,200722,200727,200752,200810,200817,200910,200948,201040,201041,201073,201098,201151,201177,201212,201277,201310,201358,201452,201459,201495,201506,201559,201612,201621,201647,201800,201845,202048,202104,202259,202274,202305,202321,202323,202522,202544,202559,202566,202612,202633,202666,202684,202702,202744,202773,202780,202840,202874,202881,202896,202919,202957,202978,202991,203024,203031,203048,203050,203079,203107,203165,203166,203205,203209,203239,203242,203457,203472,203505,203539,203556,203579,203582,203605,203606,203643,203651,203662,203671,203676,203725,203733,203746,203749,203766,203784,203857,203891,203905,203961,204105,204785,205002,205007,205014,205028,205052,205199,205215,205315,205464,205477,205615,205689,205707) then comments = "";
@@ -810,34 +810,34 @@ data shhs_exam2;
 
   if obf_pptid = . then delete;
 
-	drop pptid shhs clinic omni permiss intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt statfollowup slpsymfollowup;
+  drop pptid shhs clinic omni permiss intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt statfollowup slpsymfollowup;
 run;
 
 proc sort data=shhs_exam2;
-	by obf_pptid;
+  by obf_pptid;
 run;
 
 proc sort data=shhs_demo;
-	by obf_pptid;
+  by obf_pptid;
 run;
 
 data shhs_exam2;
-	merge shhs_exam2 (in=a) shhs_demo;
-	by obf_pptid;
+  merge shhs_exam2 (in=a) shhs_demo;
+  by obf_pptid;
 
-	if a;
+  if a;
 
   rename callDt2=callDt completedDt_scr2=completedDt_scr ReadIn_scr2=ReadIn_scr formDt2=formDt intRevDt2=intRevDt ReadIn_slpsym2=ReadIn_slpsym visitDt2=visitDt bpTime2=bpTime Midt2=Midt StrokeTIAdt2=StrokeTIAdt CHFdt2=CHFdt CABGPTCAdt2=CABGPTCAdt carotidEndDt2=carotidEndDt completedDt_stat2=completedDt_stat ReadIn_stat2=ReadIn_stat;
 
 run;
 
 data s2_psgqual;
-	merge obfid_c(in=a) shhs2_investigator(in=b);
-	by pptid;
+  merge obfid_c(in=a) shhs2_investigator(in=b);
+  by pptid;
 
-	if a;
+  if a;
 
-	drop pptid;
+  drop pptid;
 run;
 
 data shhs2;
@@ -1456,29 +1456,29 @@ data shhs2;
 run;
 
 proc sort data=shhs2;
-	by obf_pptid;
+  by obf_pptid;
 run;
 
 proc sort data=s2_psgqual;
-	by obf_pptid;
+  by obf_pptid;
 run;
 
 data shhs2;
-	merge shhs2(in=a) s2_psgqual;
-	by obf_pptid;
+  merge shhs2(in=a) s2_psgqual;
+  by obf_pptid;
 
-	if a;
+  if a;
 run;
 
 data shhs2;
-	merge shhs2(in=a) shhs_demo(in=b);
-	by obf_pptid;
+  merge shhs2(in=a) shhs_demo(in=b);
+  by obf_pptid;
 
-	if a and b;
+  if a and b;
 
     if age_s2 > 89 then age_s2 = 90;
 
-	drop permiss;
+  drop permiss;
 run;
 
 data shhs_cvd_event;
@@ -1525,49 +1525,49 @@ data shhs_cvd_summary;
 run;
 
 proc sort data=shhs_cvd_summary;
-	by obf_pptid;
+  by obf_pptid;
 run;
 
 data shhs_cvd_summary;
-	merge shhs_cvd_summary(in=a) shhs_demo(in=b);
-	by obf_pptid;
+  merge shhs_cvd_summary(in=a) shhs_demo(in=b);
+  by obf_pptid;
 
-	if a and b;
+  if a and b;
 
 run;
 
 /* export to CSV to post to sleepdata.org */
 
 proc export data=shhs1
-  outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs1-dataset-&release..csv"
+  outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs1-dataset-&release..csv"
   dbms=csv
   replace;
 run;
 
 proc export
   data=shhs_exam2
-  outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-interim-followup-dataset-&release..csv"
+  outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-interim-followup-dataset-&release..csv"
   dbms=csv
   replace;
 run;
 
 proc export
   data=shhs2
-  outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs2-dataset-&release..csv"
+  outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs2-dataset-&release..csv"
   dbms=csv
   replace;
 run;
 
 proc export
   data=shhs_cvd_summary
-  outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-summary-dataset-&release..csv"
+  outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-summary-dataset-&release..csv"
   dbms=csv
   replace;
 run;
 
 proc export
   data=shhs_cvd_event
-  outfile="\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-events-dataset-&release..csv"
+  outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-events-dataset-&release..csv"
   dbms=csv
   replace;
 run;

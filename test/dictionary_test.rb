@@ -16,13 +16,15 @@ class DictionaryTest < Minitest::Test
     end
   end
 
-  VALID_UNITS = ["", "microvolts squared per hertz", "hertz", "arousals", "car accidents", "miles", "beats per minute", "bottles", "bowls", "cans", "centimeters",
+  VALID_UNITS = ["", "microvolts squared per hertz", "hertz", "arousals", "car accidents", "miles",
+    "beats per minute", "bottles", "bowls", "cans", "centimeters",
     "central apnea events", "cigarettes", "cigarettes per day", "cigars", "cups", "days",
     "days from index date", "drinks", "drinks per day", "events per hour", "glasses", "hours",
     "hypopnea events", "index", "kilograms", "kilograms per square meter", "liters",
     "milligrams per deciliter", "millimeters", "millimeters of mercury", "minutes", "naps",
     "number of events", "obstructive apnea events", "oxygen desaturation events", "pack years",
-    "percent", "seconds", "stage shifts", "years"]
+    "percent", "seconds", "stage shifts", "years", "seconds from start of recording",
+    "seconds squared"]
 
   @variables.select{|v| ['numeric','integer'].include?(v.type)}.each do |variable|
     define_method("test_units: "+variable.path) do

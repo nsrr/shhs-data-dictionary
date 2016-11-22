@@ -1,0 +1,7 @@
+{
+  "id": "hf",
+  "display_name": "High frequency power: the NN interval spectral power between 0.15 and 0.4 Hz",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds squared"
+}

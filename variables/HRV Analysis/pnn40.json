@@ -1,0 +1,7 @@
+{
+  "id": "pnn40",
+  "display_name": "Percentage of differences between adjacent NN intervals that are >40 ms",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

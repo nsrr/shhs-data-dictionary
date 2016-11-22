@@ -1,0 +1,7 @@
+{
+  "id": "lf",
+  "display_name": "Low frequency power: the NN interval spectral power between 0.04 and 0.15 Hz",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds squared"
+}

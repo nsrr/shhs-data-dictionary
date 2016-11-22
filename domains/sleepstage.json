@@ -1,0 +1,37 @@
+[
+  {
+    "value": "0",
+    "display_name": "Wake",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Stage 1",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Stage 2",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Stage 3/4",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Stage 3/4",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "REM stage",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Movement/Wake",
+    "description": ""
+  }
+]

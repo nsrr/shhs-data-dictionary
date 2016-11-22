@@ -1,0 +1,7 @@
+{
+  "id": "rmssd",
+  "display_name": "Square root of the mean of the squares of difference between adjacent NN intervals",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "lf_n",
+  "display_name": "Low frequency power (normalized)",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "calculation": "lf_n = lf / (lf + hf)"
+}

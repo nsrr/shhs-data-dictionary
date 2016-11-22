@@ -1,0 +1,7 @@
+{
+  "id": "pnn20",
+  "display_name": "Percentage of differences between adjacent NN intervals that are >20 ms",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

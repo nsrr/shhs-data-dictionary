@@ -1,0 +1,7 @@
+{
+  "id": "event02start",
+  "display_name": "Respiratory event (02) start time",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds from start of recording"
+}

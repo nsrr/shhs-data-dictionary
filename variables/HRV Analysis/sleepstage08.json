@@ -1,0 +1,7 @@
+{
+  "id": "sleepstage08",
+  "display_name": "Sleep stage of eighth 30 second epoch in 5 minute window",
+  "description": "",
+  "type": "choices",
+  "domain": "sleepstage"
+}

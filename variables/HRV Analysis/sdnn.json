@@ -1,0 +1,7 @@
+{
+  "id": "sdnn",
+  "display_name": "Standard deviation of all NN intervals",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

@@ -5,5 +5,8 @@
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop) / slpprdp",
-  "commonly_used": true
+  "commonly_used": true,
+  "labels": [
+    "icsd"
+  ]
 }

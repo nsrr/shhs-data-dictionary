@@ -3,5 +3,5 @@
   "display_name": "Mean of all NN intervals",
   "description": "",
   "type": "numeric",
-  "units": "seconds"
+  "units": "milliseconds"
 }

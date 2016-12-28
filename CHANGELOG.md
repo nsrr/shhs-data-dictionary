@@ -1,5 +1,7 @@
 ## 0.10.1
 
+- Fix variable units in HRV Analysis folder
+
 ## 0.10.0 (December 2, 2016)
 
 - Add 'icsd' tag to many AHI variables

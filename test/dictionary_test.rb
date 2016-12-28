@@ -24,7 +24,7 @@ class DictionaryTest < Minitest::Test
     "milligrams per deciliter", "millimeters", "millimeters of mercury", "minutes", "naps",
     "number of events", "obstructive apnea events", "oxygen desaturation events", "pack years",
     "percent", "seconds", "stage shifts", "years", "seconds from start of recording",
-    "seconds squared"]
+    "milliseconds", "milliseconds squared"]
 
   @variables.select{|v| ['numeric','integer'].include?(v.type)}.each do |variable|
     define_method("test_units: "+variable.path) do

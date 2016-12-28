@@ -3,5 +3,5 @@
   "display_name": "Total NN interval spectral power up to 0.4 Hz",
   "description": "",
   "type": "numeric",
-  "units": "seconds squared"
+  "units": "milliseconds squared"
 }

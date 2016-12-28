@@ -3,5 +3,5 @@
   "display_name": "Very low frequency power: the NN interval spectral power between 0.003 and 0.04 Hz",
   "description": "",
   "type": "numeric",
-  "units": "seconds squared"
+  "units": "milliseconds squared"
 }

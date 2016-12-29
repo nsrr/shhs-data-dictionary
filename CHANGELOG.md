@@ -1,6 +1,6 @@
 ## 0.10.1
 
-- Fix variable units in HRV Analysis folder
+- Fix variable units in HRV Analysis folder (seconds -> milliseconds)
 
 ## 0.10.0 (December 2, 2016)
 

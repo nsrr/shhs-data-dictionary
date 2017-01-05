@@ -1,5 +1,9 @@
 ## 0.11.0
 
+- Replace SHHS1 HRV dataset file, fixes outlier and IHR miscalculation
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.11.0.rc\`
+
 ## 0.10.1 (December 29, 2016)
 
 - Fix variable units in HRV Analysis folder (seconds -> milliseconds)

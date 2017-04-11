@@ -5,8 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "DIURET1",
-    "hypertension"
+    "hypertension",
+    "HTN"
   ],
   "commonly_used": true,
   "forms": [

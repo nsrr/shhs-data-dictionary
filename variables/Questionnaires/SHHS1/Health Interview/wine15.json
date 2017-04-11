@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "glasses",
   "labels": [
-    "WINE15"
+    "alcohol"
   ],
   "forms": [
     "shhs1_health_interview_form_new_york"

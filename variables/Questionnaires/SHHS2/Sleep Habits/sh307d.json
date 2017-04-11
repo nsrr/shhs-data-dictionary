@@ -4,9 +4,6 @@
   "description": "7. What are your reasons for regular napping in the afternoon? (check all that apply)  d. Other (please explain).",
   "type": "choices",
   "domain": "check",
-  "labels": [
-    "sh307d"
-  ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
   ]

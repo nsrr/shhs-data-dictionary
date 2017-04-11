@@ -3,8 +3,5 @@
   "display_name": "Number of Hypopnea (REM, Back, 2% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "hypopnea events",
-  "labels": [
-    "hrembp2"
-  ]
+  "units": "hypopnea events"
 }

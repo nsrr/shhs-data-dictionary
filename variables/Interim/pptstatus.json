@@ -3,9 +3,5 @@
   "display_name": "Participant Status",
   "description": "",
   "type": "choices",
-  "domain": "status",
-  "other": {
-    "Table Name": "STATUS",
-    "Variable Informat": null
-  }
+  "domain": "status"
 }

@@ -3,8 +3,5 @@
   "display_name": "Number of Central Apnea (REM, Back, 4% oxygen desaturation)",
   "description": "Number of Central Apnea (REM, Back, 4% oxygen desaturation)",
   "type": "numeric",
-  "units": "central apnea events",
-  "labels": [
-    "carbp4"
-  ]
+  "units": "central apnea events"
 }

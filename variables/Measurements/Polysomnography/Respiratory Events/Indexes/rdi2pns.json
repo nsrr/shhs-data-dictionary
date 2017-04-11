@@ -6,7 +6,6 @@
   "units": "events per hour",
   "calculation": "60 * ( hrop2 + hnrop2 + carop2 + canop2 + oarop2 + oanop2 ) / ( remepop + nremepop )",
   "labels": [
-    "rdi2pns",
     "rdi",
     "ahi"
   ]

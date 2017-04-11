@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "COPD15"
+    "chronic obstructive pulmonary disease"
   ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",

@@ -4,9 +4,6 @@
   "description": "What is chance that you would doze off or fall asleep while at the dinner table?",
   "type": "choices",
   "domain": "nhchan4",
-  "labels": [
-    "AtTabl02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

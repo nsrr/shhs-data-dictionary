@@ -4,9 +4,6 @@
   "description": "Tripping/falling?",
   "type": "choices",
   "domain": "noyes01",
-  "labels": [
-    "TRIPAE"
-  ],
   "forms": [
     "shhs1_adverse_events_form"
   ]

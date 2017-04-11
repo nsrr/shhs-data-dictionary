@@ -6,6 +6,7 @@
   "units": "percent",
   "calculation": "mnsao2nh",
   "labels": [
-    "losao2nr"
+    "oximetry",
+    "NREM"
   ]
 }

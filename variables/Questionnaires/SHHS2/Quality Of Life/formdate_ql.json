@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "days from index date",
   "labels": [
-    "formdate_ql"
+    "QOL"
   ]
 }

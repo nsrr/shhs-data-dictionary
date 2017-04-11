@@ -3,9 +3,8 @@
   "display_name": "SF-36 Calculated (SHHS1): Social Functioning Raw Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
     "sf36",
-    "RAWSF_s1"
+    "QOL"
   ]
 }

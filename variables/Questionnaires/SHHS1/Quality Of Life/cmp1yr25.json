@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "betwrs5",
   "labels": [
-    "CMP1YR25"
+    "QOL"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

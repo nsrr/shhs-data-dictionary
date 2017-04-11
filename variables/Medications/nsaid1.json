@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "NSAID1",
     "inflammation"
   ],
   "commonly_used": true,

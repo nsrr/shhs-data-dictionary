@@ -4,8 +4,5 @@
   "description": "Non-REM Arousal Index - total arousals in non-REM sleep per hours of non-REM sleep",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "60 * ( arnrembp + arnremop ) / ( slpprdp - minremp )",
-  "labels": [
-    "ai_nrem"
-  ]
+  "calculation": "60 * ( arnrembp + arnremop ) / ( slpprdp - minremp )"
 }

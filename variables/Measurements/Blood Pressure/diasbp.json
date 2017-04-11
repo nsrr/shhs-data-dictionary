@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "DiasBP"
+    "mmHg"
   ],
   "commonly_used": true
 }

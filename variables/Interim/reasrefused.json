@@ -3,9 +3,5 @@
   "display_name": "Reason refused repeat study",
   "description": "",
   "type": "choices",
-  "domain": "reasonrefused",
-  "other": {
-    "Table Name": "SCREENER",
-    "Variable Informat": null
-  }
+  "domain": "reasonrefused"
 }

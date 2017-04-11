@@ -4,9 +4,6 @@
   "description": "7. What are your reasons for regular napping in the afternoon? (check all that apply)  a. I do not get enough sleep at night.",
   "type": "choices",
   "domain": "check",
-  "labels": [
-    "sh307a"
-  ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
   ]

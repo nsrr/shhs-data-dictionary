@@ -6,7 +6,6 @@
   "units": "number of events",
   "labels": [
     "adjudicated",
-    "prev_revpro",
     "revascularization procedure",
     "stent"
   ],

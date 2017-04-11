@@ -3,9 +3,8 @@
   "display_name": "FOSQ Score",
   "description": "Functional Outcomes of Sleep Questionnaire (FOSQ) score",
   "type": "numeric",
-  "units": "",
   "labels": [
-    "fosq"
+    "functional outcomes of sleep questionnaire"
   ],
   "commonly_used": true
 }

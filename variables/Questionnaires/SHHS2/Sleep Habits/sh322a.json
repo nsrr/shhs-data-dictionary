@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "years",
   "labels": [
-    "sh322a"
+    "cigarettes",
+    "smoking"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"

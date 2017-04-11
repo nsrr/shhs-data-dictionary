@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "HPRNS2",
     "anticoagulant",
     "pulmonary embolism",
     "DVT",
@@ -13,6 +12,6 @@
     "acute coronary syndrome"
   ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

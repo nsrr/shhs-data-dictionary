@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "cigarettes",
   "labels": [
-    "CGRTTS10"
+    "smoking"
   ],
   "forms": [
     "shhs1_morning_survey_form"

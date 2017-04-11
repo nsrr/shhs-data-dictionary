@@ -4,9 +4,6 @@
   "description": "What is chance that you would doze off or fall asleep while driving?",
   "type": "choices",
   "domain": "nhchan4",
-  "labels": [
-    "Drive02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

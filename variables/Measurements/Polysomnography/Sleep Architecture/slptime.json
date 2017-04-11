@@ -4,5 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
+  "labels": [
+    "TST"
+  ],
   "commonly_used": true
 }

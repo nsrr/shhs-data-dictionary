@@ -4,9 +4,6 @@
   "description": "Have you ever been told by a doctor that you have a sleep disorder (other than sleep apnea)?  18. What other sleep disorder? (check all that apply) d. Other: please specify",
   "type": "choices",
   "domain": "check",
-  "labels": [
-    "sh318d"
-  ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
   ]

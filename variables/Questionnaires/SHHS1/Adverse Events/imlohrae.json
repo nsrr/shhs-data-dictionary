@@ -4,9 +4,6 @@
   "description": "Heart rate < 30 for > 2 minutes at rest?",
   "type": "choices",
   "domain": "noyes01",
-  "labels": [
-    "IMLOHRAE"
-  ],
   "forms": [
     "shhs1_adverse_events_form"
   ]

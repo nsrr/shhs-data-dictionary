@@ -4,9 +4,6 @@
   "description": "5. Compared to your usual night's sleep, how well did you sleep last night? (check one)",
   "type": "choices",
   "domain": "betwrs5",
-  "labels": [
-    "ms205"
-  ],
   "forms": [
     "shhs2_morning_survey_form"
   ]

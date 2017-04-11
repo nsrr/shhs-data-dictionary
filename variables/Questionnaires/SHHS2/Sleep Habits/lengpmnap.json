@@ -3,8 +3,5 @@
   "display_name": "Sleep Habits (SHHS2): Total nap time",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
-  "labels": [
-    "LengPMNap"
-  ]
+  "units": "minutes"
 }

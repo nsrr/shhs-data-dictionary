@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "bothr5",
   "labels": [
-    "hi210"
+    "RLS"
   ],
   "forms": [
     "shhs2_health_interview"

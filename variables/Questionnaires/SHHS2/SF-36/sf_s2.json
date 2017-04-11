@@ -3,9 +3,8 @@
   "display_name": "SF-36 Calculated (SHHS2): Social Functioning Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
     "sf36",
-    "SF_s2"
+    "QOL"
   ]
 }

@@ -4,9 +4,6 @@
   "description": "In the past year, how often, on average, have you been awakened with noise in your surroundings?",
   "type": "choices",
   "domain": "nevralw5",
-  "labels": [
-    "Noise02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

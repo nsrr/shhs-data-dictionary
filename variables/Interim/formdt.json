@@ -3,9 +3,5 @@
   "display_name": "Days from index date to date when form was filled out",
   "description": "",
   "type": "numeric",
-  "units": "days from index date",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "units": "days from index date"
 }

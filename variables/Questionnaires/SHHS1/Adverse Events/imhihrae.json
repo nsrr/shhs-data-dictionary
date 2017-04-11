@@ -4,9 +4,6 @@
   "description": "Heart rate > 150 for > 2 minutes at rest?",
   "type": "choices",
   "domain": "noyes01",
-  "labels": [
-    "IMHIHRAE"
-  ],
   "forms": [
     "shhs1_adverse_events_form"
   ]

@@ -5,11 +5,11 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "SYMPTH2",
     "hypotension",
-    "heart failure"
+    "heart failure",
+    "HF"
   ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

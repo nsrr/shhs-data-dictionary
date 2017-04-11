@@ -4,9 +4,6 @@
   "description": "For how many years have you been snoring? (number of years, up to 2 digits)",
   "type": "numeric",
   "units": "years",
-  "labels": [
-    "YrsSnr02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

@@ -4,9 +4,6 @@
   "description": "Diastolic blood pressure > 120 (and not on BP meds)?",
   "type": "choices",
   "domain": "noyes01",
-  "labels": [
-    "IMDBPAE"
-  ],
   "forms": [
     "shhs1_adverse_events_form"
   ]

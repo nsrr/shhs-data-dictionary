@@ -5,8 +5,8 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "period",
-    "cheyne stokes"
+    "cheyne stokes",
+    "cheyne-stokes"
   ],
   "forms": [
     "shhs1_psg_scoring_notes_form"

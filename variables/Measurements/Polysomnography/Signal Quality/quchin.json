@@ -3,5 +3,8 @@
   "display_name": "Quality of the chin signal",
   "description": "",
   "type": "choices",
-  "domain": "sigqual2"
+  "domain": "sigqual2",
+  "labels": [
+    "EMG"
+  ]
 }

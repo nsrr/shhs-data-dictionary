@@ -4,9 +4,6 @@
   "description": "Field Site Use Only 17. Interviewer administered in:",
   "type": "choices",
   "domain": "lang6",
-  "labels": [
-    "hi217"
-  ],
   "forms": [
     "shhs2_health_interview"
   ]

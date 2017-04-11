@@ -6,7 +6,7 @@
   "units": "percent",
   "calculation": "tmstg2p",
   "labels": [
-    "timest2p"
+    "NREM"
   ],
   "commonly_used": true
 }

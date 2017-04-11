@@ -4,9 +4,6 @@
   "description": "7. What are your reasons for regular napping in the afternoon? (check all that apply)  c. I nap because it makes me feel refreshed in general.",
   "type": "choices",
   "domain": "check",
-  "labels": [
-    "sh307c"
-  ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
   ]

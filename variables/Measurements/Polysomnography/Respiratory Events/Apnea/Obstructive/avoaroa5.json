@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "avoaroa5"
+    "duration"
   ]
 }

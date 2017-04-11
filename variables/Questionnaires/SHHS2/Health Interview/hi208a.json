@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "hi208a"
+    "RLS",
+    "restless"
   ],
   "forms": [
     "shhs2_health_interview"

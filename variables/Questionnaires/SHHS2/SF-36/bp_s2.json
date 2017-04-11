@@ -3,9 +3,8 @@
   "display_name": "SF-36 Calculated (SHHS2): Pain Index Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
     "sf36",
-    "BP_s2"
+    "QOL"
   ]
 }

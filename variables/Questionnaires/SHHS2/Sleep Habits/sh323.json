@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "sh323"
+    "cigarettes",
+    "smoking"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"

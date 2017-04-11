@@ -2,8 +2,5 @@
   "id": "timslp",
   "display_name": "Health Interview (SHHS2): Time went to sleep last night",
   "description": "",
-  "type": "text",
-  "labels": [
-    "TimSlp"
-  ]
+  "type": "text"
 }

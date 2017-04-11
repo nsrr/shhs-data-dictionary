@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "excpoor5",
   "labels": [
-    "ql201"
+    "QOL"
   ],
   "forms": [
     "shhs2_quality_of_life_sf_36_form"

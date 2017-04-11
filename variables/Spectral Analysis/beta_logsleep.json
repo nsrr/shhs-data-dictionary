@@ -2,6 +2,5 @@
   "id": "beta_logsleep",
   "display_name": "Log transformed beta power density in sleep",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

@@ -3,9 +3,7 @@
   "display_name": "Other reason sleep apnea not treated",
   "description": "",
   "type": "text",
-  "units": "",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "labels": [
+    "noncompliance"
+  ]
 }

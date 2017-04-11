@@ -3,8 +3,5 @@
   "display_name": "Number of Central Apnea (REM, Other, 5% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "central apnea events",
-  "labels": [
-    "carop5"
-  ]
+  "units": "central apnea events"
 }

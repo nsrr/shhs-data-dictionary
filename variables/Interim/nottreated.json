@@ -4,8 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "spnotreated",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "labels": [
+    "noncompliance"
+  ]
 }

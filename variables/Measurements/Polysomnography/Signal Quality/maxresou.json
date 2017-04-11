@@ -3,8 +3,5 @@
   "display_name": "PSG Quality Assessment (SHHS2): Long respiratory events verified",
   "description": "If a respiratory event greater than 150 seconds in duration was observed, scorer has verified that this value is real.",
   "type": "choices",
-  "domain": "yesnon",
-  "labels": [
-    "MaxResOu"
-  ]
+  "domain": "yesnon"
 }

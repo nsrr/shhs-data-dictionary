@@ -4,8 +4,5 @@
   "description": "Educational level: number of years",
   "type": "choices",
   "domain": "eduyears",
-  "labels": [
-    "Educat"
-  ],
   "commonly_used": true
 }

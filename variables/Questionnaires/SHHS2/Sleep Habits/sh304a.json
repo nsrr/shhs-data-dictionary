@@ -4,9 +4,6 @@
   "description": "a. Number of times during a usual week that you nap for 5 minutes or more:",
   "type": "numeric",
   "units": "naps",
-  "labels": [
-    "sh304a"
-  ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
   ]

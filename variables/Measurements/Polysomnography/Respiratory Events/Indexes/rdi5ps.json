@@ -6,7 +6,6 @@
   "units": "events per hour",
   "calculation": "60 * ( hrembp5 + hnrbp5 + carbp5 + canbp5 + oarbp5 + oanbp5 ) / ( remepbp + nremepbp )",
   "labels": [
-    "rdi5ps",
     "rdi",
     "ahi"
   ]

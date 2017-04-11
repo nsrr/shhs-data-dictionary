@@ -4,8 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
-  "other": {
-    "Table Name": "STATUS",
-    "Variable Informat": null
-  }
+  "labels": [
+    "blood pressure"
+  ]
 }

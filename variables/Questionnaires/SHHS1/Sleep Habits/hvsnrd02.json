@@ -4,9 +4,6 @@
   "description": "Have you ever snored?",
   "type": "choices",
   "domain": "yesnod",
-  "labels": [
-    "HvSnrd02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

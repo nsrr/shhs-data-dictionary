@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "oxygen desaturation events",
   "labels": [
-    "ndes2ph"
+    "oximetry"
   ]
 }

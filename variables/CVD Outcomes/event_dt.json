@@ -3,5 +3,9 @@
   "display_name": "Days from baseline to first myocardial infarction or stroke",
   "description": "",
   "type": "numeric",
-  "units": "days"
+  "units": "days",
+  "labels": [
+    "mi",
+    "heart attack"
+  ]
 }

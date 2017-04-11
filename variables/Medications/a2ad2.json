@@ -5,11 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "A2AD2",
-    "hypertension"
-  ], 
+    "hypertension",
+    "HTN"
+  ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
-  
 }

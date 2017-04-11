@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "LIPID1",
     "hyperlipidemia",
     "dyslipidemia"
   ],

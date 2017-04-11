@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "cups",
   "labels": [
-    "TEA15"
+    "caffeine"
   ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",

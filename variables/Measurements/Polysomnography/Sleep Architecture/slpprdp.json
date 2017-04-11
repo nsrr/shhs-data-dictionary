@@ -4,8 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
-  "labels": [
-    "slpprdp"
-  ],
   "commonly_used": true
 }

@@ -3,8 +3,5 @@
   "display_name": "Morning Survey (SHHS2): Reported time actually slept last night",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
-  "labels": [
-    "RptActTimSlp"
-  ]
+  "units": "minutes"
 }

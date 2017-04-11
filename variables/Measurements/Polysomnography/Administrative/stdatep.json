@@ -3,8 +3,5 @@
   "display_name": "PSG Start Date (SHHS2)",
   "description": "",
   "type": "numeric",
-  "units": "days from index date",
-  "labels": [
-    "stdatep"
-  ]
+  "units": "days from index date"
 }

@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "allnone6",
   "labels": [
-    "WORN25"
+    "QOL"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

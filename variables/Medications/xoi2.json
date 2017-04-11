@@ -5,11 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "XOI2",
     "hyperuricemia",
     "gout"
   ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

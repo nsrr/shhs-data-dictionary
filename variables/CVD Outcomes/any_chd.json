@@ -6,7 +6,6 @@
   "domain": "noyes",
   "labels": [
     "adjudicated",
-    "any_chd",
     "coronary heart disease"
   ],
   "commonly_used": true

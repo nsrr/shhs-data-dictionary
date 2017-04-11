@@ -3,8 +3,5 @@
   "display_name": "Number of Obstructive Apnea w/ arousals (NREM, Back, 4% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "obstructive apnea events",
-  "labels": [
-    "oanba4"
-  ]
+  "units": "obstructive apnea events"
 }

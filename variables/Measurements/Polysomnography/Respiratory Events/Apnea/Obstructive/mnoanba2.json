@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "mnoanba2"
+    "duration"
   ]
 }

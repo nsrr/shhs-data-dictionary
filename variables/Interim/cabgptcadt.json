@@ -3,9 +3,5 @@
   "display_name": "Days from index date to CABG/PTCA",
   "description": "",
   "type": "numeric",
-  "units": "days from index date",
-  "other": {
-    "Table Name": "STATUS",
-    "Variable Informat": null
-  }
+  "units": "days from index date"
 }

@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "cigarettes",
   "labels": [
-    "AVESMK15"
+    "smoking"
   ],
   "forms": [
     "shhs1_health_interview_form_new_york"

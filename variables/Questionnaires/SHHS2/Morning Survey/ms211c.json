@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "cigars",
   "labels": [
-    "ms211c"
+    "smoking"
   ],
   "forms": [
     "shhs2_morning_survey_form"

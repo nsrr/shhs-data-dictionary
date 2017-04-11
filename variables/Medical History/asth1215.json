@@ -4,9 +4,6 @@
   "description": "Participant had attack of asthma in last 12 months?",
   "type": "choices",
   "domain": "yesnod",
-  "labels": [
-    "ASTH1215"
-  ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
     "shhs1_health_interview_form_framingham",

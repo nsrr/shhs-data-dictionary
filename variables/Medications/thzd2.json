@@ -5,10 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "THZD2",
-    "diabetes"
+    "diabetes",
+    "DM"
   ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

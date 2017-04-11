@@ -4,9 +4,6 @@
   "description": "Is your snoring: (increasing, decreasing, etc) 1=Increasing over time, 2=Decreasing over time, 3=Staying the same, 8=Don't know",
   "type": "choices",
   "domain": "incdec4",
-  "labels": [
-    "IsSnor02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

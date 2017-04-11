@@ -3,8 +3,5 @@
   "display_name": "Has SHHS1 Health Interview form",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "shhs1_hi"
-  ]
+  "domain": "noyes01"
 }

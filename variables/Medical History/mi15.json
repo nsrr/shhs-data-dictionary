@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "MI15"
+    "myocardial infarction",
+    "heart attack"
   ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",

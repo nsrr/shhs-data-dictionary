@@ -3,8 +3,5 @@
   "display_name": "Number of Obstructive Apnea (NREM, Other, 5% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "obstructive apnea events",
-  "labels": [
-    "oanop5"
-  ]
+  "units": "obstructive apnea events"
 }

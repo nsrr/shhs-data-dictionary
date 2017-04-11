@@ -3,9 +3,5 @@
   "display_name": "Reason contact not made",
   "description": "",
   "type": "choices",
-  "domain": "nocontactreason",
-  "other": {
-    "Table Name": "SCREENER",
-    "Variable Informat": null
-  }
+  "domain": "nocontactreason"
 }

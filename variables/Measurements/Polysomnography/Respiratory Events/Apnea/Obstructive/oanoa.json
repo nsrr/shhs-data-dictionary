@@ -3,8 +3,5 @@
   "display_name": "Number of Obstructive Apnea w/ arousals (NREM, Other, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "obstructive apnea events",
-  "labels": [
-    "oanoa"
-  ]
+  "units": "obstructive apnea events"
 }

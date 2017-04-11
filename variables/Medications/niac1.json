@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "NIAC1",
     "dyslipidemia",
     "hyperlipidemia"
   ],

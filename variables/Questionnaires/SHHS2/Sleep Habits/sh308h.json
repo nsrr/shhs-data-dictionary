@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "sh308h"
+    "congestion"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"

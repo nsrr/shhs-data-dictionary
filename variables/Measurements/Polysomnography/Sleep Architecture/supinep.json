@@ -5,8 +5,5 @@
   "type": "numeric",
   "units": "percent",
   "calculation": "100 * ( remepbp + nremepbp ) / slpprdp",
-  "labels": [
-    "supinep"
-  ],
   "commonly_used": true
 }

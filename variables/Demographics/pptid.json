@@ -4,7 +4,6 @@
   "description": "This participant ID matches what is present in BioLINCC.",
   "type": "identifier",
   "labels": [
-    "pptidr",
     "id"
   ],
   "commonly_used": true

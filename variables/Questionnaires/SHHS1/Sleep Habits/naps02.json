@@ -4,9 +4,6 @@
   "description": "During a usual week, how many times do you nap for 5 minutes or more? (number of naps, up to 2 digits)",
   "type": "numeric",
   "units": "naps",
-  "labels": [
-    "Naps02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

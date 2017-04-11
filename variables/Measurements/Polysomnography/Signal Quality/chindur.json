@@ -3,5 +3,8 @@
   "display_name": "Hours of usable chin signal",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "labels": [
+    "EMG"
+  ]
 }

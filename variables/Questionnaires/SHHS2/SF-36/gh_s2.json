@@ -3,9 +3,8 @@
   "display_name": "SF-36 Calculated (SHHS2): General Health Perceptions Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
     "sf36",
-    "GH_s2"
+    "QOL"
   ]
 }

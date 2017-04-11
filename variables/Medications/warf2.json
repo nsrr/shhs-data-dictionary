@@ -5,13 +5,12 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "WARF2",
     "pulmonary embolism",
     "DVT",
     "deep-vein thrombosis",
     "acute coronary syndrome"
   ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

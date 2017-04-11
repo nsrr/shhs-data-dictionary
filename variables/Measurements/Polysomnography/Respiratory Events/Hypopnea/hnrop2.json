@@ -3,8 +3,5 @@
   "display_name": "Number of Hypopnea (NREM, Other, 2% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "hypopnea events",
-  "labels": [
-    "hnrop2"
-  ]
+  "units": "hypopnea events"
 }

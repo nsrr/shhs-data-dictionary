@@ -4,10 +4,7 @@
   "description": "Participant taking ERECTILE DYSFUNCTION DRUGS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
-  "labels": [
-    "EDD2"
-  ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

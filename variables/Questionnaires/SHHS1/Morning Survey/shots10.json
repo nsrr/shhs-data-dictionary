@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "drinks",
   "labels": [
-    "SHOTS10"
+    "alcohol"
   ],
   "forms": [
     "shhs1_morning_survey_form"

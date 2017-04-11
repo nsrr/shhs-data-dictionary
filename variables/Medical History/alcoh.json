@@ -5,7 +5,6 @@
   "type": "numeric",
   "units": "drinks per day",
   "labels": [
-    "Alcoh",
     "beer",
     "wine",
     "liquor",

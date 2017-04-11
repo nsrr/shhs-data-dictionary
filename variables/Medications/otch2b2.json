@@ -5,11 +5,11 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "OTCH2B2",
     "GERD",
-    "acid reflux"
+    "acid reflux",
+    "Gastroesophageal Reflux Disorder"
   ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

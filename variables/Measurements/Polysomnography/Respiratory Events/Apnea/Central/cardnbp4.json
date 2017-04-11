@@ -3,8 +3,5 @@
   "display_name": "Central Apnea per hour (NREM, Back, 4% oxygen desaturation)",
   "description": "Central Apnea per hour (NREM, Back, 4% oxygen desaturation)",
   "type": "numeric",
-  "units": "events per hour",
-  "labels": [
-    "cardnbp4"
-  ]
+  "units": "events per hour"
 }

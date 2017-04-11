@@ -3,8 +3,5 @@
   "display_name": "Has SHHS1 Adverse Event form",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "shhs1_ae"
-  ]
+  "domain": "noyes01"
 }

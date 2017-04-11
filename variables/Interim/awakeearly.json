@@ -3,9 +3,5 @@
   "display_name": "Wake up too early in the morning - unable to get back to sleep",
   "description": "",
   "type": "choices",
-  "domain": "nevalw",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "domain": "nevalw"
 }

@@ -4,9 +4,6 @@
   "description": "How many minutes does it usually take you to fall asleep at bedtime? (number of minutes, up to 3 digits)",
   "type": "numeric",
   "units": "minutes",
-  "labels": [
-    "Mi2Slp02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

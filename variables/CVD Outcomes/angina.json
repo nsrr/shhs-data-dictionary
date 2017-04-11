@@ -6,7 +6,7 @@
   "units": "number of events",
   "labels": [
     "adjudicated",
-    "angina"
+    " chest pain"
   ],
   "commonly_used": true
 }

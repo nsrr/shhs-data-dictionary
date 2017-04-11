@@ -3,8 +3,5 @@
   "display_name": "Number of Obstructive Apnea w/ arousals (REM, Back, 5% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "obstructive apnea events",
-  "labels": [
-    "oarba5"
-  ]
+  "units": "obstructive apnea events"
 }

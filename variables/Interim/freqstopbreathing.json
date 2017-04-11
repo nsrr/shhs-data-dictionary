@@ -4,8 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "raralw5",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "labels": [
+    "apneas"
+  ]
 }

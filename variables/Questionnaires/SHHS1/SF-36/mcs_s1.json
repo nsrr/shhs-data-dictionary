@@ -3,9 +3,8 @@
   "display_name": "SF-36 Calculated (SHHS1): Mental Component Scale Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
     "sf36",
-    "mcs_s1"
+    "QOL"
   ]
 }

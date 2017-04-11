@@ -4,8 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "weight",
-  "other": {
-    "Table Name": "STATUS",
-    "Variable Informat": null
-  }
+  "labels": [
+    "kilograms",
+    "kg"
+  ]
 }

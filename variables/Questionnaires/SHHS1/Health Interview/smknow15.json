@@ -4,9 +4,6 @@
   "description": "Do you now smoke cigarettes?",
   "type": "choices",
   "domain": "noyes01",
-  "labels": [
-    "SMKNOW15"
-  ],
   "forms": [
     "shhs1_health_interview_form_new_york"
   ]

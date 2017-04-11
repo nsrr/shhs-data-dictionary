@@ -3,8 +3,5 @@
   "display_name": "Has SHHS2 Morning Survey",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "shhs2_ms"
-  ]
+  "domain": "noyes01"
 }

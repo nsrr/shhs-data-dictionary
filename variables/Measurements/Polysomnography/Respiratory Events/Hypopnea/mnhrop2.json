@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "mnhrop2"
+    "duration"
   ]
 }

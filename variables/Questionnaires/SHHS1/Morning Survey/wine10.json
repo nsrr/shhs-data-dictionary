@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "glasses",
   "labels": [
-    "WINE10"
+    "alcohol"
   ],
   "forms": [
     "shhs1_morning_survey_form"

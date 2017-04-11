@@ -3,8 +3,5 @@
   "display_name": "PSG Quality Assessment (SHHS2): Data Lost during study",
   "description": "Data was lost during the study.",
   "type": "choices",
-  "domain": "yesnon",
-  "labels": [
-    "LosDur"
-  ]
+  "domain": "yesnon"
 }

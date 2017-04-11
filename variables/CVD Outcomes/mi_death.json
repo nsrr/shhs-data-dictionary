@@ -6,7 +6,6 @@
   "domain": "noyes",
   "labels": [
     "adjudicated",
-    "mi_death",
     "mi_fatal",
     "heart attack",
     "myocardial infarction"

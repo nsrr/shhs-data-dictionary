@@ -1,4 +1,4 @@
- {
+{
   "id": "rdinr0p",
   "display_name": "Overall RDI (NREM) all oxygen desaturations",
   "description": "",
@@ -6,7 +6,6 @@
   "units": "events per hour",
   "calculation": "60 * ( hnrbp + hnrop + canbp + canop + oanbp + oanop ) / ( slpprdp - minremp )",
   "labels": [
-    "rdinr0p",
     "rdi",
     "ahi"
   ]

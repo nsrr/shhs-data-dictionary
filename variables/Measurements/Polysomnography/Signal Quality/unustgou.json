@@ -3,8 +3,5 @@
   "display_name": "PSG Quality Assessment (SHHS2): Unusual Staging",
   "description": "Scorer observed  unusual sleep staging.  This is noted when there is no sleep in any particular stage (eg. no REM).",
   "type": "choices",
-  "domain": "yesnon",
-  "labels": [
-    "UnuStgOu"
-  ]
+  "domain": "yesnon"
 }

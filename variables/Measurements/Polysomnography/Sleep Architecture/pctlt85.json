@@ -5,9 +5,9 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "pctlt85",
     "hypoxia",
-    "hypoxemia"
+    "hypoxemia",
+    "oximetry"
   ],
   "commonly_used": true
 }

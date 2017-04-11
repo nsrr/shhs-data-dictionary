@@ -4,9 +4,6 @@
   "description": "At what time do you usually wake up on weekdays or your work days - AM or PM",
   "type": "choices",
   "domain": "ampmf",
-  "labels": [
-    "TWUWDA02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

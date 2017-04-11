@@ -3,9 +3,5 @@
   "display_name": "Completed sleep health questionnaire form",
   "description": "",
   "type": "choices",
-  "domain": "complete4",
-  "other": {
-    "Table Name": "STATUS",
-    "Variable Informat": null
-  }
+  "domain": "complete4"
 }

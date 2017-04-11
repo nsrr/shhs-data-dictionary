@@ -3,8 +3,5 @@
   "display_name": "PSG Quality Assessment (SHHS2): Problems with arousals",
   "description": "Scorer noted that there was a problem scoring arousals.",
   "type": "choices",
-  "domain": "yesnon",
-  "labels": [
-    "AroPr"
-  ]
+  "domain": "yesnon"
 }

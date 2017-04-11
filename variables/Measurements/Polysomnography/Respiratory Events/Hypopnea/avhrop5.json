@@ -3,8 +3,5 @@
   "display_name": "Average Hypopnea length (REM, Other, 5% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "seconds",
-  "labels": [
-    "avhrop5"
-  ]
+  "units": "seconds"
 }

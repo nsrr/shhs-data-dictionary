@@ -1,13 +1,9 @@
-
 {
-  "id":"cough315",
+  "id": "cough315",
   "display_name": "Coughing on most days (SHHS1)",
   "description": "Do you cough on most days for as much as 3 months of the year?",
   "type": "choices",
   "domain": "yesnod",
-  "labels": [
-    "COUGH315"
-  ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
     "shhs1_health_interview_form_framingham",

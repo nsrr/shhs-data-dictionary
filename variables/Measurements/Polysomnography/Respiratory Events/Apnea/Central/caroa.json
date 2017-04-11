@@ -3,8 +3,5 @@
   "display_name": "Number of Central Apnea w/ arousals (REM, Other, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "central apnea events",
-  "labels": [
-    "caroa"
-  ]
+  "units": "central apnea events"
 }

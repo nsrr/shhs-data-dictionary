@@ -2,10 +2,5 @@
   "id": "maxinflation",
   "display_name": "Palpated + 30",
   "description": "",
-  "type": "numeric",
-  "units": "",
-  "other": {
-    "Table Name": "STATUS",
-    "Variable Informat": null
-  }
+  "type": "numeric"
 }

@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "SystBP"
+    "mmHg"
   ],
   "commonly_used": true
 }

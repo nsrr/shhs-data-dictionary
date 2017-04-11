@@ -3,9 +3,5 @@
   "display_name": "Loudness of snoring",
   "description": "",
   "type": "choices",
-  "domain": "snrloud5",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "domain": "snrloud5"
 }

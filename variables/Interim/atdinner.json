@@ -3,9 +3,5 @@
   "display_name": "Fall asleep at the dinner table",
   "description": "",
   "type": "choices",
-  "domain": "nhchan4",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "domain": "nhchan4"
 }

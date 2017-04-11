@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "drinks",
   "labels": [
-    "sh330"
+    "alcohol"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"

@@ -3,9 +3,8 @@
   "display_name": "SF-36 Calculated (SHHS1): Physical Functioning Raw Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
     "sf36",
-    "RAWPF_s1"
+    "QOL"
   ]
 }

@@ -4,9 +4,6 @@
   "description": "Overall study grade as assigned by scorer.  The overall quality grade is based on the quality and duration of EEG, respiratory and oximetry signals. Based on signal quality during recording time.",
   "type": "choices",
   "domain": "ovqus2",
-  "labels": [
-    "overall_shhs1"
-  ],
   "forms": [
     "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
   ]

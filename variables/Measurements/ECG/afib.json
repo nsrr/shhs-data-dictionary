@@ -5,10 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "afib",
     "fibrillation",
     "flutter",
     "atrial",
-    "ecg"
+    "ecg",
+    " atrial fibrillation"
   ]
 }

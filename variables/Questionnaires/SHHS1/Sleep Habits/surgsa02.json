@@ -4,9 +4,6 @@
   "description": "Have you had surgery as treatment for your sleep apnea?",
   "type": "choices",
   "domain": "noyes01",
-  "labels": [
-    "SurgSA02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

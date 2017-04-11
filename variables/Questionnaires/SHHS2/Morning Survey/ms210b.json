@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "cups",
   "labels": [
-    "ms210b"
+    "caffeine"
   ],
   "forms": [
     "shhs2_morning_survey_form"

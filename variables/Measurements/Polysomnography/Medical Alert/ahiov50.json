@@ -3,8 +3,5 @@
   "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - AHI > 50",
   "description": "Medical Alert for AHI over 50.",
   "type": "choices",
-  "domain": "yesnon",
-  "labels": [
-    "AHIov50"
-  ]
+  "domain": "yesnon"
 }

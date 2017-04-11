@@ -6,7 +6,6 @@
   "units": "events per hour",
   "calculation": "60 * ( hnrbp4 + hnrop4 + canbp4 + canop4 + oanbp4 + oanop4 ) / ( slpprdp - minremp )",
   "labels": [
-    "rdinr4p",
     "rdi",
     "ahi"
   ]

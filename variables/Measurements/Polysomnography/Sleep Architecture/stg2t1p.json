@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "stage shifts",
   "labels": [
-    "stg2t1p"
+    "NREM"
   ]
 }

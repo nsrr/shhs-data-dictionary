@@ -3,8 +3,5 @@
   "display_name": "Hypopnea per hour (REM, Back, 2% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
-  "labels": [
-    "rdirbp2"
-  ]
+  "units": "events per hour"
 }

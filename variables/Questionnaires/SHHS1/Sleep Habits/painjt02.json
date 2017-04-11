@@ -4,9 +4,6 @@
   "description": "In the past year, how often, on average, have you been awakened with pain in your joints, muscles, or back?",
   "type": "choices",
   "domain": "nevralw5",
-  "labels": [
-    "PainJt02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

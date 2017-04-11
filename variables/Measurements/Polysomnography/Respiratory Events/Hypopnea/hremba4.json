@@ -3,8 +3,5 @@
   "display_name": "Number of Hypopnea w/ arousals (REM, Back, 4% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "hypopnea events",
-  "labels": [
-    "hremba4"
-  ]
+  "units": "hypopnea events"
 }

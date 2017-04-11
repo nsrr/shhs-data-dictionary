@@ -2,10 +2,5 @@
   "id": "spcsleepdisorder",
   "display_name": "Other sleep disorder description",
   "description": "",
-  "type": "text",
-  "units": "",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "type": "text"
 }

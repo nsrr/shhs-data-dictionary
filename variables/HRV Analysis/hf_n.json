@@ -3,6 +3,5 @@
   "display_name": "High frequency power (normalized)",
   "description": "",
   "type": "numeric",
-  "units": "",
   "calculation": "hf_n = hf / (lf + hf)"
 }

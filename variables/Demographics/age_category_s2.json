@@ -4,8 +4,5 @@
   "description": "Age at time of study in years, based on start date of SHHS1 PSG recording.",
   "type": "choices",
   "domain": "agecat",
-  "labels": [
-    "age_category_s2"
-  ],
   "commonly_used": true
 }

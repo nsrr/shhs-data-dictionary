@@ -3,8 +3,5 @@
   "display_name": "Has SHHS1 Contact form",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "shhs1_cf"
-  ]
+  "domain": "noyes01"
 }

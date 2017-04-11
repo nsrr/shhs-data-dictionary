@@ -3,8 +3,5 @@
   "display_name": "Arousals per hour (NREM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
-  "labels": [
-    "ahnrembp"
-  ]
+  "units": "events per hour"
 }

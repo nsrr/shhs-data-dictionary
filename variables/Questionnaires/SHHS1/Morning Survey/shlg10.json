@@ -4,9 +4,6 @@
   "description": "Quality of sleep: short/long (1=short to 5=long)",
   "type": "choices",
   "domain": "shorlon5",
-  "labels": [
-    "SHLG10"
-  ],
   "forms": [
     "shhs1_morning_survey_form"
   ]

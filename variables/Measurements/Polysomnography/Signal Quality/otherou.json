@@ -3,8 +3,5 @@
   "display_name": "PSG Quality Assessment (SHHS2): Other outlier",
   "description": "Scorer observed other outlying values.",
   "type": "choices",
-  "domain": "yesnon",
-  "labels": [
-    "OtherOu"
-  ]
+  "domain": "yesnon"
 }

@@ -3,8 +3,5 @@
   "display_name": "Number of stage 3/4 to stage 1/2 shifts per hour of sleep",
   "description": "",
   "type": "numeric",
-  "units": "stage shifts",
-  "labels": [
-    "hstg342p"
-  ]
+  "units": "stage shifts"
 }

@@ -5,8 +5,5 @@
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( arrembp + arremop + arnrembp + arnremop ) / slpprdp",
-  "labels": [
-    "ai_all"
-  ],
   "commonly_used": true
 }

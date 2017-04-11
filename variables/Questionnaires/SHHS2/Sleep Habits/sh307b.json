@@ -4,9 +4,6 @@
   "description": "7. What are your reasons for regular napping in the afternoon? (check all that apply)  b. I nap due to an illness or for medical reasons.",
   "type": "choices",
   "domain": "check",
-  "labels": [
-    "sh307b"
-  ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
   ]

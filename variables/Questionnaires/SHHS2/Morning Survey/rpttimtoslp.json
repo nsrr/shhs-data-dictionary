@@ -3,8 +3,5 @@
   "display_name": "Morning Survey (SHHS2): minutes to fall asleep",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
-  "labels": [
-    "RptTimtoSlp"
-  ]
+  "units": "minutes"
 }

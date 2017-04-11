@@ -5,12 +5,11 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "FIBR2",
     "hypercholesterolemia",
     "dyslipidemia",
     "hyperlipidemia"
   ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

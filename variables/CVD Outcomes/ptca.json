@@ -6,7 +6,6 @@
   "units": "number of events",
   "labels": [
     "adjudicated",
-    "ptca",
     "stent",
     "percutaneous transluminal coronary angioplasty"
   ],

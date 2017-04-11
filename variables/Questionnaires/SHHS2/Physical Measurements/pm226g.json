@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "pm226g"
+    "mmHg",
+    "blood pressure"
   ],
   "forms": [
     "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"

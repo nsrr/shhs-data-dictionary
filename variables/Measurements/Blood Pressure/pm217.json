@@ -4,9 +4,6 @@
   "description": "17. Arm BP site:",
   "type": "choices",
   "domain": "armbp",
-  "labels": [
-    "pm217"
-  ],
   "forms": [
     "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"
   ]

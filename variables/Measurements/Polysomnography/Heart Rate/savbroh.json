@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "savbroh"
+    "bpm",
+    "HR"
   ]
 }

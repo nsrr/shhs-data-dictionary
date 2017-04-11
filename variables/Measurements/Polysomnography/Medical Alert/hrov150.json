@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "HRov150"
+    "heart rate"
   ]
 }

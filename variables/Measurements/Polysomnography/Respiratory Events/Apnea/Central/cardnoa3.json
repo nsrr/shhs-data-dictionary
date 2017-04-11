@@ -3,8 +3,5 @@
   "display_name": "Central Apnea per hour w/ arousals (NREM, Other, 3% oxygen desaturation)",
   "description": "Central Apnea per hour w/ arousals (NREM, Other, 3% oxygen desaturation)",
   "type": "numeric",
-  "units": "events per hour",
-  "labels": [
-    "cardnoa3"
-  ]
+  "units": "events per hour"
 }

@@ -3,9 +3,5 @@
   "display_name": "SAQLI Score",
   "description": "The Short Sleep Apnea Quality of Life Index (Short SAQLI) score",
   "type": "numeric",
-  "units": "",
-  "labels": [
-    "saqli"
-  ],
   "commonly_used": true
 }

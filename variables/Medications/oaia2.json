@@ -5,13 +5,12 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "OAIA2",
     "asthma",
     "respiratory",
     "inflammation"
   ],
   "commonly_used": true,
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

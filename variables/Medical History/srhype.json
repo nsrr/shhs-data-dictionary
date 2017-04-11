@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "SRHype"
+    "HTN"
   ],
   "commonly_used": true
 }

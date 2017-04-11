@@ -3,8 +3,5 @@
   "display_name": "Obstructive Apnea per hour w/ arousals (NREM, Back, 2% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
-  "labels": [
-    "oardnba2"
-  ]
+  "units": "events per hour"
 }

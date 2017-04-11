@@ -5,11 +5,11 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "OHGA2",
-    "diabetes"
+    "diabetes",
+    "DM"
   ],
   "commonly_used": true,
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

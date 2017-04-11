@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "cigarettes",
   "labels": [
-    "sh324"
+    "smoking"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"

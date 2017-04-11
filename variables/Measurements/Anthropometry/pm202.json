@@ -5,10 +5,10 @@
   "type": "numeric",
   "units": "kilograms",
   "labels": [
-    "pm202"
+    "kg"
   ],
+  "commonly_used": true,
   "forms": [
     "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"
-  ],
-  "commonly_used": true
+  ]
 }

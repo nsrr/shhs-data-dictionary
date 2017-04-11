@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "TFA02"
+    "insomnia"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

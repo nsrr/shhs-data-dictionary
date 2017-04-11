@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "StpBrt02"
+    "apnea"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

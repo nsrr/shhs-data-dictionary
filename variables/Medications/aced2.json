@@ -5,12 +5,12 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "aced2",
     "angiotensin-converting-enzyme",
-    "hypertension"
+    "hypertension",
+    "HTN"
   ],
-  "commonly_used": true, 
+  "commonly_used": true,
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

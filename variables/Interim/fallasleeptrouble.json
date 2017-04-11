@@ -4,8 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "nevalw",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "labels": [
+    "insomnia"
+  ]
 }

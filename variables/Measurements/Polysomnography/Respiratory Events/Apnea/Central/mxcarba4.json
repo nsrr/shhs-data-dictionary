@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "mxcarba4"
+    "duration"
   ]
 }

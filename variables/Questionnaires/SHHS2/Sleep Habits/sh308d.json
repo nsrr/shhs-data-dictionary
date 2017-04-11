@@ -4,9 +4,6 @@
   "description": "8. Please indicate how often you experience each of the following. (check one box for each in items a through j) d. Feel unrested during the day, no matter how many hours of sleep you had.",
   "type": "choices",
   "domain": "nevralw5",
-  "labels": [
-    "sh308d"
-  ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
   ]

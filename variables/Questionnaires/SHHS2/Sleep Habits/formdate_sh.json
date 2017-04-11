@@ -3,8 +3,5 @@
   "display_name": "Sleep Habits (SHHS2): Date completed",
   "description": "Date of Sleep Habits form",
   "type": "numeric",
-  "units": "days from index date",
-  "labels": [
-    "formdate_sh"
-  ]
+  "units": "days from index date"
 }

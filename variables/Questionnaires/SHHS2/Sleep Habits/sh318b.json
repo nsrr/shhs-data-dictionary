@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "check",
   "labels": [
-    "sh318b"
+    "RLS"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"

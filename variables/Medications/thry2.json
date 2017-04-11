@@ -5,11 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "THRY2",
     "goiter",
     "hypothyroidism"
   ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

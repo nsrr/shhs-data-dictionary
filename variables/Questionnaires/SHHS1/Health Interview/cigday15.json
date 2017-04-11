@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "cigarettes per day",
   "labels": [
-    "CIGDAY15"
+    "smoking"
   ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",

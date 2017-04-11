@@ -4,9 +4,6 @@
   "description": "How many days did you take aspirin or aspirin containing meds in last week? (number of days, 1 to 14)",
   "type": "numeric",
   "units": "days",
-  "labels": [
-    "ASALW15"
-  ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
     "shhs1_health_interview_form_framingham",

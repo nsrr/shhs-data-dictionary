@@ -3,9 +3,5 @@
   "display_name": "Treatment prescribed: lose weight",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "domain": "noyes01"
 }

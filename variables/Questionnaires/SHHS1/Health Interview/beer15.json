@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "cans",
   "labels": [
-    "BEER15"
+    "alcohol"
   ],
   "forms": [
     "shhs1_health_interview_form_new_york"

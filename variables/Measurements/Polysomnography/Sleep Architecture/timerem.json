@@ -4,8 +4,5 @@
   "description": "Total time scored as REM rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "minremp",
-  "labels": [
-    "timerem"
-  ]
+  "calculation": "minremp"
 }

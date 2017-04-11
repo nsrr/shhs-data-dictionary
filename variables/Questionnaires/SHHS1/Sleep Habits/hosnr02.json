@@ -4,9 +4,6 @@
   "description": "How often do you snore? 0=Do not snore any more, 1=Rarely-less than 1 night/wk, 2=Sometimes-1 or 2 nights/wk,3=Frequently-3 to 5nights/wk, 4=Always or almost always-6 or 7nights/wk, 8=Don't know",
   "type": "choices",
   "domain": "snore6",
-  "labels": [
-    "HOSnr02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

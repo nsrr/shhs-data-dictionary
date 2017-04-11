@@ -3,8 +3,5 @@
   "display_name": "Number of Arousals (REM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "arousals",
-  "labels": [
-    "arrembp"
-  ]
+  "units": "arousals"
 }

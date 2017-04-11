@@ -4,8 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "60 * ( oarbp4 + oarop4 + oanbp4 + oanop4 ) / slpprdp",
-  "labels": [
-    "oai4p"
-  ]
+  "calculation": "60 * ( oarbp4 + oarop4 + oanbp4 + oanop4 ) / slpprdp"
 }

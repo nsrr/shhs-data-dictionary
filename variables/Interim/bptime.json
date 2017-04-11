@@ -2,10 +2,5 @@
   "id": "bptime",
   "display_name": "Time blood pressure was measured",
   "description": "",
-  "type": "time",
-  "units": "",
-  "other": {
-    "Table Name": "STATUS",
-    "Variable Informat": null
-  }
+  "type": "time"
 }

@@ -3,9 +3,8 @@
   "display_name": "SF-36 Calculated (SHHS2): Role-Physical Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
     "sf36",
-    "RP_s2"
+    "QOL"
   ]
 }

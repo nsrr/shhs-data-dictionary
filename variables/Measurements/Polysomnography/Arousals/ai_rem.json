@@ -4,8 +4,5 @@
   "description": "REM Arousal Index - total arousals in REM sleep per hours of REM sleep",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "60 * ( arrembp + arremop ) / minremp",
-  "labels": [
-    "ai_rem"
-  ]
+  "calculation": "60 * ( arrembp + arremop ) / minremp"
 }

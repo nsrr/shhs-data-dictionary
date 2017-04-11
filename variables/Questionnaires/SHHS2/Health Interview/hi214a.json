@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "hi214a"
+    "RLS"
   ],
   "forms": [
     "shhs2_health_interview"

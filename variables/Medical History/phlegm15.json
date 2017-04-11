@@ -4,9 +4,6 @@
   "description": "Do you bring up phlegm from your chest on most days for as much as three months of the year?",
   "type": "choices",
   "domain": "yesnod",
-  "labels": [
-    "PHLEGM15"
-  ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
     "shhs1_health_interview_form_framingham",

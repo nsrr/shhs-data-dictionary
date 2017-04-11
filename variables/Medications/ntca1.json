@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "NTCA1",
     "depression"
   ],
   "commonly_used": true,

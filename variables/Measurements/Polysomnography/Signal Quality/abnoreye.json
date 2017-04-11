@@ -4,9 +4,6 @@
   "description": "Scorer observed abnormal eye movements during study.",
   "type": "choices",
   "domain": "yesnon",
-  "labels": [
-    "AbnorEye"
-  ],
   "forms": [
     "shhs1_psg_scoring_notes_form"
   ]

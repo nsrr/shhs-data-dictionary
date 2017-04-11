@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "trufals5",
   "labels": [
-    "ql211c"
+    "QOL"
   ],
   "forms": [
     "shhs2_quality_of_life_sf_36_form"

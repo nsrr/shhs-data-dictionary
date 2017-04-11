@@ -4,9 +4,6 @@
   "description": "How many minutes did it take for you to fall asleep at bedtime last night? (number of minutes, up to 3 digits)",
   "type": "numeric",
   "units": "minutes",
-  "labels": [
-    "MINFA10"
-  ],
   "forms": [
     "shhs1_morning_survey_form"
   ]

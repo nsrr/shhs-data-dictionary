@@ -4,8 +4,5 @@
   "description": "",
   "type": "choices",
   "domain": "visitnumber",
-  "labels": [
-    "visitnumber"
-  ],
   "commonly_used": true
 }

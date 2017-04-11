@@ -5,10 +5,10 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "hi216"
+    "RLS"
   ],
+  "commonly_used": true,
   "forms": [
     "shhs2_health_interview"
-  ],
-  "commonly_used": true
+  ]
 }

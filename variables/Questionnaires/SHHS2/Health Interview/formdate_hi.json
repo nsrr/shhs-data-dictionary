@@ -4,9 +4,6 @@
   "description": "Date of Health Interview form",
   "type": "numeric",
   "units": "days from index date",
-  "labels": [
-    "formdate_hi"
-  ],
   "forms": [
     "shhs2_health_interview"
   ]

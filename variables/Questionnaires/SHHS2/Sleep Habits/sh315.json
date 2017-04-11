@@ -4,9 +4,6 @@
   "description": "To answer these questions, please consider both what others have told you AND what you know about yourself.  15. How often do you have times when you stop breathing during your sleep?",
   "type": "choices",
   "domain": "raralw5",
-  "labels": [
-    "sh315"
-  ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
   ]

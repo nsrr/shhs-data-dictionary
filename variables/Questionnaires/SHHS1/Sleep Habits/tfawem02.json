@@ -3,10 +3,6 @@
   "display_name": "Sleep Habits (SHHS1): weekend bedtime- minute",
   "description": "At what time do you usually fall asleep on weekends or your non-work days - minute? (minutes component of time, 0 to 59)",
   "type": "numeric",
-  "units": "",
-  "labels": [
-    "TFAWEM02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

@@ -2,10 +2,5 @@
   "id": "spclangadmin",
   "display_name": "Other language in which  interview was administered",
   "description": "",
-  "type": "text",
-  "units": "",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "type": "text"
 }

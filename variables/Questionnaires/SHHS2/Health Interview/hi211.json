@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "rlegocc",
   "labels": [
-    "hi211"
+    "RLS"
   ],
   "forms": [
     "shhs2_health_interview"

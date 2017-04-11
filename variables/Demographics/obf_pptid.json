@@ -4,7 +4,6 @@
   "description": "This participant ID was created by the NSRR team to more easily match with file downloads. Use 'pptidr' to link with BioLINCC and cohort-specific data.",
   "type": "identifier",
   "labels": [
-    "obf_pptid",
     "id"
   ],
   "commonly_used": true

@@ -6,7 +6,6 @@
   "units": "events per hour",
   "calculation": "60 * ( hremba2 + hroa2 + hnrba2 + hnroa2 + carba2 + caroa2 + canba2 + canoa2 + oarba2 + oaroa2 + oanba2 + oanoa2 ) / slpprdp",
   "labels": [
-    "rdi2pa",
     "rdi",
     "ahi"
   ]

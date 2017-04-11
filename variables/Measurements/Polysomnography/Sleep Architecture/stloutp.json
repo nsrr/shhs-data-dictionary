@@ -2,8 +2,5 @@
   "id": "stloutp",
   "display_name": "Lights out time",
   "description": "",
-  "type": "time",
-  "labels": [
-    "stloutp"
-  ]
+  "type": "time"
 }

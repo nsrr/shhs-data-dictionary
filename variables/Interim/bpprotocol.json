@@ -3,9 +3,5 @@
   "display_name": "Protocol used to measure blood pressure",
   "description": "",
   "type": "choices",
-  "domain": "protocol",
-  "other": {
-    "Table Name": "STATUS",
-    "Variable Informat": null
-  }
+  "domain": "protocol"
 }

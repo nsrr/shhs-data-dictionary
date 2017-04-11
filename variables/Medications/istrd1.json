@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ISTRD1",
     "asthma"
   ],
   "commonly_used": true,

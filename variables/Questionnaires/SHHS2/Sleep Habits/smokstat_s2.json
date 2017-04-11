@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "smoker",
   "labels": [
-    "smokstat_s2"
+    "cigarettes"
   ],
   "commonly_used": true
 }

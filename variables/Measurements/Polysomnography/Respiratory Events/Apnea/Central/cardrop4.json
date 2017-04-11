@@ -3,8 +3,5 @@
   "display_name": "Central Apnea per hour (REM, Other, 4% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
-  "labels": [
-    "cardrop4"
-  ]
+  "units": "events per hour"
 }

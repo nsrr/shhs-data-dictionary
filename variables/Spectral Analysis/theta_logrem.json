@@ -2,6 +2,5 @@
   "id": "theta_logrem",
   "display_name": "Log transformed theta power density in REM sleep",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

@@ -3,8 +3,5 @@
   "display_name": "PSG Quality Assessment (SHHS2): Arousals unreliable",
   "description": "Due to signal problems, scorer was unable to reliably assess arousals.  The scoring of arousals was determined to be unreliable.",
   "type": "choices",
-  "domain": "yesnon",
-  "labels": [
-    "ArUnrel"
-  ]
+  "domain": "yesnon"
 }

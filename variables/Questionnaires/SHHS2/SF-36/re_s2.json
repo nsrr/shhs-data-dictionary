@@ -3,9 +3,8 @@
   "display_name": "SF-36 Calculated (SHHS2): Role-Emotional Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
     "sf36",
-    "RE_s2"
+    "QOL"
   ]
 }

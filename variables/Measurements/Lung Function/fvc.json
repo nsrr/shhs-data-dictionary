@@ -1,11 +1,10 @@
 {
   "id": "fvc",
-  "display_name": "FVC (SHHS1)",
+  "display_name": "Fvc (Shhs1)",
   "description": "Forced Vital Capacity",
   "type": "numeric",
   "units": "liters",
   "labels": [
-    "FVC",
     "spirometry"
   ],
   "commonly_used": true

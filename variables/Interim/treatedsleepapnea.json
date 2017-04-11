@@ -3,9 +3,5 @@
   "display_name": "Treated for sleep apnea since SHHS test",
   "description": "",
   "type": "choices",
-  "domain": "yesnod",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "domain": "yesnod"
 }

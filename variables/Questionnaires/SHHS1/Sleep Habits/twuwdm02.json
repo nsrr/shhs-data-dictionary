@@ -3,10 +3,6 @@
   "display_name": "Sleep Habits (SHHS1): weekday wake time - minute",
   "description": "At what time do you usually wake up on weekdays or your work days - minute?",
   "type": "numeric",
-  "units": "",
-  "labels": [
-    "TWUWDM02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

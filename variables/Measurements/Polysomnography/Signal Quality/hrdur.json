@@ -3,5 +3,8 @@
   "display_name": "Hours of usable heart rate signal",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "labels": [
+    "HR"
+  ]
 }

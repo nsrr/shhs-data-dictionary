@@ -4,11 +4,8 @@
   "description": "e. Do you still have asthma?",
   "type": "choices",
   "domain": "noyes01",
-  "labels": [
-    "hi201e"
-  ],
+  "commonly_used": true,
   "forms": [
     "shhs2_health_interview"
-  ],
-  "commonly_used": true
+  ]
 }

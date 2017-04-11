@@ -3,9 +3,8 @@
   "display_name": "SF-36 Calculated (SHHS2): Physical Functioning Standardized Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
     "sf36",
-    "PF_s2"
+    "QOL"
   ]
 }

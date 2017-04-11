@@ -5,8 +5,5 @@
   "type": "numeric",
   "units": "minutes",
   "calculation": "timebedp - slpprdp - slplatp",
-  "labels": [
-    "waso"
-  ],
   "commonly_used": true
 }

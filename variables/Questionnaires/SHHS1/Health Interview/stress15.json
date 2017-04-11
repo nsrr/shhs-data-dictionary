@@ -4,9 +4,6 @@
   "description": "How stressful was your day today?",
   "type": "choices",
   "domain": "stress3",
-  "labels": [
-    "STRESS15"
-  ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
     "shhs1_health_interview_form_framingham",

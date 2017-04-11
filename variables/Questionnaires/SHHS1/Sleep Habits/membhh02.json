@@ -4,9 +4,6 @@
   "description": "During the past year, how often have one or more members of your household been in or near the room where you slept?",
   "type": "choices",
   "domain": "nevrusu3",
-  "labels": [
-    "MembHH02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

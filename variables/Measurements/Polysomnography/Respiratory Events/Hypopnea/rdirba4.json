@@ -3,8 +3,5 @@
   "display_name": "Hypopnea per hour w/ arousals (REM, Back, 4% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
-  "labels": [
-    "rdirba4"
-  ]
+  "units": "events per hour"
 }

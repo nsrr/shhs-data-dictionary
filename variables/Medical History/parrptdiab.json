@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ParRptDiab"
+    "DM"
   ],
   "commonly_used": true
 }

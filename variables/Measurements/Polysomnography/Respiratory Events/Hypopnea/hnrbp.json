@@ -3,8 +3,5 @@
   "display_name": "Number of Hypopnea (NREM, Back, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "hypopnea events",
-  "labels": [
-    "hnrbp"
-  ]
+  "units": "hypopnea events"
 }

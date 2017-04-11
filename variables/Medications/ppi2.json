@@ -5,11 +5,11 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "PPI2",
-    "gerd",
-    "acid reflux"
+    "GERD",
+    "acid reflux",
+    "Gastroesophageal Reflux Disorder"
   ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

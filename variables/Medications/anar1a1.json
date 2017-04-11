@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ANAR1A1",
     "arrhythmia"
   ],
   "commonly_used": true,

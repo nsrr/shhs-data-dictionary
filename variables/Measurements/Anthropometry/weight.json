@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "kilograms",
   "labels": [
-    "Weight"
+    "kg"
   ],
   "commonly_used": true
 }

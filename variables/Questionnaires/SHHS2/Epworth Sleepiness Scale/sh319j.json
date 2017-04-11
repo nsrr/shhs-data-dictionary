@@ -4,9 +4,6 @@
   "description": "19. What is the chance that you would doze off or fall asleep (not just \"feel tired\") in each of the following situations? (Check one box for each situation.  If you are never or rarely in the situation, please give your best guess for what would happen.)  j. While driving.",
   "type": "choices",
   "domain": "nhchan4",
-  "labels": [
-    "sh319j"
-  ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
   ]

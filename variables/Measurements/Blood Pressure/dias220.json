@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "DIAS220"
+    "mmHg"
   ],
   "forms": [
     "shhs1_seated_bp_weight_neck_circumference_form"

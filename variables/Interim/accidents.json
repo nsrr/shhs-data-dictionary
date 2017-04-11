@@ -4,8 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "car accidents",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "labels": [
+    "car"
+  ]
 }

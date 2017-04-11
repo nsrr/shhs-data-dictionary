@@ -5,8 +5,5 @@
   "type": "numeric",
   "units": "percent",
   "calculation": "100 * ( slpprdp ) / timebedp",
-  "labels": [
-    "slp_eff"
-  ],
   "commonly_used": true
 }

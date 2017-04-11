@@ -4,9 +4,6 @@
   "description": "4. Rate the actual quality of your sleep last night (Do not compare to usual sleep quality). My sleep last night was (circle a number for each): b. [5 point Likert scale from \"Short\" to \"Long\"]",
   "type": "choices",
   "domain": "shorlon5",
-  "labels": [
-    "ms204b"
-  ],
   "forms": [
     "shhs2_morning_survey_form"
   ]

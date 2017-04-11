@@ -4,9 +4,6 @@
   "description": "O2 saturation < 80% for > 2 minutes at rest?",
   "type": "choices",
   "domain": "noyes01",
-  "labels": [
-    "IMOSATAE"
-  ],
   "forms": [
     "shhs1_adverse_events_form"
   ]

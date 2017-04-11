@@ -4,8 +4,5 @@
   "description": "Age in years at the time of the SHHS2 visit",
   "type": "numeric",
   "units": "years",
-  "labels": [
-    "age_s2"
-  ],
   "commonly_used": true
 }

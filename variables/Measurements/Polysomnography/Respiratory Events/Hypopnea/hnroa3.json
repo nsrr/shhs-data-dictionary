@@ -3,8 +3,5 @@
   "display_name": "Number of Hypopnea w/ arousals (NREM, Other, 3% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "hypopnea events",
-  "labels": [
-    "hnroa3"
-  ]
+  "units": "hypopnea events"
 }

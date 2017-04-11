@@ -4,9 +4,6 @@
   "description": "Current Smoking Status at the SHHS1 visit",
   "type": "choices",
   "domain": "smoker",
-  "labels": [
-    "smokstat_s1"
-  ],
   "commonly_used": true,
   "forms": [
     "shhs1_sleep_habits_questionnaire"

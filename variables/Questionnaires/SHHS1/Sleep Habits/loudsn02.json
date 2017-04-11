@@ -4,9 +4,6 @@
   "description": "How loud is your snoring?",
   "type": "choices",
   "domain": "snrloud5",
-  "labels": [
-    "LoudSn02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

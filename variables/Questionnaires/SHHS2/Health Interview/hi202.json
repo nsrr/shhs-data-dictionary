@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "hi202"
+    "ASA"
   ],
   "forms": [
     "shhs2_health_interview"

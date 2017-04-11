@@ -5,10 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "NTCA2",
     "depression"
   ],
   "forms": [
-  "shhs2_medication_form"
+    "shhs2_medication_form"
   ]
 }

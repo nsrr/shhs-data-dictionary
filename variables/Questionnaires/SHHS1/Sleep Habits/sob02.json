@@ -4,9 +4,6 @@
   "description": "In the past year, how often, on average, have you been awakened with shortness of breath?",
   "type": "choices",
   "domain": "nevralw5",
-  "labels": [
-    "SOB02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

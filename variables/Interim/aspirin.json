@@ -3,9 +3,5 @@
   "display_name": "How often are aspirin or aspirin-containing medications taken",
   "description": "",
   "type": "choices",
-  "domain": "nevevery",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "domain": "nevevery"
 }

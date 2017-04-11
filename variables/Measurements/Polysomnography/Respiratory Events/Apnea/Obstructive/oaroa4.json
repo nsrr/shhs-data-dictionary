@@ -3,8 +3,5 @@
   "display_name": "Number of Obstructive Apnea w/ arousals (REM, Other, 4% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "obstructive apnea events",
-  "labels": [
-    "oaroa4"
-  ]
+  "units": "obstructive apnea events"
 }

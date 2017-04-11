@@ -5,9 +5,9 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "aced1",
     "angiotensin-converting-enzyme",
-    "hypertension"
+    "hypertension",
+    "HTN"
   ],
   "commonly_used": true,
   "forms": [

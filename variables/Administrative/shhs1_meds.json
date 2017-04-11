@@ -3,8 +3,5 @@
   "display_name": "Has SHHS1 Medications form",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "shhs1_meds"
-  ]
+  "domain": "noyes01"
 }

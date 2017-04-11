@@ -4,9 +4,6 @@
   "description": "How often do you feel unrested during the day, no matter how many hours of sleep you had?",
   "type": "choices",
   "domain": "nevralw5",
-  "labels": [
-    "FUnres02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

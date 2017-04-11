@@ -2,10 +2,5 @@
   "id": "comments",
   "display_name": "Any comments",
   "description": "",
-  "type": "text",
-  "units": "",
-  "other": {
-    "Table Name": "STATUS",
-    "Variable Informat": null
-  }
+  "type": "text"
 }

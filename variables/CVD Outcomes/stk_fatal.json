@@ -6,8 +6,8 @@
   "domain": "noyes",
   "labels": [
     "adjudicated",
-    "stk_fatal",
-    "stroke"
+    "stroke",
+    "death"
   ],
   "commonly_used": true
 }

@@ -5,10 +5,10 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "hi201c"
+    "chronic obstructive pulmonary disease"
   ],
+  "commonly_used": true,
   "forms": [
     "shhs2_health_interview"
-  ],
-  "commonly_used": true
+  ]
 }

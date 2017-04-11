@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "EMACLS25"
+    "QOL"
   ],
   "forms": [
     "shhs1_quality_of_life_sf_36_form"

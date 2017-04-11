@@ -4,8 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "days from index date",
-  "other": {
-    "Table Name": "STATUS",
-    "Variable Informat": null
-  }
+  "labels": [
+    "heart attack"
+  ]
 }

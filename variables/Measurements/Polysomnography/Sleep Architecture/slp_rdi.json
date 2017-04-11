@@ -4,8 +4,5 @@
   "description": "Total time from lights out to lights on that is scored as sleep, rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "slpprdp",
-  "labels": [
-    "slp_rdi"
-  ]
+  "calculation": "slpprdp"
 }

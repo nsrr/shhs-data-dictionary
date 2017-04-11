@@ -4,9 +4,6 @@
   "description": "4. During a usual week, how many times do you nap for 5 minutes or more?",
   "type": "choices",
   "domain": "none1",
-  "labels": [
-    "sh304"
-  ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
   ]

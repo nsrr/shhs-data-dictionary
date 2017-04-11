@@ -3,5 +3,8 @@
   "display_name": "Type of fatal stroke",
   "description": "",
   "type": "choices",
-  "domain": "fatal_stroke_type"
+  "domain": "fatal_stroke_type",
+  "labels": [
+    "death"
+  ]
 }

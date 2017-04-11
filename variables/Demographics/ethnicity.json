@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "ethnicity12",
   "labels": [
-    "hispanic", "latino"
+    "hispanic",
+    "latino"
   ],
   "commonly_used": true
 }

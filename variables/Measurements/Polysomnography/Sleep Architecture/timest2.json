@@ -6,6 +6,6 @@
   "units": "minutes",
   "calculation": "minstg2p",
   "labels": [
-    "timest2"
+    "NREM"
   ]
 }

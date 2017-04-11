@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "sh308i"
+    "restless legs",
+    " RLS"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"

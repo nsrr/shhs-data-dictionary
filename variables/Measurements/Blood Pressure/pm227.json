@@ -4,9 +4,6 @@
   "description": "27. Arm BP site for AAI:",
   "type": "choices",
   "domain": "armbp",
-  "labels": [
-    "pm227"
-  ],
   "forms": [
     "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"
   ]

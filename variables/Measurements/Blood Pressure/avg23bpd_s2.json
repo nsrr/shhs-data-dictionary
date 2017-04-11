@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "avg23bpd_s2"
+    "mmHg"
   ],
   "commonly_used": true
 }

@@ -4,9 +4,6 @@
   "description": "How often do you not get enough sleep?",
   "type": "choices",
   "domain": "nevralw5",
-  "labels": [
-    "NGES02"
-  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
   ]

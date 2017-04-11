@@ -5,7 +5,9 @@
   "type": "choices",
   "domain": "marital",
   "labels": [
-    "MStat"
+    "married",
+    "divorced",
+    "single"
   ],
   "commonly_used": true
 }

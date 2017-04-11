@@ -6,7 +6,6 @@
   "domain": "noyes",
   "labels": [
     "adjudicated",
-    "cvd_death",
     "cardiovascular disease"
   ],
   "commonly_used": true

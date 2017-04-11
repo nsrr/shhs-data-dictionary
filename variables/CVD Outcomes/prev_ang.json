@@ -6,7 +6,7 @@
   "units": "number of events",
   "labels": [
     "adjudicated",
-    "prev_ang"
+    " chest pain"
   ],
   "commonly_used": true
 }

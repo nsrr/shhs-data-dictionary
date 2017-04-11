@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "CABG15"
+    "bypass",
+    "coronary bypass artery graft"
   ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",

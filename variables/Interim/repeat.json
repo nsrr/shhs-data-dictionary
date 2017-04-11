@@ -3,9 +3,5 @@
   "display_name": "Willing to repeat study",
   "description": "",
   "type": "choices",
-  "domain": "yesnod2",
-  "other": {
-    "Table Name": "SCREENER",
-    "Variable Informat": null
-  }
+  "domain": "yesnod2"
 }

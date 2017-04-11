@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "lagbreath",
-    "cheyne stokes"
+    "kicking",
+    "periodic limb movements",
+    "non-respiratory arousal"
   ]
 }

@@ -3,9 +3,5 @@
   "display_name": "Frequency that participant drives",
   "description": "",
   "type": "choices",
-  "domain": "everynever",
-  "other": {
-    "Table Name": "SLEEPSYM",
-    "Variable Informat": null
-  }
+  "domain": "everynever"
 }

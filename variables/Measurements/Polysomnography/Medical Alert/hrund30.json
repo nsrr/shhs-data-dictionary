@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "yesnon",
   "labels": [
-    "HRund30"
+    "heart rate"
   ]
 }

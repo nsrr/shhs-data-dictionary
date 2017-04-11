@@ -1,3 +1,5 @@
+## 0.11.1
+
 ## 0.11.0 (January 12, 2017)
 
 - Replace SHHS1 HRV dataset file, fixes outlier and IHR miscalculation

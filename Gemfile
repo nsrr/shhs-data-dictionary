@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'spout', '~> 0.11.1'
+gem 'spout', '~> 0.12.1'

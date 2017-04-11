@@ -1,5 +1,7 @@
 ## 0.11.1
 
+- Add many new variable labels; remove extraneous labels
+- Clarify `stonsetp` and `stloutp` units
 - **Gem Changes**
   - Updated to spout 0.12.1
 

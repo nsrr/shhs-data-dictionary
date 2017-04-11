@@ -1,6 +1,6 @@
 {
   "id": "stloutp",
   "display_name": "Lights out time",
-  "description": "",
+  "description": "In SHHS1, values are in number of epochs from start of recording. In SHHS2, values are clock times.",
   "type": "time"
 }

@@ -1,5 +1,5 @@
 SHHS Data Dictionary
-========================
+====================
 
 [![Build Status](https://travis-ci.org/sleepepi/shhs-data-dictionary.svg?branch=master)](https://travis-ci.org/sleepepi/shhs-data-dictionary)
 

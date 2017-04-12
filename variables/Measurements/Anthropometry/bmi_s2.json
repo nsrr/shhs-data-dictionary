@@ -1,7 +1,7 @@
 {
   "id": "bmi_s2",
-  "display_name": "Bmi (Shhs2)",
-  "description": "Body Mass Index at SHHS2",
+  "display_name": "Body Mass Index at SHHS2",
+  "description": "",
   "type": "numeric",
   "units": "kilograms per square meter",
   "calculation": "( pm202 / ( pm207 * pm207 ) )",

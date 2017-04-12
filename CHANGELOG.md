@@ -1,4 +1,4 @@
-## 0.11.1
+## 0.11.1 (April 12, 2017)
 
 - Add many new variable labels; remove extraneous labels
 - Clarify `stonsetp` and `stloutp` units

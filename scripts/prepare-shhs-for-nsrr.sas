@@ -2,7 +2,7 @@
 * Program           : prepare-shhs-for-nsrr.sas
 * Project           : National Sleep Research Resource (sleepdata.org)
 * Author            : Michael Rueschman (MR)
-* Date Created      : 20170703
+* Date Created      : 20170815
 * Purpose           : Prepare Sleep Heart Health Study data for deposition on
 *                       sleepdata.org.
 * Revision History  :
@@ -10,14 +10,19 @@
 *   20170815  MR        Rename SAS program and add new header
 *******************************************************************************;
 
-*set options and libnames;
-libname biolincc "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\biolincc-master";
-libname shhs "\\rfawin\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1";
-libname obf "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_ids";
-libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
+*******************************************************************************;
+* set options and libnames ;
+*******************************************************************************;
+  libname biolincc "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\biolincc-master";
+  libname shhs "\\rfawin\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1";
+  libname obf "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_ids";
+  libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
 
-%let release = 0.12.0.pre;
+  %let release = 0.12.0.pre;
 
+*******************************************************************************;
+* pull in source data ;
+*******************************************************************************;
 data shhs1_investigator;
   set shhspsg.Shhs1final_13jun2014_6441(rename=(rcrdtime=rcrdtime2));
 

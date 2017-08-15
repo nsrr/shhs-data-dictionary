@@ -66,15 +66,15 @@ data shhs_cvd_event;
 run;
 
 data obfid;
-  set obf.all_ids(keep=npptid obf_pptid permiss rename=(npptid=pptid));
+  set obf.all_ids (keep=npptid nsrrid permiss rename=(npptid=pptid));
 run;
 
 data obfid_c;
-  set obf.all_ids(keep=pptid obf_pptid permiss);
+  set obf.all_ids (keep=pptid nsrrid permiss);
 run;
 
 data s1_psgqual;
-  merge obfid_c(in=a) shhs1_investigator(in=b);
+  merge obfid_c (in=a) shhs1_investigator (in=b);
   by pptid;
 
   if a;
@@ -83,7 +83,7 @@ data s1_psgqual;
 run;
 
 data shhs1;
-  length obf_pptid 8.;
+  length nsrrid 8.;
   merge shhs1_ecg shhs1_psg shhs1_other obfid;
   by pptid;
 
@@ -729,12 +729,12 @@ data shhs1;
 run;
 
 proc sort data=s1_psgqual;
-  by obf_pptid;
+  by nsrrid;
 run;
 
 data shhs1;
   merge shhs1(in=a) s1_psgqual;
-  by obf_pptid;
+  by nsrrid;
 
   if a;
 
@@ -763,23 +763,23 @@ data shhs_demo;
   else if 85 =< age_s1 then age_category_s1 = 10;
   if age_s1 > 89 then age_s1 = 90;
 
-  keep obf_pptid race gender age_s1;
+  keep nsrrid race gender age_s1;
 run;
 
 data shhs_exam2;
-  length obf_pptid 8.;
+  length nsrrid 8.;
   merge examcycle2(in=a) obfid_c(in=b) basedate;
   by pptid;
 
   if a and b;
 
   /*strip PHI out of text variables*/
-  if obf_pptid in (200045,200091,200187,200202,200222,200310,200450,200467,200509,200543,200546,200553,200590,200632,200682,200722,200727,200752,200810,200817,200910,200948,201040,201041,201073,201098,201151,201177,201212,201277,201310,201358,201452,201459,201495,201506,201559,201612,201621,201647,201800,201845,202048,202104,202259,202274,202305,202321,202323,202522,202544,202559,202566,202612,202633,202666,202684,202702,202744,202773,202780,202840,202874,202881,202896,202919,202957,202978,202991,203024,203031,203048,203050,203079,203107,203165,203166,203205,203209,203239,203242,203457,203472,203505,203539,203556,203579,203582,203605,203606,203643,203651,203662,203671,203676,203725,203733,203746,203749,203766,203784,203857,203891,203905,203961,204105,204785,205002,205007,205014,205028,205052,205199,205215,205315,205464,205477,205615,205689,205707) then comments = "";
+  if nsrrid in (200045,200091,200187,200202,200222,200310,200450,200467,200509,200543,200546,200553,200590,200632,200682,200722,200727,200752,200810,200817,200910,200948,201040,201041,201073,201098,201151,201177,201212,201277,201310,201358,201452,201459,201495,201506,201559,201612,201621,201647,201800,201845,202048,202104,202259,202274,202305,202321,202323,202522,202544,202559,202566,202612,202633,202666,202684,202702,202744,202773,202780,202840,202874,202881,202896,202919,202957,202978,202991,203024,203031,203048,203050,203079,203107,203165,203166,203205,203209,203239,203242,203457,203472,203505,203539,203556,203579,203582,203605,203606,203643,203651,203662,203671,203676,203725,203733,203746,203749,203766,203784,203857,203891,203905,203961,204105,204785,205002,205007,205014,205028,205052,205199,205215,205315,205464,205477,205615,205689,205707) then comments = "";
 
-  if obf_pptid = 205730 then snspcother = "";
-  if obf_pptid = 205319 then spcothernottreated = "";
-  if obf_pptid in (200646,201382) then spcsleepdisorder = "";
-  if obf_pptid in (200098,200119,200158,200346,200348,200349,200799,200811,202084) then statusother = "";
+  if nsrrid = 205730 then snspcother = "";
+  if nsrrid = 205319 then spcothernottreated = "";
+  if nsrrid in (200646,201382) then spcsleepdisorder = "";
+  if nsrrid in (200098,200119,200158,200346,200348,200349,200799,200811,202084) then statusother = "";
   if diastolic1 = 0 then diastolic1 = .;
   if diastolic2 = 0 then diastolic2 = .;
   if diastolic3 = 0 then diastolic3 = .;
@@ -808,22 +808,22 @@ data shhs_exam2;
 
   visitnumber = 4;
 
-  if obf_pptid = . then delete;
+  if nsrrid = . then delete;
 
   drop pptid shhs clinic omni permiss intRevID bpTechID callDt completedDt_scr ReadIn_scr formDt intRevDt ReadIn_slpsym visitDt bpTime Midt StrokeTIAdt CHFdt CABGPTCAdt carotidEndDt completedDt_stat ReadIn_stat stdydt statfollowup slpsymfollowup;
 run;
 
 proc sort data=shhs_exam2;
-  by obf_pptid;
+  by nsrrid;
 run;
 
 proc sort data=shhs_demo;
-  by obf_pptid;
+  by nsrrid;
 run;
 
 data shhs_exam2;
   merge shhs_exam2 (in=a) shhs_demo;
-  by obf_pptid;
+  by nsrrid;
 
   if a;
 
@@ -841,7 +841,7 @@ data s2_psgqual;
 run;
 
 data shhs2;
-  length obf_pptid 8.;
+  length nsrrid 8.;
   merge shhs2(in=a) obfid;
   by pptid;
 
@@ -1456,23 +1456,23 @@ data shhs2;
 run;
 
 proc sort data=shhs2;
-  by obf_pptid;
+  by nsrrid;
 run;
 
 proc sort data=s2_psgqual;
-  by obf_pptid;
+  by nsrrid;
 run;
 
 data shhs2;
   merge shhs2(in=a) s2_psgqual;
-  by obf_pptid;
+  by nsrrid;
 
   if a;
 run;
 
 data shhs2;
   merge shhs2(in=a) shhs_demo(in=b);
-  by obf_pptid;
+  by nsrrid;
 
   if a and b;
 
@@ -1482,7 +1482,7 @@ data shhs2;
 run;
 
 data shhs_cvd_event;
-  length obf_pptid 8.;
+  length nsrrid 8.;
   merge shhs_cvd_event(in=a) obfid;
   by pptid;
 
@@ -1495,22 +1495,22 @@ data shhs_cvd_event;
 run;
 
 proc sort data=shhs_cvd_event;
-  by obf_pptid;
+  by nsrrid;
 run;
 
 proc sort data=shhs_demo;
-  by obf_pptid;
+  by nsrrid;
 run;
 
 data shhs_cvd_event;
   merge shhs_cvd_event(in=a) shhs_demo(in=b);
-  by obf_pptid;
+  by nsrrid;
 
   if a and b;
 run;
 
 data shhs_cvd_summary;
-  length obf_pptid 8.;
+  length nsrrid 8.;
   merge shhs_cvd_summary(in=a) obfid;
   by pptid;
 
@@ -1525,12 +1525,12 @@ data shhs_cvd_summary;
 run;
 
 proc sort data=shhs_cvd_summary;
-  by obf_pptid;
+  by nsrrid;
 run;
 
 data shhs_cvd_summary;
   merge shhs_cvd_summary(in=a) shhs_demo(in=b);
-  by obf_pptid;
+  by nsrrid;
 
   if a and b;
 

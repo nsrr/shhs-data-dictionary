@@ -1,5 +1,6 @@
 ## 0.12.0
 
+- Rename primary subject identifier from 'obf_pptid' to 'nsrrid'
 - Remove extraneous 'ecgdt' variable from SHHS1 dataset
 
 ## 0.11.1 (April 12, 2017)

@@ -1,5 +1,7 @@
 ## 0.12.0
 
+- Remove extraneous 'ecgdt' variable from SHHS1 dataset
+
 ## 0.11.1 (April 12, 2017)
 
 - Add many new variable labels; remove extraneous labels

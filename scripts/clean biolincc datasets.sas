@@ -725,7 +725,7 @@ data shhs1;
   cent_obs_ratio = (carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop);
   cent_obs_ratioa = (carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa);
 
-  drop uenrbp--UEROP5A repsgpptid responqa blpsgdate permiss;
+  drop uenrbp--UEROP5A repsgpptid responqa blpsgdate permiss ecgdt;
 run;
 
 proc sort data=s1_psgqual;

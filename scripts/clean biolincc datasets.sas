@@ -707,23 +707,41 @@ data shhs1;
   if permiss = 1;
 
   /* create new AHI variables */
-  ahi_a0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp;
-  ahi_a0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp;
-  ahi_a0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa + oarba + oaroa + oanba + oanoa ) / slpprdp;
-  ahi_a0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa + oarba + oaroa + oanba + oanoa ) / slpprdp;
+  ahi_a0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 +
+                  carbp + carop + canbp + canop +
+                  oarbp + oarop + oanbp + oanop) / slpprdp;
+  ahi_a0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 +
+                  carbp + carop + canbp + canop +
+                  oarbp + oarop + oanbp + oanop) / slpprdp;
+  ahi_a0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 +
+                    carbp + carop + canbp + canop +
+                    oarbp + oarop + oanbp + oanop) / slpprdp;
+  ahi_a0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 +
+                    carbp + carop + canbp + canop +
+                    oarbp + oarop + oanbp + oanop) / slpprdp;
 
-  ahi_o0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + oarbp + oarop + oanbp + oanop ) / slpprdp;
-  ahi_o0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + oarbp + oarop + oanbp + oanop ) / slpprdp;
-  ahi_o0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + oarba + oaroa + oanba + oanoa ) / slpprdp;
-  ahi_o0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + oarba + oaroa + oanba + oanoa ) / slpprdp;
+  ahi_o0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 +
+                  oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_o0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 +
+                  oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_o0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 +
+                    oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_o0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 +
+                    oarbp + oarop + oanbp + oanop ) / slpprdp;
 
-  ahi_c0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop ) / slpprdp;
-  ahi_c0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop ) / slpprdp;
-  ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa ) / slpprdp;
-  ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa ) / slpprdp;
+  ahi_c0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 +
+                  carbp + carop + canbp + canop ) / slpprdp;
+  ahi_c0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 +
+                  carbp + carop + canbp + canop ) / slpprdp;
+  ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 +
+                  carbp + carop + canbp + canop ) / slpprdp;
+  ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 +
+                  carbp + carop + canbp + canop ) / slpprdp;
 
-  cent_obs_ratio = (carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop);
-  cent_obs_ratioa = (carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa);
+  cent_obs_ratio = (carbp + carop + canbp + canop) /
+                    (oarbp + oarop + oanbp + oanop);
+  cent_obs_ratioa = (carba + caroa + canba + canoa) /
+                    (oarba + oaroa + oanba + oanoa);
 
   drop uenrbp--UEROP5A repsgpptid responqa blpsgdate permiss ecgdt;
 run;
@@ -1434,23 +1452,41 @@ data shhs2;
   if permiss = 1;
 
   /* create new AHI variables */
-  ahi_a0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp;
-  ahi_a0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp;
-  ahi_a0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa + oarba + oaroa + oanba + oanoa ) / slpprdp;
-  ahi_a0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa + oarba + oaroa + oanba + oanoa ) / slpprdp;
+  ahi_a0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 +
+                  carbp + carop + canbp + canop +
+                  oarbp + oarop + oanbp + oanop) / slpprdp;
+  ahi_a0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 +
+                  carbp + carop + canbp + canop +
+                  oarbp + oarop + oanbp + oanop) / slpprdp;
+  ahi_a0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 +
+                    carbp + carop + canbp + canop +
+                    oarbp + oarop + oanbp + oanop) / slpprdp;
+  ahi_a0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 +
+                    carbp + carop + canbp + canop +
+                    oarbp + oarop + oanbp + oanop) / slpprdp;
 
-  ahi_o0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + oarbp + oarop + oanbp + oanop ) / slpprdp;
-  ahi_o0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + oarbp + oarop + oanbp + oanop ) / slpprdp;
-  ahi_o0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + oarba + oaroa + oanba + oanoa ) / slpprdp;
-  ahi_o0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + oarba + oaroa + oanba + oanoa ) / slpprdp;
+  ahi_o0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 +
+                  oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_o0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 +
+                  oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_o0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 +
+                    oarbp + oarop + oanbp + oanop ) / slpprdp;
+  ahi_o0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 +
+                    oarbp + oarop + oanbp + oanop ) / slpprdp;
 
-  ahi_c0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop ) / slpprdp;
-  ahi_c0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp + carop + canbp + canop ) / slpprdp;
-  ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa ) / slpprdp;
-  ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + carba + caroa + canba + canoa ) / slpprdp;
+  ahi_c0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 +
+                  carbp + carop + canbp + canop ) / slpprdp;
+  ahi_c0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 +
+                  carbp + carop + canbp + canop ) / slpprdp;
+  ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 +
+                  carbp + carop + canbp + canop ) / slpprdp;
+  ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 +
+                  carbp + carop + canbp + canop ) / slpprdp;
 
-  cent_obs_ratio = (carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop);
-  cent_obs_ratioa = (carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa);
+  cent_obs_ratio = (carbp + carop + canbp + canop) /
+                    (oarbp + oarop + oanbp + oanop);
+  cent_obs_ratioa = (carba + caroa + canba + canoa) /
+                    (oarba + oaroa + oanba + oanoa);
 
   drop repsgpptid responqa permiss;
 run;

@@ -1,10 +1,7 @@
 {
   "id": "twuwea02",
-  "display_name": "Sleep Habits (SHHS1): weekend wake time - AM or PM",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): weekend wake time - AM or PM",
   "description": "At what time do you usually wake up on weekends or your non-work days - AM or PM",
   "type": "choices",
-  "domain": "ampmf",
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
-  ]
+  "domain": "ampmf"
 }

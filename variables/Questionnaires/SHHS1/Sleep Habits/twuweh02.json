@@ -1,9 +1,6 @@
 {
   "id": "twuweh02",
-  "display_name": "Sleep Habits (SHHS1): weekend wake time - hour",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): weekend wake time - hour",
   "description": "At what time do you usually wake up on weekends or your non-work days - hour? (hours component of time, 1 to 12)",
-  "type": "numeric",
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
-  ]
+  "type": "numeric"
 }

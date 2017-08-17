@@ -3,5 +3,13 @@
   "display_name": "Percent of sleep time in Apnea",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement",
+    "%"
+  ]
 }

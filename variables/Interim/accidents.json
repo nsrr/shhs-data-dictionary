@@ -3,8 +3,5 @@
   "display_name": "Number of automobile accidents in lifetime",
   "description": "",
   "type": "numeric",
-  "units": "car accidents",
-  "labels": [
-    "car"
-  ]
+  "units": "car accidents"
 }

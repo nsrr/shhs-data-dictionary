@@ -5,5 +5,12 @@
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( carbp + carop + canbp + canop ) / slpprdp",
+  "labels": [
+    "non-rem",
+    "rem",
+    "nrem",
+    "rapid eye movement sleep",
+    "non-rapid eye movement sleep"
+  ],
   "commonly_used": true
 }

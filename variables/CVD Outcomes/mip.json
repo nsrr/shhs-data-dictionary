@@ -1,12 +1,11 @@
 {
   "id": "mip",
   "display_name": "Number of Procedures Related to Heart Attack Since Baseline",
-  "description": "MI procedure since baseline PSG  (as recorded in parent studies datasets)",
+  "description": "Myocardial infarction (MI) procedure since baseline Polysomnogram (PSG)  (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",
   "labels": [
     "adjudicated",
-    "myocardial infarction",
     "heart attack"
   ],
   "commonly_used": true

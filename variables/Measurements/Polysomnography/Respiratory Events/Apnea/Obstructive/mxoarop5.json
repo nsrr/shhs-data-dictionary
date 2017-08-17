@@ -1,6 +1,6 @@
 {
   "id": "mxoarop5",
-  "display_name": "Maximum Obstructive Apnea length (REM, Other, 5% oxygen desaturation)",
+  "display_name": "Maximum Obstructive Apnea length (Rapid eye movement sleep (REM), Non-supine, >=5% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

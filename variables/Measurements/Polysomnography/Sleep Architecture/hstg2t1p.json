@@ -3,5 +3,10 @@
   "display_name": "Number of stage 2 to stage 1 shifts per hour of sleep",
   "description": "",
   "type": "numeric",
-  "units": "stage shifts"
+  "units": "stage shifts",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement"
+  ]
 }

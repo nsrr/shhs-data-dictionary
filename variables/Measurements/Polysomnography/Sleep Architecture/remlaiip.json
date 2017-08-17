@@ -1,6 +1,6 @@
 {
   "id": "remlaiip",
-  "display_name": "REM Latency II - excluding wake",
+  "display_name": "Rapid eye movement sleep (REM) Latency II - excluding wake",
   "description": "",
   "type": "numeric",
   "units": "minutes"

@@ -1,12 +1,11 @@
 {
   "id": "any_chd",
-  "display_name": "Any CHD Since Baseline?",
-  "description": "Any Coronary Heart Disease (CHD) since baseline PSG (as recorded in parent studies datasets)",
+  "display_name": "Any Coronary Heart Disease (CHD) Since Baseline?",
+  "description": "Any Coronary Heart Disease (CHD) since baseline Polysomnogram (PSG) (as recorded in parent studies datasets)",
   "type": "choices",
   "domain": "noyes",
   "labels": [
-    "adjudicated",
-    "coronary heart disease"
+    "adjudicated"
   ],
   "commonly_used": true
 }

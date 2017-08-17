@@ -1,14 +1,11 @@
 {
   "id": "thry2",
-  "display_name": "Thyroid Agents (SHHS2)",
-  "description": "Participant taking THYROID AGENTS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Thyroid Agents (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking THYROID AGENTS within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "goiter",
     "hypothyroidism"
-  ],
-  "forms": [
-    "shhs2_medication_form"
   ]
 }

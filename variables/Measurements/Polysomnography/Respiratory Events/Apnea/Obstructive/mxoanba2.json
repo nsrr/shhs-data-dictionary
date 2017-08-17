@@ -1,10 +1,11 @@
 {
   "id": "mxoanba2",
-  "display_name": "Maximum Obstructive Apnea length w/ arousals (NREM, Back, 2% oxygen desaturation)",
+  "display_name": "Maximum Obstructive Apnea length with >=2% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "duration"
+    "duration",
+    "non-rem"
   ]
 }

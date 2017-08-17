@@ -1,15 +1,12 @@
 {
   "id": "sympth2",
-  "display_name": "Sympathomimetics, Oral And Inhaled (SHHS2)",
-  "description": "Participant taking SYMPATHOMIMETICS, ORAL AND INHALED within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Sympathomimetics, Oral And Inhaled (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking SYMPATHOMIMETICS, ORAL AND INHALED within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "hypotension",
     "heart failure",
-    "HF"
-  ],
-  "forms": [
-    "shhs2_medication_form"
+    "hf"
   ]
 }

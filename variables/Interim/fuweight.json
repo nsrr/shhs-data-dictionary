@@ -1,9 +1,6 @@
 {
   "id": "fuweight",
-  "display_name": "FU status weight",
+  "display_name": "Follow up (FU) status weight",
   "description": "Units are not consistent across observations; use [wtunits](https://sleepdata.org/datasets/shhs/variables/wtunits) to determine proper unit.",
-  "type": "numeric",
-  "labels": [
-    "follow up"
-  ]
+  "type": "numeric"
 }

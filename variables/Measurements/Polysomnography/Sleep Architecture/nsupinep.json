@@ -5,5 +5,18 @@
   "type": "numeric",
   "units": "percent",
   "calculation": "100 * ( remepop + nremepop ) / slpprdp",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement sleep",
+    "rapid eye movement sleep",
+    "other",
+    "left",
+    "right",
+    "prone",
+    "upright",
+    "%"
+  ],
   "commonly_used": true
 }

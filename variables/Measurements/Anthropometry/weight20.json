@@ -1,13 +1,11 @@
 {
   "id": "weight20",
-  "display_name": "Weight at Blood Pressure measurement (SHHS1)",
+  "display_name": "Weight at Blood Pressure (BP) measurement (Sleep Heart Health Study Visit One (SHHS1))",
   "description": "Weight in kilograms",
   "type": "numeric",
   "units": "kilograms",
   "labels": [
-    "kg"
-  ],
-  "forms": [
-    "shhs1_seated_bp_weight_neck_circumference_form"
+    "kg",
+    "wt"
   ]
 }

@@ -1,13 +1,10 @@
 {
   "id": "wu2em02",
-  "display_name": "Sleep Habits (SHHS1): Frequency of waking up too early and unable to resume sleep",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Frequency of waking up too early and unable to resume sleep",
   "description": "How often do you wake up too early in the morning and are unable to resume sleep?",
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
     "insomnia"
-  ],
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
   ]
 }

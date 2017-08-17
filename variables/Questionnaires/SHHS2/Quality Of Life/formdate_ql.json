@@ -1,10 +1,7 @@
 {
   "id": "formdate_ql",
-  "display_name": "Quality of Life (SHHS2): Date completed",
-  "description": "Date of Quality of Life form",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Date completed",
+  "description": "Date of Quality of Life (QOL) form",
   "type": "numeric",
-  "units": "days from index date",
-  "labels": [
-    "QOL"
-  ]
+  "units": "days from index date"
 }

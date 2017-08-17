@@ -1,13 +1,7 @@
 {
   "id": "ql211b",
-  "display_name": "Quality of Life (SHHS2): As healthy as anybody",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): As healthy as anybody",
   "description": "11. Please choose the answer that best describes how true or false each of the following statements is for you.  b. I am as healthy as anybody I know.",
   "type": "choices",
-  "domain": "trufals5",
-  "labels": [
-    "QOL"
-  ],
-  "forms": [
-    "shhs2_quality_of_life_sf_36_form"
-  ]
+  "domain": "trufals5"
 }

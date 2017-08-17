@@ -1,7 +1,7 @@
 {
   "id": "ahiov50",
-  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - AHI > 50",
-  "description": "Medical Alert for AHI over 50.",
+  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Medical Alert - Apnea-Hypopnea Index (AHI) > 50",
+  "description": "Medical Alert for Apnea-Hypopnea Index (AHI) over 50.",
   "type": "choices",
   "domain": "yesnon"
 }

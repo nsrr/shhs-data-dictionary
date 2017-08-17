@@ -1,6 +1,6 @@
 {
   "id": "avhrbp5",
-  "display_name": "Average Hypopnea length (REM, Back, 5% oxygen desaturation)",
+  "display_name": "Average Hypopnea length (Rapid eye movement sleep (REM), Supine, >=5% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds"

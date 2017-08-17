@@ -1,7 +1,10 @@
 {
   "id": "oximdur",
   "display_name": "Hours of usable oximetry signal",
-  "description": "",
+  "description": "Hours of useable signal are rounded out to the lowest whole integer (e.g. 4.6 hours of useable data = 4).    ",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "labels": [
+    "hrs"
+  ]
 }

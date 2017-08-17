@@ -1,13 +1,10 @@
 {
   "id": "sh320",
-  "display_name": "Sleep Habits (SHHS2): Smoke 20 packs of cigarettes in life",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Smoke 20 packs of cigarettes in life",
   "description": "20. Have you smoked as many as 20 packs of cigarettes in your whole lifetime?",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "smoking"
-  ],
-  "forms": [
-    "shhs2_sleep_habits_questionnaire"
   ]
 }

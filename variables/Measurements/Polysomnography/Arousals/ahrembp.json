@@ -1,6 +1,6 @@
 {
   "id": "ahrembp",
-  "display_name": "Arousals per hour (REM, Back, all oxygen desaturations)",
+  "display_name": "Arousals per hour (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "events per hour"

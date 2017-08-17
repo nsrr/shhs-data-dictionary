@@ -1,15 +1,7 @@
 {
   "id": "mi15",
-  "display_name": "MD Reported MI (SHHS1)",
-  "description": "MD said participant had heart attack?",
+  "display_name": "Doctor of Medicine (MD) Reported myocardial infarction (MI) (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Doctor of Medicine (MD) said participant had heart attack?",
   "type": "choices",
-  "domain": "yesnod",
-  "labels": [
-    "myocardial infarction",
-    "heart attack"
-  ],
-  "forms": [
-    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
-    "shhs1_health_interview_form_framingham"
-  ]
+  "domain": "yesnod"
 }

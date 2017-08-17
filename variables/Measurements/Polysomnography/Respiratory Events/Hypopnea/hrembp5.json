@@ -1,6 +1,6 @@
 {
   "id": "hrembp5",
-  "display_name": "Number of Hypopnea (REM, Back, 5% oxygen desaturation)",
+  "display_name": "Number of Hypopnea (Rapid eye movement sleep (REM), Supine, >=5% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "hypopnea events"

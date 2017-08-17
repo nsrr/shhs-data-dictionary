@@ -3,5 +3,9 @@
   "display_name": "How often are aspirin or aspirin-containing medications taken",
   "description": "",
   "type": "choices",
-  "domain": "nevevery"
+  "domain": "nevevery",
+  "labels": [
+    "acetylsalicylic acid",
+    "asa"
+  ]
 }

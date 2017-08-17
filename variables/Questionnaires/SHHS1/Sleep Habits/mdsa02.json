@@ -1,13 +1,10 @@
 {
   "id": "mdsa02",
-  "display_name": "Sleep Habits (SHHS1): MD diagnosed Sleep Apnea",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Doctor of Medicine (MD) diagnosed Sleep Apnea",
   "description": "Have you ever been told by a doctor that you have sleep apnea?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "OSA"
-  ],
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
+    "osa"
   ]
 }

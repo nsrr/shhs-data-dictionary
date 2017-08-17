@@ -1,9 +1,6 @@
 {
   "id": "tfawem02",
-  "display_name": "Sleep Habits (SHHS1): weekend bedtime- minute",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): weekend bedtime- minute",
   "description": "At what time do you usually fall asleep on weekends or your non-work days - minute? (minutes component of time, 0 to 59)",
-  "type": "numeric",
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
-  ]
+  "type": "numeric"
 }

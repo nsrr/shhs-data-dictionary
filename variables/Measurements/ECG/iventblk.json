@@ -1,13 +1,7 @@
 {
   "id": "iventblk",
   "display_name": "Indeterminate intraventricular block pattern",
-  "description": "MN code 7-4. Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
+  "description": "Minnesota (MN) code 7-4. Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "ECG",
-    "Block pattern",
-    "intraventricular block",
-    "indeterminate block"
-  ]
+  "domain": "noyes01"
 }

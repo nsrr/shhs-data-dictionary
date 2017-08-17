@@ -1,6 +1,6 @@
 {
   "id": "mxdroa",
-  "display_name": "Maximum oxygen desaturation with arousals (REM, Other, all oxygen desaturations)",
+  "display_name": "Maximum oxygen desaturation with arousals (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "percent",

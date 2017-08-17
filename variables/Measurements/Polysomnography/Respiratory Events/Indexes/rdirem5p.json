@@ -1,12 +1,15 @@
 {
   "id": "rdirem5p",
-  "display_name": "Overall RDI (REM) at 5% oxygen desaturation",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) (Rapid eye movement sleep (REM)) at >=5% oxygen desaturation",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp5 + hrop5 + carbp5 + carop5 + oarbp5 + oarop5 ) / minremp",
   "labels": [
-    "rdi",
-    "ahi"
+    "non-rem",
+    "rem",
+    "nrem",
+    "rapid eye movement sleep",
+    "non-rapid eye movement sleep"
   ]
 }

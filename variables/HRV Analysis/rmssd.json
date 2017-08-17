@@ -1,7 +1,11 @@
 {
   "id": "rmssd",
-  "display_name": "Square root of the mean of the squares of difference between adjacent NN intervals",
+  "display_name": "Square root of the mean of the squares of difference between adjacent normal sinus to normal sinus interbeat (NN) intervals",
   "description": "",
   "type": "numeric",
-  "units": "milliseconds"
+  "units": "milliseconds",
+  "labels": [
+    "heart rate variability",
+    "ms"
+  ]
 }

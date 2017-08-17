@@ -1,13 +1,11 @@
 {
   "id": "watv02",
-  "display_name": "Sleep Habits (SHHS1): Fall asleep while watching TV",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Fall asleep while watching TV",
   "description": "What is chance that you would doze off or fall asleep while watching TV?",
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "ess2"
-  ],
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
+    "ess2",
+    "television"
   ]
 }

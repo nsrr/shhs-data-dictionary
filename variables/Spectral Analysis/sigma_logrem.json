@@ -1,6 +1,16 @@
 {
   "id": "sigma_logrem",
-  "display_name": "Log transformed sigma power density in REM sleep",
+  "display_name": "Log transformed sigma power density in rapid eye movement sleep (REM) ",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "12",
+    "twelve",
+    "13",
+    "thirteen",
+    "14",
+    "fourteen",
+    "15",
+    "fifteen"
+  ]
 }

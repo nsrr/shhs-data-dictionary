@@ -1,6 +1,6 @@
 {
   "id": "mxdrba",
-  "display_name": "Maximum oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
+  "display_name": "Maximum oxygen desaturation w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "percent",

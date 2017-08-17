@@ -1,7 +1,10 @@
 {
   "id": "oanba4",
-  "display_name": "Number of Obstructive Apnea w/ arousals (NREM, Back, 4% oxygen desaturation)",
+  "display_name": "Number of Obstructive Apnea with >=4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "",
   "type": "numeric",
-  "units": "obstructive apnea events"
+  "units": "obstructive apnea events",
+  "labels": [
+    "non-rem"
+  ]
 }

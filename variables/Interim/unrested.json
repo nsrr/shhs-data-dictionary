@@ -3,5 +3,9 @@
   "display_name": "Feel unrested during the day",
   "description": "",
   "type": "choices",
-  "domain": "nevalw"
+  "domain": "nevalw",
+  "labels": [
+    "unrefreshed",
+    "tired"
+  ]
 }

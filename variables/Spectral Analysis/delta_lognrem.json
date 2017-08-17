@@ -1,6 +1,17 @@
 {
   "id": "delta_lognrem",
-  "display_name": "Log transformed delta power density in NREM sleep",
+  "display_name": "Log transformed delta power density in non-rapid eye movement sleep (NREM)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "non-rem",
+    "one",
+    "1",
+    "2",
+    "two",
+    "3",
+    "three",
+    "4",
+    "four"
+  ]
 }

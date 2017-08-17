@@ -1,12 +1,11 @@
 {
   "id": "ptca_date",
-  "display_name": "Days to First PTCA Since Baseline",
-  "description": "Time since SHHS 1 Sleep Study to date of first PTCA",
+  "display_name": "Days to First Percutaneous transluminal coronary angioplasty (PTCA) Since Baseline",
+  "description": "Time since Sleep Heart Health Study Visit One (SHHS 1) Sleep Study to date of first Percutaneous transluminal coronary angioplasty (PTCA)",
   "type": "numeric",
   "units": "days from index date",
   "labels": [
     "adjudicated",
-    "tto_ptcadate",
-    "percutaneous transluminal coronary angioplasty"
+    "tto_ptcadate"
   ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "oardnbp5",
-  "display_name": "Obstructive Apnea per hour (NREM, Back, 5% oxygen desaturation)",
+  "display_name": "Obstructive Apnea per hour (Non-rapid eye movement sleep (NREM), Supine, >=5% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "non-rem"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "id": "sittlk02",
-  "display_name": "Sleep Habits (SHHS1): Fall asleep while sitting and talking",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Fall asleep while sitting and talking",
   "description": "What is the chance that you would doze off or fall asleep while sitting and talking to someone?",
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
     "ess6"
-  ],
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "oarbp",
-  "display_name": "Number of Obstructive Apnea (REM, Back, all oxygen desaturations)",
+  "display_name": "Number of Obstructive Apnea (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "obstructive apnea events"

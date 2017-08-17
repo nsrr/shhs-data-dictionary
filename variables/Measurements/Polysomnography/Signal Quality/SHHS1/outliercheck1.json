@@ -1,0 +1,7 @@
+{
+  "id": "outliercheck1",
+  "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Extreme Values Found",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

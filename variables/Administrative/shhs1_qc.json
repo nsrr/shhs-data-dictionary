@@ -1,10 +1,7 @@
 {
   "id": "shhs1_qc",
-  "display_name": "Has SHHS1 Sleep Study QC form",
+  "display_name": "Has Sleep Heart Health Study Visit One (SHHS1) Sleep Study QC form",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "forms": [
-    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
-  ]
+  "domain": "noyes01"
 }

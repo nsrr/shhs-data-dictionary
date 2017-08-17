@@ -1,10 +1,11 @@
 {
   "id": "mxoanbp4",
-  "display_name": "Maximum Obstructive Apnea length (NREM, Back, 4% oxygen desaturation)",
+  "display_name": "Maximum Obstructive Apnea length (Non-rapid eye movement sleep (NREM), Supine, >=4% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "duration"
+    "duration",
+    "non-rem"
   ]
 }

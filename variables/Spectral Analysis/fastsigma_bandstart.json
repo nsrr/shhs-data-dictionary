@@ -5,6 +5,8 @@
   "type": "numeric",
   "units": "hertz",
   "labels": [
-    "Hz"
+    "hz",
+    "13.5 through 15",
+    "thirteen and a half through fifteen"
   ]
 }

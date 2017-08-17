@@ -1,13 +1,10 @@
 {
   "id": "sh329",
-  "display_name": "Sleep Habits (SHHS2): Can/bottles of beer per week",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Can/bottles of beer per week",
   "description": "29. How many bottles or cans of beer (12 oz.) do you usually have per week?",
   "type": "numeric",
   "units": "bottles",
   "labels": [
     "alcohol"
-  ],
-  "forms": [
-    "shhs2_sleep_habits_questionnaire"
   ]
 }

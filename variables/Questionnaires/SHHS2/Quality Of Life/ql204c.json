@@ -1,13 +1,7 @@
 {
   "id": "ql204c",
-  "display_name": "Quality of Life (SHHS2): Health limits kind of work or activities",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Health limits kind of work or activities",
   "description": "4. During the past four weeks, have you had any of the following problems with your work or other regular daily activities as a result of your PHYSICAL HEALTH? c. Were limited in the kind of work or other activities you were able to do.",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "QOL"
-  ],
-  "forms": [
-    "shhs2_quality_of_life_sf_36_form"
-  ]
+  "domain": "noyes01"
 }

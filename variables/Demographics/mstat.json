@@ -1,12 +1,10 @@
 {
   "id": "mstat",
-  "display_name": "Marital Status (SHHS1)",
-  "description": "Marital Status",
+  "display_name": "Marital Status (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "",
   "type": "choices",
   "domain": "marital",
   "labels": [
-    "married",
-    "divorced",
     "single"
   ],
   "commonly_used": true

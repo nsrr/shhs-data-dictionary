@@ -1,12 +1,12 @@
 {
   "id": "asa15",
-  "display_name": "Health Interview (SHHS1): Aspirin in last 2 weeks",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): Aspirin in last 2 weeks",
   "description": "In last two weeks, did you take any aspirin or aspirin containing meds?",
   "type": "choices",
   "domain": "noyes01",
-  "forms": [
-    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
-    "shhs1_health_interview_form_framingham",
-    "shhs1_health_interview_form_new_york"
+  "labels": [
+    "acetylsalicylic acid",
+    "asa",
+    "medicine"
   ]
 }

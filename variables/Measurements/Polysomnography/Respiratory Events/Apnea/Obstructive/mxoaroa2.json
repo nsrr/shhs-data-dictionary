@@ -1,6 +1,6 @@
 {
   "id": "mxoaroa2",
-  "display_name": "Maximum Obstructive Apnea length w/ arousals (REM, Other, 2% oxygen desaturation)",
+  "display_name": "Maximum Obstructive Apnea length with >=2% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

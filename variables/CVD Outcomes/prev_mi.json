@@ -1,12 +1,11 @@
 {
   "id": "prev_mi",
-  "display_name": "Number of MIs Prior to Baseline",
-  "description": "MI prior to baseline PSG (as recorded in parent studies datasets)",
+  "display_name": "Number of myocardial infarctions (MIs) Prior to Baseline",
+  "description": "Myocardial infarction (MI) prior to baseline Polysomnography (PSG) (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",
   "labels": [
     "adjudicated",
-    "myocardial infarction",
     "heart attack"
   ],
   "commonly_used": true

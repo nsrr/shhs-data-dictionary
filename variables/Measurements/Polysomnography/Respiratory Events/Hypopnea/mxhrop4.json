@@ -1,6 +1,6 @@
 {
   "id": "mxhrop4",
-  "display_name": "Maximum Hypopnea length (REM, Other, 4% oxygen desaturation)",
+  "display_name": "Maximum Hypopnea length (Rapid eye movement sleep (REM), Non-supine, >=4% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

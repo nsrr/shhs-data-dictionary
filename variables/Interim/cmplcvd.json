@@ -1,6 +1,6 @@
 {
   "id": "cmplcvd",
-  "display_name": "Completed cardiovascular disease events form (parent study form)",
+  "display_name": "Completed cardiovascular disease (CVD) events form (parent study form)",
   "description": "",
   "type": "choices",
   "domain": "complete4"

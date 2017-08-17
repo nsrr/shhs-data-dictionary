@@ -1,7 +1,10 @@
 {
   "id": "rdinoa5",
-  "display_name": "Hypopnea per hour w/ arousals (NREM, Other, 5% oxygen desaturation)",
+  "display_name": "Hypopnea per hour with >=5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "non-rem"
+  ]
 }

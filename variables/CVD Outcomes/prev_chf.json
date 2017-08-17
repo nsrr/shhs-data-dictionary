@@ -1,12 +1,11 @@
 {
   "id": "prev_chf",
-  "display_name": "Number of CHF episodes Prior to Baseline",
-  "description": "Congestive Heart Failure (CHF) episodes prior to baseline PSG (as recorded in parent studies datasets)",
+  "display_name": "Number of Congestive Heart Failure (CHF) episodes Prior to Baseline",
+  "description": "Congestive Heart Failure (CHF) episodes prior to baseline Polysomnography (PSG) (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",
   "labels": [
-    "adjudicated",
-    "congestive heart failure"
+    "adjudicated"
   ],
   "commonly_used": true
 }

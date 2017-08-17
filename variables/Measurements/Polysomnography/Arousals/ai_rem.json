@@ -1,7 +1,7 @@
 {
   "id": "ai_rem",
-  "display_name": "Arousal Index (REM)",
-  "description": "REM Arousal Index - total arousals in REM sleep per hours of REM sleep",
+  "display_name": "Arousal Index (Rapid eye movement sleep (REM))",
+  "description": "Rapid eye movement sleep (REM) Arousal Index - total arousals in Rapid eye movement sleep (REM) per hours of Rapid eye movement sleep (REM)",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( arrembp + arremop ) / minremp"

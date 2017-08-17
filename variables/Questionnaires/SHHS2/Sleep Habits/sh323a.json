@@ -1,13 +1,10 @@
 {
   "id": "sh323a",
-  "display_name": "Sleep Habits (SHHS2): Years since stopped smoking",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Years since stopped smoking",
   "description": "23a. If \"No\" how many years ago did you STOP smoking?",
   "type": "numeric",
   "units": "years",
   "labels": [
     "cigarettes"
-  ],
-  "forms": [
-    "shhs2_sleep_habits_questionnaire"
   ]
 }

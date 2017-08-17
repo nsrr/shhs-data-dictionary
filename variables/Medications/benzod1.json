@@ -1,19 +1,16 @@
 {
   "id": "benzod1",
-  "display_name": "Benzodiazepines (SHHS1)",
-  "description": "Participant taking BENZODIAZEPINES within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Benzodiazepines (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Participant taking BENZODIAZEPINES within two weeks of the Sleep Heart Health Study Visit One (SHHS1) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "anti-psychotic",
     "panic disorder",
-    "Generalized anxiety disorder",
-    "Insomnia",
+    "generalized anxiety disorder",
+    "insomnia",
     "seizure",
-    "Withdrawal"
+    "withdrawal"
   ],
-  "commonly_used": true,
-  "forms": [
-    "shhs1_medications_prescription_and_over_the_counter_form"
-  ]
+  "commonly_used": true
 }

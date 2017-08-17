@@ -1,7 +1,0 @@
-{
-  "id": "losbeg",
-  "display_name": "PSG Quality Assessment (SHHS2): Data Lost at beginning of study",
-  "description": "Data was lost at the beginning of study due to unscorable signals.",
-  "type": "choices",
-  "domain": "yesnon"
-}

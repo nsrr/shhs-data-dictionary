@@ -2,6 +2,8 @@
 
 - Rename primary subject identifier from 'obf_pptid' to 'nsrrid'
 - Remove extraneous 'ecgdt' variable from SHHS1 dataset
+- Clean up more variable display names, e.g. spell out abbreviations
+- Improve display names and formulas for 'ahi_' variables
 
 ## 0.11.1 (April 12, 2017)
 

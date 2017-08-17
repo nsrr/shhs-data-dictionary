@@ -1,7 +1,10 @@
 {
   "id": "rdinba4",
-  "display_name": "Hypopnea per hour w/ arousals (NREM, Back, 4% oxygen desaturation)",
+  "display_name": "Hypopnea per hour with >=4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "non-rem"
+  ]
 }

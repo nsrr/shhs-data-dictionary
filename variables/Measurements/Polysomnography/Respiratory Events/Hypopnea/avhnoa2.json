@@ -1,7 +1,10 @@
 {
   "id": "avhnoa2",
-  "display_name": "Average Hypopnea length w/ arousals (NREM, Other, 2% oxygen desaturation)",
+  "display_name": "Average Hypopnea length with >=2% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
   "description": "",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
 }

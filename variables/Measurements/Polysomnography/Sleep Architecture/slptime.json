@@ -5,7 +5,12 @@
   "type": "numeric",
   "units": "minutes",
   "labels": [
-    "TST"
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement",
+    "tst"
   ],
   "commonly_used": true
 }

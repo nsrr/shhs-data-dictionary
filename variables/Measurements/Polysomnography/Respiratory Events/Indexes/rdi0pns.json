@@ -1,12 +1,15 @@
 {
   "id": "rdi0pns",
-  "display_name": "Overall RDI (non-Supine) all oxygen desaturations",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) (non-Supine) all oxygen desaturations",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrop + hnrop + carop + canop + oarop + oanop ) / ( remepop + nremepop )",
   "labels": [
-    "rdi",
-    "ahi"
+    "non-rem",
+    "rem",
+    "nrem",
+    "rapid eye movement sleep",
+    "non-rapid eye movement sleep"
   ]
 }

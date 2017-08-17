@@ -1,7 +1,10 @@
 {
   "id": "oanbp",
-  "display_name": "Number of Obstructive Apnea (NREM, Back, all oxygen desaturations)",
+  "display_name": "Number of Obstructive Apnea (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "obstructive apnea events"
+  "units": "obstructive apnea events",
+  "labels": [
+    "non-rem"
+  ]
 }

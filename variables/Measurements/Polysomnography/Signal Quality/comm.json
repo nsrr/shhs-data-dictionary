@@ -1,6 +1,0 @@
-{
-  "id": "comm",
-  "display_name": "PSG Quality Assessment (SHHS2): Signal Quality comments",
-  "description": "Scorer comments on signal quality issues observed.",
-  "type": "text"
-}

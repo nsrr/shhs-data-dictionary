@@ -1,0 +1,7 @@
+{
+  "id": "restan1",
+  "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Was entire record scored",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,10 +1,11 @@
 {
   "id": "avcanbp",
-  "display_name": "Average Central Apnea length (NREM, Back, all oxygen desaturations)",
+  "display_name": "Average Central Apnea length (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "duration"
+    "duration",
+    "non-rem"
   ]
 }

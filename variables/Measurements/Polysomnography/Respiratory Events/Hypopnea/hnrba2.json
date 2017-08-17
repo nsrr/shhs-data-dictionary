@@ -1,7 +1,10 @@
 {
   "id": "hnrba2",
-  "display_name": "Number of Hypopnea w/ arousals (NREM, Back, 2% oxygen desaturation)",
+  "display_name": "Number of Hypopnea with >=2% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "",
   "type": "numeric",
-  "units": "hypopnea events"
+  "units": "hypopnea events",
+  "labels": [
+    "non-rem"
+  ]
 }

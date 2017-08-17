@@ -1,6 +1,9 @@
 {
   "id": "stloutp",
   "display_name": "Lights out time",
-  "description": "In SHHS1, values are in number of epochs from start of recording. In SHHS2, values are clock times.",
-  "type": "time"
+  "description": "In Sleep Hearth Health Study Visit 1 (SHHS1), values are in number of epochs from start of recording. In Sleep Heart Health Study Visit 2(SHHS2), values are clock times.",
+  "type": "time",
+  "labels": [
+    "off"
+  ]
 }

@@ -1,13 +1,12 @@
 {
   "id": "mip_date",
-  "display_name": "Days to First Myocardial Infarction Procedure Since Baseline",
-  "description": "Time since SHHS 1 Sleep Study to date of first myocardial infarction procedure",
+  "display_name": "Days to First myocardial infarction (MI) Procedure Since Baseline",
+  "description": "Time since Sleep Heart Health Study Visit One (SHHS 1) Sleep Study to date of first myocardial infarction (MI) procedure",
   "type": "numeric",
   "units": "days from index date",
   "labels": [
     "adjudicated",
     "tto_mipdate",
-    "myocardial infarction",
-    " heart attack"
+    "heart attack"
   ]
 }

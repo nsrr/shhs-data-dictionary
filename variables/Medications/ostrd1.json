@@ -1,15 +1,12 @@
 {
   "id": "ostrd1",
-  "display_name": "Oral steroids (SHHS1)",
-  "description": "Participant taking ORAL STEROIDS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Oral steroids (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Participant taking ORAL STEROIDS within two weeks of the Sleep Heart Health Study Visit One (SHHS1) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "autoimmune",
     "inflammation"
   ],
-  "commonly_used": true,
-  "forms": [
-    "shhs1_medications_prescription_and_over_the_counter_form"
-  ]
+  "commonly_used": true
 }

@@ -1,10 +1,11 @@
 {
   "id": "mxoanop",
-  "display_name": "Maximum Obstructive Apnea length (NREM, Other all oxygen desaturations)",
+  "display_name": "Maximum Obstructive Apnea length (Non-rapid eye movement sleep (NREM), Non-supine all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "duration"
+    "duration",
+    "non-rem"
   ]
 }

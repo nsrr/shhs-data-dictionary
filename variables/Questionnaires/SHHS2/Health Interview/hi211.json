@@ -1,13 +1,11 @@
 {
   "id": "hi211",
-  "display_name": "Health Interview (SHHS2): When do restless legs happen",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): When do restless legs happen",
   "description": "C. Restless legs  [Questions #11-15 refer to all symptoms you checked as present in item #8.11.] These symptoms are most likely to occur when you are (check the one best answer):",
   "type": "choices",
   "domain": "rlegocc",
   "labels": [
-    "RLS"
-  ],
-  "forms": [
-    "shhs2_health_interview"
+    "rls",
+    "willis -ekbom disease"
   ]
 }

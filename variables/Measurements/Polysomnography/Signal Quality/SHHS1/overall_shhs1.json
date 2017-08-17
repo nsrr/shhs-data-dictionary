@@ -1,0 +1,7 @@
+{
+  "id": "overall_shhs1",
+  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit One (SHHS1)): Overall signal quality",
+  "description": "Overall study grade as assigned by scorer.  The overall quality grade is based on the quality and duration of EEG, respiratory and oximetry signals. Based on signal quality during recording time.  Studies are given an Overall study code varying from outstanding (code=7) to fair (code=3).  If interested in studies of the best quality, overall quality scores of 5-Very Good, 6-Excellent and 7-Oustanding can be selected.  This code reflects the total duration of useable (artifact free, scorable) signals across channels, weighing those signals most critical for accurate scoring of respiratory events and staging.    ",
+  "type": "choices",
+  "domain": "ovqus2"
+}

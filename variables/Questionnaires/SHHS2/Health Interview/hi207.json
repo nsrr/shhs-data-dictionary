@@ -1,10 +1,7 @@
 {
   "id": "hi207",
-  "display_name": "Health Interview (SHHS2): How stressful was day today",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): How stressful was day today",
   "description": "7. How stressful was your day today?  Was it: (check one.)",
   "type": "choices",
-  "domain": "stress3",
-  "forms": [
-    "shhs2_health_interview"
-  ]
+  "domain": "stress3"
 }

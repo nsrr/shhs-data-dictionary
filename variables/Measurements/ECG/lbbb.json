@@ -1,12 +1,7 @@
 {
   "id": "lbbb",
   "display_name": "Left bundle-branch block",
-  "description": "MN code 7-1-1. Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
+  "description": "Minnesota (MN) code 7-1-1. Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "ECG",
-    "BB Block",
-    "Bundle branch block"
-  ]
+  "domain": "noyes01"
 }

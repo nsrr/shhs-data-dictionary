@@ -1,14 +1,11 @@
 {
   "id": "pm207",
-  "display_name": "Height (SHHS2)",
+  "display_name": "Height (Sleep Heart Health Study Visit Two (SHHS2))",
   "description": "7. Height measurement in centimeters",
   "type": "numeric",
   "units": "centimeters",
   "labels": [
     "cm"
   ],
-  "commonly_used": true,
-  "forms": [
-    "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"
-  ]
+  "commonly_used": true
 }

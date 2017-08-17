@@ -1,7 +1,10 @@
 {
   "id": "diastolic3",
-  "display_name": "Diastolic blood pressure: third reading",
+  "display_name": "Diastolic blood pressure (BP): third reading",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg"
+  ]
 }

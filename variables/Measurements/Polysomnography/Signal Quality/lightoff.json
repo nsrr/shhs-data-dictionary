@@ -1,7 +1,0 @@
-{
-  "id": "lightoff",
-  "display_name": "Lights appropriate?",
-  "description": "",
-  "type": "choices",
-  "domain": "yesno01"
-}

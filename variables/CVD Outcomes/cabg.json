@@ -1,14 +1,12 @@
 {
   "id": "cabg",
-  "display_name": "Number of CABGs Since Baseline",
-  "description": "CABG since baseline PSG (as recorded in parent studies datasets)",
+  "display_name": "Number of coronary artery bypass graft surgeries (CABGs) Since Baseline",
+  "description": "coronary artery bypass graft surgery (CABG) since baseline Polysomnogram (PSG) (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",
   "labels": [
     "adjudicated",
-    "cabg",
-    "stent",
-    "coronary artery bypass graft"
+    "stent"
   ],
   "commonly_used": true
 }

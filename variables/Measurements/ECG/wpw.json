@@ -1,13 +1,7 @@
 {
   "id": "wpw",
   "display_name": "Wolff-Parkinson-White Syndrome",
-  "description": "MN code 6-4-1. Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
+  "description": "Minnesota (MN) code 6-4-1. Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "ECG",
-    "wolff",
-    "parkinson",
-    "white"
-  ]
+  "domain": "noyes01"
 }

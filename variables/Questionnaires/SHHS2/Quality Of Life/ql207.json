@@ -1,13 +1,7 @@
 {
   "id": "ql207",
-  "display_name": "Quality of Life (SHHS2): bodily pain",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): bodily pain",
   "description": "7. How much bodily pain have you had during the past four weeks? (Check one box.)",
   "type": "choices",
-  "domain": "nonvsev6",
-  "labels": [
-    "QOL"
-  ],
-  "forms": [
-    "shhs2_quality_of_life_sf_36_form"
-  ]
+  "domain": "nonvsev6"
 }

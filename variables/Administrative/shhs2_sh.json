@@ -1,6 +1,6 @@
 {
   "id": "shhs2_sh",
-  "display_name": "Has SHHS2 Sleep Habits form",
+  "display_name": "Has Sleep Heart Health Study Visit Two (SHHS2) Sleep Habits form",
   "description": "",
   "type": "choices",
   "domain": "noyes01"

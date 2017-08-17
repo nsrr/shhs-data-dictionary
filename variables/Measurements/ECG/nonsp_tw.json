@@ -1,11 +1,10 @@
 {
   "id": "nonsp_tw",
   "display_name": "Nonspecific T wave abnormalty",
-  "description": "Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
+  "description": "Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
   "type": "choices",
   "domain": "nonsp_tw",
   "labels": [
-    "ECG",
     "twave"
   ]
 }

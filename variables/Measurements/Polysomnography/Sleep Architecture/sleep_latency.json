@@ -1,7 +1,14 @@
 {
   "id": "sleep_latency",
   "display_name": "Sleep latency",
-  "description": "",
+  "description": "0:  Unreliable 1:Reliable",
   "type": "choices",
-  "domain": "latencygrade"
+  "domain": "latencygrade",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "totminfallslp",
-  "display_name": "Sleep Habits (SHHS2): time to fall asleep",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): time to fall asleep",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "onset"
+  ]
 }

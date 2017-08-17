@@ -1,6 +1,6 @@
 {
   "id": "mnhrop2",
-  "display_name": "Minimum Hypopnea length (REM, Other, 2% oxygen desaturation)",
+  "display_name": "Minimum Hypopnea length (Rapid eye movement sleep (REM), Non-supine, >=2% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

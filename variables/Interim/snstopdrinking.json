@@ -3,5 +3,8 @@
   "display_name": "Treatment prescribed: reduce or stop drinking",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "labels": [
+    "alcohol"
+  ]
 }

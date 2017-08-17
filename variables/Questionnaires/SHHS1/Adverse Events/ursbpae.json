@@ -1,7 +1,7 @@
 {
   "id": "ursbpae",
-  "display_name": "Adverse Events (SHHS1): Systolic BP > 170",
-  "description": "Systolic blood pressure > 170 (and not on BP meds)?",
+  "display_name": "Adverse Events (Sleep Heart Health Study Visit One (SHHS1)): Systolic blood pressure (BP) > 170",
+  "description": "Systolic blood pressure (BP) > 170 (and not on blood pressure (BP) meds)?",
   "type": "choices",
   "domain": "noyes01"
 }

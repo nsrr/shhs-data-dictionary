@@ -1,0 +1,7 @@
+{
+  "id": "restan5",
+  "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Intervening period bad Resp./Oximetry",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

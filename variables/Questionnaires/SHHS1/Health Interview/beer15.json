@@ -1,13 +1,10 @@
 {
   "id": "beer15",
-  "display_name": "Health Interview (SHHS1): cans of beer per week",
-  "description": "How many 12 oz. cans of beer do you usually have per week? (number of cans of beer, up to 2 digits)",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): cans of beer per week",
+  "description": "How many 12 ounce (oz.) cans of beer do you usually have per week? (number of cans of beer, up to 2 digits)",
   "type": "numeric",
   "units": "cans",
   "labels": [
     "alcohol"
-  ],
-  "forms": [
-    "shhs1_health_interview_form_new_york"
   ]
 }

@@ -1,13 +1,10 @@
 {
   "id": "cp02",
-  "display_name": "Sleep Habits (SHHS1): Frequency of being awakened with chest pain",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Frequency of being awakened with chest pain",
   "description": "In the past year, how often, on average, have you been awakened with chest pain or tightness?",
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
     "angina"
-  ],
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
   ]
 }

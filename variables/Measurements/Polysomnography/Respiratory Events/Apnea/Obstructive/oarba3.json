@@ -1,6 +1,6 @@
 {
   "id": "oarba3",
-  "display_name": "Number of Obstructive Apnea w/ arousals (REM, Back, 3% oxygen desaturation)",
+  "display_name": "Number of Obstructive Apnea with >=3% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
   "description": "",
   "type": "numeric",
   "units": "obstructive apnea events"

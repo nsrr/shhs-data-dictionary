@@ -1,8 +1,14 @@
 {
   "id": "visitnumber",
-  "display_name": "SHHS Visit Number",
+  "display_name": "Sleep Heart Health Study (SHHS) Visit Number",
   "description": "",
   "type": "choices",
   "domain": "visitnumber",
+  "labels": [
+    "one",
+    "two",
+    "2",
+    "1"
+  ],
   "commonly_used": true
 }

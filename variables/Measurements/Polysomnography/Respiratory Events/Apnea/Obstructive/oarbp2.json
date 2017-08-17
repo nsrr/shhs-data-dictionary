@@ -1,6 +1,6 @@
 {
   "id": "oarbp2",
-  "display_name": "Number of Obstructive Apnea (REM, Back, 2% oxygen desaturation)",
+  "display_name": "Number of Obstructive Apnea (Rapid eye movement sleep (REM), Supine, >=2% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "obstructive apnea events"

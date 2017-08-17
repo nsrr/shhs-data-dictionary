@@ -1,0 +1,10 @@
+{
+  "id": "remnrempr",
+  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): rapid eye movement sleep (REM)/non-rapid eye movement sleep (NREM) Scoring unreliable",
+  "description": "Scorer noted that there was a problem differentiating rapid eye movement sleep (REM) and non-rapid eye movement sleep (NREM).",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "non-rem "
+  ]
+}

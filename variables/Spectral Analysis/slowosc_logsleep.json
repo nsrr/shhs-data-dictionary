@@ -2,5 +2,15 @@
   "id": "slowosc_logsleep",
   "display_name": "Log transformed slow oscillation power density in sleep",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement",
+    "0.5 through 1",
+    "one",
+    "0.5-1"
+  ]
 }

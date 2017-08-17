@@ -1,14 +1,10 @@
 {
   "id": "pm226b",
-  "display_name": "Physical Measurements (SHHS2): Max inflation level AAI BP",
-  "description": "26. AAI  Doppler Obliteration Pressure  b. Max inflation level: (palpated +30)",
+  "display_name": "Physical Measurements (Sleep Heart Health Study Visit Two (SHHS2)): Max inflation level Ankle-arm Blood Pressure Index (AAI BP)",
+  "description": "26. Ankle-arm Blood Pressure Index (AAI)  Doppler Obliteration Pressure  b. Max inflation level: (palpated +30)",
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "mmHg",
-    "blood pressure"
-  ],
-  "forms": [
-    "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"
+    "mmhg"
   ]
 }

@@ -1,10 +1,7 @@
 {
   "id": "smknow15",
-  "display_name": "Health Interview (SHHS1): now smoke cigarettes",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): now smoke cigarettes",
   "description": "Do you now smoke cigarettes?",
   "type": "choices",
-  "domain": "noyes01",
-  "forms": [
-    "shhs1_health_interview_form_new_york"
-  ]
+  "domain": "noyes01"
 }

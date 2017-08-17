@@ -1,6 +1,6 @@
 {
   "id": "mxcarba4",
-  "display_name": "Maximum Central Apnea length w/ arousals (REM, Back, 4% oxygen desaturation)",
+  "display_name": "Maximum Central Apnea length with >=4% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

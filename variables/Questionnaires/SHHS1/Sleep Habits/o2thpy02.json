@@ -1,10 +1,7 @@
 {
   "id": "o2thpy02",
-  "display_name": "Sleep Habits (SHHS1): Use oxygen therapy during sleep",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Use oxygen therapy during sleep",
   "description": "Do you usually use oxygen therapy while you sleep?",
   "type": "choices",
-  "domain": "noyes01",
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
-  ]
+  "domain": "noyes01"
 }

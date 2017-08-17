@@ -3,5 +3,22 @@
   "display_name": "Theta power density in sleep",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz"
+  "units": "microvolts squared per hertz",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement",
+    "4",
+    "four",
+    "5",
+    "five",
+    "6",
+    "six",
+    "7",
+    "seven",
+    "8",
+    "eight"
+  ]
 }

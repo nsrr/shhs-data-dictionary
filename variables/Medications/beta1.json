@@ -1,15 +1,13 @@
 {
   "id": "beta1",
-  "display_name": "Beta-blockers without diuretics (SHHS1)",
-  "description": "Participant taking BETA-BLOCKERS WITHOUT DIURETICS within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Beta-blockers without diuretics (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Participant taking BETA-BLOCKERS WITHOUT DIURETICS within two weeks of the Sleep Heart Health Study Visit One (SHHS1) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "hypertension",
-    "HTN"
+    "htn",
+    "high blood pressure"
   ],
-  "commonly_used": true,
-  "forms": [
-    "shhs1_medications_prescription_and_over_the_counter_form"
-  ]
+  "commonly_used": true
 }

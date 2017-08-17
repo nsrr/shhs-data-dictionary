@@ -1,12 +1,12 @@
 {
   "id": "angina15",
-  "display_name": "MD Reported Angina (SHHS1)",
-  "description": "MD said participant had angina?",
+  "display_name": "Doctor of Medicine (MD) Reported Angina (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Doctor of Medicine (MD) said participant had angina?",
   "type": "choices",
   "domain": "yesnod",
-  "forms": [
-    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
-    "shhs1_health_interview_form_framingham",
-    "shhs1_health_interview_form_new_york"
+  "labels": [
+    "chest pain",
+    "pressure",
+    "discomfort"
   ]
 }

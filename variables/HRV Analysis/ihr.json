@@ -3,5 +3,9 @@
   "display_name": "Instantaneous heart rate",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "heart rate variability",
+    "bpm"
+  ]
 }

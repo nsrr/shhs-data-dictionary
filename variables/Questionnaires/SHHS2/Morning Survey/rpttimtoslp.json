@@ -1,6 +1,6 @@
 {
   "id": "rpttimtoslp",
-  "display_name": "Morning Survey (SHHS2): minutes to fall asleep",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit Two (SHHS2)): minutes to fall asleep",
   "description": "",
   "type": "numeric",
   "units": "minutes"

@@ -1,10 +1,14 @@
 {
   "id": "prerdi",
-  "display_name": "PSG Quality Assessment (SHHS1): Preliminary RDI",
-  "description": "",
+  "display_name": "Polysomnogram (PSG) Quality Assessment (Sleep Heart Health Study Visit One (SHHS1)): Preliminary Respiratory Disturbance Index (RDI)",
+  "description": "The Quality Assessment forms were completed by the scorer during preliminary review of the study, finalized after final scoring.  Variable not used in Sleep Heart Health Study Visit 2 (SHHS2).",
   "type": "numeric",
   "units": "events per hour",
-  "forms": [
-    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement sleep",
+    "rapid eye movement sleep"
   ]
 }

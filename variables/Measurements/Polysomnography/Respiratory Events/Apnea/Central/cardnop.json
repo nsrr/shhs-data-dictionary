@@ -1,7 +1,10 @@
 {
   "id": "cardnop",
-  "display_name": "Central Apnea per hour (NREM, Other, all oxygen desaturations)",
+  "display_name": "Central Apnea per hour (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "non-rem"
+  ]
 }

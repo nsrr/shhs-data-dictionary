@@ -1,10 +1,11 @@
 {
   "id": "hi214",
-  "display_name": "Health Interview (SHHS2): restless leg symptoms during what time of day",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): restless leg symptoms during what time of day",
   "description": "C. Restless legs  [Questions #11-15 refer to all symptoms you checked as present in item #8.11.] 14. What time of day do they occur? (check the one best answer):",
   "type": "choices",
   "domain": "timeday4",
   "labels": [
-    "RLS"
+    "rls",
+    "willis -ekbom disease"
   ]
 }

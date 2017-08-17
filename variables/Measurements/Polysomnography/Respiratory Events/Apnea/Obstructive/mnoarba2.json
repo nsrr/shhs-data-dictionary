@@ -1,6 +1,6 @@
 {
   "id": "mnoarba2",
-  "display_name": "Minimum Obstructive Apnea length w/ arousals (REM, Back, 2% oxygen desaturation)",
+  "display_name": "Minimum Obstructive Apnea length with >=2% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

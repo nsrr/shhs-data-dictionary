@@ -3,5 +3,15 @@
   "display_name": "Delta power density in sleep",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz"
+  "units": "microvolts squared per hertz",
+  "labels": [
+    "one",
+    "1",
+    "2",
+    "two",
+    "3",
+    "three",
+    "4",
+    "four"
+  ]
 }

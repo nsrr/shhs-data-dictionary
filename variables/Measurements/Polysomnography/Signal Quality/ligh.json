@@ -1,7 +1,0 @@
-{
-  "id": "ligh",
-  "display_name": "Was the light sensor calibrated appropriately?",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

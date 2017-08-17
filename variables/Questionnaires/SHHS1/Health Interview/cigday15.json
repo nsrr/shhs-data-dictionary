@@ -1,15 +1,10 @@
 {
   "id": "cigday15",
-  "display_name": "Health Interview (SHHS1): cigarettes smoked per day",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): cigarettes smoked per day",
   "description": "If yes to [SMKNOW15]: How many cigarettes do you smoke per day now? (number per day, up to 2 digits)",
   "type": "numeric",
   "units": "cigarettes per day",
   "labels": [
     "smoking"
-  ],
-  "forms": [
-    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
-    "shhs1_health_interview_form_framingham",
-    "shhs1_health_interview_form_new_york"
   ]
 }

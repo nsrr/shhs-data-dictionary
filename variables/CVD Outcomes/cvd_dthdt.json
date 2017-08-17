@@ -1,12 +1,11 @@
 {
   "id": "cvd_dthdt",
-  "display_name": "Days to First CVD Since Baseline",
-  "description": "Time since SHHS 1 Sleep Study to date of CVD death",
+  "display_name": "Days to First Cardiovascular Disease (CVD) Since Baseline",
+  "description": "Time since Sleep Heart Health Study Visit One (SHHS 1) Sleep Study to date of Cardiovascular Disease (CVD) death",
   "type": "numeric",
   "units": "days from index date",
   "labels": [
     "adjudicated",
-    "tto_cvddthdt",
-    "cardiovascular disease"
+    "tto_cvddthdt"
   ]
 }

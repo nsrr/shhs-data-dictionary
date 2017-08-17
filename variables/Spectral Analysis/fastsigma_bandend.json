@@ -5,6 +5,13 @@
   "type": "numeric",
   "units": "hertz",
   "labels": [
-    "Hz"
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement",
+    "hz",
+    "13.5 through 15",
+    "thirteen and a half through fifteen"
   ]
 }

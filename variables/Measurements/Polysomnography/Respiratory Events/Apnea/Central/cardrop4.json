@@ -1,6 +1,6 @@
 {
   "id": "cardrop4",
-  "display_name": "Central Apnea per hour (REM, Other, 4% oxygen desaturation)",
+  "display_name": "Central Apnea per hour (Rapid eye movement sleep (REM), Non-supine, >=4% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "events per hour"

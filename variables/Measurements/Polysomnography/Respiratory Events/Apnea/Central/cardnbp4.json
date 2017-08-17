@@ -1,7 +1,10 @@
 {
   "id": "cardnbp4",
-  "display_name": "Central Apnea per hour (NREM, Back, 4% oxygen desaturation)",
-  "description": "Central Apnea per hour (NREM, Back, 4% oxygen desaturation)",
+  "display_name": "Central Apnea per hour (Non-rapid eye movement sleep (NREM), Supine, >=4% oxygen desaturation)",
+  "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "non-rem"
+  ]
 }

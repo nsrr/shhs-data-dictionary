@@ -1,10 +1,7 @@
 {
   "id": "cough02",
-  "display_name": "Sleep Habits (SHHS1): Frequency of being awakened with coughing",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Frequency of being awakened with coughing",
   "description": "In the past year, how often, on average, have you been awakened with coughing?",
   "type": "choices",
-  "domain": "nevralw5",
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
-  ]
+  "domain": "nevralw5"
 }

@@ -1,6 +1,6 @@
 {
   "id": "avcaroa3",
-  "display_name": "Average Central Apnea length w/ arousals (REM, Other, 3% oxygen desaturation)",
+  "display_name": "Average Central Apnea length with >=3% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

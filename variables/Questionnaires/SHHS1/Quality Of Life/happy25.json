@@ -1,13 +1,7 @@
 {
   "id": "happy25",
-  "display_name": "Quality of Life (SHHS1): Been a happy person",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Been a happy person",
   "description": "During the past 4 weeks, how much of the time: Have you been a happy person?",
   "type": "choices",
-  "domain": "allnone6",
-  "labels": [
-    "QOL"
-  ],
-  "forms": [
-    "shhs1_quality_of_life_sf_36_form"
-  ]
+  "domain": "allnone6"
 }

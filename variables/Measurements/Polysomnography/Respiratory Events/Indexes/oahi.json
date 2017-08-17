@@ -1,13 +1,16 @@
 {
   "id": "oahi",
-  "display_name": "Obstructive Apnea Hypopnea Index (OAHI) at 4% oxygen desaturation",
-  "description": "",
+  "display_name": "Obstructive Apnea-Hypopnea Index (OAHI) at >=4% oxygen desaturation",
+  "description": "Obstructive apnea (all desaturations) hypopnea (>=4% desaturation) index",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp4 + hrop4 + hnrbp4 + hnrop4 + oarbp + oarop + oanbp + oanop ) / slpprdp",
   "labels": [
-    "rdi",
-    "ahi"
+    "non-rem",
+    "rem",
+    "nrem",
+    "rapid eye movement sleep",
+    "non-rapid eye movement sleep"
   ],
   "commonly_used": true
 }

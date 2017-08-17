@@ -1,7 +1,7 @@
 {
   "id": "mxhrba",
-  "display_name": "Maximum Hypopnea length w/ arousals (REM, Back, all oxygen desaturations)",
-  "description": "Maximum Hypopnea length w/ arousals (REM, Back, all oxygen desaturations) (seconds)",
+  "display_name": "Maximum Hypopnea length w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [

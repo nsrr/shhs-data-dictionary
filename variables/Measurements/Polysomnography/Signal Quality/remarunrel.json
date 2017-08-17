@@ -1,7 +1,0 @@
-{
-  "id": "remarunrel",
-  "display_name": "PSG Quality Assessment (SHHS2): Arousals unreliable (REM)",
-  "description": "Due to signal problems, scorer was unable to reliably assess arousals in stage REM.  The scoring of arousals in stage REM was determined to be unreliable.",
-  "type": "choices",
-  "domain": "yesnon"
-}

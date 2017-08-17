@@ -1,10 +1,7 @@
 {
   "id": "sh310",
-  "display_name": "Sleep Habits (SHHS2): Frequency of snoring",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Frequency of snoring",
   "description": "Questions 9 through 15 are about snoring and breathing during sleep. To answer these questions, please consider both what others have told you AND what you know about yourself.  10. How often do you snore now? (check one)",
   "type": "choices",
-  "domain": "snore6",
-  "forms": [
-    "shhs2_sleep_habits_questionnaire"
-  ]
+  "domain": "snore6"
 }

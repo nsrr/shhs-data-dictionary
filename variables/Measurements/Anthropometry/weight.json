@@ -1,11 +1,12 @@
 {
   "id": "weight",
-  "display_name": "Weight (SHHS1)",
+  "display_name": "Weight (Sleep Heart Health Study Visit One (SHHS1))",
   "description": "Weight in kilograms",
   "type": "numeric",
   "units": "kilograms",
   "labels": [
-    "kg"
+    "kg",
+    "wt"
   ],
   "commonly_used": true
 }

@@ -1,13 +1,7 @@
 {
   "id": "ql211d",
-  "display_name": "Quality of Life (SHHS2): Health is excellent",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Health is excellent",
   "description": "11. Please choose the answer that best describes how true or false each of the following statements is for you.  d. My health is excellent.",
   "type": "choices",
-  "domain": "trufals5",
-  "labels": [
-    "QOL"
-  ],
-  "forms": [
-    "shhs2_quality_of_life_sf_36_form"
-  ]
+  "domain": "trufals5"
 }

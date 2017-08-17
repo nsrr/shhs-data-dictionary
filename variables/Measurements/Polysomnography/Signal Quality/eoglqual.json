@@ -1,7 +1,0 @@
-{
-  "id": "eoglqual",
-  "display_name": "Quality of the EOGL signal",
-  "description": "",
-  "type": "choices",
-  "domain": "sigqual"
-}

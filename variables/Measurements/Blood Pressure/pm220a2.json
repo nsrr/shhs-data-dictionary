@@ -1,13 +1,11 @@
 {
   "id": "pm220a2",
-  "display_name": "Diastolic BP (measurement 1) (SHHS2)",
-  "description": "20. Seated Blood Pressure: a. First reading: diastolic",
+  "display_name": "Diastolic blood pressure (BP) (measurement 1) (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "20. Seated Blood Pressure (BP): a. First reading: diastolic",
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "mmHg"
-  ],
-  "forms": [
-    "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"
+    "mmhg",
+    "1st"
   ]
 }

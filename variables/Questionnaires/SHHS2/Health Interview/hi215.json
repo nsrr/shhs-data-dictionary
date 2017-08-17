@@ -1,13 +1,11 @@
 {
   "id": "hi215",
-  "display_name": "Health Interview (SHHS2): Age when restless leg symptoms first noticed",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): Age when restless leg symptoms first noticed",
   "description": "C. Restless legs  [Questions #11-15 refer to all symptoms you checked as present in item #8.11.] 15. How old were you when you first noticed these symptoms? (write in \"D\" if Don't know)  _____ _____ age in years (approximate OK)",
   "type": "numeric",
   "units": "years",
   "labels": [
-    "RLS"
-  ],
-  "forms": [
-    "shhs2_health_interview"
+    "rls",
+    "willis -ekbom disease"
   ]
 }

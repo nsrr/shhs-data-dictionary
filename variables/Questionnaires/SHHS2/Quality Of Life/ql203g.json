@@ -1,13 +1,7 @@
 {
   "id": "ql203g",
-  "display_name": "Quality of Life (SHHS2): Health limits walking more than a mile",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Health limits walking more than a mile",
   "description": "3. The following questions are about activities you might do during a typical day. Does your health now limit you in these activities? If so, how much? (Check one box for each question.) g. Walking more than a mile.",
   "type": "choices",
-  "domain": "lotlitn",
-  "labels": [
-    "QOL"
-  ],
-  "forms": [
-    "shhs2_quality_of_life_sf_36_form"
-  ]
+  "domain": "lotlitn"
 }

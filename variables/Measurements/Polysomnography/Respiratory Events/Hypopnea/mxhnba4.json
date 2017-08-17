@@ -1,10 +1,11 @@
 {
   "id": "mxhnba4",
-  "display_name": "Maximum Hypopnea length w/ arousals (NREM, Back, 4% oxygen desaturation)",
+  "display_name": "Maximum Hypopnea length with >=4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "duration"
+    "duration",
+    "non-rem"
   ]
 }

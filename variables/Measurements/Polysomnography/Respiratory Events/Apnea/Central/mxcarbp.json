@@ -1,6 +1,6 @@
 {
   "id": "mxcarbp",
-  "display_name": "Maximum Central Apnea length (REM, Back, all oxygen desaturations)",
+  "display_name": "Maximum Central Apnea length (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

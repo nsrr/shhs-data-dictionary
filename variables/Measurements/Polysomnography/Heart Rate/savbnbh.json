@@ -1,11 +1,12 @@
 {
   "id": "savbnbh",
-  "display_name": "Average Heart Rate (NREM, Back, all oxygen desaturations)",
+  "display_name": "Average Heart Rate (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
     "bpm",
-    "HR"
+    "hr",
+    "non-rem"
   ]
 }

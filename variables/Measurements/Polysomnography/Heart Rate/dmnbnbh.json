@@ -1,11 +1,12 @@
 {
   "id": "dmnbnbh",
-  "display_name": "Minimum Heart Rate with arousal (NREM, Back, 3% oxygen desaturation)",
+  "display_name": "Minimum Heart Rate with arousal (Non-rapid eye movement sleep (NREM), Supine, >=3% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
     "bpm",
-    "HR"
+    "hr",
+    "non-rem"
   ]
 }

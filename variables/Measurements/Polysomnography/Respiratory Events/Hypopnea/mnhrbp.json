@@ -1,6 +1,6 @@
 {
   "id": "mnhrbp",
-  "display_name": "Minimum Hypopnea length (REM, Back, all oxygen desaturations)",
+  "display_name": "Minimum Hypopnea length (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

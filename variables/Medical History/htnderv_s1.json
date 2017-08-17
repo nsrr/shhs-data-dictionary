@@ -1,11 +1,13 @@
 {
   "id": "htnderv_s1",
-  "display_name": "Hypertension (SHHS1)",
-  "description": "Hypertension Status based on 2nd and 3rd BP readings OR being treated with HTN meds",
+  "display_name": "Hypertension (HTN) (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Hypertension (HTN) Status based on 2nd and 3rd blood pressure readings OR being treated with hypertension (HTN) meds",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "hypertension"
+    "high blood pressure",
+    "second",
+    "third"
   ],
   "commonly_used": true
 }

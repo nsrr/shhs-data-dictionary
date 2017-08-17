@@ -1,13 +1,11 @@
 {
   "id": "prev_mip",
   "display_name": "Number of Procedures Related to Heart Attack Prior to Baseline",
-  "description": "MI/procedure prior to baseline PSG (as recorded in parent studies datasets)",
+  "description": "Myocardial infarction (MI)/procedure prior to baseline Polysomnography (PSG) (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",
   "labels": [
-    "adjudicated",
-    "myocardial infarction",
-    "heart attack"
+    "adjudicated"
   ],
   "commonly_used": true
 }

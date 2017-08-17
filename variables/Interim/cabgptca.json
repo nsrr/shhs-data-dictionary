@@ -1,10 +1,7 @@
 {
   "id": "cabgptca",
-  "display_name": "CABG/PTCA during interval since the prior parent exam",
+  "display_name": "Coronary artery bypass graft surgery (CABG)/Percutaneous transluminal coronary angioplasty (PTCA) during interval since the prior parent exam",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "bypass"
-  ]
+  "domain": "noyes01"
 }

@@ -3,5 +3,10 @@
   "display_name": "Slow sigma band start",
   "description": "",
   "type": "numeric",
-  "units": "hertz"
+  "units": "hertz",
+  "labels": [
+    "hz",
+    "12-13.5",
+    "twelve through thirteen and a half"
+  ]
 }

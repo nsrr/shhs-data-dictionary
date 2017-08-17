@@ -1,6 +1,6 @@
 {
   "id": "scremp",
-  "display_name": "Time in REM sleep (SHHS1)",
+  "display_name": "Time in rapid eye movement sleep (REM)(Sleep Heart Health Study Visit One (SHHS1))",
   "description": "",
   "type": "numeric",
   "units": "minutes"

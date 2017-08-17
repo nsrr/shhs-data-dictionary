@@ -1,13 +1,10 @@
 {
   "id": "cgrtts10",
-  "display_name": "Morning Survey (SHHS1): cigarettes before bed",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit One (SHHS1)): cigarettes before bed",
   "description": "How many cigarettes 4 hours before going to sleep last night? (number, up to 2 digits)",
   "type": "numeric",
   "units": "cigarettes",
   "labels": [
     "smoking"
-  ],
-  "forms": [
-    "shhs1_morning_survey_form"
   ]
 }

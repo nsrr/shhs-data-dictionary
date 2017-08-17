@@ -1,13 +1,7 @@
 {
   "id": "exefrt25",
-  "display_name": "Quality of Life (SHHS1): Health causes difficulty performing work",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Health causes difficulty performing work",
   "description": "During the past 4 weeks, have you had this problem with work or other regular daily activities because of physical health: Had difficulty performing the work or other activities. (For example, it took extra effort.)",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "QOL"
-  ],
-  "forms": [
-    "shhs1_quality_of_life_sf_36_form"
-  ]
+  "domain": "noyes01"
 }

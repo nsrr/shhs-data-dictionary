@@ -1,13 +1,7 @@
 {
   "id": "climbs25",
-  "display_name": "Quality of Life (SHHS1): Health limits climbing several flights of stairs",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Health limits climbing several flights of stairs",
   "description": "Does your health now limit you in this activity, and if so, how much: Climbing several flights of stairs",
   "type": "choices",
-  "domain": "lotlit3",
-  "labels": [
-    "QOL"
-  ],
-  "forms": [
-    "shhs1_quality_of_life_sf_36_form"
-  ]
+  "domain": "lotlit3"
 }

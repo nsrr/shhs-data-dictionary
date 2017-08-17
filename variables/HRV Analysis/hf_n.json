@@ -3,5 +3,8 @@
   "display_name": "High frequency power (normalized)",
   "description": "",
   "type": "numeric",
-  "calculation": "hf_n = hf / (lf + hf)"
+  "calculation": "hf_n = hf / (lf + hf)",
+  "labels": [
+    "heart rate variability"
+  ]
 }

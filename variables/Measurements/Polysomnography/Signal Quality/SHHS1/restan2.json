@@ -1,0 +1,7 @@
+{
+  "id": "restan2",
+  "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Scoring started after sleep onset",
+  "description": " indicate when the recording either started or ended in sleep",
+  "type": "choices",
+  "domain": "noyes01"
+}

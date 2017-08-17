@@ -1,6 +1,10 @@
 {
   "id": "fastsigma_logrem",
-  "display_name": "Log transformed fast sigma power density in REM sleep",
+  "display_name": "Log transformed fast sigma power density in rapid eye movement sleep (REM) ",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "13.5 through 15",
+    "thirteen and a half through fifteen"
+  ]
 }

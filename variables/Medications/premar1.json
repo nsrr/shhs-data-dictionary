@@ -1,13 +1,10 @@
 {
   "id": "premar1",
-  "display_name": "Premarin (Conjugated Estrogens) (SHHS1)",
-  "description": "Participant taking PREMARIN (CONJUGATED ESTROGENS) within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Premarin (Conjugated Estrogens) (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Participant taking PREMARIN (CONJUGATED ESTROGENS) within two weeks of the Sleep Heart Health Study Visit One (SHHS1) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "hormone therapy"
-  ],
-  "forms": [
-    "shhs1_medications_prescription_and_over_the_counter_form"
   ]
 }

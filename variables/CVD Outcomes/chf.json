@@ -1,12 +1,11 @@
 {
   "id": "chf",
-  "display_name": "Number of CHFs Since to Baseline",
-  "description": "Congestive Heart Failure (CHF) since baseline PSG (as recorded in parent studies datasets)",
+  "display_name": "Number of Congestive Heart Failures (CHFs) Since to Baseline",
+  "description": "Congestive Heart Failure (CHF) since baseline Polysomnogram (PSG) (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",
   "labels": [
-    "adjudicated",
-    "congestive heart failure"
+    "adjudicated"
   ],
   "commonly_used": true
 }

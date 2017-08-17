@@ -3,5 +3,12 @@
   "display_name": "Number of sleep to awake shifts per hour",
   "description": "",
   "type": "numeric",
-  "units": "stage shifts"
+  "units": "stage shifts",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement",
+    "rem",
+    "rapid eye movement"
+  ]
 }

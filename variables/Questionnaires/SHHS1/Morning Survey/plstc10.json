@@ -1,10 +1,10 @@
 {
   "id": "plstc10",
-  "display_name": "Morning Survey (SHHS1): discomfort from plastic piece over lip",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit One (SHHS1)): discomfort from plastic piece over lip",
   "description": "How much discomfort caused by these parts of the monitor: plastic piece over lip?",
   "type": "choices",
   "domain": "none4",
-  "forms": [
-    "shhs1_morning_survey_form"
+  "labels": [
+    "cannula"
   ]
 }

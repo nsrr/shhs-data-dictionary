@@ -1,6 +1,6 @@
 {
   "id": "lengpmnap",
-  "display_name": "Sleep Habits (SHHS2): Total nap time",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Total nap time",
   "description": "",
   "type": "numeric",
   "units": "minutes"

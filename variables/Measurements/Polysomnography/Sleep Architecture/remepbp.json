@@ -1,6 +1,6 @@
 {
   "id": "remepbp",
-  "display_name": "Sleep Time (REM, Back)",
+  "display_name": "Sleep Time (Rapid eye movement sleep (REM), Supine)",
   "description": "",
   "type": "numeric",
   "units": "minutes"

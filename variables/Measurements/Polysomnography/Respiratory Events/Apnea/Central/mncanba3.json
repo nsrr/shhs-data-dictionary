@@ -1,10 +1,11 @@
 {
   "id": "mncanba3",
-  "display_name": "Minimum Central Apnea length w/ arousals (NREM, Back, 3% oxygen desaturation)",
+  "display_name": "Minimum Central Apnea length with >=3% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "duration"
+    "duration",
+    "non-rem"
   ]
 }

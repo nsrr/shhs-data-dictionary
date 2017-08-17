@@ -1,11 +1,8 @@
 {
   "id": "cgpkyr",
-  "display_name": "Cigarette pack-years (SHHS1)",
+  "display_name": "Cigarette pack-years (Sleep Heart Health Study Visit One (SHHS1))",
   "description": "Lifetime cigarette smoking: pack years",
   "type": "numeric",
   "units": "pack years",
-  "labels": [
-    "smoking"
-  ],
   "commonly_used": true
 }

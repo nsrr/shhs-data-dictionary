@@ -1,7 +1,0 @@
-{
-  "id": "stg2stg3pr",
-  "display_name": "PSG Quality Assessment (SHHS2): Stage2/Stage3-4 Scoring unreliable",
-  "description": "Scorer noted that there was a problem differentiating stage 2 and stage 3/4 sleep.",
-  "type": "choices",
-  "domain": "yesnon"
-}

@@ -1,6 +1,6 @@
 {
   "id": "midt",
-  "display_name": "Days from index date to Myocardial Infarction",
+  "display_name": "Days from index date to myocardial infarction (MI)",
   "description": "",
   "type": "numeric",
   "units": "days from index date",

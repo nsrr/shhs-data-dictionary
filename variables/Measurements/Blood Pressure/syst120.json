@@ -1,13 +1,11 @@
 {
   "id": "syst120",
-  "display_name": "Systolic BP: reading 1 of 3 (SHHS1)",
-  "description": "Seated systolic BP- first reading",
+  "display_name": "Systolic blood pressure (BP): reading 1 of 3 (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Seated systolic blood pressure (BP)- first reading",
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "mmHg"
-  ],
-  "forms": [
-    "shhs1_seated_bp_weight_neck_circumference_form"
+    "mmhg",
+    "1st"
   ]
 }

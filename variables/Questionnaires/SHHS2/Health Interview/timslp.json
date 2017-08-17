@@ -1,6 +1,9 @@
 {
   "id": "timslp",
-  "display_name": "Health Interview (SHHS2): Time went to sleep last night",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): Time went to sleep last night",
   "description": "",
-  "type": "text"
+  "type": "text",
+  "labels": [
+    "bedtime"
+  ]
 }

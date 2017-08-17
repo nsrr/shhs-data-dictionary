@@ -1,7 +1,0 @@
-{
-  "id": "remnrempr",
-  "display_name": "PSG Quality Assessment (SHHS2): REM/NREM Scoring unreliable",
-  "description": "Scorer noted that there was a problem differentiating REM  and non-REM sleep.",
-  "type": "choices",
-  "domain": "yesnon"
-}

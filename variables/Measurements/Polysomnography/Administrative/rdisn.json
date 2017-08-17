@@ -1,10 +1,14 @@
 {
   "id": "rdisn",
-  "display_name": "PSG Scoring Notes (SHHS1): RDI as assessed by scorer",
-  "description": "",
+  "display_name": "Polysomnogram (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Respiratory Disturbance Index (RDI) as assessed by scorer",
+  "description": "The Quality Assessment forms were completed by the scorer during preliminary review of the study, finalized after final scoring",
   "type": "numeric",
   "units": "events per hour",
-  "forms": [
-    "shhs1_psg_scoring_notes_form"
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement sleep",
+    "rapid eye movement sleep"
   ]
 }

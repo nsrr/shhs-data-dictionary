@@ -1,13 +1,11 @@
 {
   "id": "hi213",
-  "display_name": "Health Interview (SHHS2): restless leg symptoms improve with walking",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): restless leg symptoms improve with walking",
   "description": "C. Restless legs  [Questions #11-15 refer to all symptoms you checked as present in item #8.11.] 13. Do the symptoms improve if you get up and start walking?",
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "RLS"
-  ],
-  "forms": [
-    "shhs2_health_interview"
+    "rls",
+    "willis -ekbom disease"
   ]
 }

@@ -1,7 +1,11 @@
 {
   "id": "hf",
-  "display_name": "High frequency power: the NN interval spectral power between 0.15 and 0.4 Hz",
+  "display_name": "High frequency power: the normal sinus to normal sinus interbeat (NN) interval spectral power between 0.15 and 0.4 Hz",
   "description": "",
   "type": "numeric",
-  "units": "milliseconds squared"
+  "units": "milliseconds squared",
+  "labels": [
+    "heart rate variability",
+    "ms2"
+  ]
 }

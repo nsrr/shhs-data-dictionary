@@ -1,7 +1,11 @@
 {
   "id": "ulf",
-  "display_name": "Ultra-low frequency power: the NN interval spectral power between 0 and 0.003 Hz",
+  "display_name": "Ultra-low frequency power: the normal sinus to normal sinus interbeat (NN) interval spectral power between 0 and 0.003 Hz",
   "description": "",
   "type": "numeric",
-  "units": "milliseconds squared"
+  "units": "milliseconds squared",
+  "labels": [
+    "heart rate variability",
+    "ms2"
+  ]
 }

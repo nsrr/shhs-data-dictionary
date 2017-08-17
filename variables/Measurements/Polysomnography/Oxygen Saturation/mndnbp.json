@@ -1,10 +1,11 @@
 {
   "id": "mndnbp",
-  "display_name": "Minimum SaO2 (NREM, Back, all oxygen desaturations)",
+  "display_name": "Minimum oxygen saturation (SaO2) (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "oximetry"
+    "oximetry",
+    "non-rem"
   ]
 }

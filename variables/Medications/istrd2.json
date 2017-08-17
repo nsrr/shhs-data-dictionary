@@ -1,14 +1,11 @@
 {
   "id": "istrd2",
-  "display_name": "Inhaled Steroids For Asthma (SHHS2)",
-  "description": "Participant taking INHALED STEROIDS FOR ASTHMA within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Inhaled Steroids For Asthma (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking INHALED STEROIDS FOR ASTHMA within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "asthma"
   ],
-  "commonly_used": true,
-  "forms": [
-    "shhs2_medication_form"
-  ]
+  "commonly_used": true
 }

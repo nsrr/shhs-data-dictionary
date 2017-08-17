@@ -3,5 +3,18 @@
   "display_name": "Theta band end",
   "description": "",
   "type": "numeric",
-  "units": "hertz"
+  "units": "hertz",
+  "labels": [
+    "hz",
+    "4",
+    "four",
+    "5",
+    "five",
+    "6",
+    "six",
+    "7",
+    "seven",
+    "8",
+    "eight"
+  ]
 }

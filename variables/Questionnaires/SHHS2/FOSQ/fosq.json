@@ -1,10 +1,7 @@
 {
   "id": "fosq",
-  "display_name": "FOSQ Score",
-  "description": "Functional Outcomes of Sleep Questionnaire (FOSQ) score",
+  "display_name": "Functional Outcomes of Sleep Questionnaire (FOSQ) Score",
+  "description": "",
   "type": "numeric",
-  "labels": [
-    "functional outcomes of sleep questionnaire"
-  ],
   "commonly_used": true
 }

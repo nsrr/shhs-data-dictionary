@@ -1,7 +1,15 @@
 {
   "id": "hremt34p",
-  "display_name": "Number of REM to stage 3/4 shifts per hour of sleep",
+  "display_name": "Number of rapid eye movement sleep (REM) to stage 3/4 shifts per hour of sleep",
   "description": "",
   "type": "numeric",
-  "units": "stage shifts"
+  "units": "stage shifts",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement",
+    "delta",
+    "slow wave",
+    "sws"
+  ]
 }

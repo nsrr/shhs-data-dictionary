@@ -1,13 +1,10 @@
 {
   "id": "wine10",
-  "display_name": "Morning Survey (SHHS1): glasses of wine before bed",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit One (SHHS1)): glasses of wine before bed",
   "description": "How many glasses of wine 4 hours before going to sleep last night? (number, up to 2 digits)",
   "type": "numeric",
   "units": "glasses",
   "labels": [
     "alcohol"
-  ],
-  "forms": [
-    "shhs1_morning_survey_form"
   ]
 }

@@ -1,7 +1,21 @@
 {
   "id": "beta_rem",
-  "display_name": "Beta power density in REM sleep",
+  "display_name": "Beta power density in rapid eye movement sleep (REM) ",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz"
+  "units": "microvolts squared per hertz",
+  "labels": [
+    "fifteen",
+    "15",
+    "16",
+    "sixteen",
+    "17",
+    "seventeen",
+    "18",
+    "eighteen",
+    "19",
+    "nineteen",
+    "20",
+    "twenty"
+  ]
 }

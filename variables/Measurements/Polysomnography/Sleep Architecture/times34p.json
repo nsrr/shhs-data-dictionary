@@ -1,12 +1,20 @@
 {
   "id": "times34p",
   "display_name": "Percent Time in Stage 3/4",
-  "description": "Percent of sleep time in stage 3-4",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "calculation": "tmstg34p",
   "labels": [
-    "NREM"
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement",
+    "delta",
+    "sws",
+    "slow wave",
+    "%"
   ],
   "commonly_used": true
 }

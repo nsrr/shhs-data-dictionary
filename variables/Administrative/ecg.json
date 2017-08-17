@@ -1,10 +1,10 @@
 {
   "id": "ecg",
-  "display_name": "Has ECG data (SHHS1)",
-  "description": "ECG data available",
+  "display_name": "Has electrocardiogram (ECG) data (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "EKG"
+    "ekg"
   ]
 }

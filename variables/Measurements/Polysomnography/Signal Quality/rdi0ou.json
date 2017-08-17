@@ -1,7 +1,0 @@
-{
-  "id": "rdi0ou",
-  "display_name": "PSG Quality Assessment (SHHS2): RDI=0 real",
-  "description": "If RDI = 0, scorer has verified that this value is real.",
-  "type": "choices",
-  "domain": "yesnon"
-}

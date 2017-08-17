@@ -1,14 +1,11 @@
 {
   "id": "pdei2",
-  "display_name": "Phosphodiesterase Inhibitors (SHHS2)",
-  "description": "Participant taking PHOSPHODIESTERASE INHIBITORS within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Phosphodiesterase Inhibitors (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking PHOSPHODIESTERASE INHIBITORS within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "erectile dysfunction",
-    "ED"
-  ],
-  "forms": [
-    "shhs2_medication_form"
+    "ed"
   ]
 }

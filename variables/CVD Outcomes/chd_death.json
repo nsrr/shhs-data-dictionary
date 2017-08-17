@@ -1,13 +1,11 @@
 {
   "id": "chd_death",
-  "display_name": "Fatal CHD Since Baseline?",
+  "display_name": "Fatal Coronary Heart Disease (CHD) Since Baseline?",
   "description": "Coronary Heart Disease (CHD) death (as recorded in parent studies datasets)",
   "type": "choices",
   "domain": "noyes",
   "labels": [
-    "adjudicated",
-    "chd_death",
-    "coronary heart disease"
+    "adjudicated"
   ],
   "commonly_used": true
 }

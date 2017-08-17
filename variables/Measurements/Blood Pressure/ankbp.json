@@ -1,10 +1,10 @@
 {
   "id": "ankbp",
-  "display_name": "Supine ankle systolic blood pressure",
+  "display_name": "Supine ankle systolic blood pressure (BP)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "mmHg"
+    "mmhg"
   ]
 }

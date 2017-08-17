@@ -5,6 +5,14 @@
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "NREM"
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement",
+    "%",
+    "sws",
+    "slow wave",
+    "delta"
   ]
 }

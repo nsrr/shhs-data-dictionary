@@ -1,10 +1,11 @@
 {
   "id": "chindur",
   "display_name": "Hours of usable chin signal",
-  "description": "",
+  "description": "Useable data for EEG/EOG/EMG data is defined by the number of hours that sleep stages can be distinguished from awake.  Hours of useable signal are rounded out to the lowest whole integer (e.g. 4.6 hours of useable data = 4).    ",
   "type": "numeric",
   "units": "hours",
   "labels": [
-    "EMG"
+    "emg",
+    "hrs"
   ]
 }

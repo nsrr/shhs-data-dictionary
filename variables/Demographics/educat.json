@@ -1,7 +1,7 @@
 {
   "id": "educat",
-  "display_name": "Education level (SHHS1)",
-  "description": "Educational level: number of years",
+  "display_name": "Education level (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "",
   "type": "choices",
   "domain": "eduyears",
   "commonly_used": true

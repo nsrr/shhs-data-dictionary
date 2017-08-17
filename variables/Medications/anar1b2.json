@@ -1,13 +1,10 @@
 {
   "id": "anar1b2",
-  "display_name": "Anti-Arrhythmics, Class 1B (SHHS2)",
-  "description": "Participant taking ANTI-ARRHYTHMICS, CLASS 1B within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Anti-Arrhythmics, Class 1B (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking ANTI-ARRHYTHMICS, CLASS 1B within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "arrhythmia"
-  ],
-  "forms": [
-    "shhs2_medication_form"
   ]
 }

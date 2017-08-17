@@ -1,10 +1,10 @@
 {
   "id": "armbp",
-  "display_name": "Supine arm systolic blood pressure",
+  "display_name": "Supine arm systolic blood pressure (BP)",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "mmHg"
+    "mmhg"
   ]
 }

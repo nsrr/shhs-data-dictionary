@@ -1,14 +1,10 @@
 {
   "id": "infmi",
-  "display_name": "Inferior myocardial infarction",
-  "description": "Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
+  "display_name": "Inferior myocardial infarction (MI)",
+  "description": "Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
   "type": "choices",
   "domain": "infmi",
   "labels": [
-    "ECG",
-    "MI",
-    "myocardial",
-    "infarction",
     "heart attack"
   ]
 }

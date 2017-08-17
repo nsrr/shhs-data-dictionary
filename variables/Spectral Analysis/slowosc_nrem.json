@@ -1,7 +1,13 @@
 {
   "id": "slowosc_nrem",
-  "display_name": "Slow oscillation power density in NREM sleep",
+  "display_name": "Slow oscillation power density in non-rapid eye movement sleep (NREM)",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz"
+  "units": "microvolts squared per hertz",
+  "labels": [
+    "non-rem",
+    "0.5 through 1",
+    "one",
+    "0.5-1"
+  ]
 }

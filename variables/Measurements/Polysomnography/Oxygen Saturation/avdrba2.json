@@ -1,6 +1,6 @@
 {
   "id": "avdrba2",
-  "display_name": "Average oxygen desaturation w/ arousals (REM, Back, 2% oxygen desaturation)",
+  "display_name": "Average oxygen desaturation w/ arousals (Rapid eye movement sleep (REM), Supine, >=2% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "percent",

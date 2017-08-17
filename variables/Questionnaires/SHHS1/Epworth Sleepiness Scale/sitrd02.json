@@ -1,13 +1,10 @@
 {
   "id": "sitrd02",
-  "display_name": "Sleep Habits (SHHS1): Fall asleep while sitting and reading",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Fall asleep while sitting and reading",
   "description": "What is the chance that you would doze off or fall asleep while sitting and reading?",
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
     "ess1"
-  ],
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
   ]
 }

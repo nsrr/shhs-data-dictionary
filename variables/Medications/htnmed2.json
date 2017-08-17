@@ -1,14 +1,11 @@
 {
   "id": "htnmed2",
-  "display_name": "Any Anti-Hypertensive Medication (SHHS2)",
-  "description": "Participant taking ANY ANTI-HYPERTENSIVE MEDICATION within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Any Anti-Hypertensive Medication (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking ANY ANTI-HYPERTENSIVE MEDICATION within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "hypertension"
   ],
-  "commonly_used": true,
-  "forms": [
-    "shhs2_medication_form"
-  ]
+  "commonly_used": true
 }

@@ -1,13 +1,10 @@
 {
   "id": "incar02",
-  "display_name": "Sleep Habits (SHHS1): Fall asleep while in a car",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Fall asleep while in a car",
   "description": "What is chance that you would doze off or fall asleep while in a car, while stopped for a few minutes in traffic?",
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
     "ess8"
-  ],
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
   ]
 }

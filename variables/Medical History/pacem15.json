@@ -1,12 +1,7 @@
 {
   "id": "pacem15",
-  "display_name": "History of Pacemaker (SHHS1)",
-  "description": "MD said participant had pace maker?",
+  "display_name": "History of Pacemaker (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Doctor of Medicine (MD) said participant had pacemaker?",
   "type": "choices",
-  "domain": "yesnod",
-  "forms": [
-    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
-    "shhs1_health_interview_form_framingham",
-    "shhs1_health_interview_form_new_york"
-  ]
+  "domain": "yesnod"
 }

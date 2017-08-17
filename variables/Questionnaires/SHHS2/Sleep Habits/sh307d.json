@@ -1,10 +1,7 @@
 {
   "id": "sh307d",
-  "display_name": "Sleep Habits (SHHS2): Other reason for nap",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Other reason for nap",
   "description": "7. What are your reasons for regular napping in the afternoon? (check all that apply)  d. Other (please explain).",
   "type": "choices",
-  "domain": "check",
-  "forms": [
-    "shhs2_sleep_habits_questionnaire"
-  ]
+  "domain": "check"
 }

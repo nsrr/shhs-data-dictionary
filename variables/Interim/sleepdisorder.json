@@ -3,5 +3,8 @@
   "display_name": "Told by doctor or some other sleep disorder",
   "description": "",
   "type": "choices",
-  "domain": "yesnod"
+  "domain": "yesnod",
+  "labels": [
+    "md"
+  ]
 }

@@ -1,8 +1,15 @@
 {
   "id": "oai4pa",
-  "display_name": "Obstructive Apnea Index 4% oxygen desaturation or arousal",
+  "display_name": "Obstructive Apnea Index >=4% oxygen desaturation or arousal",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "60 * ( oarba4 + oaroa4 + oanba4 + oanoa4 ) / slpprdp"
+  "calculation": "60 * ( oarba4 + oaroa4 + oanba4 + oanoa4 ) / slpprdp",
+  "labels": [
+    "non-rem",
+    "rem",
+    "nrem",
+    "rapid eye movement sleep",
+    "non-rapid eye movement sleep"
+  ]
 }

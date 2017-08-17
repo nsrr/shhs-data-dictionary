@@ -1,11 +1,12 @@
 {
   "id": "smxbnoh",
-  "display_name": "Maximum Heart Rate (NREM, Other, all oxygen desaturations)",
+  "display_name": "Maximum Heart Rate (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
     "bpm",
-    "HR"
+    "hr",
+    "non-rem"
   ]
 }

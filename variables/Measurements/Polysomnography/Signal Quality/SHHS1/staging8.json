@@ -1,0 +1,7 @@
+{
+  "id": "staging8",
+  "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Wake-Sleep unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

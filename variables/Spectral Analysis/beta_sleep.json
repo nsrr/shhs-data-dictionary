@@ -3,5 +3,19 @@
   "display_name": "Beta power density in sleep",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz"
+  "units": "microvolts squared per hertz",
+  "labels": [
+    "fifteen",
+    "15",
+    "16",
+    "sixteen",
+    "17",
+    "seventeen",
+    "18",
+    "eighteen",
+    "19",
+    "nineteen",
+    "20",
+    "twenty"
+  ]
 }

@@ -1,11 +1,11 @@
 {
   "id": "diasbp",
-  "display_name": "Average Diastolic BP (SHHS1)",
-  "description": "Seated Diastolic Blood Pressure",
+  "display_name": "Average Diastolic blood pressure (BP) (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Seated Diastolic Blood Pressure (BP)",
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [
-    "mmHg"
+    "mmhg"
   ],
   "commonly_used": true
 }

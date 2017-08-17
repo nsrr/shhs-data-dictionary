@@ -1,10 +1,12 @@
 {
   "id": "scstg1p",
-  "display_name": "Time in stage 1 sleep (SHHS1)",
+  "display_name": "Time in stage 1 sleep (Sleep Heart Health Study Visit One (SHHS1))",
   "description": "",
   "type": "numeric",
   "units": "minutes",
   "labels": [
-    "NREM"
+    "nrem",
+    "non-rem",
+    "non-rapid eye movement"
   ]
 }

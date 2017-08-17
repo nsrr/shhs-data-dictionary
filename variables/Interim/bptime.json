@@ -1,6 +1,6 @@
 {
   "id": "bptime",
-  "display_name": "Time blood pressure was measured",
+  "display_name": "Time blood pressure (BP) was measured",
   "description": "",
   "type": "time"
 }

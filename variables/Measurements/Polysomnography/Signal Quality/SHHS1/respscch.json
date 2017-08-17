@@ -1,0 +1,7 @@
+{
+  "id": "respscch",
+  "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Predominant (>=75%) Channel for Scoring Respiratory.  Variable not used for Sleep Heart Health Study Visit 2 (SHHS).",
+  "description": "",
+  "type": "choices",
+  "domain": "respch"
+}

@@ -1,6 +1,6 @@
 {
   "id": "avoaroa5",
-  "display_name": "Average Obstructive Apnea length w/ arousals (REM, Other, 5% oxygen desaturation)",
+  "display_name": "Average Obstructive Apnea length with >=5% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

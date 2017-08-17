@@ -1,7 +1,10 @@
 {
   "id": "diastolic1",
-  "display_name": "Diastolic blood pressure: first reading",
+  "display_name": "Diastolic blood pressure (BP): first reading",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg"
+  ]
 }

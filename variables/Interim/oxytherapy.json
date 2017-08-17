@@ -3,5 +3,8 @@
   "display_name": "Usually use oxygen therapy",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "labels": [
+    "o2"
+  ]
 }

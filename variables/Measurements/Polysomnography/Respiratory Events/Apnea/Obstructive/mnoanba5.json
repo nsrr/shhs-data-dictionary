@@ -1,10 +1,11 @@
 {
   "id": "mnoanba5",
-  "display_name": "Minimum Obstructive Apnea length w/ arousals (NREM, Back, 5% oxygen desaturation)",
+  "display_name": "Minimum Obstructive Apnea length with >=5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "duration"
+    "duration",
+    "non-rem"
   ]
 }

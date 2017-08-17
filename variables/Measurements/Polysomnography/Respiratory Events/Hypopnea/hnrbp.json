@@ -1,7 +1,10 @@
 {
   "id": "hnrbp",
-  "display_name": "Number of Hypopnea (NREM, Back, all oxygen desaturations)",
+  "display_name": "Number of Hypopnea (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "hypopnea events"
+  "units": "hypopnea events",
+  "labels": [
+    "non-rem"
+  ]
 }

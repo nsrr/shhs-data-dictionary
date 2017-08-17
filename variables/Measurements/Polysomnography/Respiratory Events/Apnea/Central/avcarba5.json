@@ -1,6 +1,6 @@
 {
   "id": "avcarba5",
-  "display_name": "Average Central Apnea length w/ arousals (REM, Back, 5% oxygen desaturation)",
+  "display_name": "Average Central Apnea length with >=5% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

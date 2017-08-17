@@ -1,10 +1,7 @@
 {
   "id": "sh307b",
-  "display_name": "Sleep Habits (SHHS2): Nap due to illness or medical reason",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Nap due to illness or medical reason",
   "description": "7. What are your reasons for regular napping in the afternoon? (check all that apply)  b. I nap due to an illness or for medical reasons.",
   "type": "choices",
-  "domain": "check",
-  "forms": [
-    "shhs2_sleep_habits_questionnaire"
-  ]
+  "domain": "check"
 }

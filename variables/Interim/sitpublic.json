@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "ess3"
+    "ess3",
+    "epworth sleepiness scale "
   ]
 }

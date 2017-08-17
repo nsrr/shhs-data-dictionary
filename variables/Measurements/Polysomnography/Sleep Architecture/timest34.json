@@ -6,6 +6,13 @@
   "units": "minutes",
   "calculation": "mnstg34p",
   "labels": [
-    "NREM"
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement",
+    "delta",
+    "sws",
+    "slow wave"
   ]
 }

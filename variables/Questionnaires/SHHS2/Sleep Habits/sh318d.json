@@ -1,10 +1,7 @@
 {
   "id": "sh318d",
-  "display_name": "Sleep Habits (SHHS2): MD Diagnosed Other sleep disorder",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Doctor of Medicine (MD) Diagnosed Other sleep disorder",
   "description": "Have you ever been told by a doctor that you have a sleep disorder (other than sleep apnea)?  18. What other sleep disorder? (check all that apply) d. Other: please specify",
   "type": "choices",
-  "domain": "check",
-  "forms": [
-    "shhs2_sleep_habits_questionnaire"
-  ]
+  "domain": "check"
 }

@@ -1,10 +1,11 @@
 {
   "id": "mnhnop",
-  "display_name": "Minimum Hypopnea length (NREM, Other, all oxygen desaturations)",
+  "display_name": "Minimum Hypopnea length (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "duration"
+    "duration",
+    "non-rem"
   ]
 }

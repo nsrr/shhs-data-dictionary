@@ -1,13 +1,10 @@
 {
   "id": "cox22",
-  "display_name": "Cox-2 Inhibitors (Nsaid Agents) (SHHS2)",
-  "description": "Participant taking COX-2 INHIBITORS (NSAID AGENTS); SEPARATE FROM NSAID VARIABLE within two weeks of the SHHS2 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Cox-2 Inhibitors (nonsteroidal anti-inflammatory drug (NSAID) Agents) (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking COX-2 INHIBITORS (nonsteroidal anti-inflammatory drug (NSAID) AGENTS); SEPARATE FROM nonsteroidal anti-inflammatory drug (NSAID) VARIABLE within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "inflammation"
-  ],
-  "forms": [
-    "shhs2_medication_form"
   ]
 }

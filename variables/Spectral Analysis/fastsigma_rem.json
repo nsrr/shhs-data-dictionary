@@ -1,7 +1,11 @@
 {
   "id": "fastsigma_rem",
-  "display_name": "Fast sigma power density in REM sleep",
+  "display_name": "Fast sigma power density in rapid eye movement sleep (REM)",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz"
+  "units": "microvolts squared per hertz",
+  "labels": [
+    "13.5 through 15",
+    "thirteen and a half through fifteen"
+  ]
 }

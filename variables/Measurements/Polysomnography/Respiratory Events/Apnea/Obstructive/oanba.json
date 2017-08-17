@@ -1,7 +1,10 @@
 {
   "id": "oanba",
-  "display_name": "Number of Obstructive Apnea w/ arousals (NREM, Back, all oxygen desaturations)",
+  "display_name": "Number of Obstructive Apnea w/ arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "obstructive apnea events"
+  "units": "obstructive apnea events",
+  "labels": [
+    "non-rem"
+  ]
 }

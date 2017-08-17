@@ -1,6 +1,6 @@
 {
   "id": "shhs1_tcvd",
-  "display_name": "Has SHHS1 Tuscon CVD data",
+  "display_name": "Has Sleep Heart Health Study Visit One (SHHS1) Tuscon Cardiovascular Disease (CVD) data",
   "description": "",
   "type": "choices",
   "domain": "noyes01"

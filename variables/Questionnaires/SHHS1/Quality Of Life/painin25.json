@@ -1,13 +1,7 @@
 {
   "id": "painin25",
-  "display_name": "Quality of Life (SHHS1): Pain interferes with work",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Pain interferes with work",
   "description": "During the past 2 weeks, how much did pain interfere with your normal work (including both work outside the home and housework)?",
   "type": "choices",
-  "domain": "notextr5",
-  "labels": [
-    "QOL"
-  ],
-  "forms": [
-    "shhs1_quality_of_life_sf_36_form"
-  ]
+  "domain": "notextr5"
 }

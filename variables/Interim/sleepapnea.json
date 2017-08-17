@@ -3,5 +3,8 @@
   "display_name": "Told by doctor that you had sleep apnea",
   "description": "",
   "type": "choices",
-  "domain": "yesnod"
+  "domain": "yesnod",
+  "labels": [
+    "md"
+  ]
 }

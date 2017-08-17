@@ -1,7 +1,0 @@
-{
-  "id": "airqual",
-  "display_name": "Quality of the airflow signal",
-  "description": "",
-  "type": "choices",
-  "domain": "sigqual"
-}

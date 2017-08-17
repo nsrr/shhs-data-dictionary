@@ -3,5 +3,8 @@
   "display_name": "Fall asleep while driving",
   "description": "",
   "type": "choices",
-  "domain": "nhchan4"
+  "domain": "nhchan4",
+  "labels": [
+    "doze off"
+  ]
 }

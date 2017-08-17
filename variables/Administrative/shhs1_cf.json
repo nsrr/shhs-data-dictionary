@@ -1,6 +1,6 @@
 {
   "id": "shhs1_cf",
-  "display_name": "Has SHHS1 Contact form",
+  "display_name": "Has Sleep Heart Health Study Visit One (SHHS1) Contact form",
   "description": "",
   "type": "choices",
   "domain": "noyes01"

@@ -1,7 +1,10 @@
 {
   "id": "oanoa5",
-  "display_name": "Number of Obstructive Apnea w/ arousals (NREM, Other, 5% oxygen desaturation)",
+  "display_name": "Number of Obstructive Apnea with >=5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
   "description": "",
   "type": "numeric",
-  "units": "obstructive apnea events"
+  "units": "obstructive apnea events",
+  "labels": [
+    "non-rem"
+  ]
 }

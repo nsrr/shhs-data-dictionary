@@ -1,6 +1,6 @@
 {
   "id": "oardrba",
-  "display_name": "Obstructive Apnea per hour w/ arousals (REM, Back, all oxygen desaturations)",
+  "display_name": "Obstructive Apnea per hour w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "events per hour"

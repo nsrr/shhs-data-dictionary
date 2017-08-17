@@ -1,13 +1,10 @@
 {
   "id": "shots15",
-  "display_name": "Health Interview (SHHS1): drinks with hard liquor per week",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): drinks with hard liquor per week",
   "description": "How many drinks with hard liquor (1 shot) do you usually have per week? (number of drinks, up to 2 digits)",
   "type": "numeric",
   "units": "drinks",
   "labels": [
     "alcohol"
-  ],
-  "forms": [
-    "shhs1_health_interview_form_new_york"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "mxoarba",
-  "display_name": "Maximum Obstructive Apnea length w/ arousals (REM, Back, all oxygen desaturations)",
+  "display_name": "Maximum Obstructive Apnea length w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

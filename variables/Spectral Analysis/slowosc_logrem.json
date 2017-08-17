@@ -1,6 +1,11 @@
 {
   "id": "slowosc_logrem",
-  "display_name": "Log transformed slow oscillation power density in REM sleep",
+  "display_name": "Log transformed slow oscillation power density in rapid eye movement sleep (REM)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "0.5 through 1",
+    "one",
+    "0.5-1"
+  ]
 }

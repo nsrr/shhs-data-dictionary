@@ -5,6 +5,8 @@
   "type": "numeric",
   "units": "minutes",
   "labels": [
-    "NREM"
+    "nrem",
+    "non-rem",
+    "non-rapid eye movement"
   ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "rdinba",
-  "display_name": "Hypopnea per hour w/ arousals (NREM, Back, all oxygen desaturations)",
+  "display_name": "Hypopnea per hour w/ arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "non-rem"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "mxhrbp",
-  "display_name": "Maximum Hypopnea length (REM, Back, all oxygen desaturations)",
+  "display_name": "Maximum Hypopnea length (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds",

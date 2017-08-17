@@ -3,5 +3,8 @@
   "display_name": "Low frequency power (normalized)",
   "description": "",
   "type": "numeric",
-  "calculation": "lf_n = lf / (lf + hf)"
+  "calculation": "lf_n = lf / (lf + hf)",
+  "labels": [
+    "heart rate variability"
+  ]
 }

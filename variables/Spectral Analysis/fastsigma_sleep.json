@@ -3,5 +3,14 @@
   "display_name": "Fast sigma power density in sleep",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz"
+  "units": "microvolts squared per hertz",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement",
+    "13.5 through 15",
+    "thirteen and a half through fifteen"
+  ]
 }

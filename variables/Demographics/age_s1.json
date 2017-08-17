@@ -1,7 +1,7 @@
 {
   "id": "age_s1",
-  "display_name": "Age at SHHS1",
-  "description": "Age at time of study in years, based on start date of SHHS1 PSG recording.",
+  "display_name": "Age at Sleep Heart Health Study Visit One (SHHS1)",
+  "description": "Age at time of study in years, based on start date of Sleep Heart Health Study Visit One (SHHS1) Polysomnography (PSG) recording.",
   "type": "numeric",
   "units": "years",
   "commonly_used": true

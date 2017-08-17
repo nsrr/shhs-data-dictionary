@@ -1,0 +1,7 @@
+{
+  "id": "staging4",
+  "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Arousals Unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

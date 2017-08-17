@@ -1,7 +1,19 @@
 {
   "id": "theta_rem",
-  "display_name": "Theta power density in REM sleep",
+  "display_name": "Theta power density in rapid eye movement sleep (REM) ",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz"
+  "units": "microvolts squared per hertz",
+  "labels": [
+    "4",
+    "four",
+    "5",
+    "five",
+    "6",
+    "six",
+    "7",
+    "seven",
+    "8",
+    "eight"
+  ]
 }

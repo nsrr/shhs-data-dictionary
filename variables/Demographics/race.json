@@ -1,7 +1,7 @@
 {
   "id": "race",
   "display_name": "Race",
-  "description": "Race is presented as three (3) categories based on [suggested BioLINCC de-identification procedures](http://www.nhlbi.nih.gov/research/funding/human-subjects/set-preparation-guidelines).",
+  "description": "Race is presented as three (3) categories based on [suggested Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC) de-identification procedures](http://www.nhlbi.nih.gov/research/funding/human-subjects/set-preparation-guidelines).",
   "type": "choices",
   "domain": "race123",
   "commonly_used": true

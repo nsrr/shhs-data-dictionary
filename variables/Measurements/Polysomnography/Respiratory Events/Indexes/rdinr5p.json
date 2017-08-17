@@ -1,12 +1,15 @@
 {
   "id": "rdinr5p",
-  "display_name": "Overall RDI (NREM) at 5% oxygen desaturation",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) (Non-rapid eye movement sleep (NREM)) at >=5% oxygen desaturation",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hnrbp5 + hnrop5 + canbp5 + canop5 + oanbp5 + oanop5 ) / ( slpprdp - minremp )",
   "labels": [
-    "rdi",
-    "ahi"
+    "non-rem",
+    "rem",
+    "nrem",
+    "rapid eye movement sleep",
+    "non-rapid eye movement sleep"
   ]
 }

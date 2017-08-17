@@ -1,13 +1,11 @@
 {
   "id": "sh318b",
-  "display_name": "Sleep Habits (SHHS2): MD Diagnosed Restless legs",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Doctor of Medicine (MD) Diagnosed Restless legs",
   "description": "Have you ever been told by a doctor that you have a sleep disorder (other than sleep apnea)?  18. What other sleep disorder? (check all that apply) b. Restless legs",
   "type": "choices",
   "domain": "check",
   "labels": [
-    "RLS"
-  ],
-  "forms": [
-    "shhs2_sleep_habits_questionnaire"
+    "rls",
+    "willis -ekbom disease"
   ]
 }

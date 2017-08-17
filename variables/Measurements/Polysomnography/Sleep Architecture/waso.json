@@ -5,5 +5,12 @@
   "type": "numeric",
   "units": "minutes",
   "calculation": "timebedp - slpprdp - slplatp",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ],
   "commonly_used": true
 }

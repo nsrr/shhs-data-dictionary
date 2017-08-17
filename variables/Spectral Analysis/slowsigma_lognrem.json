@@ -1,6 +1,11 @@
 {
   "id": "slowsigma_lognrem",
-  "display_name": "Log transformed slow sigma power density in NREM sleep",
+  "display_name": "Log transformed slow sigma power density in non-rapid eye movement sleep (NREM)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "non-rem",
+    "12-13.5",
+    "twelve through thirteen and a half"
+  ]
 }

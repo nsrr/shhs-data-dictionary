@@ -3,5 +3,8 @@
   "display_name": "1 or more respiratory events in 5 minute window",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "labels": [
+    "heart rate variability"
+  ]
 }

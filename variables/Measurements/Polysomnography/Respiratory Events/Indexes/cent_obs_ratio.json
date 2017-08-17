@@ -4,8 +4,11 @@
   "description": "",
   "type": "numeric",
   "calculation": "(carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop)",
-  "commonly_used": true,
   "labels": [
-    "icsd"
+    "non-rem",
+    "rem",
+    "nrem",
+    "rapid eye movement sleep",
+    "non-rapid eye movement sleep"
   ]
 }

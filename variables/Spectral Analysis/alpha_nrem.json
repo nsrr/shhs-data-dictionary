@@ -1,7 +1,20 @@
 {
   "id": "alpha_nrem",
-  "display_name": "Alpha power density in NREM sleep",
+  "display_name": "Alpha power density in non-rapid eye movement sleep (NREM)",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz"
+  "units": "microvolts squared per hertz",
+  "labels": [
+    "non-rem",
+    "eight",
+    "8",
+    "nine",
+    "9",
+    "10",
+    "ten",
+    "11",
+    "eleven",
+    "twelve",
+    "12"
+  ]
 }

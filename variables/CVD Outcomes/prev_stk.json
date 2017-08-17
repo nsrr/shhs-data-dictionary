@@ -1,12 +1,11 @@
 {
   "id": "prev_stk",
   "display_name": "Number of Strokes Prior to Baseline",
-  "description": "Stroke prior to baseline PSG (as recorded in parent studies datasets)",
+  "description": "Stroke prior to baseline Polysomnography (PSG) (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",
   "labels": [
-    "adjudicated",
-    "stroke"
+    "adjudicated"
   ],
   "commonly_used": true
 }

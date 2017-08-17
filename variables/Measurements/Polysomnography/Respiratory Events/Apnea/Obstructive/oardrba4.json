@@ -1,6 +1,6 @@
 {
   "id": "oardrba4",
-  "display_name": "Obstructive Apnea per hour w/ arousals (REM, Back, 4% oxygen desaturation)",
+  "display_name": "Obstructive Apnea per hour with >=4% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
   "description": "",
   "type": "numeric",
   "units": "events per hour"

@@ -1,0 +1,10 @@
+{
+  "id": "staging2",
+  "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): rapid eye movement sleep (REM)/non-rapid eye movement sleep (NREM) unreliable",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "non-rem"
+  ]
+}

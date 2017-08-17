@@ -1,7 +1,11 @@
 {
   "id": "pnn40",
-  "display_name": "Percentage of differences between adjacent NN intervals that are >40 ms",
+  "display_name": "Percentage of differences between adjacent normal sinus to normal sinus interbeat (NN) intervals that are >40 ms",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "labels": [
+    "heart rate variability",
+    "%"
+  ]
 }

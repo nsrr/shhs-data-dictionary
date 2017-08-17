@@ -1,14 +1,11 @@
 {
   "id": "ntca1",
-  "display_name": "Non-Tricyclic Antidepressants Other Than MAOI (SHHS1)",
-  "description": "Participant taking NON-TRICYCLIC ANTIDEPRESSANTS OTHER THAN MAOI within two weeks of the SHHS1 visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "display_name": "Non-Tricyclic Antidepressants Other Than monoamine oxidase inhibitor (MAOI) (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Participant taking NON-TRICYCLIC ANTIDEPRESSANTS OTHER THAN monoamine oxidase inhibitor (MAOI) within two weeks of the Sleep Heart Health Study Visit One (SHHS1) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "depression"
   ],
-  "commonly_used": true,
-  "forms": [
-    "shhs1_medications_prescription_and_over_the_counter_form"
-  ]
+  "commonly_used": true
 }

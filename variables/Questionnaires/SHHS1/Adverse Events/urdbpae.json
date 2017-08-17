@@ -1,7 +1,7 @@
 {
   "id": "urdbpae",
-  "display_name": "Adverse Events (SHHS1): Diastolic BP > 100",
-  "description": "Diastolic blood pressure > 100 (and not on BP meds)?",
+  "display_name": "Adverse Events (Sleep Heart Health Study Visit One (SHHS1)): Diastolic blood pressure (BP) > 100",
+  "description": "Diastolic blood pressure (BP) > 100 (and not on blood pressure (BP) meds)?",
   "type": "choices",
   "domain": "noyes01"
 }

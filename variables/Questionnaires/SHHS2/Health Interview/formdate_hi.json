@@ -1,10 +1,7 @@
 {
   "id": "formdate_hi",
-  "display_name": "Health Interview (SHHS2): Date completed",
-  "description": "Date of Health Interview form",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): Date completed",
+  "description": "",
   "type": "numeric",
-  "units": "days from index date",
-  "forms": [
-    "shhs2_health_interview"
-  ]
+  "units": "days from index date"
 }

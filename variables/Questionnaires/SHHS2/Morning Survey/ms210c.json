@@ -1,13 +1,10 @@
 {
   "id": "ms210c",
-  "display_name": "Morning Survey (SHHS2): glasses or cans of soda before bed",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit Two (SHHS2)): glasses or cans of soda before bed",
   "description": "10. How many of the following drinks with caffeine did you have during the 4 hours before you went to sleep last night? (Please write \"0\" if you did not drink any of that beverage.)  c. ____ glasses or cans of cola or other soda (with caffeine)",
   "type": "numeric",
   "units": "drinks",
   "labels": [
     "caffeine"
-  ],
-  "forms": [
-    "shhs2_morning_survey_form"
   ]
 }

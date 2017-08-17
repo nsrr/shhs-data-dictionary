@@ -1,7 +1,10 @@
 {
   "id": "canbp2",
-  "display_name": "Number of Central Apnea (NREM, Back, 2% oxygen desaturation)",
+  "display_name": "Number of Central Apnea (Non-rapid eye movement sleep (NREM), Supine, >=2% oxygen desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "central apnea events"
+  "units": "central apnea events",
+  "labels": [
+    "non-rem"
+  ]
 }

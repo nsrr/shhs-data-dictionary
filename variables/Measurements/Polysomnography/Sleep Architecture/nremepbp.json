@@ -1,7 +1,10 @@
 {
   "id": "nremepbp",
-  "display_name": "Sleep Time (NREM, Back)",
+  "display_name": "Sleep Time (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "non-rem"
+  ]
 }

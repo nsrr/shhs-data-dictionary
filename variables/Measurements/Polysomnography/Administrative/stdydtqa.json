@@ -1,10 +1,14 @@
 {
   "id": "stdydtqa",
-  "display_name": "PSG Quality Assessment (SHHS1): Date of Study",
+  "display_name": "Polysomnogram (PSG) Quality Assessment (Sleep Heart Health Study Visit One (SHHS1)): Date of Study",
   "description": "",
   "type": "numeric",
   "units": "days from index date",
-  "forms": [
-    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement sleep",
+    "rapid eye movement sleep"
   ]
 }

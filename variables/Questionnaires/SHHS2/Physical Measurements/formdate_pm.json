@@ -1,10 +1,7 @@
 {
   "id": "formdate_pm",
-  "display_name": "Physical Measurements (SHHS2): Date of completed",
+  "display_name": "Physical Measurements (Sleep Heart Health Study Visit Two (SHHS2)): Date of completed",
   "description": "Date of Physical Measurements form",
   "type": "numeric",
-  "units": "days from index date",
-  "forms": [
-    "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"
-  ]
+  "units": "days from index date"
 }

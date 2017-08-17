@@ -1,12 +1,11 @@
 {
   "id": "revasc_proc",
   "display_name": "Number of Revascularization Procedures Since Baseline",
-  "description": "Revascularization procedure since baseline PSG (as recorded in parent studies datasets)",
+  "description": "Revascularization procedure since baseline Polysomnogram (PSG) (as recorded in parent studies datasets)",
   "type": "numeric",
   "units": "number of events",
   "labels": [
     "adjudicated",
-    "revascularization procedure",
     "stent"
   ],
   "commonly_used": true

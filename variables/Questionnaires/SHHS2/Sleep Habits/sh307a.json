@@ -1,10 +1,10 @@
 {
   "id": "sh307a",
-  "display_name": "Sleep Habits (SHHS2): Nap due to not enough sleep at night",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Nap due to not enough sleep at night",
   "description": "7. What are your reasons for regular napping in the afternoon? (check all that apply)  a. I do not get enough sleep at night.",
   "type": "choices",
   "domain": "check",
-  "forms": [
-    "shhs2_sleep_habits_questionnaire"
+  "labels": [
+    "insufficient"
   ]
 }

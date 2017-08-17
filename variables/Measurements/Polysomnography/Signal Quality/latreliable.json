@@ -1,7 +1,10 @@
 {
   "id": "latreliable",
   "display_name": "Is the sleep latency reliable?",
-  "description": "",
+  "description": "Sleep latency will be considered reliable when a change in lights status (on/off) shows a clear transition (even if reversed- off to on) prior to the onset of sleep.",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "labels": [
+    "sl"
+  ]
 }

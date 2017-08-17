@@ -1,13 +1,11 @@
 {
   "id": "hi210",
-  "display_name": "Health Interview (SHHS2): How bothersome is restless legs",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): How bothersome is restless legs",
   "description": "C. Restless legs  [Questions #9-10 are about your MOST FREQUENT symptom you checked as yes in item #8.]  10. How bothersome or troublesome is this symptom? (answer based on most frequent symptom) Does it bother you: (check one)",
   "type": "choices",
   "domain": "bothr5",
   "labels": [
-    "RLS"
-  ],
-  "forms": [
-    "shhs2_health_interview"
+    "rls",
+    "willis -ekbom disease"
   ]
 }

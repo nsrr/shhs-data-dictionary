@@ -1,13 +1,7 @@
 {
   "id": "ql211c",
-  "display_name": "Quality of Life (SHHS2): Expect health to get worse",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Expect health to get worse",
   "description": "11. Please choose the answer that best describes how true or false each of the following statements is for you.  c. I expect my health to get worse.",
   "type": "choices",
-  "domain": "trufals5",
-  "labels": [
-    "QOL"
-  ],
-  "forms": [
-    "shhs2_quality_of_life_sf_36_form"
-  ]
+  "domain": "trufals5"
 }

@@ -1,11 +1,12 @@
 {
   "id": "hmnbnoh",
-  "display_name": "Minimum Heart Rate (NREM, Other, 3% oxygen desaturation)",
+  "display_name": "Minimum Heart Rate (Non-rapid eye movement sleep (NREM), Non-supine, >=3% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
     "bpm",
-    "HR"
+    "hr",
+    "non-rem"
   ]
 }

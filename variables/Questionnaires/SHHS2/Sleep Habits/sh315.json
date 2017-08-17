@@ -1,10 +1,10 @@
 {
   "id": "sh315",
-  "display_name": "Sleep Habits (SHHS2): Frequency of stopping breathing during sleep",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Frequency of stopping breathing during sleep",
   "description": "To answer these questions, please consider both what others have told you AND what you know about yourself.  15. How often do you have times when you stop breathing during your sleep?",
   "type": "choices",
   "domain": "raralw5",
-  "forms": [
-    "shhs2_sleep_habits_questionnaire"
+  "labels": [
+    "ahi"
   ]
 }

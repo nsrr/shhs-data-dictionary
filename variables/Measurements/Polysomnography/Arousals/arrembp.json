@@ -1,6 +1,6 @@
 {
   "id": "arrembp",
-  "display_name": "Number of Arousals (REM, Back, all oxygen desaturations)",
+  "display_name": "Number of Arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "arousals"

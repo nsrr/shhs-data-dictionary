@@ -1,6 +1,16 @@
 {
   "id": "stonsetp",
   "display_name": "Sleep onset time",
-  "description": "In SHHS1, values are in number of epochs from start of recording. In SHHS2, values are clock times.",
-  "type": "time"
+  "description": "",
+  "type": "time",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement",
+    "delta",
+    "sws",
+    "slow wave"
+  ]
 }

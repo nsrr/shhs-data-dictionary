@@ -1,12 +1,13 @@
 {
   "id": "part2deg",
   "display_name": "Partial second degree atrioventricular block",
-  "description": "MN code 6-2-2. Data derived from standard resting 12-lead ECG with the participant supine. Records were interpreted and Minnesota codes were provided by clinical cardiologists.",
+  "description": "Minnesota (MN) code 6-2-2. Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "ECG",
     "mobitz",
-    "atrioventricular"
+    "av",
+    "second-degree",
+    "2nd"
   ]
 }

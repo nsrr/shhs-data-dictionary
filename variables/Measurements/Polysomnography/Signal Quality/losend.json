@@ -1,7 +1,0 @@
-{
-  "id": "losend",
-  "display_name": "PSG Quality Assessment (SHHS2): Data Lost at end of study",
-  "description": "Data was lost at end of study due to unscorable signals.",
-  "type": "choices",
-  "domain": "yesnon"
-}

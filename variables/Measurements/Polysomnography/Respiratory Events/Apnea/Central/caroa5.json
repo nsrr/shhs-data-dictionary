@@ -1,6 +1,6 @@
 {
   "id": "caroa5",
-  "display_name": "Number of Central Apnea w/ arousals (REM, Other, 5% oxygen desaturation)",
+  "display_name": "Number of Central Apnea with >=5% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
   "description": "",
   "type": "numeric",
   "units": "central apnea events"

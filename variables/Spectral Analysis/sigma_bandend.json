@@ -5,6 +5,14 @@
   "type": "numeric",
   "units": "hertz",
   "labels": [
-    "Hz"
+    "hz",
+    "12",
+    "twelve",
+    "13",
+    "thirteen",
+    "14",
+    "fourteen",
+    "15",
+    "fifteen"
   ]
 }

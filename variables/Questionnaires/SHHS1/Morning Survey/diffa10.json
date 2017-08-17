@@ -1,13 +1,10 @@
 {
   "id": "diffa10",
-  "display_name": "Morning Survey (SHHS1): difficulty falling asleep",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit One (SHHS1)): difficulty falling asleep",
   "description": "Did you have difficulty falling asleep last night?",
   "type": "choices",
   "domain": "noyes01",
   "labels": [
     "insomnia"
-  ],
-  "forms": [
-    "shhs1_morning_survey_form"
   ]
 }

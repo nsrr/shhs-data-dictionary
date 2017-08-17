@@ -1,10 +1,11 @@
 {
   "id": "pf_s2",
-  "display_name": "SF-36 Calculated (SHHS2): Physical Functioning Standardized Score",
+  "display_name": "Short Form 36 Health Survey (SF-36) Calculated (Sleep Heart Health Study Visit Two (SHHS2)): Physical Functioning Standardized Score",
   "description": "",
   "type": "numeric",
   "labels": [
     "sf36",
-    "QOL"
+    "qol",
+    "quality of life"
   ]
 }

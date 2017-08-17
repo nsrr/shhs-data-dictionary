@@ -1,10 +1,7 @@
 {
   "id": "pptid",
   "display_name": "Randomized ID: Incorporates parent study random ID",
-  "description": "This participant ID matches what is present in BioLINCC.",
+  "description": "This participant ID matches what is present in Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC).",
   "type": "identifier",
-  "labels": [
-    "id"
-  ],
   "commonly_used": true
 }

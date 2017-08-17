@@ -1,12 +1,10 @@
 {
   "id": "coffee15",
-  "display_name": "Health Interview (SHHS1): cups of coffee on a regular day",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): cups of coffee on a regular day",
   "description": "How many cups of regular coffee do you drink on a regular day? (Number of cups of coffee, up to 2 digits)",
   "type": "numeric",
   "units": "cups",
-  "forms": [
-    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
-    "shhs1_health_interview_form_framingham",
-    "shhs1_health_interview_form_new_york"
+  "labels": [
+    "caffeine"
   ]
 }

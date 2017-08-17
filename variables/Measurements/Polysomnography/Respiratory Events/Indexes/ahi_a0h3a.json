@@ -1,12 +1,16 @@
 {
   "id": "ahi_a0h3a",
-  "display_name": "AHI 3% -- all apneas and hypopneas with >=3% oxygen desaturation or arousal",
+  "display_name": "Apnea-Hypopnea Index (AHI) >=3% - number of [all apneas] and [hypopneas with >=3% oxygen desaturation or arousal] per hour of sleep",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carba + caroa + canba + canoa + oarba + oaroa + oanba + oanoa ) / slpprdp",
-  "commonly_used": true,
+  "calculation": "60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop) / slpprdp",
   "labels": [
-    "icsd"
-  ]
+    "non-rem",
+    "rem",
+    "nrem",
+    "rapid eye movement sleep",
+    "non-rapid eye movement sleep"
+  ],
+  "commonly_used": true
 }

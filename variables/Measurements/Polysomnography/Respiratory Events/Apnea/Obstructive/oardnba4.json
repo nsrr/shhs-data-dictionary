@@ -1,7 +1,10 @@
 {
   "id": "oardnba4",
-  "display_name": "Obstructive Apnea per hour w/ arousals (NREM, Back, 4% oxygen desaturation)",
+  "display_name": "Obstructive Apnea per hour with >=4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "non-rem"
+  ]
 }

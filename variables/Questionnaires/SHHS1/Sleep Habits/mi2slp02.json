@@ -1,10 +1,10 @@
 {
   "id": "mi2slp02",
-  "display_name": "Sleep Habits (SHHS1): time to fall asleep",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): time to fall asleep",
   "description": "How many minutes does it usually take you to fall asleep at bedtime? (number of minutes, up to 3 digits)",
   "type": "numeric",
   "units": "minutes",
-  "forms": [
-    "shhs1_sleep_habits_questionnaire"
+  "labels": [
+    "bedtime"
   ]
 }

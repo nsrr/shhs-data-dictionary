@@ -1,0 +1,7 @@
+{
+  "id": "aropr",
+  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Problems with arousals",
+  "description": "Scorer noted that there was a problem scoring arousals.",
+  "type": "choices",
+  "domain": "yesnon"
+}

@@ -1,10 +1,7 @@
 {
   "id": "shhs1_ql",
-  "display_name": "Has SHHS1 Quality of Life form",
+  "display_name": "Has Sleep Heart Health Study Visit One (SHHS1) Quality of Life (QOL) form",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "labels": [
-    "QOL"
-  ]
+  "domain": "noyes01"
 }

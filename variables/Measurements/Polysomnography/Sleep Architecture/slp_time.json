@@ -1,7 +1,14 @@
 {
   "id": "slp_time",
   "display_name": "Sleep time when entire sleep was captured",
-  "description": "",
+  "description": "Sleep time will be missing for studies where the entire sleep period was not captured.  ",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ]
 }

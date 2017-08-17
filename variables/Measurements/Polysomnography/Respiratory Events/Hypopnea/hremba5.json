@@ -1,6 +1,6 @@
 {
   "id": "hremba5",
-  "display_name": "Number of Hypopnea w/ arousals (REM, Back, 5% oxygen desaturation)",
+  "display_name": "Number of Hypopnea with >=5% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
   "description": "",
   "type": "numeric",
   "units": "hypopnea events"

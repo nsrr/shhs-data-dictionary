@@ -1,10 +1,10 @@
 {
   "id": "minfa10",
-  "display_name": "Morning Survey (SHHS1): minutes to fall asleep",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit One (SHHS1)): minutes to fall asleep",
   "description": "How many minutes did it take for you to fall asleep at bedtime last night? (number of minutes, up to 3 digits)",
   "type": "numeric",
   "units": "minutes",
-  "forms": [
-    "shhs1_morning_survey_form"
+  "labels": [
+    "sleep latency"
   ]
 }

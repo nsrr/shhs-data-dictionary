@@ -1,11 +1,11 @@
 {
   "id": "havbroh",
-  "display_name": "Average Heart Rate (REM, Other, 3% oxygen desaturation)",
+  "display_name": "Average Heart Rate (Rapid eye movement sleep (REM), Non-supine, >=3% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
     "bpm",
-    "HR"
+    "hr"
   ]
 }

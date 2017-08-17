@@ -1,12 +1,11 @@
 {
   "id": "mi",
-  "display_name": "Number of MIs Since Baseline",
-  "description": "MI since baseline PSG (as recorded in parent studies datasets)",
+  "display_name": "Number of myocardial infarctions (MIs) Since Baseline",
+  "description": "Myocardial infarction (MI) since baseline Polysomnogram (PSG) (as recorded in parent studies datasets)",
   "type": "integer",
   "units": "number of events",
   "labels": [
     "adjudicated",
-    "myocardial infarction",
     "heart attack"
   ],
   "commonly_used": true

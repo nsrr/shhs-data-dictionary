@@ -1,6 +1,6 @@
 {
   "id": "cabgptcadt",
-  "display_name": "Days from index date to CABG/PTCA",
+  "display_name": "Days from index date to Coronary artery bypass graft surgery (CABG)/Percutaneous transluminal coronary angioplasty (PTCA)",
   "description": "",
   "type": "numeric",
   "units": "days from index date"

@@ -1,7 +1,18 @@
 {
   "id": "delta_nrem",
-  "display_name": "Delta power density in NREM sleep",
+  "display_name": "Delta power density in non-rapid eye movement sleep (NREM)",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz"
+  "units": "microvolts squared per hertz",
+  "labels": [
+    "non-rem",
+    "one",
+    "1",
+    "2",
+    "two",
+    "3",
+    "three",
+    "4",
+    "four"
+  ]
 }

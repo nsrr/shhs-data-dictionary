@@ -1,6 +1,6 @@
 {
   "id": "bpprotocol",
-  "display_name": "Protocol used to measure blood pressure",
+  "display_name": "Protocol used to measure blood pressure (BP)",
   "description": "",
   "type": "choices",
   "domain": "protocol"

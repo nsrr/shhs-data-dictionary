@@ -1,6 +1,6 @@
 {
   "id": "avsao2rh",
-  "display_name": "Average SaO2 % during REM sleep",
+  "display_name": "Average oxygen saturation (SaO2)% during Rapid eye movement sleep (REM)",
   "description": "",
   "type": "numeric",
   "units": "percent",

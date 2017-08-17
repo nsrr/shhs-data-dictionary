@@ -1,6 +1,6 @@
 {
   "id": "shhs2_hi",
-  "display_name": "Has SHHS2 Health Interview form",
+  "display_name": "Has Sleep Heart Health Study Visit Two (SHHS2) Health Interview form",
   "description": "",
   "type": "choices",
   "domain": "noyes01"

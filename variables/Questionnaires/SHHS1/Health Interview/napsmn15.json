@@ -1,12 +1,7 @@
 {
   "id": "napsmn15",
-  "display_name": "Health Interview (SHHS1): Minutes slept during naps",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): Minutes slept during naps",
   "description": "Minutes slept during naps (minutes component of time, 0 to 59) 0=no naps taken",
   "type": "numeric",
-  "units": "minutes",
-  "forms": [
-    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
-    "shhs1_health_interview_form_framingham",
-    "shhs1_health_interview_form_new_york"
-  ]
+  "units": "minutes"
 }

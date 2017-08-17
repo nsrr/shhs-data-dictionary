@@ -1,6 +1,6 @@
 {
   "id": "formdate_sh",
-  "display_name": "Sleep Habits (SHHS2): Date completed",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Date completed",
   "description": "Date of Sleep Habits form",
   "type": "numeric",
   "units": "days from index date"

@@ -1,13 +1,7 @@
 {
   "id": "cmp1yr25",
-  "display_name": "Quality of Life (SHHS1): Health compared to one year ago",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Health compared to one year ago",
   "description": "Compared to one year ago, how would you rate your health (much better now-much worse now)?",
   "type": "choices",
-  "domain": "betwrs5",
-  "labels": [
-    "QOL"
-  ],
-  "forms": [
-    "shhs1_quality_of_life_sf_36_form"
-  ]
+  "domain": "betwrs5"
 }

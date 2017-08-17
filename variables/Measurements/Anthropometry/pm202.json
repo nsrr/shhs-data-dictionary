@@ -1,14 +1,8 @@
 {
   "id": "pm202",
-  "display_name": "Weight (SHHS2)",
+  "display_name": "Weight (Sleep Heart Health Study Visit Two (SHHS2))",
   "description": "A. Weight measurement  2. Weight: ____ ____ ____ . ____ (kg)",
   "type": "numeric",
   "units": "kilograms",
-  "labels": [
-    "kg"
-  ],
-  "commonly_used": true,
-  "forms": [
-    "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"
-  ]
+  "commonly_used": true
 }

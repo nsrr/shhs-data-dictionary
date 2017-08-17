@@ -3,5 +3,8 @@
   "display_name": "Palpated systolic blood pressure",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg"
+  ]
 }

@@ -1,8 +1,11 @@
 {
   "id": "timeremp",
-  "display_name": "Percent Time in REM",
-  "description": "Percentage of sleep time spent in REM sleep.  The ratio of time in REM sleep to total sleep time, expressed as a percentage.",
+  "display_name": "Percent Time in rapid eye movement sleep (REM)",
+  "description": "The ratio of time in rapid eye movement sleep (REM) to total sleep time, expressed as a percentage.",
   "type": "numeric",
   "units": "percent",
-  "calculation": "tmremp"
+  "calculation": "tmremp",
+  "labels": [
+    "%"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Adverse Events (Sleep Heart Health Study Visit One (SHHS1)): Systolic blood pressure (BP) > 200",
   "description": "Systolic blood pressure (BP) > 200 (and not on blood pressure (BP) meds)?",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "shhs1_adverse_events_form"
+  ]
 }

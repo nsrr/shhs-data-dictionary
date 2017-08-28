@@ -3,5 +3,8 @@
   "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Scored Sleep-Wake only",
   "description": "When the technical quality of the EEG does not allow distinction between sleep stages, but allows a differentiation between sleep and wake.  The time considered sleep will be marked as Stage 2.  No arousals will be scored for these studies. ",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ]
 }

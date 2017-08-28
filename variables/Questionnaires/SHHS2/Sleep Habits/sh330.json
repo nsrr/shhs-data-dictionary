@@ -6,5 +6,8 @@
   "units": "drinks",
   "labels": [
     "alcohol"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
   ]
 }

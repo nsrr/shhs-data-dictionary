@@ -3,5 +3,8 @@
   "display_name": "Epworth Sleepiness Scale score (Sleep Heart Health Study Visit One (SHHS1))",
   "description": "",
   "type": "integer",
-  "commonly_used": true
+  "commonly_used": true,
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ]
 }

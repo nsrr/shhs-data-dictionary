@@ -7,5 +7,10 @@
   "labels": [
     "bronchitis",
     "emphysema"
+  ],
+  "forms": [
+    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
+    "shhs1_health_interview_form_framingham",
+    "shhs1_health_interview_form_new_york"
   ]
 }

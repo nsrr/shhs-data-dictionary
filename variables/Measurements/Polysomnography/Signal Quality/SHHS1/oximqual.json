@@ -1,7 +1,10 @@
 {
   "id": "oximqual",
   "display_name": "Quality of the oximetry signal",
-  "description": "Sleep Heart Health Study Visit One (SHHS1)-Vary from 1 (poorest) to 4 (best) and reflect the proportion of time the signals were useable. ",
+  "description": "Sleep Heart Health Study Visit One (SHHS1)-Vary from 1 (poorest) to 4 (best) and reflect the proportion of time the signals were â¬Ã´useable.â¬Ã¶ ",
   "type": "choices",
-  "domain": "sigqual"
+  "domain": "sigqual",
+  "forms": [
+    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
+  ]
 }

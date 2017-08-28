@@ -4,5 +4,8 @@
   "description": "Current Smoking Status at the Sleep Heart Health Study Visit One (SHHS1) visit",
   "type": "choices",
   "domain": "smoker",
-  "commonly_used": true
+  "commonly_used": true,
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ]
 }

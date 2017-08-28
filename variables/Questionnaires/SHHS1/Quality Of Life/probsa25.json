@@ -3,5 +3,8 @@
   "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Health or emotional problems limit social activities",
   "description": "During the past 4 weeks, to what extent has your physical health or emotional problems interfered with your normal social activities with family, friends, neighbors, or groups?",
   "type": "choices",
-  "domain": "notextr5"
+  "domain": "notextr5",
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ]
 }

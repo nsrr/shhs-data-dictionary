@@ -3,5 +3,8 @@
   "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Pain interferes with work",
   "description": "8. During the past four weeks, how much did pain interfere with your normal work (including both work outside the home and housework? (Check one box.)",
   "type": "choices",
-  "domain": "notextr5"
+  "domain": "notextr5",
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ]
 }

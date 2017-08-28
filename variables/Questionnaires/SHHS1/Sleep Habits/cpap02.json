@@ -6,5 +6,8 @@
   "domain": "noyes01",
   "labels": [
     "oral appliance"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
   ]
 }

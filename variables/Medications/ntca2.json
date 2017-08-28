@@ -6,5 +6,8 @@
   "domain": "noyes01",
   "labels": [
     "depression"
+  ],
+  "forms": [
+    "shhs2_medication_form"
   ]
 }

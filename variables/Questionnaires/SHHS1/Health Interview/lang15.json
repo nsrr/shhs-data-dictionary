@@ -3,5 +3,10 @@
   "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): Language of interview",
   "description": "Language of interview 1=English, 2=Spanish, 3=Lakota, 4=Pima, 5=Other (specify [LANGOT15]), 6=Unknown",
   "type": "choices",
-  "domain": "lang6"
+  "domain": "lang6",
+  "forms": [
+    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
+    "shhs1_health_interview_form_framingham",
+    "shhs1_health_interview_form_new_york"
+  ]
 }

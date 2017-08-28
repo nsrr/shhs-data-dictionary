@@ -6,5 +6,8 @@
   "domain": "none1",
   "labels": [
     "frequency"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
   ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Date completed",
   "description": "Date form filled out (days from index date)",
   "type": "numeric",
-  "units": "days from index date"
+  "units": "days from index date",
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ]
 }

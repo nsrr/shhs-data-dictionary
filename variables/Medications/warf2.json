@@ -9,5 +9,8 @@
     "dvt",
     "deep-vein thrombosis",
     "acute coronary syndrome"
+  ],
+  "forms": [
+    "shhs2_medication_form"
   ]
 }

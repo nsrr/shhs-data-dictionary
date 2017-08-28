@@ -3,5 +3,8 @@
   "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Intervening period bad EEG",
   "description": "\"1: Yes\", this indicates more than 30 minutes of the sleep period had either lost or unscorable EEG data",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ]
 }

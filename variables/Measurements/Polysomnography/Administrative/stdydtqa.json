@@ -10,5 +10,8 @@
     "rem",
     "non-rapid eye movement sleep",
     "rapid eye movement sleep"
+  ],
+  "forms": [
+    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
   ]
 }

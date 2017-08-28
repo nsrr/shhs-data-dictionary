@@ -3,5 +3,8 @@
   "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Health compared to one year ago",
   "description": "Compared to one year ago, how would you rate your health (much better now-much worse now)?",
   "type": "choices",
-  "domain": "betwrs5"
+  "domain": "betwrs5",
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ]
 }

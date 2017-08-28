@@ -7,5 +7,8 @@
   "labels": [
     "cigarettes",
     "smoking"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
   ]
 }

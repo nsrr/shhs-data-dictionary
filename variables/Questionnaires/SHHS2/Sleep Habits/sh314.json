@@ -6,5 +6,8 @@
   "domain": "yesnod",
   "labels": [
     "apnea"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
   ]
 }

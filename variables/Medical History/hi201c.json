@@ -8,5 +8,8 @@
     "bronchitis",
     "emphysema"
   ],
-  "commonly_used": true
+  "commonly_used": true,
+  "forms": [
+    "shhs2_health_interview"
+  ]
 }

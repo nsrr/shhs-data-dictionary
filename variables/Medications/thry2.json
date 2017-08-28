@@ -7,5 +7,8 @@
   "labels": [
     "goiter",
     "hypothyroidism"
+  ],
+  "forms": [
+    "shhs2_medication_form"
   ]
 }

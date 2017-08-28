@@ -8,5 +8,8 @@
     "rls",
     "willis -ekbom disease",
     "restless legs"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
   ]
 }

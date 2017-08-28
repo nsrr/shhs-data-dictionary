@@ -6,5 +6,8 @@
   "domain": "noyes01",
   "labels": [
     "congestion"
+  ],
+  "forms": [
+    "shhs2_morning_survey_form"
   ]
 }

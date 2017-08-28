@@ -3,5 +3,8 @@
   "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Health limits time on work",
   "description": "During the past 4 weeks, have you had this problem with work or other regular daily activities because of physical health: Cut down on the amount of time you spend on work",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ]
 }

@@ -3,5 +3,10 @@
   "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): How stressful was day today",
   "description": "How stressful was your day today?",
   "type": "choices",
-  "domain": "stress3"
+  "domain": "stress3",
+  "forms": [
+    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
+    "shhs1_health_interview_form_framingham",
+    "shhs1_health_interview_form_new_york"
+  ]
 }

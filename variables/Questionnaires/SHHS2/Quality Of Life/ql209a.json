@@ -3,5 +3,8 @@
   "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Feel full of pep",
   "description": "9. These questions are about how you feel and how things have been with you during the past 4 weeks.  For each question, check the box for the one answer that comes closest to the way you have been feeling.  During the past 4 weeks, how much of the time. a. Did you feel full of pep?",
   "type": "choices",
-  "domain": "allnone6"
+  "domain": "allnone6",
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ]
 }

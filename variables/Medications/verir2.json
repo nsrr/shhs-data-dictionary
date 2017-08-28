@@ -9,5 +9,8 @@
     "arrythmia",
     "htn",
     "high blood pressure"
+  ],
+  "forms": [
+    "shhs2_medication_form"
   ]
 }

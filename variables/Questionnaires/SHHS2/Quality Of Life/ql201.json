@@ -3,5 +3,8 @@
   "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): General health",
   "description": "1. In general, would you say your health is: (Check one box.)",
   "type": "choices",
-  "domain": "excpoor5"
+  "domain": "excpoor5",
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ]
 }

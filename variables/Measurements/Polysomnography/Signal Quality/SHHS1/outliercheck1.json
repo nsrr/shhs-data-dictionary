@@ -3,5 +3,8 @@
   "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Extreme Values Found",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ]
 }

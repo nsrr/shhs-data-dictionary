@@ -6,5 +6,8 @@
   "units": "hours",
   "labels": [
     "duration"
+  ],
+  "forms": [
+    "shhs1_morning_survey_form"
   ]
 }

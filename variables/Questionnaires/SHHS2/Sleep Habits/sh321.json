@@ -6,5 +6,8 @@
   "units": "years",
   "labels": [
     "cigarettes"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
   ]
 }

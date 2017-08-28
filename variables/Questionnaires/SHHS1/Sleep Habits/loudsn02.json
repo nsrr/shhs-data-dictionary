@@ -3,5 +3,8 @@
   "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Loudness of snoring",
   "description": "How loud is your snoring?",
   "type": "choices",
-  "domain": "snrloud5"
+  "domain": "snrloud5",
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ]
 }

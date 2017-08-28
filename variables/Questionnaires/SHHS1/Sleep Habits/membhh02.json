@@ -3,5 +3,8 @@
   "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Frequency of being household members in or near sleeping area",
   "description": "During the past year, how often have one or more members of your household been in or near the room where you slept?",
   "type": "choices",
-  "domain": "nevrusu3"
+  "domain": "nevrusu3",
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ]
 }

@@ -6,5 +6,8 @@
   "domain": "noyes01",
   "labels": [
     "rash"
+  ],
+  "forms": [
+    "shhs1_adverse_events_form"
   ]
 }

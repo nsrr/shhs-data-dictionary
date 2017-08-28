@@ -1,7 +1,7 @@
 {
   "id": "chestdur",
   "display_name": "Hours of usable thoracic signal",
-  "description": "Hours of useable signal are rounded out to the lowest whole integer (e.g. 4.6 hours of useable data = 4).    Useable respiratory data is defined as the number of hours that abnormal breaths can be distinguished from normal breaths",
+  "description": "Hours of useable signal are rounded out to the lowest whole integer (e.g. 4.6 hours of useable data = 4).    Useable respiratory data is defined as the number of hours that abnormal breaths can be distinguished from â¬Ã´normalâ¬Ã¶ breaths",
   "type": "numeric",
   "units": "hours",
   "labels": [
@@ -9,5 +9,8 @@
     "chest",
     "respiratory belt",
     "hrs"
+  ],
+  "forms": [
+    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
   ]
 }

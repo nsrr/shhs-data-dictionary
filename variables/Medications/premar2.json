@@ -6,5 +6,8 @@
   "domain": "noyes01",
   "labels": [
     "hormone therapy"
+  ],
+  "forms": [
+    "shhs2_medication_form"
   ]
 }

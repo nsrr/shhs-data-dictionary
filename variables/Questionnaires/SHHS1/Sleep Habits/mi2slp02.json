@@ -6,5 +6,8 @@
   "units": "minutes",
   "labels": [
     "bedtime"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
   ]
 }

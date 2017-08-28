@@ -6,5 +6,8 @@
   "domain": "noyes01",
   "labels": [
     "sl"
+  ],
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
   ]
 }

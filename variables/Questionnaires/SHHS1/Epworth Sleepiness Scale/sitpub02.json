@@ -6,5 +6,8 @@
   "domain": "nhchan4",
   "labels": [
     "ess3"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
   ]
 }

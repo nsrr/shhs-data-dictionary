@@ -8,5 +8,8 @@
     "hypotension",
     "heart failure",
     "hf"
+  ],
+  "forms": [
+    "shhs1_medications_prescription_and_over_the_counter_form"
   ]
 }

@@ -6,5 +6,8 @@
   "domain": "noyes01",
   "labels": [
     "inflammation"
+  ],
+  "forms": [
+    "shhs2_medication_form"
   ]
 }

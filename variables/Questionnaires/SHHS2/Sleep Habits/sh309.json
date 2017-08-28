@@ -3,5 +3,8 @@
   "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Ever snored",
   "description": "Questions 9 through 15 are about snoring and breathing during sleep. To answer these questions, please consider both what others have told you AND what you know about yourself. 9. Have you ever snored (now or at any time in the past)?",
   "type": "choices",
-  "domain": "yesnod"
+  "domain": "yesnod",
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
+  ]
 }

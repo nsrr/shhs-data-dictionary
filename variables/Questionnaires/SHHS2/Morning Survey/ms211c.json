@@ -6,5 +6,8 @@
   "units": "cigars",
   "labels": [
     "smoking"
+  ],
+  "forms": [
+    "shhs2_morning_survey_form"
   ]
 }

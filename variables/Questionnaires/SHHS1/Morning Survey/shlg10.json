@@ -3,5 +3,8 @@
   "display_name": "Morning Survey (Sleep Heart Health Study Visit One (SHHS1)): Quality of sleep: short/long",
   "description": "Quality of sleep: short/long (1=short to 5=long)",
   "type": "choices",
-  "domain": "shorlon5"
+  "domain": "shorlon5",
+  "forms": [
+    "shhs1_morning_survey_form"
+  ]
 }

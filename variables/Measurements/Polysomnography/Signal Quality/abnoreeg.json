@@ -3,5 +3,8 @@
   "display_name": "Polysomnography (PSG) Quality Assessment : Abnormal EEG",
   "description": "Scorer observed abnormal EEG during study.",
   "type": "choices",
-  "domain": "yesnon"
+  "domain": "yesnon",
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ]
 }

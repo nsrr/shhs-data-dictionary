@@ -6,5 +6,8 @@
   "units": "glasses",
   "labels": [
     "caffeine"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
   ]
 }

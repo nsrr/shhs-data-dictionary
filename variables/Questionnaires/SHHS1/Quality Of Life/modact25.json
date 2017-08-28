@@ -3,5 +3,8 @@
   "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Health limits moderate activities",
   "description": "Does your health now limit you in this activity, and if so, how much: Moderate activities, such as moving a table, pushing a vacuum cleaner, bowling, or playing golf",
   "type": "choices",
-  "domain": "lotlit3"
+  "domain": "lotlit3",
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ]
 }

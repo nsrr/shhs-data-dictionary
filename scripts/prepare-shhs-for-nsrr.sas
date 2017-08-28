@@ -19,7 +19,7 @@
   libname obf "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_ids";
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
 
-  %let release = 0.12.0.beta1;
+  %let release = 0.12.0.beta2;
 
 *******************************************************************************;
 * pull in source data ;

@@ -5,7 +5,7 @@
 - Clean up more variable display names, e.g. spell out abbreviations
 - Improve display names and formulas for 'ahi_' variables
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.12.0.beta2\`
+  - `\\rfa01\bwh-sleepepi-shhs\nsrr-prep\_releases\0.12.0.rc\`
 
 ## 0.11.1 (April 12, 2017)
 

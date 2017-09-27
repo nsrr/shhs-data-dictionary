@@ -1,6 +1,6 @@
 {
   "id": "oai0p",
-  "display_name": "Obstructive Apnea Index all oxygen desaturations",
+  "display_name": "Obstructive Apnea Index - number of [obstructive apneas] per hour of sleep",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

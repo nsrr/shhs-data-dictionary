@@ -1,6 +1,6 @@
 {
   "id": "cai0p",
-  "display_name": "Central Apnea Index all oxygen desaturations",
+  "display_name": "Central Apnea Index - numer of [central apneas] per hour of sleep",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

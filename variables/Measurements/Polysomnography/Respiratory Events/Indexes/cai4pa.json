@@ -1,6 +1,6 @@
 {
   "id": "cai4pa",
-  "display_name": "Central Apnea index >=4% oxygen desaturation or arousal",
+  "display_name": "Central Apnea Index >= 4% - number of [central apneas with >= 4% oxygen desaturation or arousal] per hour of sleep",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

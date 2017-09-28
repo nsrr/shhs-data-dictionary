@@ -7,6 +7,7 @@
 *                       sleepdata.org.
 * Revision History  :
 *   Date      Author    Revision
+*   20170928  MR        Finalize 0.12.0
 *   20170817  MR        Bump version to 0.12.0.beta1
 *   20170815  MR        Rename SAS program and add new header
 *******************************************************************************;
@@ -19,7 +20,7 @@
   libname obf "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_ids";
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
 
-  %let release = 0.12.0.rc;
+  %let release = 0.12.0;
 
 *******************************************************************************;
 * pull in source data ;

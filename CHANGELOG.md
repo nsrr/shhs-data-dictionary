@@ -1,3 +1,5 @@
+## 0.13.0
+
 ## 0.12.0 (September 28, 2017)
 
 - Rename primary subject identifier from 'obf_pptid' to 'nsrrid'

@@ -7,6 +7,7 @@
 *                       sleepdata.org.
 * Revision History  :
 *   Date      Author    Revision
+*   20171121  MR        Add variables from AF dataset
 *   20170928  MR        Finalize 0.12.0
 *   20170817  MR        Bump version to 0.12.0.beta1
 *   20170815  MR        Rename SAS program and add new header
@@ -21,7 +22,7 @@
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
   libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
-  %let release = 0.13.0.pre;
+  %let release = 0.13.0.beta1;
 
 *******************************************************************************;
 * pull in source data ;

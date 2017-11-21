@@ -19,12 +19,21 @@
   libname shhs "\\rfawin\bwh-sleepepi-shhs\shhs\SHHS CD 2014.06.13\Datasets\SHHS 1";
   libname obf "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_ids";
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
+  libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
   %let release = 0.13.0.pre;
 
 *******************************************************************************;
 * pull in source data ;
 *******************************************************************************;
+data obfid;
+  set obf.all_ids (keep=npptid nsrrid permiss rename=(npptid=pptid));
+run;
+
+data obfid_c;
+  set obf.all_ids (keep=pptid nsrrid permiss);
+run;
+
 data shhs1_investigator;
   set shhspsg.Shhs1final_13jun2014_6441(rename=(rcrdtime=rcrdtime2));
 
@@ -83,12 +92,17 @@ data shhs_cvd_event;
   set biolincc.shhs_event_08apr2014_4869;
 run;
 
-data obfid;
-  set obf.all_ids (keep=npptid nsrrid permiss rename=(npptid=pptid));
+data shhs_afib;
+  set shhsafib.shhsafib;
 run;
 
-data obfid_c;
-  set obf.all_ids (keep=pptid nsrrid permiss);
+data shhs_afib_nsrrid;
+  merge obfid_c (in=a) shhs_afib (in=b);
+  by pptid;
+
+  if a and permiss = 1;
+
+  drop pptid permiss;
 run;
 
 data s1_psgqual;
@@ -1583,11 +1597,10 @@ proc sort data=shhs_cvd_summary;
 run;
 
 data shhs_cvd_summary;
-  merge shhs_cvd_summary(in=a) shhs_demo(in=b);
+  merge shhs_cvd_summary(in=a) shhs_afib_nsrrid (in=b) shhs_demo(in=c);
   by nsrrid;
 
-  if a and b;
-
+  if a and b and c;
 run;
 
 /* export to CSV to post to sleepdata.org */

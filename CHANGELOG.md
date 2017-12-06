@@ -3,7 +3,7 @@
 - Add prevalent/incident AF indicators
 - Update description of how vital (death) status was obtained
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.13.0.beta1\`
+  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.13.0.rc\`
 
 ## 0.12.0 (September 28, 2017)
 

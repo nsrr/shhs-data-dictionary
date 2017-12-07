@@ -22,7 +22,7 @@
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
   libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
-  %let release = 0.13.0.rc;
+  %let release = 0.13.0;
 
 *******************************************************************************;
 * pull in source data ;

@@ -1,3 +1,5 @@
+## 0.13.1
+
 ## 0.13.0 (December 7, 2017)
 
 - Add prevalent/incident AF indicators

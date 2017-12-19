@@ -1,5 +1,7 @@
 ## 0.13.1
 
+- Fix odd symbols in variable descriptions
+
 ## 0.13.0 (December 7, 2017)
 
 - Add prevalent/incident AF indicators

@@ -1,7 +1,7 @@
 {
   "id": "abdoqual",
   "display_name": "Quality of the abdominal signal",
-  "description": "Sleep Hearth Health Study Visit 1 (SHHS1)-Vary from 1 (poorest) to 4 (best) and reflect the proportion of time the signals were â¬Ã´useable.â¬Ã¶  Useable respiratory data is defined as the number of hours that abnormal breaths can be distinguished from â¬Ã´normalâ¬Ã¶ breaths",
+  "description": "Sleep Hearth Health Study Visit 1 (SHHS1)-Vary from 1 (poorest) to 4 (best) and reflect the proportion of time the signals were useable. Useable respiratory data is defined as the number of hours that abnormal breaths can be distinguished from normal breaths",
   "type": "choices",
   "domain": "sigqual",
   "labels": [

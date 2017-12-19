@@ -1,7 +1,7 @@
 {
   "id": "eeg2qual",
   "display_name": "Quality of the EEG2 signal",
-  "description": "Sleep Heart Health Study Visit 1 (SHHS1)-Vary from 1 (poorest) to 4 (best) and reflect the proportion of time the signals were â¬Ã´useable.â¬Ã¶  Useable data for EEG/EOG/EMG data is defined by the number of hours that sleep stages can be distinguished from awake.",
+  "description": "Sleep Heart Health Study Visit 1 (SHHS1)-Vary from 1 (poorest) to 4 (best) and reflect the proportion of time the signals were useable. Useable data for EEG/EOG/EMG data is defined by the number of hours that sleep stages can be distinguished from awake.",
   "type": "choices",
   "domain": "sigqual",
   "forms": [

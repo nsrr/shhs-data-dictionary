@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "marital",
   "labels": [
-    "single"
+    "single",
+    "married"
   ],
   "commonly_used": true
 }

@@ -1,6 +1,6 @@
 ## 0.13.2
 
-- Add labels to gender variable
+- Add labels to demographic variables
 - Fix display names for fatal CVD and CHD outcome variables
 - Fix listed calculation in BMI variables (unit mismatch)
 

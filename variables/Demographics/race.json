@@ -4,5 +4,8 @@
   "description": "Race is presented as three (3) categories based on [suggested Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC) de-identification procedures](http://www.nhlbi.nih.gov/research/funding/human-subjects/set-preparation-guidelines).",
   "type": "choices",
   "domain": "race123",
+  "labels": [
+    "ethnicity"
+  ],
   "commonly_used": true
 }

@@ -2,6 +2,7 @@
 
 - Add labels to gender variable
 - Fix display names for fatal CVD and CHD outcome variables
+- Fix listed calculation in BMI variables (unit mismatch)
 
 - **Gem Changes**
   - Update to ruby 2.6.1

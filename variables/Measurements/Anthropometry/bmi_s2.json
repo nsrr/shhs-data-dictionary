@@ -4,6 +4,6 @@
   "description": "Body Mass Index (BMI) at Sleep Heart Health Study Visit Two (SHHS2)",
   "type": "numeric",
   "units": "kilograms per square meter",
-  "calculation": "( pm202 / ( pm207 * pm207 ) )",
+  "calculation": "( pm202 / ( (pm207/100) * (pm207/100) ) )",
   "commonly_used": true
 }

@@ -1,4 +1,4 @@
-## 0.13.2
+## 0.13.2 (March 7, 2019)
 
 - Add labels to demographic variables
 - Fix display names for fatal CVD and CHD outcome variables

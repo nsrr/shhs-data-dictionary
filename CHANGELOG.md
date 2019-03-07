@@ -1,5 +1,9 @@
 ## 0.13.2
 
+- **Gem Changes**
+  - Update to ruby 2.6.1
+  - Update to spout 1.0.0
+
 ## 0.13.1 (December 20, 2017)
 
 - Fix odd symbols in variable descriptions

@@ -2,10 +2,13 @@
 .DS_Store
 
 # Project Files
+/gems.locked
 /Gemfile.lock
 
 # Data Dictionary folders
+/dd
 /coverage
 /csvs
 /exports
 /graphs
+/images

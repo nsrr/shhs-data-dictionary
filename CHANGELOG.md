@@ -1,6 +1,7 @@
 ## 0.13.2
 
 - Add labels to gender variable
+- Fix display names for fatal CVD and CHD outcome variables
 
 - **Gem Changes**
   - Update to ruby 2.6.1

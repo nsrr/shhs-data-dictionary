@@ -4,5 +4,10 @@
   "description": "Gender as reported by Parent Cohort",
   "type": "choices",
   "domain": "gender12",
+  "labels": [
+    "sex",
+    "male",
+    "female"
+  ],
   "commonly_used": true
 }

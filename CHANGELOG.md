@@ -1,5 +1,7 @@
 ## 0.13.2
 
+- Add labels to gender variable
+
 - **Gem Changes**
   - Update to ruby 2.6.1
   - Update to spout 1.0.0

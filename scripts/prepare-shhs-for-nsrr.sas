@@ -7,6 +7,7 @@
 *                       sleepdata.org.
 * Revision History  :
 *   Date      Author    Revision
+*   20190528  MR        Add new variables for 0.14.0
 *   20171121  MR        Add variables from AF dataset
 *   20170928  MR        Finalize 0.12.0
 *   20170817  MR        Bump version to 0.12.0.beta1
@@ -22,7 +23,7 @@
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
   libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
-  %let release = 0.13.0;
+  %let release = 0.14.0.pre;
 
 *******************************************************************************;
 * pull in source data ;
@@ -41,7 +42,7 @@ data shhs1_investigator;
   rcrdtime = timepart(rcrdtime2);
   format rcrdtime time8.;
 
-  keep pptid Abdodur Abdoqual Airdur Airqual Chestdur Chindur Chinqual Chstqual EEG1dur EEG1qual EEG2dur EEG2qual EOGLdur EOGLqual EOGRdur EOGRqual Hrdur Hrqual LightOff Oximdur Oximqual Posdur Posqual RcrdTime;
+  keep pptid Abdodur Abdoqual Airdur Airqual Chestdur Chindur Chinqual Chstqual EEG1dur EEG1qual EEG2dur EEG2qual EOGLdur EOGLqual EOGRdur EOGRqual Hrdur Hrqual LightOff Oximdur Oximqual Posdur Posqual RcrdTime oximet51;
 run;
 
 data shhs1_ecg;

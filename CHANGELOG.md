@@ -1,5 +1,7 @@
 ## 0.14.0
 
+- Re-add OXIMET51 variable to SHHS1 dataset
+
 ## 0.13.2 (March 7, 2019)
 
 - Add labels to demographic variables

@@ -859,7 +859,7 @@ data shhs_exam2;
   rename mi = mi_priorexam;
 
   /*compute interim epworth total*/
-  ess_interim = sum(sitread,watchtv,sitpublic,ridecar,resting,sittalk,sitafterlunch,stoppedcar)
+  ess_interim = sum(sitread-1,watchtv-1,sitpublic-1,ridecar-1,resting-1,sittalk-1,sitafterlunch-1,stoppedcar-1);
 
   visitnumber = 4;
 

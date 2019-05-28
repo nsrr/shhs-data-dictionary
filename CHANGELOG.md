@@ -1,6 +1,7 @@
 ## 0.14.0
 
 - Re-add OXIMET51 variable to SHHS1 dataset
+- Add ESS_INTERIM variable; computed Epworth score for Interim Follow-up Visit (range 0-24)
 
 ## 0.13.2 (March 7, 2019)
 

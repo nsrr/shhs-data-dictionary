@@ -858,6 +858,9 @@ data shhs_exam2;
   /*rename key variable that overlaps variable from CVD dataset*/
   rename mi = mi_priorexam;
 
+  /*compute interim epworth total*/
+  ess_interim = sum(sitread,watchtv,sitpublic,ridecar,resting,sittalk,sitafterlunch,stoppedcar)
+
   visitnumber = 4;
 
   if nsrrid = . then delete;

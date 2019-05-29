@@ -2,6 +2,7 @@
 
 These are known issues in the current version.
 
+- Impossible low and high outliers: **[oximet51](https://sleepdata.org/datasets/shhs/variables/oximet51) values below 80 or above 100**
 - One occurrence found: **[fev1](https://sleepdata.org/datasets/shhs/variables/fev1) value > 150 liters per second**
 - Multiple occurrences found: **Low values in [avg23bpd_s2](https://sleepdata.org/datasets/shhs/variables/avg23bpd_s2)**
   - Several average diastolic readings below 40 millimeters of mercury

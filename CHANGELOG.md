@@ -2,6 +2,8 @@
 
 - Re-add OXIMET51 variable to SHHS1 dataset
 - Add ESS_INTERIM variable; computed Epworth score for Interim Follow-up Visit (range 0-24)
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.14.0.rc\`
 
 ## 0.13.2 (March 7, 2019)
 

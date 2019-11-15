@@ -1,7 +1,0 @@
-{
-  "id": "signal",
-  "display_name": "EEG Signal",
-  "description": "",
-  "type": "choices",
-  "domain": "signal"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "rem_2_hz",
-  "display_name": "Rapid eye movement sleep (REM) power density at 2.0 Hertz",
-  "description": "",
-  "type": "numeric",
-  "units": "microvolts squared per hertz"
-}

@@ -1,6 +1,7 @@
 ## 0.15.0
 
 - Remove EEG spectral summary variables
+- Add notes to height and weight varibles about top and bottom coding
 
 ## 0.14.0 (May 29, 2019)
 

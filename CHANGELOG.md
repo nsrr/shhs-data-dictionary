@@ -1,5 +1,7 @@
 ## 0.15.0
 
+- Remove EEG spectral summary variables
+
 ## 0.14.0 (May 29, 2019)
 
 - Re-add OXIMET51 variable to SHHS1 dataset

@@ -1,7 +1,9 @@
-## 0.15.0
+## 0.15.0 (November 18, 2019)
 
 - Remove EEG spectral summary variables
 - Add notes to height and weight varibles about top and bottom coding
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.15.0\`
 
 ## 0.14.0 (May 29, 2019)
 

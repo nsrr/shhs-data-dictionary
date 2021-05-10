@@ -6,8 +6,5 @@
   "domain": "status",
   "labels": [
     "interim"
-  ],
-  "other": {
-    "order": "200"
-  }
+  ]
 }

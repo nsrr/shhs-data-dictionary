@@ -6,12 +6,10 @@
   "domain": "nvevry4",
   "labels": [
     "daily",
-    "sleep_hygiene"
+    "sleep_hygiene",
+    "sleep_habits_questionnaire"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1765"
-  }
+  ]
 }

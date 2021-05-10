@@ -6,8 +6,5 @@
   "units": "days from index date",
   "forms": [
     "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
-  ],
-  "other": {
-    "order": "335"
-  }
+  ]
 }

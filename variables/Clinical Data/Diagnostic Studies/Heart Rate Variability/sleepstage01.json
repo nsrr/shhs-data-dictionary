@@ -6,8 +6,5 @@
   "domain": "sleepstage",
   "labels": [
     "heart rate variability"
-  ],
-  "other": {
-    "order": "130"
-  }
+  ]
 }

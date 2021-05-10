@@ -7,12 +7,10 @@
   "labels": [
     "rls",
     "willis -ekbom disease",
-    "rls_plms"
+    "rls_plms",
+    "health_interview"
   ],
   "forms": [
     "shhs2_health_interview"
-  ],
-  "other": {
-    "order": "1671"
-  }
+  ]
 }

@@ -4,10 +4,10 @@
   "description": "5. How well did you sleep last night?",
   "type": "choices",
   "domain": "wrsbet5",
+  "labels": [
+    "health_interview"
+  ],
   "forms": [
     "shhs2_health_interview"
-  ],
-  "other": {
-    "order": "1661"
-  }
+  ]
 }

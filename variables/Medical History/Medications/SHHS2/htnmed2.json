@@ -5,13 +5,11 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "hypertension"
+    "hypertension",
+    "medication_form"
   ],
   "commonly_used": true,
   "forms": [
     "shhs2_medication_form"
-  ],
-  "other": {
-    "order": "1416"
-  }
+  ]
 }

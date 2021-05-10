@@ -3,8 +3,5 @@
   "display_name": "Has Sleep Heart Health Study Visit One (SHHS1) Sleep Habits form",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "other": {
-    "order": "15"
-  }
+  "domain": "noyes01"
 }

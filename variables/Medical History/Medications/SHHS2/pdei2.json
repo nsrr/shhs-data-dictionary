@@ -6,12 +6,10 @@
   "domain": "noyes01",
   "labels": [
     "erectile dysfunction",
-    "ed"
+    "ed",
+    "medication_form"
   ],
   "forms": [
     "shhs2_medication_form"
-  ],
-  "other": {
-    "order": "1447"
-  }
+  ]
 }

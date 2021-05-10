@@ -7,8 +7,5 @@
   "labels": [
     "pctdursp_pb_f1t2"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "1313"
-  }
+  "commonly_used": true
 }

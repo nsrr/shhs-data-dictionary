@@ -5,9 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "heart attack"
-  ],
-  "other": {
-    "order": "1349"
-  }
+    "heart attack",
+    "health_interview"
+  ]
 }

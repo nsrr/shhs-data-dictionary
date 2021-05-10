@@ -6,8 +6,5 @@
   "units": "stage shifts",
   "labels": [
     "phrnumsf_srs2_f1t2"
-  ],
-  "other": {
-    "order": "1271"
-  }
+  ]
 }

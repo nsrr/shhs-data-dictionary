@@ -5,8 +5,5 @@
   "type": "numeric",
   "labels": [
     "heart rate variability"
-  ],
-  "other": {
-    "order": "120"
-  }
+  ]
 }

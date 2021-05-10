@@ -4,10 +4,10 @@
   "description": "Do you usually use oxygen therapy while you sleep?",
   "type": "choices",
   "domain": "noyes01",
+  "labels": [
+    "sleep_habits_questionnaire"
+  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1620"
-  }
+  ]
 }

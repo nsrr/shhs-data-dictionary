@@ -7,8 +7,5 @@
   "labels": [
     "avglvlsa_f1t2"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "440"
-  }
+  "commonly_used": true
 }

@@ -6,8 +6,5 @@
   "units": "percent",
   "labels": [
     "maxlvlsa_srpo_dsge4_f1t2"
-  ],
-  "other": {
-    "order": "526"
-  }
+  ]
 }

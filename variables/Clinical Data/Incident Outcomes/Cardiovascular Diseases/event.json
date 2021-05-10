@@ -3,8 +3,5 @@
   "display_name": "Event type",
   "description": "",
   "type": "choices",
-  "domain": "event_type",
-  "other": {
-    "order": "41"
-  }
+  "domain": "event_type"
 }

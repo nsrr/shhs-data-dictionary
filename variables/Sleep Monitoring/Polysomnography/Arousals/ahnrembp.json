@@ -6,8 +6,5 @@
   "units": "events per hour",
   "labels": [
     "phrnumrs_snpb_dsgt0_f1t2"
-  ],
-  "other": {
-    "order": "336"
-  }
+  ]
 }

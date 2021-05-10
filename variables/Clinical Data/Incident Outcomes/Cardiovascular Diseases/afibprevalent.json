@@ -8,8 +8,5 @@
     "adjudicated",
     "a-fib"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "27"
-  }
+  "commonly_used": true
 }

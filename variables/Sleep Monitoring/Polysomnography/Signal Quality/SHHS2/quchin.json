@@ -6,8 +6,5 @@
   "domain": "sigqual2",
   "labels": [
     "emg"
-  ],
-  "other": {
-    "order": "1236"
-  }
+  ]
 }

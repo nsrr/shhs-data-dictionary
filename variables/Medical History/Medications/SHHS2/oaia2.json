@@ -7,13 +7,11 @@
   "labels": [
     "asthma",
     "respiratory",
-    "inflammation"
+    "inflammation",
+    "medication_form"
   ],
   "commonly_used": true,
   "forms": [
     "shhs2_medication_form"
-  ],
-  "other": {
-    "order": "1440"
-  }
+  ]
 }

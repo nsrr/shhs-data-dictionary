@@ -8,12 +8,10 @@
     "hypertension",
     "arrythmia",
     "htn",
-    "high blood pressure"
+    "high blood pressure",
+    "medication_form"
   ],
   "forms": [
     "shhs2_medication_form"
-  ],
-  "other": {
-    "order": "1472"
-  }
+  ]
 }

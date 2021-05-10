@@ -5,12 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "obesity"
+    "obesity",
+    "medication_form"
   ],
   "forms": [
     "shhs2_medication_form"
-  ],
-  "other": {
-    "order": "1476"
-  }
+  ]
 }

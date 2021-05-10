@@ -7,8 +7,5 @@
   "labels": [
     "adjudicated",
     "tto_stkdate"
-  ],
-  "other": {
-    "order": "60"
-  }
+  ]
 }

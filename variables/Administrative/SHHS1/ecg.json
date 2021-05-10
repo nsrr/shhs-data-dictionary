@@ -6,8 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "ekg"
-  ],
-  "other": {
-    "order": "1"
-  }
+  ]
 }

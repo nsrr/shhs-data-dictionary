@@ -5,12 +5,10 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
-    "insomnia"
+    "insomnia",
+    "sleep_habits_questionnaire"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1770"
-  }
+  ]
 }

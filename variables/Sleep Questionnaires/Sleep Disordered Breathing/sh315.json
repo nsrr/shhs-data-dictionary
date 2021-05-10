@@ -6,12 +6,10 @@
   "domain": "raralw5",
   "labels": [
     "ahi",
-    "sdb"
+    "sdb",
+    "sleep_habits_questionnaire"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1786"
-  }
+  ]
 }

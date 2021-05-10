@@ -5,12 +5,10 @@
   "type": "numeric",
   "units": "drinks",
   "labels": [
-    "alcohol"
+    "alcohol",
+    "sleep_habits_questionnaire"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1806"
-  }
+  ]
 }

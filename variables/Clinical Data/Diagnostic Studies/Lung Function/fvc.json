@@ -7,8 +7,5 @@
   "labels": [
     "spirometry"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "331"
-  }
+  "commonly_used": true
 }

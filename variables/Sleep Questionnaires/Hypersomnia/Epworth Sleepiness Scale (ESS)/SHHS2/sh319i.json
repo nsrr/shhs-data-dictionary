@@ -5,14 +5,12 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
+    "sleep_habits_questionnaire",
     "eds",
     "subjective_sleepiness",
     "ess_dinner"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1655"
-  }
+  ]
 }

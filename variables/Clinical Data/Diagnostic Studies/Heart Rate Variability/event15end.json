@@ -6,8 +6,5 @@
   "units": "seconds from start of recording",
   "labels": [
     "heart rate variability"
-  ],
-  "other": {
-    "order": "105"
-  }
+  ]
 }

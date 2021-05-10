@@ -3,8 +3,5 @@
   "display_name": "Has Sleep Heart Health Study Visit Two (SHHS2) Health Interview form",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "other": {
-    "order": "18"
-  }
+  "domain": "noyes01"
 }

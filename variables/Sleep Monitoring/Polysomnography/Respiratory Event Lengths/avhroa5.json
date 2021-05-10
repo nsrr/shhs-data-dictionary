@@ -6,8 +6,5 @@
   "units": "seconds",
   "labels": [
     "avgdurhp_srpo_hp3x5u_f1t2"
-  ],
-  "other": {
-    "order": "970"
-  }
+  ]
 }

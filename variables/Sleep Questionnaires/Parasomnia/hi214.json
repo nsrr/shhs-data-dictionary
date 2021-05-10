@@ -7,9 +7,7 @@
   "labels": [
     "rls",
     "willis -ekbom disease",
-    "rls_plms"
-  ],
-  "other": {
-    "order": "1670"
-  }
+    "rls_plms",
+    "health_interview"
+  ]
 }

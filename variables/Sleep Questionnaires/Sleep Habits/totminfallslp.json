@@ -6,8 +6,5 @@
   "units": "minutes",
   "labels": [
     "sleep_timing"
-  ],
-  "other": {
-    "order": "1808"
-  }
+  ]
 }

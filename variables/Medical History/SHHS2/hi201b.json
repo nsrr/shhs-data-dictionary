@@ -6,13 +6,11 @@
   "domain": "yesnod",
   "labels": [
     "copd",
-    "obstructive pulmonary disease"
+    "obstructive pulmonary disease",
+    "health_interview"
   ],
   "commonly_used": true,
   "forms": [
     "shhs2_health_interview"
-  ],
-  "other": {
-    "order": "1337"
-  }
+  ]
 }

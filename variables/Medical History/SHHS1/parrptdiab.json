@@ -5,10 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "dm"
+    "dm",
+    "health_interview"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "1347"
-  }
+  "commonly_used": true
 }

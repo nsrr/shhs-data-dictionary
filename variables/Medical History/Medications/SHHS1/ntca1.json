@@ -5,13 +5,11 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "depression"
+    "depression",
+    "medication_form"
   ],
   "commonly_used": true,
   "forms": [
     "shhs1_medications_prescription_and_over_the_counter_form"
-  ],
-  "other": {
-    "order": "1436"
-  }
+  ]
 }

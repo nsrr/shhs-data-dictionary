@@ -6,13 +6,11 @@
   "domain": "yesnod",
   "labels": [
     "bronchitis",
-    "emphysema"
+    "emphysema",
+    "health_interview"
   ],
   "commonly_used": true,
   "forms": [
     "shhs2_health_interview"
-  ],
-  "other": {
-    "order": "1338"
-  }
+  ]
 }

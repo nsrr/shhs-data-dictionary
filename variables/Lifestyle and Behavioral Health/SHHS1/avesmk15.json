@@ -5,12 +5,10 @@
   "type": "numeric",
   "units": "cigarettes",
   "labels": [
-    "smoking"
+    "smoking",
+    "health_interview"
   ],
   "forms": [
     "shhs1_health_interview_form_new_york"
-  ],
-  "other": {
-    "order": "1500"
-  }
+  ]
 }

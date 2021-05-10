@@ -6,8 +6,5 @@
   "units": "minutes",
   "labels": [
     "sleep_hygiene"
-  ],
-  "other": {
-    "order": "1762"
-  }
+  ]
 }

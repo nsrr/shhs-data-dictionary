@@ -6,8 +6,5 @@
   "domain": "protocol",
   "labels": [
     "interim"
-  ],
-  "other": {
-    "order": "152"
-  }
+  ]
 }

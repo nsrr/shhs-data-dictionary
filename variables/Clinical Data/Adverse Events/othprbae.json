@@ -4,7 +4,7 @@
   "description": "Other problem?",
   "type": "choices",
   "domain": "noyes01",
-  "other": {
-    "order": "1483"
-  }
+  "labels": [
+    "adverse_events_form"
+  ]
 }

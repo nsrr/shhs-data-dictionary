@@ -6,8 +6,5 @@
   "units": "beats per minute",
   "labels": [
     "minlvlhr_srpb_dsgt0_f1t2"
-  ],
-  "other": {
-    "order": "389"
-  }
+  ]
 }

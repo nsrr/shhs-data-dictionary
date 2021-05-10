@@ -4,7 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "noyes01",
-  "other": {
-    "order": "1350"
-  }
+  "labels": [
+    "health_interview"
+  ]
 }

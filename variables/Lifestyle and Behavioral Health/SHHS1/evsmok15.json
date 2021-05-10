@@ -4,12 +4,12 @@
   "description": "Have you ever smoked cigarettes ('ever' = at least 20 packs in lifetime)?",
   "type": "choices",
   "domain": "noyes01",
+  "labels": [
+    "health_interview"
+  ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
     "shhs1_health_interview_form_framingham",
     "shhs1_health_interview_form_new_york"
-  ],
-  "other": {
-    "order": "1504"
-  }
+  ]
 }

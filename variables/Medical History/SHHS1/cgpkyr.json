@@ -4,8 +4,8 @@
   "description": "Lifetime cigarette smoking: pack years",
   "type": "numeric",
   "units": "pack years",
-  "commonly_used": true,
-  "other": {
-    "order": "1330"
-  }
+  "labels": [
+    "health_interview"
+  ],
+  "commonly_used": true
 }

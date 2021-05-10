@@ -6,12 +6,10 @@
   "domain": "noyes01",
   "labels": [
     "uppp",
-    "uvulopalatopharyngoplasty"
+    "uvulopalatopharyngoplasty",
+    "sleep_habits_questionnaire"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1784"
-  }
+  ]
 }

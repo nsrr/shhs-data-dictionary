@@ -3,8 +3,5 @@
   "display_name": "Has Sleep Heart Health Study Visit One (SHHS1) Polysomnography (PSG) record",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "other": {
-    "order": "10"
-  }
+  "domain": "noyes01"
 }

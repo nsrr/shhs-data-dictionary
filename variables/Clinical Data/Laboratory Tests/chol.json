@@ -7,8 +7,5 @@
   "labels": [
     "mg/dl"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "294"
-  }
+  "commonly_used": true
 }

@@ -5,10 +5,8 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "high blood pressure"
+    "high blood pressure",
+    "health_interview"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "1354"
-  }
+  "commonly_used": true
 }

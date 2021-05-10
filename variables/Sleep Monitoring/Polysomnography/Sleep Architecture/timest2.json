@@ -6,8 +6,5 @@
   "units": "minutes",
   "labels": [
     "ttldursp_s2_f1t2"
-  ],
-  "other": {
-    "order": "1317"
-  }
+  ]
 }

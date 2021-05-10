@@ -5,13 +5,12 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "willis-ekbom disease"
+    "willis-ekbom disease",
+    "rls_plms",
+    "health_interview"
   ],
   "commonly_used": true,
   "forms": [
     "shhs2_health_interview"
-  ],
-  "other": {
-    "order": "1341"
-  }
+  ]
 }

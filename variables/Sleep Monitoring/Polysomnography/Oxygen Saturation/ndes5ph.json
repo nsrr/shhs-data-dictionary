@@ -6,8 +6,5 @@
   "units": "oxygen desaturation events",
   "labels": [
     "ttlnumsa_dsge5_f1t2"
-  ],
-  "other": {
-    "order": "533"
-  }
+  ]
 }

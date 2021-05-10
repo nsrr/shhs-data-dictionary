@@ -3,8 +3,5 @@
   "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Medical Alert - heart rate > 150",
   "description": "Medical Alert for heart rate over 150.",
   "type": "choices",
-  "domain": "yesnon",
-  "other": {
-    "order": "396"
-  }
+  "domain": "yesnon"
 }

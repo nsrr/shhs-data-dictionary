@@ -6,8 +6,5 @@
   "units": "events per hour",
   "labels": [
     "phrnumoa_snpo_oa4u_f1t2"
-  ],
-  "other": {
-    "order": "904"
-  }
+  ]
 }

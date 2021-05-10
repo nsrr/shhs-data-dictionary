@@ -6,8 +6,5 @@
   "units": "events per hour",
   "labels": [
     "cai_ca4r_f1t2"
-  ],
-  "other": {
-    "order": "1150"
-  }
+  ]
 }

@@ -9,8 +9,5 @@
     "male",
     "female"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "71"
-  }
+  "commonly_used": true
 }

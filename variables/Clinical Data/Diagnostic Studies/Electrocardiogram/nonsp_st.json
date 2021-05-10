@@ -6,8 +6,5 @@
   "domain": "nonsp_st",
   "labels": [
     "stwave"
-  ],
-  "other": {
-    "order": "316"
-  }
+  ]
 }

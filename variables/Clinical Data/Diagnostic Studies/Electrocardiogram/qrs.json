@@ -6,8 +6,5 @@
   "units": "millimeters",
   "labels": [
     "mm "
-  ],
-  "other": {
-    "order": "320"
-  }
+  ]
 }

@@ -4,10 +4,10 @@
   "description": "O2 saturation (SaO2) < 80% for > 2 minutes at rest?",
   "type": "choices",
   "domain": "noyes01",
+  "labels": [
+    "adverse_events_form"
+  ],
   "forms": [
     "shhs1_adverse_events_form"
-  ],
-  "other": {
-    "order": "1481"
-  }
+  ]
 }

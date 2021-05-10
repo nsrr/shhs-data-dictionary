@@ -5,12 +5,10 @@
   "type": "choices",
   "domain": "ampmf",
   "labels": [
-    "sleep_timing"
+    "sleep_timing",
+    "sleep_habits_questionnaire"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1633"
-  }
+  ]
 }

@@ -7,13 +7,11 @@
   "labels": [
     "hypertension",
     "htn",
-    "high blood pressure"
+    "high blood pressure",
+    "medication_form"
   ],
   "commonly_used": true,
   "forms": [
     "shhs2_medication_form"
-  ],
-  "other": {
-    "order": "1385"
-  }
+  ]
 }

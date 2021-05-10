@@ -6,12 +6,10 @@
   "domain": "noyes01",
   "labels": [
     "hyperuricemia",
-    "gout"
+    "gout",
+    "medication_form"
   ],
   "forms": [
     "shhs2_medication_form"
-  ],
-  "other": {
-    "order": "1477"
-  }
+  ]
 }

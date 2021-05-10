@@ -5,12 +5,10 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "oral appliance"
+    "oral appliance",
+    "sleep_habits_questionnaire"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1600"
-  }
+  ]
 }

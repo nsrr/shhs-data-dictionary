@@ -7,10 +7,8 @@
   "labels": [
     "high blood pressure",
     "second",
-    "third"
+    "third",
+    "health_interview"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "1342"
-  }
+  "commonly_used": true
 }

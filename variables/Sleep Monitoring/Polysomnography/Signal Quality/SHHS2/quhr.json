@@ -7,8 +7,5 @@
   "labels": [
     "ekg",
     "ecg"
-  ],
-  "other": {
-    "order": "1241"
-  }
+  ]
 }

@@ -7,8 +7,5 @@
   "labels": [
     "ethnicity"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "75"
-  }
+  "commonly_used": true
 }

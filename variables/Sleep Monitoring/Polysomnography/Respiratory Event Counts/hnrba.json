@@ -6,8 +6,5 @@
   "units": "hypopnea events",
   "labels": [
     "ttlnumhp_snpb_hp3x0o_f1t2"
-  ],
-  "other": {
-    "order": "976"
-  }
+  ]
 }

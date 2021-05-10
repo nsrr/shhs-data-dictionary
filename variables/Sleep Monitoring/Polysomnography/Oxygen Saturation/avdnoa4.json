@@ -6,8 +6,5 @@
   "units": "percent",
   "labels": [
     "avglvlds_snsopo_dsge4_f1t2"
-  ],
-  "other": {
-    "order": "413"
-  }
+  ]
 }

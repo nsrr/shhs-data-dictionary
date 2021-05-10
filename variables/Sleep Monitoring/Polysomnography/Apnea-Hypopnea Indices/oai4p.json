@@ -6,8 +6,5 @@
   "units": "events per hour",
   "labels": [
     "oai_oa4u_f1t2"
-  ],
-  "other": {
-    "order": "1154"
-  }
+  ]
 }

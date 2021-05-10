@@ -6,8 +6,5 @@
   "domain": "reasonrefused",
   "labels": [
     "interim"
-  ],
-  "other": {
-    "order": "204"
-  }
+  ]
 }

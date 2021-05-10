@@ -5,12 +5,10 @@
   "type": "numeric",
   "units": "bottles",
   "labels": [
-    "alcohol"
+    "alcohol",
+    "morning_survey_form"
   ],
   "forms": [
     "shhs2_morning_survey_form"
-  ],
-  "other": {
-    "order": "1684"
-  }
+  ]
 }

@@ -6,8 +6,5 @@
   "units": "car accidents",
   "labels": [
     "interim"
-  ],
-  "other": {
-    "order": "257"
-  }
+  ]
 }

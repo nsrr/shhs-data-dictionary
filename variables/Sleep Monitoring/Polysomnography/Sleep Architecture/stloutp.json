@@ -5,8 +5,5 @@
   "type": "time",
   "labels": [
     "begtimbd_f1t2"
-  ],
-  "other": {
-    "order": "1311"
-  }
+  ]
 }

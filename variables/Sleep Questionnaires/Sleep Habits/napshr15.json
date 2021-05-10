@@ -5,14 +5,12 @@
   "type": "numeric",
   "units": "hours",
   "labels": [
+    "health_interview",
     "sleep_hygiene"
   ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
     "shhs1_health_interview_form_framingham",
     "shhs1_health_interview_form_new_york"
-  ],
-  "other": {
-    "order": "1506"
-  }
+  ]
 }

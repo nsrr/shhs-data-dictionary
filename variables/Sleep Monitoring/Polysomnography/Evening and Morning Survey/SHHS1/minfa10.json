@@ -5,12 +5,10 @@
   "type": "numeric",
   "units": "minutes",
   "labels": [
-    "sleep latency"
+    "sleep latency",
+    "morning_survey_form"
   ],
   "forms": [
     "shhs1_morning_survey_form"
-  ],
-  "other": {
-    "order": "1529"
-  }
+  ]
 }

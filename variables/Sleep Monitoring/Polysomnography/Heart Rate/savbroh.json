@@ -6,8 +6,5 @@
   "units": "beats per minute",
   "labels": [
     "avglvlhr_srpo_dsgt0_f1t2"
-  ],
-  "other": {
-    "order": "386"
-  }
+  ]
 }

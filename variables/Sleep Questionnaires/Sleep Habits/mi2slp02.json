@@ -6,12 +6,10 @@
   "units": "minutes",
   "labels": [
     "bedtime",
-    "avglatsp_f3"
+    "avglatsp_f3",
+    "sleep_habits_questionnaire"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1615"
-  }
+  ]
 }

@@ -6,8 +6,5 @@
   "units": "hours",
   "labels": [
     "interim"
-  ],
-  "other": {
-    "order": "186"
-  }
+  ]
 }

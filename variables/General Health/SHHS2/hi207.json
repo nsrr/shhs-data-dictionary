@@ -4,10 +4,10 @@
   "description": "7. How stressful was your day today?  Was it: (check one.)",
   "type": "choices",
   "domain": "stress3",
+  "labels": [
+    "health_interview"
+  ],
   "forms": [
     "shhs2_health_interview"
-  ],
-  "other": {
-    "order": "1662"
-  }
+  ]
 }

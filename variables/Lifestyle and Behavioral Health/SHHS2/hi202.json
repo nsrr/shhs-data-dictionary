@@ -6,12 +6,10 @@
   "domain": "noyes01",
   "labels": [
     "asa",
-    "acetylsalicylic acid"
+    "acetylsalicylic acid",
+    "health_interview"
   ],
   "forms": [
     "shhs2_health_interview"
-  ],
-  "other": {
-    "order": "1659"
-  }
+  ]
 }

@@ -6,8 +6,5 @@
   "domain": "weight",
   "labels": [
     "interim"
-  ],
-  "other": {
-    "order": "256"
-  }
+  ]
 }

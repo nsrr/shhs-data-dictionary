@@ -5,8 +5,5 @@
   "type": "time",
   "labels": [
     "trt"
-  ],
-  "other": {
-    "order": "1268"
-  }
+  ]
 }

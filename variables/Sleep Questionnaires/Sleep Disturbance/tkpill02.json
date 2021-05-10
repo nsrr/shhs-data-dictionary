@@ -4,10 +4,10 @@
   "description": "How often do you take sleeping pills or other medication to help you sleep?",
   "type": "choices",
   "domain": "nevralw5",
+  "labels": [
+    "sleep_habits_questionnaire"
+  ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1636"
-  }
+  ]
 }

@@ -6,8 +6,5 @@
   "domain": "fatal_stroke_type",
   "labels": [
     "death"
-  ],
-  "other": {
-    "order": "43"
-  }
+  ]
 }

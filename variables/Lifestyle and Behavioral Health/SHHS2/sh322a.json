@@ -6,12 +6,10 @@
   "units": "years",
   "labels": [
     "cigarettes",
-    "smoking"
+    "smoking",
+    "sleep_habits_questionnaire"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1796"
-  }
+  ]
 }

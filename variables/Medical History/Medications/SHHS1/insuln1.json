@@ -6,13 +6,11 @@
   "domain": "noyes01",
   "labels": [
     "diabetes",
-    "dm"
+    "dm",
+    "medication_form"
   ],
   "commonly_used": true,
   "forms": [
     "shhs1_medications_prescription_and_over_the_counter_form"
-  ],
-  "other": {
-    "order": "1417"
-  }
+  ]
 }

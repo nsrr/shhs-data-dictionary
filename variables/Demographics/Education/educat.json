@@ -4,8 +4,5 @@
   "description": "",
   "type": "choices",
   "domain": "eduyears",
-  "commonly_used": true,
-  "other": {
-    "order": "69"
-  }
+  "commonly_used": true
 }

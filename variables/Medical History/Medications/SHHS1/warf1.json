@@ -8,12 +8,10 @@
     "pulmonary embolism",
     "dvt",
     "deep-vein thrombosis",
-    "acute coronary syndrome"
+    "acute coronary syndrome",
+    "medication_form"
   ],
   "forms": [
     "shhs1_medications_prescription_and_over_the_counter_form"
-  ],
-  "other": {
-    "order": "1474"
-  }
+  ]
 }

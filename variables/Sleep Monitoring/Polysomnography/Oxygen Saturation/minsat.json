@@ -7,8 +7,5 @@
   "labels": [
     "minlvlsa_f1t2"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "445"
-  }
+  "commonly_used": true
 }

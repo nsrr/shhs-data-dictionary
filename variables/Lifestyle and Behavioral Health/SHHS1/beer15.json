@@ -5,12 +5,10 @@
   "type": "numeric",
   "units": "cans",
   "labels": [
-    "alcohol"
+    "alcohol",
+    "health_interview"
   ],
   "forms": [
     "shhs1_health_interview_form_new_york"
-  ],
-  "other": {
-    "order": "1501"
-  }
+  ]
 }

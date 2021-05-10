@@ -5,8 +5,5 @@
   "type": "numeric",
   "labels": [
     "interim"
-  ],
-  "other": {
-    "order": "191"
-  }
+  ]
 }

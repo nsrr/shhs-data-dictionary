@@ -6,8 +6,5 @@
   "units": "days",
   "labels": [
     "heart attack"
-  ],
-  "other": {
-    "order": "42"
-  }
+  ]
 }

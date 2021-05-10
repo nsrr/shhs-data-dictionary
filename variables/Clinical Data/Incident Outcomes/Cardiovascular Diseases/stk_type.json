@@ -3,8 +3,5 @@
   "display_name": "Type of stroke",
   "description": "",
   "type": "choices",
-  "domain": "stroke_type",
-  "other": {
-    "order": "62"
-  }
+  "domain": "stroke_type"
 }

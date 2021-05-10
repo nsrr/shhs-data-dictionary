@@ -5,8 +5,5 @@
   "type": "text",
   "labels": [
     "sleep_timing"
-  ],
-  "other": {
-    "order": "1674"
-  }
+  ]
 }

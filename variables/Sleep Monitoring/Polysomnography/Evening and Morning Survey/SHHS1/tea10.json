@@ -5,12 +5,10 @@
   "type": "numeric",
   "units": "cups",
   "labels": [
-    "caffeine"
+    "caffeine",
+    "morning_survey_form"
   ],
   "forms": [
     "shhs1_morning_survey_form"
-  ],
-  "other": {
-    "order": "1536"
-  }
+  ]
 }

@@ -6,8 +6,5 @@
   "units": "central apnea events",
   "labels": [
     "ttlnumca_snpo_ca3u_f1t2"
-  ],
-  "other": {
-    "order": "593"
-  }
+  ]
 }

@@ -4,11 +4,11 @@
   "description": "Doctor of Medicine (MD) said participant had heart attack?",
   "type": "choices",
   "domain": "yesnod",
+  "labels": [
+    "health_interview"
+  ],
   "forms": [
     "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
     "shhs1_health_interview_form_framingham"
-  ],
-  "other": {
-    "order": "1344"
-  }
+  ]
 }

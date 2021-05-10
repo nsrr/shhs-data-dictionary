@@ -6,8 +6,5 @@
   "units": "millimeters of mercury",
   "labels": [
     "mmhg"
-  ],
-  "other": {
-    "order": "275"
-  }
+  ]
 }

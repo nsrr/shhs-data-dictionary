@@ -6,8 +6,5 @@
   "units": "events per hour",
   "labels": [
     "phrnumca_srpb_ca2u_f1t2"
-  ],
-  "other": {
-    "order": "627"
-  }
+  ]
 }

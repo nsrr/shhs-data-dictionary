@@ -6,8 +6,5 @@
   "units": "percent",
   "labels": [
     "minlvlsa_snpo_dsge3_f1t2"
-  ],
-  "other": {
-    "order": "463"
-  }
+  ]
 }

@@ -6,12 +6,10 @@
   "units": "cans",
   "labels": [
     "caffeine",
-    "pop"
+    "pop",
+    "sleep_habits_questionnaire"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1803"
-  }
+  ]
 }

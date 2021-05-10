@@ -3,8 +3,5 @@
   "display_name": "Adverse Events (Sleep Heart Health Study Visit One (SHHS1)): Diastolic blood pressure (BP) > 100",
   "description": "Diastolic blood pressure (BP) > 100 (and not on blood pressure (BP) meds)?",
   "type": "choices",
-  "domain": "noyes01",
-  "other": {
-    "order": "1486"
-  }
+  "domain": "noyes01"
 }

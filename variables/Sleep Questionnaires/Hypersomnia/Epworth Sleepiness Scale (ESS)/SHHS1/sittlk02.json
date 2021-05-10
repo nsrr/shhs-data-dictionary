@@ -5,14 +5,12 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
+    "sleep_habits_questionnaire",
     "ess6",
     "epworth",
     "ess_6sittalk"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1496"
-  }
+  ]
 }

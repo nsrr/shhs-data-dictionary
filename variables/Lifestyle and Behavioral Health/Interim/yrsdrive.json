@@ -6,8 +6,5 @@
   "units": "years",
   "labels": [
     "interim"
-  ],
-  "other": {
-    "order": "258"
-  }
+  ]
 }

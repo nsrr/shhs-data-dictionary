@@ -6,8 +6,5 @@
   "domain": "yesnon",
   "forms": [
     "shhs1_psg_scoring_notes_form"
-  ],
-  "other": {
-    "order": "1255"
-  }
+  ]
 }

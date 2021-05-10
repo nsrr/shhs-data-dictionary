@@ -6,8 +6,5 @@
   "units": "seconds",
   "labels": [
     "maxduroa_snpb_oa5u_f1t2"
-  ],
-  "other": {
-    "order": "825"
-  }
+  ]
 }

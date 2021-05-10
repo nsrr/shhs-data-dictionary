@@ -6,8 +6,5 @@
   "domain": "noyes01",
   "labels": [
     "pacemaker"
-  ],
-  "other": {
-    "order": "318"
-  }
+  ]
 }

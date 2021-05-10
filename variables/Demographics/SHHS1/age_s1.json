@@ -4,8 +4,5 @@
   "description": "Age at time of study in years, based on start date of Sleep Heart Health Study Visit One (SHHS1) Polysomnography (PSG) recording.",
   "type": "numeric",
   "units": "years",
-  "commonly_used": true,
-  "other": {
-    "order": "67"
-  }
+  "commonly_used": true
 }

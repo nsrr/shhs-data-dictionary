@@ -6,8 +6,5 @@
   "domain": "administered",
   "labels": [
     "interim"
-  ],
-  "other": {
-    "order": "254"
-  }
+  ]
 }

@@ -6,8 +6,5 @@
   "units": "events per hour",
   "forms": [
     "shhs1_psg_scoring_notes_form"
-  ],
-  "other": {
-    "order": "333"
-  }
+  ]
 }

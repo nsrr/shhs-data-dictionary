@@ -4,10 +4,10 @@
   "description": "If yes to [NS1YR15] how many years did you not smoke?",
   "type": "numeric",
   "units": "years",
+  "labels": [
+    "health_interview"
+  ],
   "forms": [
     "shhs1_health_interview_form_new_york"
-  ],
-  "other": {
-    "order": "1517"
-  }
+  ]
 }

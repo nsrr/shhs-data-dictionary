@@ -4,12 +4,10 @@
   "description": "At what time do you usually wake up on weekends or your non-work days - hour? (hours component of time, 1 to 12)",
   "type": "numeric",
   "labels": [
-    "sleep_timing"
+    "sleep_timing",
+    "sleep_habits_questionnaire"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1641"
-  }
+  ]
 }

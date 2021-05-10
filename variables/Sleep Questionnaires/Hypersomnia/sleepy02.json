@@ -5,13 +5,11 @@
   "type": "choices",
   "domain": "nevralw5",
   "labels": [
+    "sleep_habits_questionnaire",
     "eds",
     "subjective_sleepiness"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"
-  ],
-  "other": {
-    "order": "1622"
-  }
+  ]
 }

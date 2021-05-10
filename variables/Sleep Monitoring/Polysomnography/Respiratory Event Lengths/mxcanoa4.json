@@ -6,8 +6,5 @@
   "units": "seconds",
   "labels": [
     "maxdurca_snpo_ca4u_f1t2"
-  ],
-  "other": {
-    "order": "709"
-  }
+  ]
 }

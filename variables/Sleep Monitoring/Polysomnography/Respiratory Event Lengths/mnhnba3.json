@@ -6,8 +6,5 @@
   "units": "seconds",
   "labels": [
     "mindurhp_snpb_hp3x3u_f1t2"
-  ],
-  "other": {
-    "order": "1018"
-  }
+  ]
 }

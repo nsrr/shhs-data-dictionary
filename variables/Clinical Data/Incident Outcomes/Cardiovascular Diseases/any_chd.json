@@ -7,8 +7,5 @@
   "labels": [
     "adjudicated"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "30"
-  }
+  "commonly_used": true
 }

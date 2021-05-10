@@ -4,8 +4,5 @@
   "description": "Overall study grade as assigned by scorer.  These codes reflected the total duration of useable (artifact free, scorable) signals during sleep time across channels, weighing those signals most critical for accurate scoring of respiratory events and staging during sleep time.  The Quality Assessment Form for SHHS2 was modified so that the overall quality grade and the signal quality codes were based on signals during sleep time.  Since events were only scored during sleep time this provided a more accurate assessment of signal quality during the actual time or scoring.   This change would only have affected the quality grade of a small number of studies in SHHS1 where there was a significant amount of time awake with very good signals combined with very poor signals that occurred during sleep.   The overall and signal quality grades are comparable between SHHS1 and SHHS2.",
   "type": "choices",
   "domain": "ovqus2",
-  "commonly_used": true,
-  "other": {
-    "order": "1229"
-  }
+  "commonly_used": true
 }

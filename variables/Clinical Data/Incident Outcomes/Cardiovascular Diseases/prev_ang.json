@@ -8,8 +8,5 @@
     "adjudicated",
     "chest pain"
   ],
-  "commonly_used": true,
-  "other": {
-    "order": "50"
-  }
+  "commonly_used": true
 }

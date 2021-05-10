@@ -6,8 +6,5 @@
   "units": "beats per minute",
   "labels": [
     "maxlvlhr_snsopb_dsgt0_f1t2"
-  ],
-  "other": {
-    "order": "355"
-  }
+  ]
 }

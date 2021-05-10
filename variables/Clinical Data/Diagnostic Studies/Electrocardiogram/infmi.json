@@ -6,8 +6,5 @@
   "domain": "infmi",
   "labels": [
     "heart attack"
-  ],
-  "other": {
-    "order": "305"
-  }
+  ]
 }

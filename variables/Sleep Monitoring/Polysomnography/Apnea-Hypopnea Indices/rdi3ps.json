@@ -6,8 +6,5 @@
   "units": "events per hour",
   "labels": [
     "ahi_pb_ap3uhp3x3u_f1t2"
-  ],
-  "other": {
-    "order": "1167"
-  }
+  ]
 }

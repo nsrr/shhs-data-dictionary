@@ -7,8 +7,5 @@
   "labels": [
     "abdomen",
     "respiratory belt"
-  ],
-  "other": {
-    "order": "1233"
-  }
+  ]
 }

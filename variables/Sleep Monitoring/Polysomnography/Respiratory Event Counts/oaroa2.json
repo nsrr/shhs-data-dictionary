@@ -6,8 +6,5 @@
   "units": "obstructive apnea events",
   "labels": [
     "ttlnumoa_srpo_oa2u_f1t2"
-  ],
-  "other": {
-    "order": "927"
-  }
+  ]
 }

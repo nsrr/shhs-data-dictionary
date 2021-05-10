@@ -1,0 +1,13 @@
+{
+  "id": "lvhst",
+  "display_name": "Left Ventricular Hypertrophy with ST and T-wave abnormalities",
+  "description": "Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "st-wave"
+  ],
+  "other": {
+    "order": "312"
+  }
+}

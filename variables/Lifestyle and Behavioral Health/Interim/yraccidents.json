@@ -1,0 +1,13 @@
+{
+  "id": "yraccidents",
+  "display_name": "Interim Follow-up: Number of automobile accidents during recent year",
+  "description": "",
+  "type": "numeric",
+  "units": "car accidents",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "257"
+  }
+}

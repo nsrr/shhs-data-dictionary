@@ -1,0 +1,13 @@
+{
+  "id": "freqdrive",
+  "display_name": "Interim Follow-up: Frequency that participant drives",
+  "description": "",
+  "type": "choices",
+  "domain": "everynever",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "177"
+  }
+}

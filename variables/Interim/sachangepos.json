@@ -1,7 +1,0 @@
-{
-  "id": "sachangepos",
-  "display_name": "Treatment prescribed: change sleep position",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

@@ -1,0 +1,13 @@
+{
+  "id": "notenoughsleep",
+  "display_name": "Interim Follow-up: Do not get enough sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "nevalw",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "196"
+  }
+}

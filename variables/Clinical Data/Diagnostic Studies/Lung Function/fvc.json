@@ -1,0 +1,14 @@
+{
+  "id": "fvc",
+  "display_name": "Forced Vital Capacity (FVC) (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "",
+  "type": "numeric",
+  "units": "liters",
+  "labels": [
+    "spirometry"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "331"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mxcanbp",
+  "display_name": "Maximum Central Apnea length (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxdurca_snpb_ca0u_f1t2"
+  ],
+  "other": {
+    "order": "701"
+  }
+}

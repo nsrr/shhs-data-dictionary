@@ -1,0 +1,15 @@
+{
+  "id": "sleepapnea",
+  "display_name": "Interim Follow-up: Told by doctor that you had sleep apnea",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "md",
+    "interim",
+    "sdb"
+  ],
+  "other": {
+    "order": "221"
+  }
+}

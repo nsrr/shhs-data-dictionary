@@ -1,0 +1,15 @@
+{
+  "id": "ahi_o0h4",
+  "display_name": "Obstructive Apnea-Hypopnea Index (AHI) >= 4% - number of [obstructive apneas] and [hypopneas with >= 4% oxygen desaturation] per hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "oahi",
+    "oahi_oa0uhp3x4u_f1t2"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "1146"
+  }
+}

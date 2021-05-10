@@ -1,7 +1,0 @@
-{
-  "id": "intrevdt",
-  "display_name": "Days from index date to Interview or Review date",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}

@@ -1,0 +1,14 @@
+{
+  "id": "cai0p",
+  "display_name": "Central Apnea Index - numer of [central apneas] per hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "cai_ca0u_f1t2"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "1148"
+  }
+}

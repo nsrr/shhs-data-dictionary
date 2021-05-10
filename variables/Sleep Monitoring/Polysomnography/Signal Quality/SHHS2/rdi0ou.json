@@ -1,0 +1,10 @@
+{
+  "id": "rdi0ou",
+  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Respiratory Disturbance Index (RDI)=0 real",
+  "description": "If Respiratory Disturbance Index (RDI) = 0, scorer has verified that this value is real.",
+  "type": "choices",
+  "domain": "yesnon",
+  "other": {
+    "order": "1243"
+  }
+}

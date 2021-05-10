@@ -1,0 +1,10 @@
+{
+  "id": "rptelaptimslpwak",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit Two (SHHS2)): Reported elapsed time between sleep and wakening",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "other": {
+    "order": "1694"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "canbp",
+  "display_name": "Number of Central Apnea (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "central apnea events",
+  "labels": [
+    "ttlnumca_snpb_ca0u_f1t2"
+  ],
+  "other": {
+    "order": "581"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dias320",
+  "display_name": "Diastolic blood pressure (BP): reading 3 of 3 (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Seated diastolic blood pressure (BP)- third reading",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg",
+    "3rd"
+  ],
+  "forms": [
+    "shhs1_seated_bp_weight_neck_circumference_form"
+  ],
+  "other": {
+    "order": "280"
+  }
+}

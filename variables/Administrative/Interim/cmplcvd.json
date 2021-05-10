@@ -1,0 +1,13 @@
+{
+  "id": "cmplcvd",
+  "display_name": "Interim Follow-up: Completed cardiovascular disease (CVD) events form (parent study form)",
+  "description": "",
+  "type": "choices",
+  "domain": "complete4",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "161"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "genhth25",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): General health",
+  "description": "In general, would you say your health is (excellent, very good, good, fair, poor)?",
+  "type": "choices",
+  "domain": "excpoor5",
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1558"
+  }
+}

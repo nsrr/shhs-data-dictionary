@@ -1,0 +1,13 @@
+{
+  "id": "mxoanoa",
+  "display_name": "Maximum Obstructive Apnea length w/ arousals (Non-rapid eye movement sleep (NREM), Non-supine all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxduroa_snpo_oa0o_f1t2"
+  ],
+  "other": {
+    "order": "826"
+  }
+}

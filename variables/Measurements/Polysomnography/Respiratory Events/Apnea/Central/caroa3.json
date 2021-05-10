@@ -1,7 +1,0 @@
-{
-  "id": "caroa3",
-  "display_name": "Number of Central Apnea with >=3% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
-  "description": "",
-  "type": "numeric",
-  "units": "central apnea events"
-}

@@ -1,0 +1,16 @@
+{
+  "id": "ms212",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit Two (SHHS2)): Nasal stuffiness, discharge last night",
+  "description": "12. Did you have nasal stuffiness, obstruction, or discharge last night? (check one)",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "congestion"
+  ],
+  "forms": [
+    "shhs2_morning_survey_form"
+  ],
+  "other": {
+    "order": "1691"
+  }
+}

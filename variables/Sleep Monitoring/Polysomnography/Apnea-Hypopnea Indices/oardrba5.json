@@ -1,0 +1,13 @@
+{
+  "id": "oardrba5",
+  "display_name": "Obstructive Apnea per hour with >=5% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumoa_srpb_oa5u_f1t2"
+  ],
+  "other": {
+    "order": "910"
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "id": "cardrba",
-  "display_name": "Central Apnea per hour w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

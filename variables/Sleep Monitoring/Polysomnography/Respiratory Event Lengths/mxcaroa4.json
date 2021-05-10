@@ -1,0 +1,13 @@
+{
+  "id": "mxcaroa4",
+  "display_name": "Maximum Central Apnea length with >=4% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxdurca_srpo_ca4u_f1t2"
+  ],
+  "other": {
+    "order": "729"
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "id": "aai",
-  "display_name": "Ankle-arm Blood Pressure (BP) Index (Sleep Heart Health Study Visit One (SHHS1))",
-  "description": "Ratio of ankle to arm systolic blood pressure (BP)",
-  "type": "numeric",
-  "units": "index"
-}

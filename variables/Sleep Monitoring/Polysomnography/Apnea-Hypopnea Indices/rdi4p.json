@@ -1,0 +1,14 @@
+{
+  "id": "rdi4p",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) at >=4% oxygen desaturation",
+  "description": "Ratio of the count of all apneas (central and obstructive) and hypopneas associated with at least a >=4% oxygen desaturation to the total sleep time expressed in hours",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_ap4uhp3x4u_f1t2"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "1168"
+  }
+}

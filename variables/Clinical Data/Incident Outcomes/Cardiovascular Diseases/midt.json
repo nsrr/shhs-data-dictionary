@@ -1,0 +1,14 @@
+{
+  "id": "midt",
+  "display_name": "Interim Follow-up: Days from index date to myocardial infarction (MI)",
+  "description": "",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "heart attack",
+    "interim"
+  ],
+  "other": {
+    "order": "193"
+  }
+}

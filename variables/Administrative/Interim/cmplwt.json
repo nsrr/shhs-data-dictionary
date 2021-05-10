@@ -1,0 +1,13 @@
+{
+  "id": "cmplwt",
+  "display_name": "Interim Follow-up: Completed weight",
+  "description": "",
+  "type": "choices",
+  "domain": "complete2",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "164"
+  }
+}

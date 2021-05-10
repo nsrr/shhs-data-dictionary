@@ -1,0 +1,13 @@
+{
+  "id": "mxsao2rh",
+  "display_name": "Maximum oxygen saturation (SaO2) during Rapid eye movement sleep (REM)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "maxlvlsa_sr_f1t2"
+  ],
+  "other": {
+    "order": "529"
+  }
+}

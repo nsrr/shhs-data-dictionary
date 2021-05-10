@@ -1,0 +1,16 @@
+{
+  "id": "sh330",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Drinks of hard liquor per week",
+  "description": "30. How many drinks with hard liquor (1 shot) do you usually have per week?",
+  "type": "numeric",
+  "units": "drinks",
+  "labels": [
+    "alcohol"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1806"
+  }
+}

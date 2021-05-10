@@ -1,0 +1,12 @@
+{
+  "id": "statusother",
+  "display_name": "Interim Follow-up: Participant Status - other (text)",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "240"
+  }
+}

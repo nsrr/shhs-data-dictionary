@@ -1,7 +1,0 @@
-{
-  "id": "apnhyppr",
-  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Apnea/Hypopnea scoring problems",
-  "description": "Due to signal problems, scorer was unable to reliably distinguish between apnea and hypopnea events.  The distinction between apnea and hypopnea was determined to be unreliable.",
-  "type": "choices",
-  "domain": "noyes01"
-}

@@ -1,0 +1,18 @@
+{
+  "id": "attabl02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Fall asleep while at the dinner table",
+  "description": "Original question: What is chance that you would doze off or fall asleep while at the dinner table?",
+  "type": "choices",
+  "domain": "nhchan4",
+  "labels": [
+    "eds",
+    "subjective_sleepiness",
+    "ess_dinner"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1597"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hrund30",
+  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Medical Alert - heart rate < 30",
+  "description": "Medical Alert for heart rate under 30. ",
+  "type": "choices",
+  "domain": "yesnon",
+  "other": {
+    "order": "397"
+  }
+}

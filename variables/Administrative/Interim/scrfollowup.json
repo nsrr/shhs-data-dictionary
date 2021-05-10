@@ -1,0 +1,12 @@
+{
+  "id": "scrfollowup",
+  "display_name": "Interim Follow-up: Follow-up number",
+  "description": "",
+  "type": "integer",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "216"
+  }
+}

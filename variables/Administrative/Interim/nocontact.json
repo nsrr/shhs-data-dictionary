@@ -1,0 +1,13 @@
+{
+  "id": "nocontact",
+  "display_name": "Interim Follow-up: Reason contact not made",
+  "description": "",
+  "type": "choices",
+  "domain": "nocontactreason",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "195"
+  }
+}

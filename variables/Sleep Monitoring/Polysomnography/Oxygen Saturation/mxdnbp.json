@@ -1,0 +1,13 @@
+{
+  "id": "mxdnbp",
+  "display_name": "Maximum oxygen desaturation (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "maxlvlsa_snpb_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "493"
+  }
+}

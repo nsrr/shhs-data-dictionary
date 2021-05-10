@@ -1,0 +1,16 @@
+{
+  "id": "hvsnrd02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Ever snored",
+  "description": "Have you ever snored?",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "sdb"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1609"
+  }
+}

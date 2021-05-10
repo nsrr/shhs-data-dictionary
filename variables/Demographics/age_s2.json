@@ -1,8 +1,0 @@
-{
-  "id": "age_s2",
-  "display_name": "Age at Sleep Heart Health Study Visit Two (SHHS2)",
-  "description": "Age in years at the time of the Sleep Heart Health Study Visit Two (SHHS2) visit",
-  "type": "numeric",
-  "units": "years",
-  "commonly_used": true
-}

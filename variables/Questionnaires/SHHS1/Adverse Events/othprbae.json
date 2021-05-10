@@ -1,7 +1,0 @@
-{
-  "id": "othprbae",
-  "display_name": "Adverse Events (Sleep Heart Health Study Visit One (SHHS1)): Other problem?",
-  "description": "Other problem?",
-  "type": "choices",
-  "domain": "noyes01"
-}

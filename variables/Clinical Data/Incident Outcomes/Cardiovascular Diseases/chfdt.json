@@ -1,0 +1,13 @@
+{
+  "id": "chfdt",
+  "display_name": "Interim Follow-up: Days from index date to Congestive Heart Failure (CHF)",
+  "description": "",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "159"
+  }
+}

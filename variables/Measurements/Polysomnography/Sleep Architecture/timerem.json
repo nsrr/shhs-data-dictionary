@@ -1,8 +1,0 @@
-{
-  "id": "timerem",
-  "display_name": "Minutes spent in rapid eye movement sleep (REM) ",
-  "description": "Total time scored as rapid eye movement sleep (REM) rounded to nearest minute",
-  "type": "numeric",
-  "units": "minutes",
-  "calculation": "minremp"
-}

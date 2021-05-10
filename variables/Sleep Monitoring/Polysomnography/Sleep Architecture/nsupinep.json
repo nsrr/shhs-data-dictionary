@@ -1,0 +1,14 @@
+{
+  "id": "nsupinep",
+  "display_name": "Percent Time non-supine",
+  "description": "Percent of sleep time in non-supine body position",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_po_f1t2"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "1281"
+  }
+}

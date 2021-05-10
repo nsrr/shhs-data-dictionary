@@ -1,0 +1,12 @@
+{
+  "id": "bptime",
+  "display_name": "Interim Follow-up: Time blood pressure (BP) was measured",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "153"
+  }
+}

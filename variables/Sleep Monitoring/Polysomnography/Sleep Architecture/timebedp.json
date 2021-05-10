@@ -1,0 +1,15 @@
+{
+  "id": "timebedp",
+  "display_name": "Time in bed",
+  "description": "Time from lights out to lights on, rounded to nearest minute",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "tib",
+    "time_bed",
+    "ttlprdbd_f1t2"
+  ],
+  "other": {
+    "order": "1314"
+  }
+}

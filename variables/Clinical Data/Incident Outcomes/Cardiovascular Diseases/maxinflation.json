@@ -1,0 +1,12 @@
+{
+  "id": "maxinflation",
+  "display_name": "Interim Follow-up: Palpated + 30",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "191"
+  }
+}

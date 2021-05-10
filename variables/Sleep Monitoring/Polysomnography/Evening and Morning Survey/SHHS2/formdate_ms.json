@@ -1,0 +1,10 @@
+{
+  "id": "formdate_ms",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit Two (SHHS2)): Date completed",
+  "description": "Date of Morning Survey form",
+  "type": "numeric",
+  "units": "days from index date",
+  "other": {
+    "order": "1677"
+  }
+}

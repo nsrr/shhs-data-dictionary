@@ -1,0 +1,13 @@
+{
+  "id": "oanoa",
+  "display_name": "Number of Obstructive Apnea w/ arousals (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "obstructive apnea events",
+  "labels": [
+    "ttlnumoa_snpo_oa0o_f1t2"
+  ],
+  "other": {
+    "order": "866"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "spcothernottreated",
+  "display_name": "Interim Follow-up: Other reason sleep apnea not treated",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "noncompliance",
+    "interim"
+  ],
+  "other": {
+    "order": "237"
+  }
+}

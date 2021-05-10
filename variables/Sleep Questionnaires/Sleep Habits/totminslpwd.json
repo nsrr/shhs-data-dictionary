@@ -1,0 +1,13 @@
+{
+  "id": "totminslpwd",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): sleep time on weekdays",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "sleep_duration"
+  ],
+  "other": {
+    "order": "1809"
+  }
+}

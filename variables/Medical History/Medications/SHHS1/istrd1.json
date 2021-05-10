@@ -1,0 +1,17 @@
+{
+  "id": "istrd1",
+  "display_name": "Inhaled steroids for asthma (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Participant taking INHALED STEROIDS FOR ASTHMA within two weeks of the Sleep Heart Health Study Visit One (SHHS1) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "asthma"
+  ],
+  "commonly_used": true,
+  "forms": [
+    "shhs1_medications_prescription_and_over_the_counter_form"
+  ],
+  "other": {
+    "order": "1420"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "alpdel",
+  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Alpha Intrusion ",
+  "description": "Scorer observed alpha intrusion on sleep during study.",
+  "type": "choices",
+  "domain": "yesnon",
+  "other": {
+    "order": "1215"
+  }
+}

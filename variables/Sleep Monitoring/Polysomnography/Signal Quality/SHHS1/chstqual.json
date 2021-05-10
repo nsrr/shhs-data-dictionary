@@ -1,0 +1,18 @@
+{
+  "id": "chstqual",
+  "display_name": "Quality of the thoracic signal",
+  "description": "Sleep Heart Health Study Visit 1 (SHHS1)-Vary from 1 (poorest) to 4 (best) and reflect the proportion of time the signals were useable. Useable respiratory data is defined as the number of hours that abnormal breaths can be distinguished from normal breaths",
+  "type": "choices",
+  "domain": "sigqual",
+  "labels": [
+    "thorax",
+    "chest",
+    "respiratory belt"
+  ],
+  "forms": [
+    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
+  ],
+  "other": {
+    "order": "1189"
+  }
+}

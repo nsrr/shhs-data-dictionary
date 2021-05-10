@@ -1,9 +1,0 @@
-{
-  "id": "bmi_s1",
-  "display_name": "Body mass index (BMI) (Sleep Heart Health Study Visit One (SHHS1))",
-  "description": "Body Mass Index (BMI) at Sleep Heart Health Study Visit One (SHHS1)",
-  "type": "numeric",
-  "units": "kilograms per square meter",
-  "calculation": "( weight / ( (height/100) * (height/100) ) )",
-  "commonly_used": true
-}

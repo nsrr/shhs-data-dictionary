@@ -1,0 +1,13 @@
+{
+  "id": "prev_hx_mi",
+  "display_name": "Previous history of myocardial infarction (MI)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "heart attack"
+  ],
+  "other": {
+    "order": "1349"
+  }
+}

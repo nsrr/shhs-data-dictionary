@@ -1,0 +1,14 @@
+{
+  "id": "awakeearly",
+  "display_name": "Interim Follow-up: Wake up too early in the morning - unable to get back to sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "nevalw",
+  "labels": [
+    "interim",
+    "insomnia"
+  ],
+  "other": {
+    "order": "149"
+  }
+}

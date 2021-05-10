@@ -1,0 +1,13 @@
+{
+  "id": "mncarop4",
+  "display_name": "Minimum Central Apnea length (Rapid eye movement sleep (REM), Non-supine, >=4% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mindurca_srpo_ca4u_f1t2"
+  ],
+  "other": {
+    "order": "694"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hslptawp",
+  "display_name": "Number of sleep to awake shifts per hour",
+  "description": "",
+  "type": "numeric",
+  "units": "stage shifts",
+  "labels": [
+    "phrnumsf_spsw_f1t2"
+  ],
+  "other": {
+    "order": "1273"
+  }
+}

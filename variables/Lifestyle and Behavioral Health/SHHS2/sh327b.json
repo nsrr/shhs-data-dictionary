@@ -1,0 +1,17 @@
+{
+  "id": "sh327b",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Cans of cola per day",
+  "description": "27. How many glasses or cans of cola or other soda with caffeine do you drink on a typical day? _________ cans",
+  "type": "numeric",
+  "units": "cans",
+  "labels": [
+    "caffeine",
+    "pop"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1803"
+  }
+}

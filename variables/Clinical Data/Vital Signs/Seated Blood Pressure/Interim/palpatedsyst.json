@@ -1,0 +1,14 @@
+{
+  "id": "palpatedsyst",
+  "display_name": "Interim Follow-up: Palpated systolic blood pressure",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg",
+    "interim"
+  ],
+  "other": {
+    "order": "199"
+  }
+}

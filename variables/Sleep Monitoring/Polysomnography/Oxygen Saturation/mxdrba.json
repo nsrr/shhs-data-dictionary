@@ -1,0 +1,13 @@
+{
+  "id": "mxdrba",
+  "display_name": "Maximum oxygen desaturation w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "maxlvlsa_srsopb_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "508"
+  }
+}

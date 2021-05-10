@@ -1,0 +1,13 @@
+{
+  "id": "hnrop",
+  "display_name": "Number of Hypopnea (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "ttlnumhp_snpo_hp3x0u_f1t2"
+  ],
+  "other": {
+    "order": "991"
+  }
+}

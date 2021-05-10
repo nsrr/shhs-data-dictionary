@@ -1,0 +1,16 @@
+{
+  "id": "latreliable",
+  "display_name": "Is the sleep latency reliable? (SHHS2)",
+  "description": "Sleep latency will be considered reliable when a change in lights status (on/off) shows a clear transition (even if reversed- off to on) prior to the onset of sleep.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "sl"
+  ],
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ],
+  "other": {
+    "order": "1265"
+  }
+}

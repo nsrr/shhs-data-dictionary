@@ -1,0 +1,17 @@
+{
+  "id": "nges02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Frequency of not getting enough sleep",
+  "description": "How often do you not get enough sleep?",
+  "type": "choices",
+  "domain": "nevralw5",
+  "labels": [
+    "deprivation",
+    "debt"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1618"
+  }
+}

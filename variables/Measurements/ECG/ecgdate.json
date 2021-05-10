@@ -1,7 +1,0 @@
-{
-  "id": "ecgdate",
-  "display_name": "Number of days since the baseline Polysomnography (PSG) until collected: electrocardiogram (ECG) ",
-  "description": "Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
-  "type": "numeric",
-  "units": "days from index date"
-}

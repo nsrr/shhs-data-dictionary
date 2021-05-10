@@ -1,0 +1,13 @@
+{
+  "id": "rdinbp3",
+  "display_name": "Hypopnea per hour (Non-rapid eye movement sleep (NREM), Supine, >=3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumhp_snpb_hp3x3u_f1t2"
+  ],
+  "other": {
+    "order": "1103"
+  }
+}

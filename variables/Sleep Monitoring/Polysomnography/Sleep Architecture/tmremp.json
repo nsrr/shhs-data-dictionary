@@ -1,0 +1,14 @@
+{
+  "id": "tmremp",
+  "display_name": "Percent of sleep time in rapid eye movement sleep (REM) ",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "timeremp",
+    "pctdursp_sr_f1t2"
+  ],
+  "other": {
+    "order": "1319"
+  }
+}

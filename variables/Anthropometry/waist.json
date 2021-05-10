@@ -1,0 +1,14 @@
+{
+  "id": "waist",
+  "display_name": "Waist Circumference (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Waist measurement in centimeters",
+  "type": "numeric",
+  "units": "centimeters",
+  "labels": [
+    "cm"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "270"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mxhrba",
+  "display_name": "Maximum Hypopnea length w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxdurhp_srpb_hp3x0o_f1t2"
+  ],
+  "other": {
+    "order": "1076"
+  }
+}

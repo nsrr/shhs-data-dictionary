@@ -1,0 +1,13 @@
+{
+  "id": "snchangepos",
+  "display_name": "Interim Follow-up: Treatment prescribed: change sleep position",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "224"
+  }
+}

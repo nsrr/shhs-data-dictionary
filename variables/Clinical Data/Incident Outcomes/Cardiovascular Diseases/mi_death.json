@@ -1,0 +1,16 @@
+{
+  "id": "mi_death",
+  "display_name": "Death from myocardial infarct (MI) since Baseline?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "adjudicated",
+    "mi_fatal",
+    "heart attack"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "46"
+  }
+}

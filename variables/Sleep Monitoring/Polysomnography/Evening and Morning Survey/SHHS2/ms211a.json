@@ -1,0 +1,16 @@
+{
+  "id": "ms211a",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit Two (SHHS2)): cigarettes before bed",
+  "description": "11. How much did you smoke during the 4 hours before you went to sleep last night? (Please write \"0\" for each that you did not smoke last night.)  a. ____ number of cigarettes",
+  "type": "numeric",
+  "units": "cigarettes",
+  "labels": [
+    "smoking"
+  ],
+  "forms": [
+    "shhs2_morning_survey_form"
+  ],
+  "other": {
+    "order": "1688"
+  }
+}

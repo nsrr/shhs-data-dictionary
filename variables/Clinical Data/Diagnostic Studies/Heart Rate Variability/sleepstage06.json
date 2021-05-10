@@ -1,0 +1,13 @@
+{
+  "id": "sleepstage06",
+  "display_name": "Sleep stage of sixth 30 second epoch in 5 minute window",
+  "description": "",
+  "type": "choices",
+  "domain": "sleepstage",
+  "labels": [
+    "heart rate variability"
+  ],
+  "other": {
+    "order": "135"
+  }
+}

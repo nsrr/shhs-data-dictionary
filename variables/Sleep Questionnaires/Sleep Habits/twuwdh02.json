@@ -1,0 +1,15 @@
+{
+  "id": "twuwdh02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): weekday wake time - hour",
+  "description": "At what time do you usually wake up on weekdays or your work days - hour? (hours component of time, 1 to 12)",
+  "type": "numeric",
+  "labels": [
+    "sleep_timing"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1638"
+  }
+}

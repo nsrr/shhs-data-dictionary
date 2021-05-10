@@ -1,0 +1,14 @@
+{
+  "id": "pctsa85h",
+  "display_name": "Percent of sleep time oxygen saturation (SaO2) is below 85%",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctlt85",
+    "pctdursp_salt85_f1t2"
+  ],
+  "other": {
+    "order": "1288"
+  }
+}

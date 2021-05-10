@@ -1,0 +1,16 @@
+{
+  "id": "twuwda02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): weekday wake time - AM or PM",
+  "description": "At what time do you usually wake up on weekdays or your work days - AM or PM",
+  "type": "choices",
+  "domain": "ampmf",
+  "labels": [
+    "sleep_timing"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1637"
+  }
+}

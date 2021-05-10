@@ -1,0 +1,14 @@
+{
+  "id": "freqnaps",
+  "display_name": "Interim Follow-up: Usual number of naps per week",
+  "description": "",
+  "type": "numeric",
+  "units": "naps",
+  "labels": [
+    "interim",
+    "sleep_hygiene"
+  ],
+  "other": {
+    "order": "178"
+  }
+}

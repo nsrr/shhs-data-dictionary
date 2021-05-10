@@ -1,0 +1,13 @@
+{
+  "id": "oardrbp3",
+  "display_name": "Obstructive Apnea per hour (Rapid eye movement sleep (REM), Supine, >=3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumoa_srpb_oa3u_f1t2"
+  ],
+  "other": {
+    "order": "913"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "drive",
+  "display_name": "Interim Follow-up: Does participant drive",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "173"
+  }
+}

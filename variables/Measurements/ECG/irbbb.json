@@ -1,7 +1,0 @@
-{
-  "id": "irbbb",
-  "display_name": "Incomplete right bundle-branch block",
-  "description": "Minnesota (MN) code 7-3. Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
-  "type": "choices",
-  "domain": "noyes01"
-}

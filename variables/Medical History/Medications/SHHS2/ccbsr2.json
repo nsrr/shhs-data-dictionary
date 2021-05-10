@@ -1,0 +1,18 @@
+{
+  "id": "ccbsr2",
+  "display_name": "Slow-Release Ccbs (Nifsr Or Dihsr Or Versr Or Dltsr Or Amlod) (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking SLOW-RELEASE CCBS = NIFSR OR DIHSR OR VERSR OR DLTSR OR AMLOD within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "hypertension",
+    "htn",
+    "high blood pressure"
+  ],
+  "forms": [
+    "shhs2_medication_form"
+  ],
+  "other": {
+    "order": "1394"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rdirem4p",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) (Rapid eye movement sleep (REM)) at >=4% oxygen desaturation",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_sr_ap4uhp3x4u_f1t2"
+  ],
+  "other": {
+    "order": "1184"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "spclangadmin",
+  "display_name": "Interim Follow-up: Other language in which interview was administered",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "235"
+  }
+}

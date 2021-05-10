@@ -1,0 +1,13 @@
+{
+  "id": "carotidenddt",
+  "display_name": "Interim Follow-up: Days from index date to Carotid Endarterectomy",
+  "description": "",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "158"
+  }
+}

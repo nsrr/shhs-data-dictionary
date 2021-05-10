@@ -1,0 +1,18 @@
+{
+  "id": "sa15",
+  "display_name": "History of Sleep Apnea (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Doctor of Medicine (MD) said participant had sleep apnea?",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "osa"
+  ],
+  "forms": [
+    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
+    "shhs1_health_interview_form_framingham",
+    "shhs1_health_interview_form_new_york"
+  ],
+  "other": {
+    "order": "1352"
+  }
+}

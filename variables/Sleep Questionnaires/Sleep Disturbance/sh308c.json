@@ -1,0 +1,16 @@
+{
+  "id": "sh308c",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Frequency of waking up too early and unable to resume sleep",
+  "description": "8. Please indicate how often you experience each of the following. (check one box for each in items a through j) c. Wake up too early in the morning and be unable to get back to sleep.",
+  "type": "choices",
+  "domain": "nevralw5",
+  "labels": [
+    "insomnia"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1772"
+  }
+}

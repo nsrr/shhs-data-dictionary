@@ -1,9 +1,0 @@
-{
-  "id": "nn_rr",
-  "display_name": "Ratio of consecutive normal sinus beats (NN) over all cardiac inter-beat (RR) intervals",
-  "description": "",
-  "type": "numeric",
-  "labels": [
-    "heart rate variability"
-  ]
-}

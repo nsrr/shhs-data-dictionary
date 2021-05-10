@@ -1,0 +1,13 @@
+{
+  "id": "visitdt",
+  "display_name": "Interim Follow-up: Days from index date to follow-up visit",
+  "description": "",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "251"
+  }
+}

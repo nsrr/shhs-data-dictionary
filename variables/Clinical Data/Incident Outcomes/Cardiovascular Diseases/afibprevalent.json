@@ -1,0 +1,15 @@
+{
+  "id": "afibprevalent",
+  "display_name": "Prevalent Atrial Fibrillation (AF) at SHHS Visit 1",
+  "description": "Variable created as part of the analysis for [Tung et al. 2017 (PMID: 28668820)](https://www.ncbi.nlm.nih.gov/pubmed/28668820). Prevalent AF was defined by any of the following: a positive response to the question 'Has a doctor ever told you that you have or had atrial fibrillation'; AF identified on resting 12-lead ECG at the baseline SHHS exam; or if the parent study identified AF documented in the medical record before the SHHS baseline exam.",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "adjudicated",
+    "a-fib"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "27"
+  }
+}

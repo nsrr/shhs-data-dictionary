@@ -1,7 +1,0 @@
-{
-  "id": "freqnaps",
-  "display_name": "Usual number of naps per week",
-  "description": "",
-  "type": "numeric",
-  "units": "naps"
-}

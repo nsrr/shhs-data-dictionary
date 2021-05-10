@@ -1,0 +1,14 @@
+{
+  "id": "hi201e",
+  "display_name": "Current Asthma (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "e. Do you still have asthma?",
+  "type": "choices",
+  "domain": "noyes01",
+  "commonly_used": true,
+  "forms": [
+    "shhs2_health_interview"
+  ],
+  "other": {
+    "order": "1340"
+  }
+}

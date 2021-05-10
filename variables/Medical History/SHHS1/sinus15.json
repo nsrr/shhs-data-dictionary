@@ -1,0 +1,15 @@
+{
+  "id": "sinus15",
+  "display_name": "Sinus trouble (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Do you usually have sinus trouble?",
+  "type": "choices",
+  "domain": "yesnod",
+  "forms": [
+    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
+    "shhs1_health_interview_form_framingham",
+    "shhs1_health_interview_form_new_york"
+  ],
+  "other": {
+    "order": "1353"
+  }
+}

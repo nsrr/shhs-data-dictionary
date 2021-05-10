@@ -1,0 +1,13 @@
+{
+  "id": "ql202",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Health compared to one year ago",
+  "description": "2. Compared to one year ago, how would you rate your health in general now? (Check one box.)",
+  "type": "choices",
+  "domain": "betwrs5",
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1707"
+  }
+}

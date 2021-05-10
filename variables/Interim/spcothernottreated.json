@@ -1,9 +1,0 @@
-{
-  "id": "spcothernottreated",
-  "display_name": "Other reason sleep apnea not treated",
-  "description": "",
-  "type": "text",
-  "labels": [
-    "noncompliance"
-  ]
-}

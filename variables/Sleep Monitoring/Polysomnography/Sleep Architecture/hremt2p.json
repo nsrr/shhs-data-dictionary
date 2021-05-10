@@ -1,0 +1,13 @@
+{
+  "id": "hremt2p",
+  "display_name": "Number of rapid eye movement sleep (REM) to stage 2 shifts per hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "stage shifts",
+  "labels": [
+    "phrnumsf_srs2_f1t2"
+  ],
+  "other": {
+    "order": "1271"
+  }
+}

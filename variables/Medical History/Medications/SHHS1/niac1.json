@@ -1,0 +1,17 @@
+{
+  "id": "niac1",
+  "display_name": "Niacin and nicotinic acid (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Participant taking NIACIN AND NICOTINIC ACID within two weeks of the Sleep Heart Health Study Visit One (SHHS1) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "dyslipidemia",
+    "hyperlipidemia"
+  ],
+  "forms": [
+    "shhs1_medications_prescription_and_over_the_counter_form"
+  ],
+  "other": {
+    "order": "1430"
+  }
+}

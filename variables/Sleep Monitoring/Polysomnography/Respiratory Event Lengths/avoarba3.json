@@ -1,0 +1,13 @@
+{
+  "id": "avoarba3",
+  "display_name": "Average Obstructive Apnea length with >=3% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgduroa_srpb_oa3u_f1t2"
+  ],
+  "other": {
+    "order": "758"
+  }
+}

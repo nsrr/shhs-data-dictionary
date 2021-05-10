@@ -1,0 +1,13 @@
+{
+  "id": "lightoff",
+  "display_name": "Lights appropriate?",
+  "description": "Sleep Heart Health Study Visit 1 (SHHS1)- 0=  Appropriate/1=  Not Appropriate.  Note that the indication of lights being appropriate or not appropriate relates only to whether the light signal was working and does NOT infer anything about sleep latency or sleep onset variables.  ",
+  "type": "choices",
+  "domain": "yesno01",
+  "forms": [
+    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
+  ],
+  "other": {
+    "order": "1196"
+  }
+}

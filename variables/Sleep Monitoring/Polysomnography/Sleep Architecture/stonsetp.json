@@ -1,0 +1,12 @@
+{
+  "id": "stonsetp",
+  "display_name": "Sleep onset time",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "begtimsp_f1t2"
+  ],
+  "other": {
+    "order": "1312"
+  }
+}

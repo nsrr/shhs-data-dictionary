@@ -1,0 +1,13 @@
+{
+  "id": "hroa3",
+  "display_name": "Number of Hypopnea with >=3% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "ttlnumhp_srpo_hp3x3u_f1t2"
+  ],
+  "other": {
+    "order": "1008"
+  }
+}

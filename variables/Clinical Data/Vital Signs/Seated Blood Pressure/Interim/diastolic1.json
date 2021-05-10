@@ -1,0 +1,14 @@
+{
+  "id": "diastolic1",
+  "display_name": "Interim Follow-up: Diastolic blood pressure (BP) - first reading",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg",
+    "interim"
+  ],
+  "other": {
+    "order": "170"
+  }
+}

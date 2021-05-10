@@ -1,7 +1,0 @@
-{
-  "id": "formdt",
-  "display_name": "Days from index date to date when form was filled out",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}

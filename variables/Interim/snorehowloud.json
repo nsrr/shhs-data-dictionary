@@ -1,7 +1,0 @@
-{
-  "id": "snorehowloud",
-  "display_name": "Loudness of snoring",
-  "description": "",
-  "type": "choices",
-  "domain": "snrloud5"
-}

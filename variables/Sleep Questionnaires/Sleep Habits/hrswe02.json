@@ -1,0 +1,16 @@
+{
+  "id": "hrswe02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): sleep time on weekends",
+  "description": "How many hours of sleep do you usually get at night (or your main sleep period) on weekends or your non-workdays? (number of hours, up to 2 digits)",
+  "type": "numeric",
+  "units": "hours",
+  "labels": [
+    "avgprdsp_w2_f3"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1608"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "oaia2",
+  "display_name": "Oral Anti-Inflammatory Asthma Drugs (Leukotriene Receptor Antagonists And Inhibitors Of Lipo-Oxygenase) (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking ORAL ANTI-INFLAMMATORY ASTHMA DRUGS (LEUKOTRIENE RECEPTOR ANTAGONISTS AND INHIBITORS OF LIPO-OXYGENASE) within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "asthma",
+    "respiratory",
+    "inflammation"
+  ],
+  "commonly_used": true,
+  "forms": [
+    "shhs2_medication_form"
+  ],
+  "other": {
+    "order": "1440"
+  }
+}

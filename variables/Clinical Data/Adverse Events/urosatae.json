@@ -1,0 +1,13 @@
+{
+  "id": "urosatae",
+  "display_name": "Adverse Events (Sleep Heart Health Study Visit One (SHHS1)): oxygen saturation (SaO2) 80-85%",
+  "description": "O2 saturation (SaO2) between 80% and 85% for > 2 minutes at rest?",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "oximetry"
+  ],
+  "other": {
+    "order": "1487"
+  }
+}

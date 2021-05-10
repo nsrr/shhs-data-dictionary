@@ -1,0 +1,12 @@
+{
+  "id": "lf_n",
+  "display_name": "Low frequency power (normalized)",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "heart rate variability"
+  ],
+  "other": {
+    "order": "119"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "freqstopbreathing",
+  "display_name": "Interim Follow-up: Frequency of breathing stoppage during sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "raralw5",
+  "labels": [
+    "apneas",
+    "interim",
+    "sdb"
+  ],
+  "other": {
+    "order": "180"
+  }
+}

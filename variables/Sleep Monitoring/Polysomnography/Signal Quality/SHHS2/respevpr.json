@@ -1,0 +1,10 @@
+{
+  "id": "respevpr",
+  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Respiratory scoring problems",
+  "description": "Due to signal problems, scorer noted that there was a problem scoring respiratory events.",
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "order": "1248"
+  }
+}

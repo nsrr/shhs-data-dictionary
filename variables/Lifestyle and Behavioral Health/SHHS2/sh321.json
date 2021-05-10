@@ -1,0 +1,16 @@
+{
+  "id": "sh321",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Number of years since started smoking",
+  "description": "21. How many years ago did you START smoking?",
+  "type": "numeric",
+  "units": "years",
+  "labels": [
+    "cigarettes"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1794"
+  }
+}

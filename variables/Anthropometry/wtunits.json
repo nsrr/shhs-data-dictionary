@@ -1,0 +1,13 @@
+{
+  "id": "wtunits",
+  "display_name": "Interim Follow-up: Weight units",
+  "description": "",
+  "type": "choices",
+  "domain": "weight",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "256"
+  }
+}

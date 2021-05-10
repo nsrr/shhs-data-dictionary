@@ -1,0 +1,16 @@
+{
+  "id": "pm226d",
+  "display_name": "Physical Measurements (Sleep Heart Health Study Visit Two (SHHS2)): 1st: Rt leg posterior systolic blood pressure (BP)",
+  "description": "First readings: Record in order shown (If reading for one leg not available, code as \"n__\".) d. Right leg posterior tibial systolic blood pressure (BP):",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg"
+  ],
+  "forms": [
+    "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"
+  ],
+  "other": {
+    "order": "1700"
+  }
+}

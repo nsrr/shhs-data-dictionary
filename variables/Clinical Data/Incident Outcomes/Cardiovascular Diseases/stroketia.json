@@ -1,0 +1,13 @@
+{
+  "id": "stroketia",
+  "display_name": "Interim Follow-up: Stroke or Transient Ischemic Attack (TIA) during interval since the prior parent exam",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "243"
+  }
+}

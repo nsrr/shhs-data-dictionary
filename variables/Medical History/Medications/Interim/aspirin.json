@@ -1,0 +1,15 @@
+{
+  "id": "aspirin",
+  "display_name": "Interim Follow-up: How often are aspirin or aspirin-containing medications taken",
+  "description": "",
+  "type": "choices",
+  "domain": "nevevery",
+  "labels": [
+    "acetylsalicylic acid",
+    "asa",
+    "interim"
+  ],
+  "other": {
+    "order": "145"
+  }
+}

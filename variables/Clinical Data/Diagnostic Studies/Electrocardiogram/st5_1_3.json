@@ -1,0 +1,13 @@
+{
+  "id": "st5_1_3",
+  "display_name": "ST and T-wave 5-1 to 5-3",
+  "description": "Minnesota (MN) code  5-1 to 5-3. Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "st-wave"
+  ],
+  "other": {
+    "order": "325"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hf_n",
+  "display_name": "High frequency power (normalized)",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "heart rate variability"
+  ],
+  "other": {
+    "order": "115"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "freqothersnearby",
+  "display_name": "Interim Follow-up: Frequency others were nearby where participant slept",
+  "description": "",
+  "type": "choices",
+  "domain": "nevrusu3",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "179"
+  }
+}

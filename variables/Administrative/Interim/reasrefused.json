@@ -1,0 +1,13 @@
+{
+  "id": "reasrefused",
+  "display_name": "Interim Follow-up: Reason refused repeat study",
+  "description": "",
+  "type": "choices",
+  "domain": "reasonrefused",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "204"
+  }
+}

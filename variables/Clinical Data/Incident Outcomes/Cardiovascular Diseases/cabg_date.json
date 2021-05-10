@@ -1,0 +1,14 @@
+{
+  "id": "cabg_date",
+  "display_name": "Days to First coronary artery bypass graft surgery (CABG) Since Baseline",
+  "description": "Time since Sleep Heart Health Study Visit One (SHHS 1) Sleep Study to date of first coronary artery bypass graft surgery (CABG)",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "adjudicated",
+    "tto_cabgdate"
+  ],
+  "other": {
+    "order": "33"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mxcanoa5",
+  "display_name": "Maximum Central Apnea length with >=5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxdurca_snpo_ca5u_f1t2"
+  ],
+  "other": {
+    "order": "710"
+  }
+}

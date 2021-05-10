@@ -1,0 +1,14 @@
+{
+  "id": "parrptdiab",
+  "display_name": "History of Diabetes (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Parent Cohort reported Diabetes Status",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "dm"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "1347"
+  }
+}

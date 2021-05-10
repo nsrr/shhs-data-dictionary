@@ -1,0 +1,13 @@
+{
+  "id": "carop5",
+  "display_name": "Number of Central Apnea (Rapid eye movement sleep (REM), Non-supine, >=5% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "central apnea events",
+  "labels": [
+    "ttlnumca_srpo_ca5u_f1t2"
+  ],
+  "other": {
+    "order": "655"
+  }
+}

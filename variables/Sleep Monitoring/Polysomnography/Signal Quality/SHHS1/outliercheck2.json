@@ -1,0 +1,13 @@
+{
+  "id": "outliercheck2",
+  "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Extreme values remain after review",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ],
+  "other": {
+    "order": "1198"
+  }
+}

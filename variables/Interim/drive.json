@@ -1,7 +1,0 @@
-{
-  "id": "drive",
-  "display_name": "Does participant drive",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

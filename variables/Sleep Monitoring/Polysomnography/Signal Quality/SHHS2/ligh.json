@@ -1,0 +1,10 @@
+{
+  "id": "ligh",
+  "display_name": "Was the light sensor calibrated appropriately?",
+  "description": "Sleep Heart Health Study Visit 2 (SHHS2)- Lights are considered to have been calibrated appropriately if, at any time during the study, there is a clear transition (on recorded lights) from lights on to lights off.  Otherwise, lights are considered not appropriate (including a light channel showing: no change throughout the study, reversed calibration and/or constant fluctuation from on to off throughout the study.)  On studies with clear, but multiple, light transitions \"lights off\" will be marked at the first \"off\" transition that is maintained for at least 30 minutes.  Light calibration will be considered reliable, but sleep latency will be unreliable.  This method will be employed for all studies with the only exception being when onset of sleep occurs prior to the light change, in which \"lights off\" will be set at the onset of sleep.",
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "order": "1223"
+  }
+}

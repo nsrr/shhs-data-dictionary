@@ -1,0 +1,13 @@
+{
+  "id": "ql209e",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Have a lot of energy",
+  "description": "9. These questions are about how you feel and how things have been with you during the past 4 weeks.  For each question, check the box for the one answer that comes closest to the way you have been feeling.  During the past 4 weeks, how much of the time. e. Did you have a lot of energy?",
+  "type": "choices",
+  "domain": "allnone6",
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1732"
+  }
+}

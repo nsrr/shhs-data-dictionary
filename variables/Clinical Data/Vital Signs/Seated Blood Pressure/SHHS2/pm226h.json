@@ -1,0 +1,16 @@
+{
+  "id": "pm226h",
+  "display_name": "Physical Measurements (Sleep Heart Health Study Visit Two (SHHS2)): 2nd: Rt/left arm systolic blood pressure (BP)",
+  "description": "Wait 30 seconds before second readings. Second readings: Record in order shown (If no second reading, code as \"n__\".) h. Right or left arm brachial systolic blood pressure (BP):",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg"
+  ],
+  "forms": [
+    "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"
+  ],
+  "other": {
+    "order": "1704"
+  }
+}

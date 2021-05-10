@@ -1,0 +1,13 @@
+{
+  "id": "salosewt",
+  "display_name": "Interim Follow-up: Treatment prescribed - lose weight",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "210"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "wk1ml25",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Health limits walking more than a mile",
+  "description": "Does your health now limit you in this activity, and if so, how much: Walking more than a mile",
+  "type": "choices",
+  "domain": "lotlit3",
+  "labels": [
+    "exercise"
+  ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1575"
+  }
+}

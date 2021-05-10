@@ -1,7 +1,0 @@
-{
-  "id": "carotidend",
-  "display_name": "Carotid Endarterectomy during interval since the prior parent exam",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

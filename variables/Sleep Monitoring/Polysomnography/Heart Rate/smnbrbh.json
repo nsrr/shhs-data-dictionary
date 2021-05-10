@@ -1,0 +1,13 @@
+{
+  "id": "smnbrbh",
+  "display_name": "Minimum Heart Rate (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "minlvlhr_srpb_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "389"
+  }
+}

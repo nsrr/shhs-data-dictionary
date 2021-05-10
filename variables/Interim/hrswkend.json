@@ -1,7 +1,0 @@
-{
-  "id": "hrswkend",
-  "display_name": "Weekend or non-workday: usual hours of sleep",
-  "description": "",
-  "type": "numeric",
-  "units": "hours"
-}

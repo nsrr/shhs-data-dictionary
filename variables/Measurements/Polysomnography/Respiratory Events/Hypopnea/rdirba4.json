@@ -1,7 +1,0 @@
-{
-  "id": "rdirba4",
-  "display_name": "Hypopnea per hour with >=4% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

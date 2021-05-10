@@ -1,0 +1,13 @@
+{
+  "id": "mnoarba3",
+  "display_name": "Minimum Obstructive Apnea length with >=3% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "minduroa_srpb_oa3u_f1t2"
+  ],
+  "other": {
+    "order": "798"
+  }
+}

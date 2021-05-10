@@ -1,0 +1,15 @@
+{
+  "id": "bpmeds",
+  "display_name": "Interim Follow-up: Treated for high blood pressure (BP) with medications since sleep study",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "htn",
+    "hypertension",
+    "interim"
+  ],
+  "other": {
+    "order": "151"
+  }
+}

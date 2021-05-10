@@ -1,7 +1,0 @@
-{
-  "id": "visitdt",
-  "display_name": "Days from index date to follow-up visit",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}

@@ -1,0 +1,13 @@
+{
+  "id": "rdi2pa",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) at >=2% oxygen desaturation or arousal",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_ap2rhp3x2r_f1t2"
+  ],
+  "other": {
+    "order": "1161"
+  }
+}

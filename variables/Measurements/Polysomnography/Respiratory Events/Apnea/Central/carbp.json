@@ -1,7 +1,0 @@
-{
-  "id": "carbp",
-  "display_name": "Number of Central Apnea (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
-  "description": "",
-  "type": "numeric",
-  "units": "central apnea events"
-}

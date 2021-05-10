@@ -1,0 +1,13 @@
+{
+  "id": "ql211a",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Get sick easier than other people",
+  "description": "11. Please choose the answer that best describes how true or false each of the following statements is for you.  a. I seem to get sick a little easier than other people.",
+  "type": "choices",
+  "domain": "trufals5",
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1738"
+  }
+}

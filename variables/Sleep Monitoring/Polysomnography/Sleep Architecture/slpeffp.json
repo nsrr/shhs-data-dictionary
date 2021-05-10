@@ -1,0 +1,14 @@
+{
+  "id": "slpeffp",
+  "display_name": "Sleep efficiency",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "slp_eff",
+    "ttleffsp_f1t2"
+  ],
+  "other": {
+    "order": "1305"
+  }
+}

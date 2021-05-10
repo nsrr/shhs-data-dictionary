@@ -1,0 +1,13 @@
+{
+  "id": "pep25",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Feel full of pep",
+  "description": "During the past 4 weeks, how much of the time: Did you feel full of pep?",
+  "type": "choices",
+  "domain": "allnone6",
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1567"
+  }
+}

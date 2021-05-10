@@ -1,0 +1,14 @@
+{
+  "id": "cvd_death",
+  "display_name": "Fatal Cardiovascular Disease (CVD) Since Baseline?",
+  "description": "Cardiovascular Disease (CVD) death (as recorded in parent studies datasets)",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "adjudicated"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "39"
+  }
+}

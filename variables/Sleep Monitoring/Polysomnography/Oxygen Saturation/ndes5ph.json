@@ -1,0 +1,13 @@
+{
+  "id": "ndes5ph",
+  "display_name": "Number of oxygen desaturation with at least >=5% oxygen desaturation",
+  "description": "",
+  "type": "numeric",
+  "units": "oxygen desaturation events",
+  "labels": [
+    "ttlnumsa_dsge5_f1t2"
+  ],
+  "other": {
+    "order": "533"
+  }
+}

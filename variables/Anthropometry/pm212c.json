@@ -1,0 +1,16 @@
+{
+  "id": "pm212c",
+  "display_name": "Neck circumference (measurement 3) (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "12. Neck circumference (Round up to nearest 1/2 cm, i.e, measurement should end with .0 or .5)  c. Third reading:",
+  "type": "numeric",
+  "units": "centimeters",
+  "labels": [
+    "cm"
+  ],
+  "forms": [
+    "shhs2_physicalmeasurments_bloodpressure_ankle_armindex_ecg"
+  ],
+  "other": {
+    "order": "269"
+  }
+}

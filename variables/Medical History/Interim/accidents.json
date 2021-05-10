@@ -1,0 +1,13 @@
+{
+  "id": "accidents",
+  "display_name": "Interim Follow-up: Number of automobile accidents in lifetime",
+  "description": "",
+  "type": "numeric",
+  "units": "car accidents",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "144"
+  }
+}

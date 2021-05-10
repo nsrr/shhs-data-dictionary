@@ -1,0 +1,20 @@
+{
+  "id": "hprns2",
+  "display_name": "Heparins (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking HEPARINS within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "anticoagulant",
+    "pulmonary embolism",
+    "dvt",
+    "deep-vein thrombosis",
+    "acute coronary syndrome"
+  ],
+  "forms": [
+    "shhs2_medication_form"
+  ],
+  "other": {
+    "order": "1414"
+  }
+}

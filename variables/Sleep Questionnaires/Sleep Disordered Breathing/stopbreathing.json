@@ -1,0 +1,15 @@
+{
+  "id": "stopbreathing",
+  "display_name": "Interim Follow-up: Stopped breathing during sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "apnea",
+    "interim",
+    "sdb"
+  ],
+  "other": {
+    "order": "241"
+  }
+}

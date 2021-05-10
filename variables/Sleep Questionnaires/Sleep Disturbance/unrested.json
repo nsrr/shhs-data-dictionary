@@ -1,0 +1,16 @@
+{
+  "id": "unrested",
+  "display_name": "Interim Follow-up: Feel unrested during the day",
+  "description": "",
+  "type": "choices",
+  "domain": "nevalw",
+  "labels": [
+    "unrefreshed",
+    "tired",
+    "interim",
+    "sleep_related_impairment"
+  ],
+  "other": {
+    "order": "250"
+  }
+}

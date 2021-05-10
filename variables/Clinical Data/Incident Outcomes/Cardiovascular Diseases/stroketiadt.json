@@ -1,0 +1,13 @@
+{
+  "id": "stroketiadt",
+  "display_name": "Interim Follow-up: Days from index date to Stroke or Transient Ischemic Attack (TIA)",
+  "description": "",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "244"
+  }
+}

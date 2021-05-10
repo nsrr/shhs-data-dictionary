@@ -1,0 +1,13 @@
+{
+  "id": "avdrop",
+  "display_name": "Average oxygen desaturation (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avglvlds_srpo_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "435"
+  }
+}

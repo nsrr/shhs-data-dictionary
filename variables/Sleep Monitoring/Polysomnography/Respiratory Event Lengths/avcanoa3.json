@@ -1,0 +1,13 @@
+{
+  "id": "avcanoa3",
+  "display_name": "Average Central Apnea length with >=3% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurca_snpo_ca3u_f1t2"
+  ],
+  "other": {
+    "order": "548"
+  }
+}

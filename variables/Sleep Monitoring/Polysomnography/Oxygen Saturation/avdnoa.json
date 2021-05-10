@@ -1,0 +1,13 @@
+{
+  "id": "avdnoa",
+  "display_name": "Average oxygen desaturation w/ arousals (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avglvlds_snsopo_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "410"
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "id": "posqual",
-  "display_name": "Quality of the position signal",
-  "description": "Sleep Heart Health Study Visit 2 (SHHS2)-These vary from 1 (poorest) to 5 (best) and reflect the proportion of sleep time the signals were useable. ",
-  "type": "choices",
-  "domain": "sigqual"
-}

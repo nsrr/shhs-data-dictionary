@@ -1,0 +1,13 @@
+{
+  "id": "timest1",
+  "display_name": "Time in Stage 1 (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Total time scored as stage 1 rounded to nearest minute",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_s1_f1t2"
+  ],
+  "other": {
+    "order": "1316"
+  }
+}

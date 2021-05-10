@@ -1,0 +1,15 @@
+{
+  "id": "prev_revpro",
+  "display_name": "Number of Revascularization Procedures Prior to Baseline",
+  "description": "Revascularization procedure prior to baseline Polysomnography (PSG) (as recorded in parent studies datasets)",
+  "type": "numeric",
+  "units": "number of events",
+  "labels": [
+    "adjudicated",
+    "stent"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "54"
+  }
+}

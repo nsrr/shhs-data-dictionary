@@ -1,0 +1,13 @@
+{
+  "id": "hnrbp5",
+  "display_name": "Number of Hypopnea (Non-rapid eye movement sleep (NREM), Supine, >=5% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "ttlnumhp_snpb_hp3x5u_f1t2"
+  ],
+  "other": {
+    "order": "985"
+  }
+}

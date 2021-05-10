@@ -1,0 +1,13 @@
+{
+  "id": "hi217",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): Language of interview",
+  "description": "Field Site Use Only 17. Interviewer administered in:",
+  "type": "choices",
+  "domain": "lang6",
+  "forms": [
+    "shhs2_health_interview"
+  ],
+  "other": {
+    "order": "1673"
+  }
+}

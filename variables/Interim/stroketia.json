@@ -1,7 +1,0 @@
-{
-  "id": "stroketia",
-  "display_name": "Stroke or Transient Ischemic Attack (TIA) during interval since the prior parent exam",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

@@ -1,0 +1,13 @@
+{
+  "id": "mnoarba",
+  "display_name": "Minimum Obstructive Apnea length w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "minduroa_srpb_oa0o_f1t2"
+  ],
+  "other": {
+    "order": "796"
+  }
+}

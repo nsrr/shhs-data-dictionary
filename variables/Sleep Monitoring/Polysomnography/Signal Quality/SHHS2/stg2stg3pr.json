@@ -1,0 +1,16 @@
+{
+  "id": "stg2stg3pr",
+  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Stage2/Stage3-4 Scoring unreliable",
+  "description": "Scorer noted that there was a problem differentiating stage 2 and stage 3/4 sleep.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement sleep",
+    "delta sleep"
+  ],
+  "other": {
+    "order": "1251"
+  }
+}

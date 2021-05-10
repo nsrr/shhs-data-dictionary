@@ -1,7 +1,0 @@
-{
-  "id": "fup_stat",
-  "display_name": "Status, Blood Pressure and Weight Form present",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

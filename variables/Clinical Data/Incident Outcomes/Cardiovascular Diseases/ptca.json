@@ -1,0 +1,15 @@
+{
+  "id": "ptca",
+  "display_name": "Number of Percutaneous transluminal coronary angioplasties (PTCAs) Since Baseline",
+  "description": "Percutaneous transluminal coronary angioplasty (PTCA) since baseline Polysomnogram (PSG) (as recorded in parent studies datasets)",
+  "type": "numeric",
+  "units": "number of events",
+  "labels": [
+    "adjudicated",
+    "stent"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "56"
+  }
+}

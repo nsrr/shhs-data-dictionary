@@ -1,0 +1,16 @@
+{
+  "id": "sasurgery",
+  "display_name": "Interim Follow-up: Treatment prescribed - surgery (including laser)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "uppp",
+    "uvulopalatopharyngoplasty",
+    "somnoplasty",
+    "interim"
+  ],
+  "other": {
+    "order": "215"
+  }
+}

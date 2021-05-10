@@ -1,0 +1,14 @@
+{
+  "id": "ahi_a0h3",
+  "display_name": "Apnea-Hypopnea Index (AHI) >= 3% - number of [all apneas] and [hypopneas with >= 3% oxygen desaturation] per hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_ap0uhp3x3u_f1t2"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "1136"
+  }
+}

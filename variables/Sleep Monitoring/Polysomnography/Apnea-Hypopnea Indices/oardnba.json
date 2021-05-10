@@ -1,0 +1,13 @@
+{
+  "id": "oardnba",
+  "display_name": "Obstructive Apnea per hour w/ arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumoa_snpb_oa0o_f1t2"
+  ],
+  "other": {
+    "order": "886"
+  }
+}

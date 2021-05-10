@@ -1,0 +1,17 @@
+{
+  "id": "stpbrt02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Stop breathing during sleep",
+  "description": "Are there times when you stop breathing during your sleep?",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "apnea",
+    "sdb"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1625"
+  }
+}

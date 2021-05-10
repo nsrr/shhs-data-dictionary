@@ -1,0 +1,13 @@
+{
+  "id": "pptstatus",
+  "display_name": "Interim Follow-up: Participant Status",
+  "description": "",
+  "type": "choices",
+  "domain": "status",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "200"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ql204d",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Health causes difficulty performing work",
+  "description": "4. During the past four weeks, have you had any of the following problems with your work or other regular daily activities as a result of your PHYSICAL HEALTH? d. Had difficulty performing the work or other activities. (For example, it took extra effort).",
+  "type": "choices",
+  "domain": "noyes01",
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1721"
+  }
+}

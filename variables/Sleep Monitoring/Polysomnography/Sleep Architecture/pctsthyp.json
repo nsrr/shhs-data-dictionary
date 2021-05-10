@@ -1,0 +1,13 @@
+{
+  "id": "pctsthyp",
+  "display_name": "Percent of sleep time in Hypopnea",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_hp3x0u_f1t2"
+  ],
+  "other": {
+    "order": "1292"
+  }
+}

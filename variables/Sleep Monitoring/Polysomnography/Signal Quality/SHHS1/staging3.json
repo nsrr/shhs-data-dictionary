@@ -1,0 +1,16 @@
+{
+  "id": "staging3",
+  "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Scored Wake, non-rapid eye movement sleep (NREM), rapid eye movement sleep (REM) only",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "non-rem"
+  ],
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ],
+  "other": {
+    "order": "1209"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fstk_type",
+  "display_name": "Type of fatal stroke",
+  "description": "",
+  "type": "choices",
+  "domain": "fatal_stroke_type",
+  "labels": [
+    "death"
+  ],
+  "other": {
+    "order": "43"
+  }
+}

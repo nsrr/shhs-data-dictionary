@@ -1,7 +1,0 @@
-{
-  "id": "slewake",
-  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Sleep Wake Scoring",
-  "description": "Study was scored sleep/wake rather than with full sleep staging.  This assessment is made by the scorer if there is not sufficient quality on EEG leads to do full R&K scoring.  (0=no (full scoring); 1=yes (sleep/wake only)) Studies scored as sleep wake have all sleep stages scored using a default of Stage 2 and no arousals are scored.  ",
-  "type": "choices",
-  "domain": "noyes01"
-}

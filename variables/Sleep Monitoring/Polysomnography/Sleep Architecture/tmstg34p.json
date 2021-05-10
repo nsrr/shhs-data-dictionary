@@ -1,0 +1,14 @@
+{
+  "id": "tmstg34p",
+  "display_name": "Percent of sleep time in stage 3-4 sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "times34p",
+    "pctdursp_s3_f1t2"
+  ],
+  "other": {
+    "order": "1322"
+  }
+}

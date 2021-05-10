@@ -1,0 +1,18 @@
+{
+  "id": "hi214a",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): Restless leg symptoms worse at night",
+  "description": "a. If both day and night, do they get worse at night?",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "rls",
+    "willis -ekbom disease",
+    "rls_plms"
+  ],
+  "forms": [
+    "shhs2_health_interview"
+  ],
+  "other": {
+    "order": "1671"
+  }
+}

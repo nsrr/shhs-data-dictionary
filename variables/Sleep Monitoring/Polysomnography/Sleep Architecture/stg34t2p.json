@@ -1,0 +1,13 @@
+{
+  "id": "stg34t2p",
+  "display_name": "Number of stage 3/4 to stage 1/2 shifts during sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "stage shifts",
+  "labels": [
+    "ttlnumsf_s3s1s2_f1t2"
+  ],
+  "other": {
+    "order": "1310"
+  }
+}

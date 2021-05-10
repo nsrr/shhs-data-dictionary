@@ -1,0 +1,13 @@
+{
+  "id": "fup_all",
+  "display_name": "Interim Follow-up: All followup forms present",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "181"
+  }
+}

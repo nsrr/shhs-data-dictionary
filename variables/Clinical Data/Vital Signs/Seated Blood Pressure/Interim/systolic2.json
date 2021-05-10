@@ -1,0 +1,14 @@
+{
+  "id": "systolic2",
+  "display_name": "Interim Follow-up: Systolic blood pressure (BP) - second reading",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg",
+    "interim"
+  ],
+  "other": {
+    "order": "246"
+  }
+}

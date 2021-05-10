@@ -1,0 +1,13 @@
+{
+  "id": "tired25",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Felt tired",
+  "description": "During the past 4 weeks, how much of the time: Did you feel tired?",
+  "type": "choices",
+  "domain": "allnone6",
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1572"
+  }
+}

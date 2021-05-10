@@ -1,7 +1,0 @@
-{
-  "id": "nsrrid",
-  "display_name": "NSRR Subject ID",
-  "description": "This subject identifier was created by the National Sleep Research Resource (NSRR) team to more easily match with file downloads. Use 'pptid' to link with Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC) and cohort-specific data.",
-  "type": "identifier",
-  "commonly_used": true
-}

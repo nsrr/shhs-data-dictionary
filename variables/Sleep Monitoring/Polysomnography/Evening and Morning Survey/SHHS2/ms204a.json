@@ -1,0 +1,13 @@
+{
+  "id": "ms204a",
+  "display_name": "Morning Survey (Sleep Heart Health Study Visit Two (SHHS2)): Quality of sleep light/deep",
+  "description": "4. Rate the actual quality of your sleep last night (Do not compare to usual sleep quality). My sleep last night was (circle a number for each): a. [5 point Likert scale from \"Light\" to \"Dark\"]",
+  "type": "choices",
+  "domain": "lighdar5",
+  "forms": [
+    "shhs2_morning_survey_form"
+  ],
+  "other": {
+    "order": "1678"
+  }
+}

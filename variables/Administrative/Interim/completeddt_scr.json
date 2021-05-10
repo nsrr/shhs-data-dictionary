@@ -1,0 +1,13 @@
+{
+  "id": "completeddt_scr",
+  "display_name": "Interim Follow-up: Days from index date to date when screener form was completed",
+  "description": "",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "166"
+  }
+}

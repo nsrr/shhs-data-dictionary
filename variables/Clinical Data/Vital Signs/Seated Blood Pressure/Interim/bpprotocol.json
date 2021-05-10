@@ -1,0 +1,13 @@
+{
+  "id": "bpprotocol",
+  "display_name": "Interim Follow-up: Protocol used to measure blood pressure (BP)",
+  "description": "Protocol indicator for [avgdias](https://sleepdata.org/datasets/shhs/variables/avgdias) and [avgsys](https://sleepdata.org/datasets/shhs/variables/avgsys)",
+  "type": "choices",
+  "domain": "protocol",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "152"
+  }
+}

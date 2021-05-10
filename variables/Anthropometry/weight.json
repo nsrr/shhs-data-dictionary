@@ -1,0 +1,15 @@
+{
+  "id": "weight",
+  "display_name": "Weight (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "The SHHS Coordinating Center bottom and top coded this variable using a lower limit of 47 kilograms and an upper limit of 126 kilograms.",
+  "type": "numeric",
+  "units": "kilograms",
+  "labels": [
+    "kg",
+    "wt"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "271"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "oxytherapy",
+  "display_name": "Interim Follow-up: Usually use oxygen therapy",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "o2",
+    "interim"
+  ],
+  "other": {
+    "order": "198"
+  }
+}

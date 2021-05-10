@@ -1,0 +1,14 @@
+{
+  "id": "snmouthpiece",
+  "display_name": "Interim Follow-up: Treatment prescribed - use mouthpiece",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "oral appliance",
+    "interim"
+  ],
+  "other": {
+    "order": "227"
+  }
+}

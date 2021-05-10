@@ -1,7 +1,0 @@
-{
-  "id": "hrsdrive",
-  "display_name": "Hours participant drives each day",
-  "description": "",
-  "type": "numeric",
-  "units": "hours"
-}

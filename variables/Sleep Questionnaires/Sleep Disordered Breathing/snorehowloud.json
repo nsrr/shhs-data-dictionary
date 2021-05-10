@@ -1,0 +1,14 @@
+{
+  "id": "snorehowloud",
+  "display_name": "Interim Follow-up: Loudness of snoring",
+  "description": "",
+  "type": "choices",
+  "domain": "snrloud5",
+  "labels": [
+    "interim",
+    "sdb"
+  ],
+  "other": {
+    "order": "229"
+  }
+}

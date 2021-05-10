@@ -1,0 +1,13 @@
+{
+  "id": "hlthy25",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): As healthy as anybody",
+  "description": "Choose (definitely True-definitely False): I am as healthy as anybody I know.",
+  "type": "choices",
+  "domain": "trufals5",
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1561"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surgtr02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Surgery for snoring",
+  "description": "Have you ever had surgery as treatment for your snoring?",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "uppp",
+    "uvulopalatopharyngoplasty",
+    "somnoplasty"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1627"
+  }
+}

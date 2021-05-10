@@ -1,0 +1,10 @@
+{
+  "id": "quair",
+  "display_name": "Quality of the airflow signal",
+  "description": "Sleep Heart Health Study Visit 2 (SHHS2)-These vary from 1 (poorest) to 5 (best) and reflect the proportion of sleep time the signals were useable.  Useable respiratory data is defined as the number of hours that abnormal breaths can be distinguished from normal breaths.",
+  "type": "choices",
+  "domain": "sigqual2",
+  "other": {
+    "order": "1234"
+  }
+}

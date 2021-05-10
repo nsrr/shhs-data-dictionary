@@ -1,7 +1,0 @@
-{
-  "id": "ess_interim",
-  "display_name": "Epworth Sleepiness Scale score (Interim Follow-up Visit)",
-  "description": "",
-  "type": "integer",
-  "calculation": "sum(sitread-1,watchtv-1,sitpublic-1,ridecar-1,resting-1,sittalk-1,sitafterlunch-1,stoppedcar-1)"
-}

@@ -1,0 +1,13 @@
+{
+  "id": "scremp",
+  "display_name": "Time in rapid eye movement sleep (REM)(Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_sr_f1t2"
+  ],
+  "other": {
+    "order": "1301"
+  }
+}

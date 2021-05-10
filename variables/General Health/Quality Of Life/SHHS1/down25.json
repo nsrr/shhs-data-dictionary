@@ -1,0 +1,17 @@
+{
+  "id": "down25",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Felt down in the dumps",
+  "description": "During the past 4 weeks, how much of the time: Have you felt so down in the dumps that nothing could cheer you up?",
+  "type": "choices",
+  "domain": "allnone6",
+  "labels": [
+    "depression",
+    "depressed"
+  ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1552"
+  }
+}

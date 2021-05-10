@@ -1,0 +1,13 @@
+{
+  "id": "oanoa3",
+  "display_name": "Number of Obstructive Apnea with >=3% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "obstructive apnea events",
+  "labels": [
+    "ttlnumoa_snpo_oa3u_f1t2"
+  ],
+  "other": {
+    "order": "868"
+  }
+}

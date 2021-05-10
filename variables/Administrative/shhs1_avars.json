@@ -1,7 +1,0 @@
-{
-  "id": "shhs1_avars",
-  "display_name": "Has Sleep Heart Health Study Visit One (SHHS1) A-variables",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

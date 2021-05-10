@@ -1,0 +1,13 @@
+{
+  "id": "mxoanbp",
+  "display_name": "Maximum Obstructive Apnea length (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxduroa_snpb_oa0u_f1t2"
+  ],
+  "other": {
+    "order": "821"
+  }
+}

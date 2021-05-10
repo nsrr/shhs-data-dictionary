@@ -1,7 +1,0 @@
-{
-  "id": "queogr",
-  "display_name": "Quality of the EOGR signal",
-  "description": "Sleep Heart Health Study Visit 2 (SHHS2)-These vary from 1 (poorest) to 5 (best) and reflect the proportion of sleep time the signals were useable.  EEG/EOG/EMG data are defined by the number of hours that sleep stages can be distinguished from awake.",
-  "type": "choices",
-  "domain": "sigqual2"
-}

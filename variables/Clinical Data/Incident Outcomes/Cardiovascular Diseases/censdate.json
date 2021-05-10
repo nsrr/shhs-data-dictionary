@@ -1,0 +1,14 @@
+{
+  "id": "censdate",
+  "display_name": "Days to Most Recent Contact or Death Since Baseline",
+  "description": "Time since Sleep Heart Health Study Visit One (SHHS 1) Sleep Study to date of last contact/death",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "adjudicated",
+    "tto_censdate"
+  ],
+  "other": {
+    "order": "34"
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "id": "shhs1_psg",
-  "display_name": "Has Sleep Heart Health Study Visit One (SHHS1) Polysomnography (PSG) record",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

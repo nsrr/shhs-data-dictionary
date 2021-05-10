@@ -1,0 +1,14 @@
+{
+  "id": "sleepdisorder",
+  "display_name": "Interim Follow-up: Told by doctor or some other sleep disorder",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "md",
+    "interim"
+  ],
+  "other": {
+    "order": "222"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pcstahar",
+  "display_name": "Percent of sleep time in Apnea or Hypopnea with arousal",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_ap0uhp3x0o_f1t2"
+  ],
+  "other": {
+    "order": "1283"
+  }
+}

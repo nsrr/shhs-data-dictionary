@@ -1,7 +1,0 @@
-{
-  "id": "cmplbp",
-  "display_name": "Completed blood pressure (BP)",
-  "description": "",
-  "type": "choices",
-  "domain": "complete2"
-}

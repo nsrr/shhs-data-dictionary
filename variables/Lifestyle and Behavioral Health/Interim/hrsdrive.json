@@ -1,0 +1,13 @@
+{
+  "id": "hrsdrive",
+  "display_name": "Interim Follow-up: Hours participant drives each day",
+  "description": "",
+  "type": "numeric",
+  "units": "hours",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "186"
+  }
+}

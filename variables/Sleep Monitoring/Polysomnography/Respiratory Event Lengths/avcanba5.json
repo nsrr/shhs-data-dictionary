@@ -1,0 +1,13 @@
+{
+  "id": "avcanba5",
+  "display_name": "Average Central Apnea length with >=5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurca_snpb_ca5u_f1t2"
+  ],
+  "other": {
+    "order": "540"
+  }
+}

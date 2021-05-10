@@ -1,0 +1,15 @@
+{
+  "id": "mi_fatal",
+  "display_name": "Fatal Heart Attack Since Baseline?",
+  "description": "Fatal myocardial infarction (MI) since baseline Polysomnogram (PSG)  (as recorded in parent studies datasets)",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "adjudicated",
+    "heart attack"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "47"
+  }
+}

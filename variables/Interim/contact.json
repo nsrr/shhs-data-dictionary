@@ -1,7 +1,0 @@
-{
-  "id": "contact",
-  "display_name": "Able to contact participant",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

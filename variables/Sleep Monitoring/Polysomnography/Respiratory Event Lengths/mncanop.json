@@ -1,0 +1,13 @@
+{
+  "id": "mncanop",
+  "display_name": "Minimum Central Apnea length (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mindurca_snpo_ca0u_f1t2"
+  ],
+  "other": {
+    "order": "671"
+  }
+}

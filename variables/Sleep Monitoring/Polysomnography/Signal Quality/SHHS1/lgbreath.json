@@ -1,0 +1,18 @@
+{
+  "id": "lgbreath",
+  "display_name": "Polysomnography (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Periodic Large Breaths",
+  "description": "When very large breaths (one or two) occur periodically (mostly on the inductance channels) between runs of fairly normal breaths for a duration of at least 10 minutes.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "kicking",
+    "periodic limb movements",
+    "non-respiratory arousal"
+  ],
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ],
+  "other": {
+    "order": "1195"
+  }
+}

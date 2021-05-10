@@ -1,0 +1,13 @@
+{
+  "id": "cardrba5",
+  "display_name": "Central Apnea per hour with >=5% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumca_srpb_ca5u_f1t2"
+  ],
+  "other": {
+    "order": "630"
+  }
+}

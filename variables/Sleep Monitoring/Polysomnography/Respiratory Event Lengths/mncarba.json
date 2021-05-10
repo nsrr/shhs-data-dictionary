@@ -1,0 +1,13 @@
+{
+  "id": "mncarba",
+  "display_name": "Minimum Central Apnea length w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mindurca_srpb_ca0o_f1t2"
+  ],
+  "other": {
+    "order": "676"
+  }
+}

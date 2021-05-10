@@ -1,0 +1,13 @@
+{
+  "id": "hmnbroh",
+  "display_name": "Minimum Heart Rate (Rapid eye movement sleep (REM), Non-supine, >=3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "minlvlhr_srpo_dsge3_f1t2"
+  ],
+  "other": {
+    "order": "378"
+  }
+}

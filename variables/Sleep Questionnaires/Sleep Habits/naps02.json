@@ -1,0 +1,16 @@
+{
+  "id": "naps02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): number of naps per week",
+  "description": "During a usual week, how many times do you nap for 5 minutes or more? (number of naps, up to 2 digits)",
+  "type": "numeric",
+  "units": "naps",
+  "labels": [
+    "sleep_hygiene"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1616"
+  }
+}

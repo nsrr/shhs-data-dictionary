@@ -1,0 +1,13 @@
+{
+  "id": "sncpap",
+  "display_name": "Interim Follow-up: Treatment prescribed - Continuous Positive Airway Pressure (CPAP) or Bilevel Positive Airway Pressure (BiPAP)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "225"
+  }
+}

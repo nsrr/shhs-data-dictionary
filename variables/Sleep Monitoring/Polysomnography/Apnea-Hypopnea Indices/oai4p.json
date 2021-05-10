@@ -1,0 +1,13 @@
+{
+  "id": "oai4p",
+  "display_name": "Obstructive Apnea Index >= 4% - number of [obstructive apneas with >= 4% oxygen desaturation] per hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "oai_oa4u_f1t2"
+  ],
+  "other": {
+    "order": "1154"
+  }
+}

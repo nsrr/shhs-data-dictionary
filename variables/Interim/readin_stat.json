@@ -1,7 +1,0 @@
-{
-  "id": "readin_stat",
-  "display_name": "Days from index date to when record was read in at Coordinating Center (CC)",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}

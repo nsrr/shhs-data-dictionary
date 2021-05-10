@@ -1,0 +1,13 @@
+{
+  "id": "remepbp",
+  "display_name": "Sleep Time (Rapid eye movement sleep (REM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_srpb_f1t2"
+  ],
+  "other": {
+    "order": "1294"
+  }
+}

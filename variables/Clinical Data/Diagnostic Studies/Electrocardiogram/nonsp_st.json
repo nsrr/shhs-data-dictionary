@@ -1,0 +1,13 @@
+{
+  "id": "nonsp_st",
+  "display_name": "Nonspecific ST wave abnormalty",
+  "description": "Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
+  "type": "choices",
+  "domain": "nonsp_st",
+  "labels": [
+    "stwave"
+  ],
+  "other": {
+    "order": "316"
+  }
+}

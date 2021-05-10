@@ -1,7 +1,0 @@
-{
-  "id": "fup_all",
-  "display_name": "All followup forms present",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

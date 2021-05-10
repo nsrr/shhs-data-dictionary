@@ -1,0 +1,18 @@
+{
+  "id": "lydwn02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Fall asleep while lying down in the afternoon",
+  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=epworth)<br><br>Original question: What is chance that you would doze off or fall asleep while lying down to rest in the afternoon when circumstances permit?",
+  "type": "choices",
+  "domain": "nhchan4",
+  "labels": [
+    "ess5",
+    "ess_5lyingdown",
+    "epworth"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1491"
+  }
+}

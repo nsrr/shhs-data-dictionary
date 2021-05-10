@@ -1,0 +1,14 @@
+{
+  "id": "mob2",
+  "display_name": "Mobitz Type-2 Heart Block",
+  "description": "Second degree atrioventricular (Mobitz) type-2 heart block. Minnesota (MN) code 6-2-1. Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "second-degree",
+    "2nd "
+  ],
+  "other": {
+    "order": "314"
+  }
+}

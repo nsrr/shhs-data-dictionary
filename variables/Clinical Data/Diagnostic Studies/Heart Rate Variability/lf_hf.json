@@ -1,0 +1,12 @@
+{
+  "id": "lf_hf",
+  "display_name": "The ratio of low to high frequency power",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "heart rate variability"
+  ],
+  "other": {
+    "order": "118"
+  }
+}

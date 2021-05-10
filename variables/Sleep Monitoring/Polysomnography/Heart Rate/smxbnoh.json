@@ -1,0 +1,13 @@
+{
+  "id": "smxbnoh",
+  "display_name": "Maximum Heart Rate (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "maxlvlhr_snpo_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "392"
+  }
+}

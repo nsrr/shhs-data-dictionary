@@ -1,0 +1,13 @@
+{
+  "id": "avhnba4",
+  "display_name": "Average Hypopnea length with >=4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurhp_snpb_hp3x4u_f1t2"
+  ],
+  "other": {
+    "order": "939"
+  }
+}

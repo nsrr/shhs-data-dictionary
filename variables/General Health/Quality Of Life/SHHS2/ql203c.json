@@ -1,0 +1,13 @@
+{
+  "id": "ql203c",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit Two (SHHS2)): Health limits lifting or carrying groceries",
+  "description": "3. The following questions are about activities you might do during a typical day. Does your health now limit you in these activities? If so, how much? (Check one box for each question.) C. Lifting or carrying groceries.",
+  "type": "choices",
+  "domain": "lotlitn",
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1710"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mi_date",
+  "display_name": "Days to First myocardial infarction (MI) Since Baseline",
+  "description": "Time since Sleep Heart Health Study Visit One (SHHS 1) Sleep Study to date of first myocardial infarction (MI)",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "adjudicated",
+    "tto_midate",
+    "heart attack"
+  ],
+  "other": {
+    "order": "45"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hmnbnbh",
+  "display_name": "Minimum Heart Rate (Non-rapid eye movement sleep (NREM), Supine, >=3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "minlvlhr_snpb_dsge3_f1t2"
+  ],
+  "other": {
+    "order": "375"
+  }
+}

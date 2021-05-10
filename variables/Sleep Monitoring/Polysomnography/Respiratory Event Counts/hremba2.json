@@ -1,0 +1,13 @@
+{
+  "id": "hremba2",
+  "display_name": "Number of Hypopnea with >=2% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "ttlnumhp_srpb_hp3x2u_f1t2"
+  ],
+  "other": {
+    "order": "997"
+  }
+}

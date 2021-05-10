@@ -1,0 +1,13 @@
+{
+  "id": "imhihrae",
+  "display_name": "Adverse Events (Sleep Heart Health Study Visit One (SHHS1)): Heart Rate > 150",
+  "description": "Heart rate > 150 for > 2 minutes at rest?",
+  "type": "choices",
+  "domain": "noyes01",
+  "forms": [
+    "shhs1_adverse_events_form"
+  ],
+  "other": {
+    "order": "1479"
+  }
+}

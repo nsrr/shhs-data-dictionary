@@ -1,0 +1,12 @@
+{
+  "id": "spcreasrefused",
+  "display_name": "Interim Follow-up: Other reason refused repeat study",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "238"
+  }
+}

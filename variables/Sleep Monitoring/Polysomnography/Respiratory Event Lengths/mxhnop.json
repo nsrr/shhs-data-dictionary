@@ -1,0 +1,13 @@
+{
+  "id": "mxhnop",
+  "display_name": "Maximum Hypopnea length (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxdurhp_snpo_hp3x0u_f1t2"
+  ],
+  "other": {
+    "order": "1071"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "snspcother",
+  "display_name": "Interim Follow-up: Treatment prescribed - other (text)",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "232"
+  }
+}

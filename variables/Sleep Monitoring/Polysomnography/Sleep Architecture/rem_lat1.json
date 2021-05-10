@@ -1,0 +1,13 @@
+{
+  "id": "rem_lat1",
+  "display_name": "Rapid eye movement sleep (REM) Latency I",
+  "description": "Total time from beginning of sleep to first epoch of rapid eye movement sleep (REM), rounded to nearest minute",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttlprdsp_s1sr_f1t2"
+  ],
+  "other": {
+    "order": "1293"
+  }
+}

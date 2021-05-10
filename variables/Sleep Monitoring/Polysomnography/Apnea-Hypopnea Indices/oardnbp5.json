@@ -1,0 +1,13 @@
+{
+  "id": "oardnbp5",
+  "display_name": "Obstructive Apnea per hour (Non-rapid eye movement sleep (NREM), Supine, >=5% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumoa_snpb_oa5u_f1t2"
+  ],
+  "other": {
+    "order": "895"
+  }
+}

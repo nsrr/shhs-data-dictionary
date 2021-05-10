@@ -1,0 +1,13 @@
+{
+  "id": "dmxbroh",
+  "display_name": "Maximum Heart Rate with arousal (Rapid eye movement sleep (REM), Non-supine, >=3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "maxlvlhr_srsopo_dsge3_f1t2"
+  ],
+  "other": {
+    "order": "370"
+  }
+}

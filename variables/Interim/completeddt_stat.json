@@ -1,7 +1,0 @@
-{
-  "id": "completeddt_stat",
-  "display_name": "Days from index date to date when form",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}

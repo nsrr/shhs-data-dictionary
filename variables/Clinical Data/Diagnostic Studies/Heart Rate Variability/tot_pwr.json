@@ -1,0 +1,14 @@
+{
+  "id": "tot_pwr",
+  "display_name": "Total normal sinus to normal sinus interbeat (NN) interval spectral power up to 0.4 Hz",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds squared",
+  "labels": [
+    "heart rate variability",
+    "ms2"
+  ],
+  "other": {
+    "order": "141"
+  }
+}

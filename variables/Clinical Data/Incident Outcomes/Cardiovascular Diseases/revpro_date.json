@@ -1,0 +1,14 @@
+{
+  "id": "revpro_date",
+  "display_name": "Days to First Revascularization Procedure Since Baseline",
+  "description": "Time since Sleep Heart Health Study Visit One (SHHS 1) Sleep Study to date of first revascularization procedure",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "adjudicated",
+    "tto_revprodt"
+  ],
+  "other": {
+    "order": "59"
+  }
+}

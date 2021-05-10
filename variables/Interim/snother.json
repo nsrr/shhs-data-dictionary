@@ -1,7 +1,0 @@
-{
-  "id": "snother",
-  "display_name": "Treatment prescribed: other",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

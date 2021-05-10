@@ -1,0 +1,13 @@
+{
+  "id": "dmxbnbh",
+  "display_name": "Maximum Heart Rate with arousal (Non-rapid eye movement sleep (NREM), Supine, >=3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "maxlvlhr_snsopb_dsge3_f1t2"
+  ],
+  "other": {
+    "order": "367"
+  }
+}

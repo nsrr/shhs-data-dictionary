@@ -1,7 +1,0 @@
-{
-  "id": "pptstatus",
-  "display_name": "Participant Status",
-  "description": "",
-  "type": "choices",
-  "domain": "status"
-}

@@ -1,0 +1,13 @@
+{
+  "id": "totminslpwe",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): sleep time on weekends",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "sleep_duration"
+  ],
+  "other": {
+    "order": "1810"
+  }
+}

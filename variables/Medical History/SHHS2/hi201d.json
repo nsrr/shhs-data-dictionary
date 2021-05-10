@@ -1,0 +1,14 @@
+{
+  "id": "hi201d",
+  "display_name": "History of Asthma (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "1. Has a doctor ever told you that you have the following?  d. Asthma",
+  "type": "choices",
+  "domain": "yesnod",
+  "commonly_used": true,
+  "forms": [
+    "shhs2_health_interview"
+  ],
+  "other": {
+    "order": "1339"
+  }
+}

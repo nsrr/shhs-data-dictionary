@@ -1,0 +1,13 @@
+{
+  "id": "ahremop",
+  "display_name": "Arousals per hour (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumrs_srpo_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "339"
+  }
+}

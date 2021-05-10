@@ -1,0 +1,18 @@
+{
+  "id": "ntg2",
+  "display_name": "Nitrates (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking NITRATES within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "hypertension",
+    "htn",
+    "high blood pressure"
+  ],
+  "forms": [
+    "shhs2_medication_form"
+  ],
+  "other": {
+    "order": "1439"
+  }
+}

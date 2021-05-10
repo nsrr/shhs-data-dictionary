@@ -1,0 +1,13 @@
+{
+  "id": "snother",
+  "display_name": "Interim Follow-up: Treatment prescribed - other",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "231"
+  }
+}

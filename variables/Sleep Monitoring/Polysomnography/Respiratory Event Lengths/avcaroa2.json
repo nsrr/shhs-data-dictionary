@@ -1,0 +1,13 @@
+{
+  "id": "avcaroa2",
+  "display_name": "Average Central Apnea length with >=2% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurca_srpo_ca2u_f1t2"
+  ],
+  "other": {
+    "order": "567"
+  }
+}

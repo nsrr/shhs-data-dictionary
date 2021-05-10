@@ -1,0 +1,14 @@
+{
+  "id": "vlf",
+  "display_name": "Very low frequency power: the normal sinus to normal sinus interbeat (NN) interval spectral power between 0.003 and 0.04 Hz",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds squared",
+  "labels": [
+    "heart rate variability",
+    "ms2"
+  ],
+  "other": {
+    "order": "143"
+  }
+}

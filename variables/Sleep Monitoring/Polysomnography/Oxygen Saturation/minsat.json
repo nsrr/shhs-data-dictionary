@@ -1,0 +1,14 @@
+{
+  "id": "minsat",
+  "display_name": "Minimum oxygen saturation (SaO2) in sleep",
+  "description": "Lowest oxygen saturation (SaO2)% during sleep",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "minlvlsa_f1t2"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "445"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mxsao2nh",
+  "display_name": "Maximum oxygen saturation (SaO2) during non-rapid eye movement sleep (NREM)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "maxlvlsa_sn_f1t2"
+  ],
+  "other": {
+    "order": "528"
+  }
+}

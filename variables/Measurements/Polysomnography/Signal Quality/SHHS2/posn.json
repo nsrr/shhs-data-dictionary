@@ -1,7 +1,0 @@
-{
-  "id": "posn",
-  "display_name": "Was the position sensor working properly?",
-  "description": "Sleep Heart Health Study Visit 2 (SHHS2)- This sensor will be considered to have been calibrated appropriately if changes in position are visualized during the recording.  0=reliable.  No variable available for Sleep Heart Health Study Visit 1 (SHHS1).",
-  "type": "choices",
-  "domain": "noyes01"
-}

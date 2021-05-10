@@ -1,7 +1,0 @@
-{
-  "id": "wtunits",
-  "display_name": "Weight units",
-  "description": "",
-  "type": "choices",
-  "domain": "weight"
-}

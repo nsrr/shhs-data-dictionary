@@ -1,7 +1,0 @@
-{
-  "id": "nocontact",
-  "display_name": "Reason contact not made",
-  "description": "",
-  "type": "choices",
-  "domain": "nocontactreason"
-}

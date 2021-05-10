@@ -1,7 +1,0 @@
-{
-  "id": "oarop3",
-  "display_name": "Number of Obstructive Apnea (Rapid eye movement sleep (REM), Non-supine, >=3% oxygen desaturation)",
-  "description": "",
-  "type": "numeric",
-  "units": "obstructive apnea events"
-}

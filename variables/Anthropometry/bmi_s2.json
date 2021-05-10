@@ -1,0 +1,11 @@
+{
+  "id": "bmi_s2",
+  "display_name": "Body mass index (BMI) (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Body Mass Index (BMI) at Sleep Heart Health Study Visit Two (SHHS2)",
+  "type": "numeric",
+  "units": "kilograms per square meter",
+  "commonly_used": true,
+  "other": {
+    "order": "261"
+  }
+}

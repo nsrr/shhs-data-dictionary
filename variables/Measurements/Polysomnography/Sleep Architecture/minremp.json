@@ -1,7 +1,0 @@
-{
-  "id": "minremp",
-  "display_name": "Time in rapid eye movement sleep (REM)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

@@ -1,0 +1,17 @@
+{
+  "id": "sh313",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Surgery for snoring",
+  "description": "To answer these questions, please consider both what others have told you AND what you know about yourself.  13. Have you ever had somnoplasty, laser treatment, or surgery as treatment for your snoring?",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "uppp",
+    "uvulopalatopharyngoplasty"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1784"
+  }
+}

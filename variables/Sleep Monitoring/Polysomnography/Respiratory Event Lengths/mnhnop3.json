@@ -1,0 +1,13 @@
+{
+  "id": "mnhnop3",
+  "display_name": "Minimum Hypopnea length (Non-rapid eye movement sleep (NREM), Non-supine, >=3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mindurhp_snpo_hp3x3u_f1t2"
+  ],
+  "other": {
+    "order": "1033"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "snoredever",
+  "display_name": "Interim Follow-up: Have ever snored",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "interim",
+    "sdb"
+  ],
+  "other": {
+    "order": "228"
+  }
+}

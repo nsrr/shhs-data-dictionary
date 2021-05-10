@@ -1,0 +1,14 @@
+{
+  "id": "sdnn",
+  "display_name": "Standard deviation of all normal sinus to normal sinus interbeat (NN) intervals",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds",
+  "labels": [
+    "heart rate variability",
+    "ms"
+  ],
+  "other": {
+    "order": "128"
+  }
+}

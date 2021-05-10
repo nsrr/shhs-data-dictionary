@@ -9,5 +9,8 @@
     "latino",
     "race"
   ],
-  "commonly_used": true
+  "commonly_used": true,
+  "other": {
+    "order": "70"
+  }
 }

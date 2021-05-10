@@ -1,7 +1,0 @@
-{
-  "id": "calldt",
-  "display_name": "Days from index date to call",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}

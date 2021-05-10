@@ -1,0 +1,13 @@
+{
+  "id": "mnhnba",
+  "display_name": "Minimum Hypopnea length w/ arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mindurhp_snpb_hp3x0o_f1t2"
+  ],
+  "other": {
+    "order": "1016"
+  }
+}

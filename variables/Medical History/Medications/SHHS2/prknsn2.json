@@ -1,0 +1,17 @@
+{
+  "id": "prknsn2",
+  "display_name": "Drugs Used To Treat Parkinson's (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Participant taking DRUGS USED TO TREAT PARKINSON'S within two weeks of the Sleep Heart Health Study Visit Two (SHHS2) visit.  All medications were recorded during the interview, and medication information was later categorized by physician review.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "dopaminergics",
+    "dopamine"
+  ],
+  "forms": [
+    "shhs2_medication_form"
+  ],
+  "other": {
+    "order": "1451"
+  }
+}

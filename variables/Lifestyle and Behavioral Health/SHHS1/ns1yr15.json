@@ -1,0 +1,13 @@
+{
+  "id": "ns1yr15",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): Since smoking began, non-smoker for one year or more",
+  "description": "If yes to [AGESMK15]: Since smoking began, were you a non-smoker for one year or more?",
+  "type": "choices",
+  "domain": "noyes01",
+  "forms": [
+    "shhs1_health_interview_form_new_york"
+  ],
+  "other": {
+    "order": "1509"
+  }
+}

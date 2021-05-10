@@ -1,0 +1,17 @@
+{
+  "id": "sh322",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Did not smoke for a year while smoker",
+  "description": "22. Since you began smoking, was there ever a period of one year or more that you did NOT smoke?",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "cigarettes",
+    "smoking"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1795"
+  }
+}

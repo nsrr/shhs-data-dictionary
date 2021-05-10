@@ -1,0 +1,16 @@
+{
+  "id": "sh308b",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Frequency of waking up and having difficulty resuming sleep",
+  "description": "8. Please indicate how often you experience each of the following. (check one box for each in items a through j) b. Wake up during the night and have difficulty getting back to sleep.",
+  "type": "choices",
+  "domain": "nevralw5",
+  "labels": [
+    "insomnia"
+  ],
+  "forms": [
+    "shhs2_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1771"
+  }
+}

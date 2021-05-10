@@ -1,0 +1,13 @@
+{
+  "id": "hremba",
+  "display_name": "Number of Hypopnea w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "ttlnumhp_srpb_hp3x0o_f1t2"
+  ],
+  "other": {
+    "order": "996"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hrembp3",
+  "display_name": "Number of Hypopnea (Rapid eye movement sleep (REM), Supine, >=3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "ttlnumhp_srpb_hp3x3u_f1t2"
+  ],
+  "other": {
+    "order": "1003"
+  }
+}

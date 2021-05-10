@@ -1,0 +1,13 @@
+{
+  "id": "rdinr0p",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) (Non-rapid eye movement sleep (NREM)) all oxygen desaturations",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_sn_ap0uhp3x0u_f1t2"
+  ],
+  "other": {
+    "order": "1176"
+  }
+}

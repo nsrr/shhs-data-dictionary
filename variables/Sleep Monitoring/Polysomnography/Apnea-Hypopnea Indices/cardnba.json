@@ -1,0 +1,13 @@
+{
+  "id": "cardnba",
+  "display_name": "Central Apnea per hour w/ arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumca_snpb_ca0o_f1t2"
+  ],
+  "other": {
+    "order": "606"
+  }
+}

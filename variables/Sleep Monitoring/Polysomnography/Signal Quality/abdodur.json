@@ -1,0 +1,18 @@
+{
+  "id": "abdodur",
+  "display_name": "Hours of usable abdominal signal",
+  "description": "Hours of useable signal are rounded out to the lowest whole integer (e.g. 4.6 hours of useable data = 4). Useable respiratory data is defined as the number of hours that abnormal breaths can be distinguished from normal breaths",
+  "type": "numeric",
+  "units": "hours",
+  "labels": [
+    "respiratory belt",
+    "abdomen",
+    "hrs"
+  ],
+  "forms": [
+    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
+  ],
+  "other": {
+    "order": "1254"
+  }
+}

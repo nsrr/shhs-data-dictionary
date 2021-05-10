@@ -1,0 +1,13 @@
+{
+  "id": "whoadmin",
+  "display_name": "Interim Follow-up: Who administered this form",
+  "description": "",
+  "type": "choices",
+  "domain": "administered",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "254"
+  }
+}

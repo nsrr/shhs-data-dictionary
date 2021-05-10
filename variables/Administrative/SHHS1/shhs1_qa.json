@@ -1,0 +1,10 @@
+{
+  "id": "shhs1_qa",
+  "display_name": "Has Sleep Heart Health Study Visit One (SHHS1) Quality form",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "order": "11"
+  }
+}

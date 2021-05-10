@@ -1,7 +1,0 @@
-{
-  "id": "remarunrel",
-  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Arousals unreliable (Rapid eye movement sleep (REM))",
-  "description": "Due to signal problems, scorer was unable to reliably assess arousals in stage rapid eye movement sleep (REM).  The scoring of arousals in stage rapid eye movement sleep (REM) was determined to be unreliable.",
-  "type": "choices",
-  "domain": "yesnon"
-}

@@ -1,0 +1,13 @@
+{
+  "id": "mxhroa3",
+  "display_name": "Maximum Hypopnea length with >=3% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxdurhp_srpo_hp3x3u_f1t2"
+  ],
+  "other": {
+    "order": "1088"
+  }
+}

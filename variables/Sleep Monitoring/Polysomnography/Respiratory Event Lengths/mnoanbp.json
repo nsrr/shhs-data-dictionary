@@ -1,0 +1,13 @@
+{
+  "id": "mnoanbp",
+  "display_name": "Minimum Obstructive Apnea length (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "minduroa_snpb_oa0u_f1t2"
+  ],
+  "other": {
+    "order": "781"
+  }
+}

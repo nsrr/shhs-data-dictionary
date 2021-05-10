@@ -1,0 +1,13 @@
+{
+  "id": "avhrbp",
+  "display_name": "Average Hypopnea length (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurhp_srpb_hp3x0u_f1t2"
+  ],
+  "other": {
+    "order": "961"
+  }
+}

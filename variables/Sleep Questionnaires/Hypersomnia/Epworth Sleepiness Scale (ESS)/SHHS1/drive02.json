@@ -1,0 +1,19 @@
+{
+  "id": "drive02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Fall asleep while driving",
+  "description": "Original question: What is chance that you would doze off or fall asleep while driving?",
+  "type": "choices",
+  "domain": "nhchan4",
+  "labels": [
+    "doze off",
+    "eds",
+    "subjective_sleepiness",
+    "ess_driving"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1602"
+  }
+}

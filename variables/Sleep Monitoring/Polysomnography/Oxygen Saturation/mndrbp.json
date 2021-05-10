@@ -1,0 +1,13 @@
+{
+  "id": "mndrbp",
+  "display_name": "Minimum oxygen saturation (SaO2) (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "minlvlsa_srpb_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "471"
+  }
+}

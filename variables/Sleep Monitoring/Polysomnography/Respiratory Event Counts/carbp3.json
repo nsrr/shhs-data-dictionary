@@ -1,0 +1,13 @@
+{
+  "id": "carbp3",
+  "display_name": "Number of Central Apnea (Rapid eye movement sleep (REM), Supine, >=3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "central apnea events",
+  "labels": [
+    "ttlnumca_srpb_ca3u_f1t2"
+  ],
+  "other": {
+    "order": "603"
+  }
+}

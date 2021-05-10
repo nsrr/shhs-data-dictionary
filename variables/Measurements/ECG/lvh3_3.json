@@ -1,7 +1,0 @@
-{
-  "id": "lvh3_3",
-  "display_name": "Left Ventricular Hypertrophy: Voltage 3-3",
-  "description": "Minnesota (MN) code 3-3. Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
-  "type": "choices",
-  "domain": "noyes01"
-}

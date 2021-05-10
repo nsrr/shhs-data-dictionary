@@ -1,0 +1,15 @@
+{
+  "id": "atdinner",
+  "display_name": "Epworth Sleepiness Scale: Chance of dozing at dinner table",
+  "description": "Additional item added to the Epworth Sleepiness Scale ",
+  "type": "choices",
+  "domain": "nhchan4",
+  "labels": [
+    "interim",
+    "ess_dinner",
+    "subjective_sleepiness"
+  ],
+  "other": {
+    "order": "146"
+  }
+}

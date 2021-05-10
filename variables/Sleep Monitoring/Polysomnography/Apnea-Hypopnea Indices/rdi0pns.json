@@ -1,0 +1,13 @@
+{
+  "id": "rdi0pns",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) (non-Supine) all oxygen desaturations",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_po_ap0uhp3x0u_f1t2"
+  ],
+  "other": {
+    "order": "1158"
+  }
+}

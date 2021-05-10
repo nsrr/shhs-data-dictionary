@@ -1,0 +1,15 @@
+{
+  "id": "prev_ang",
+  "display_name": "Number of Angina Episodes Prior to Baseline",
+  "description": "Angina episodes prior to baseline Polysomnography (PSG) (as recorded in parent studies datasets)",
+  "type": "numeric",
+  "units": "number of events",
+  "labels": [
+    "adjudicated",
+    "chest pain"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "50"
+  }
+}

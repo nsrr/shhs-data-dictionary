@@ -1,0 +1,17 @@
+{
+  "id": "sleepy02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Frequency of excessive daytime sleepiness",
+  "description": "How often do you feel excessively (overly) sleepy during the day?",
+  "type": "choices",
+  "domain": "nevralw5",
+  "labels": [
+    "eds",
+    "subjective_sleepiness"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1622"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cmplbp",
+  "display_name": "Interim Follow-up: Completed blood pressure (BP)",
+  "description": "",
+  "type": "choices",
+  "domain": "complete2",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "160"
+  }
+}

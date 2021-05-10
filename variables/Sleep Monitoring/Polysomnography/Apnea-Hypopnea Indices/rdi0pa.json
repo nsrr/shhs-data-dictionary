@@ -1,0 +1,13 @@
+{
+  "id": "rdi0pa",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) all oxygen desaturations with an arousal",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_ap0ohp3x0o_f1t2"
+  ],
+  "other": {
+    "order": "1157"
+  }
+}

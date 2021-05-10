@@ -1,0 +1,13 @@
+{
+  "id": "cuffsize",
+  "display_name": "Interim Follow-up: Cuff size",
+  "description": "",
+  "type": "choices",
+  "domain": "csize",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "169"
+  }
+}

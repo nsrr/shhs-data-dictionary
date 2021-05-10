@@ -1,0 +1,15 @@
+{
+  "id": "whiledriving",
+  "display_name": "Epworth Sleepiness Scale: Chance of dozing while driving",
+  "description": "Additional item added to the Epworth Sleepiness Scale",
+  "type": "choices",
+  "domain": "nhchan4",
+  "labels": [
+    "doze off",
+    "interim",
+    "ess_driving"
+  ],
+  "other": {
+    "order": "253"
+  }
+}

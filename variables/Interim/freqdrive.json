@@ -1,7 +1,0 @@
-{
-  "id": "freqdrive",
-  "display_name": "Frequency that participant drives",
-  "description": "",
-  "type": "choices",
-  "domain": "everynever"
-}

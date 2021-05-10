@@ -1,0 +1,14 @@
+{
+  "id": "avnn",
+  "display_name": "Mean of all normal sinus to normal sinus interbeat intervals (NN) ",
+  "description": "",
+  "type": "numeric",
+  "units": "milliseconds",
+  "labels": [
+    "ms",
+    "heart rate variability"
+  ],
+  "other": {
+    "order": "76"
+  }
+}

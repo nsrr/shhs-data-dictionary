@@ -1,0 +1,16 @@
+{
+  "id": "wk1blk25",
+  "display_name": "Quality of Life (QOL) (Sleep Heart Health Study Visit One (SHHS1)): Health limits walking one block",
+  "description": "Does your health now limit you in this activity, and if so, how much: Walking one block",
+  "type": "choices",
+  "domain": "lotlit3",
+  "labels": [
+    "exercise"
+  ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ],
+  "other": {
+    "order": "1574"
+  }
+}

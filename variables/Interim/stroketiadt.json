@@ -1,7 +1,0 @@
-{
-  "id": "stroketiadt",
-  "display_name": "Days from index date to Stroke or Transient Ischemic Attack (TIA)",
-  "description": "",
-  "type": "numeric",
-  "units": "days from index date"
-}

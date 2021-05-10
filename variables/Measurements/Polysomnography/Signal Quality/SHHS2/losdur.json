@@ -1,7 +1,0 @@
-{
-  "id": "losdur",
-  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Data Lost during study",
-  "description": "Data was lost during the study.",
-  "type": "choices",
-  "domain": "yesnon"
-}

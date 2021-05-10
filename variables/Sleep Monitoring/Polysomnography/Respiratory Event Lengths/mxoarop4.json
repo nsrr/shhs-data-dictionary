@@ -1,0 +1,13 @@
+{
+  "id": "mxoarop4",
+  "display_name": "Maximum Obstructive Apnea length (Rapid eye movement sleep (REM), Non-supine, >=4% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxduroa_srpo_oa4u_f1t2"
+  ],
+  "other": {
+    "order": "854"
+  }
+}

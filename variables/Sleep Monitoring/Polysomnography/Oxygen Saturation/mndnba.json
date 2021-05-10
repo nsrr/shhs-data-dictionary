@@ -1,0 +1,13 @@
+{
+  "id": "mndnba",
+  "display_name": "Minimum oxygen saturation (SaO2) w/ arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "minlvlsa_snsopb_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "446"
+  }
+}

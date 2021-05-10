@@ -1,0 +1,12 @@
+{
+  "id": "timslp",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): Time went to sleep last night",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "sleep_timing"
+  ],
+  "other": {
+    "order": "1674"
+  }
+}

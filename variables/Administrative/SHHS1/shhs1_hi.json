@@ -1,0 +1,10 @@
+{
+  "id": "shhs1_hi",
+  "display_name": "Has Sleep Heart Health Study Visit One (SHHS1) Health Interview form",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "order": "7"
+  }
+}

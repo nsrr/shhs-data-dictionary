@@ -1,0 +1,18 @@
+{
+  "id": "surgsa02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Surgery as treatment for sleep apnea",
+  "description": "Have you had surgery as treatment for your sleep apnea?",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "uppp",
+    "uvulopalatopharyngoplasty",
+    "somnoplasty"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1626"
+  }
+}

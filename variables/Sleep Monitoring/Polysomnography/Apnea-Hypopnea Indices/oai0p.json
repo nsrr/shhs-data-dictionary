@@ -1,0 +1,14 @@
+{
+  "id": "oai0p",
+  "display_name": "Obstructive Apnea Index - number of [obstructive apneas] per hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "oai_oa0u_f1t2"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "1153"
+  }
+}

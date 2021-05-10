@@ -1,0 +1,17 @@
+{
+  "id": "hi202a",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): Number of days took aspirin",
+  "description": "a. If \"Yes,\" on how many days during the last two weeks did you take this medicine?",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "asa",
+    "acetylsalicylic acid"
+  ],
+  "forms": [
+    "shhs2_health_interview"
+  ],
+  "other": {
+    "order": "1660"
+  }
+}

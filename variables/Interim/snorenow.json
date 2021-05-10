@@ -1,7 +1,0 @@
-{
-  "id": "snorenow",
-  "display_name": "Current snore frequency",
-  "description": "",
-  "type": "choices",
-  "domain": "snore6"
-}

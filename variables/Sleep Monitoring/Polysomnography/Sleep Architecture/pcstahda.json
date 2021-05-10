@@ -1,0 +1,13 @@
+{
+  "id": "pcstahda",
+  "display_name": "Percent of sleep time in Apnea+Hypopnea with greater than >=3% oxygen desaturation or arousal",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_ap0uhp3x3r_f1t2"
+  ],
+  "other": {
+    "order": "1284"
+  }
+}

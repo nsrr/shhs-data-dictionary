@@ -1,0 +1,16 @@
+{
+  "id": "sitafterlunch",
+  "display_name": "Epworth Sleepiness Scale: Chance of dozing while sitting quietly after lunch without alcohol",
+  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=epworth)",
+  "type": "choices",
+  "domain": "nhchan4",
+  "labels": [
+    "interim",
+    "ess7",
+    "epworth",
+    "ess_7afterlunch"
+  ],
+  "other": {
+    "order": "217"
+  }
+}

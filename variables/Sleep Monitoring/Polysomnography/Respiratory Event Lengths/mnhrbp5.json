@@ -1,0 +1,13 @@
+{
+  "id": "mnhrbp5",
+  "display_name": "Minimum Hypopnea length (Rapid eye movement sleep (REM), Supine, >=5% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mindurhp_srpb_hp3x5u_f1t2"
+  ],
+  "other": {
+    "order": "1045"
+  }
+}

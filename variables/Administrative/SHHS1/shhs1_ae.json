@@ -1,0 +1,10 @@
+{
+  "id": "shhs1_ae",
+  "display_name": "Has Sleep Heart Health Study Visit One (SHHS1) Adverse Event form",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "order": "2"
+  }
+}

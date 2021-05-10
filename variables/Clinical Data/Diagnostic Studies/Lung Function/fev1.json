@@ -1,0 +1,14 @@
+{
+  "id": "fev1",
+  "display_name": "Forced Expiratory Volume (FEV 1) (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "in One Second",
+  "type": "numeric",
+  "units": "liters",
+  "labels": [
+    "spirometry"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "330"
+  }
+}

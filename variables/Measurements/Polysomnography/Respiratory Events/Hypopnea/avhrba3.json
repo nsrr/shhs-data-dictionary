@@ -1,7 +1,0 @@
-{
-  "id": "avhrba3",
-  "display_name": "Average Hypopnea length with >=3% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
-  "description": "",
-  "type": "numeric",
-  "units": "seconds"
-}

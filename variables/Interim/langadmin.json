@@ -1,7 +1,0 @@
-{
-  "id": "langadmin",
-  "display_name": "Language in which interview was administered",
-  "description": "",
-  "type": "choices",
-  "domain": "lang6"
-}

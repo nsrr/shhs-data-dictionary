@@ -1,0 +1,18 @@
+{
+  "id": "slpill15",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): Sleeping pills at least 1 day per week",
+  "description": "Do you take sleeping pills at least 1 day per week? 1=Yes; 0=No; 8=Unsure",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "insomnia"
+  ],
+  "forms": [
+    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
+    "shhs1_health_interview_form_framingham",
+    "shhs1_health_interview_form_new_york"
+  ],
+  "other": {
+    "order": "1511"
+  }
+}

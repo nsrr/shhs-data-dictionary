@@ -1,7 +1,0 @@
-{
-  "id": "event",
-  "display_name": "Event type",
-  "description": "",
-  "type": "choices",
-  "domain": "event_type"
-}

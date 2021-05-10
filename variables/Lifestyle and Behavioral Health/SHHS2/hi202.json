@@ -1,0 +1,17 @@
+{
+  "id": "hi202",
+  "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): Aspirin in last 2 weeks",
+  "description": "2. During the last two weeks, did you take any aspirin or aspirin-containing medicines such as Bufferin, Anacin, or Ascriptin?",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "asa",
+    "acetylsalicylic acid"
+  ],
+  "forms": [
+    "shhs2_health_interview"
+  ],
+  "other": {
+    "order": "1659"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "snorenow",
+  "display_name": "Interim Follow-up: Current snore frequency",
+  "description": "",
+  "type": "choices",
+  "domain": "snore6",
+  "labels": [
+    "interim",
+    "sdb"
+  ],
+  "other": {
+    "order": "230"
+  }
+}

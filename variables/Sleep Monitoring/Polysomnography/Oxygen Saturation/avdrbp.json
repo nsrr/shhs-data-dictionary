@@ -1,0 +1,13 @@
+{
+  "id": "avdrbp",
+  "display_name": "Average oxygen desaturation (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avglvlds_srpb_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "425"
+  }
+}

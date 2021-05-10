@@ -1,0 +1,13 @@
+{
+  "id": "avhroa2",
+  "display_name": "Average Hypopnea length with >=2% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avgdurhp_srpo_hp3x2u_f1t2"
+  ],
+  "other": {
+    "order": "967"
+  }
+}

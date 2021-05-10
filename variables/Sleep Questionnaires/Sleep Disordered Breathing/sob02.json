@@ -1,0 +1,16 @@
+{
+  "id": "sob02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Frequency of being awakened with shortness of breath",
+  "description": "In the past year, how often, on average, have you been awakened with shortness of breath?",
+  "type": "choices",
+  "domain": "nevralw5",
+  "labels": [
+    "sdb"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1624"
+  }
+}

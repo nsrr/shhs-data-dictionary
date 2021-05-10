@@ -1,0 +1,13 @@
+{
+  "id": "completeddt_stat",
+  "display_name": "Interim Follow-up: Days from index date to date when status form was completed",
+  "description": "",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "167"
+  }
+}

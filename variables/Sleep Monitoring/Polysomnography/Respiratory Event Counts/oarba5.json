@@ -1,0 +1,13 @@
+{
+  "id": "oarba5",
+  "display_name": "Number of Obstructive Apnea with >=5% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "obstructive apnea events",
+  "labels": [
+    "ttlnumoa_srpb_oa5u_f1t2"
+  ],
+  "other": {
+    "order": "880"
+  }
+}

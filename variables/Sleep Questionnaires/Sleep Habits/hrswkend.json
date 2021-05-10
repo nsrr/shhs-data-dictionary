@@ -1,0 +1,14 @@
+{
+  "id": "hrswkend",
+  "display_name": "Interim Follow-up: self-reported usual hours of sleep on weekends or non-workdays",
+  "description": "",
+  "type": "numeric",
+  "units": "hours",
+  "labels": [
+    "interim",
+    "sleep_duration"
+  ],
+  "other": {
+    "order": "188"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "arnrembp",
+  "display_name": "Number of Arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "arousals",
+  "labels": [
+    "ttlnumrs_snpb_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "343"
+  }
+}

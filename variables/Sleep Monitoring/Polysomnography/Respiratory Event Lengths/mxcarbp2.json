@@ -1,0 +1,13 @@
+{
+  "id": "mxcarbp2",
+  "display_name": "Maximum Central Apnea length (Rapid eye movement sleep (REM), Supine, >=2% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "maxdurca_srpb_ca2u_f1t2"
+  ],
+  "other": {
+    "order": "722"
+  }
+}

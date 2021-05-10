@@ -1,0 +1,10 @@
+{
+  "id": "maxresou",
+  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Long respiratory events verified",
+  "description": "If a respiratory event greater than 150 seconds in duration was observed, scorer has verified that this value is real.",
+  "type": "choices",
+  "domain": "yesnon",
+  "other": {
+    "order": "1227"
+  }
+}

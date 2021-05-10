@@ -1,0 +1,16 @@
+{
+  "id": "skrctnae",
+  "display_name": "Adverse Events (Sleep Heart Health Study Visit One (SHHS1)): Skin reaction?",
+  "description": "Skin reaction?",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "rash"
+  ],
+  "forms": [
+    "shhs1_adverse_events_form"
+  ],
+  "other": {
+    "order": "1484"
+  }
+}

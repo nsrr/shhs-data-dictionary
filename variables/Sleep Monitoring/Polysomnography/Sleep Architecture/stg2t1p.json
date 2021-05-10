@@ -1,0 +1,13 @@
+{
+  "id": "stg2t1p",
+  "display_name": "Number of stage 2 to stage 1 shifts during sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "stage shifts",
+  "labels": [
+    "ttlnumsf_s2s1_f1t2"
+  ],
+  "other": {
+    "order": "1309"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "htnderv_s2",
+  "display_name": "Hypertension (HTN) (Sleep Heart Health Study Visit Two (SHHS2))",
+  "description": "Derived hypertension (HTN) classification (based on blood pressure measurements, history of hypertension (HTN) dx, and medication use)",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "high"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "1343"
+  }
+}

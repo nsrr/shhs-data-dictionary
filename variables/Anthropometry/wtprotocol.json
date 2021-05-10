@@ -1,0 +1,13 @@
+{
+  "id": "wtprotocol",
+  "display_name": "Interim Follow-up: Protocol used to measure weight",
+  "description": "",
+  "type": "choices",
+  "domain": "protocol",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "255"
+  }
+}

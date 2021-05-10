@@ -1,0 +1,14 @@
+{
+  "id": "trig",
+  "display_name": "Triglycerides",
+  "description": "",
+  "type": "numeric",
+  "units": "milligrams per deciliter",
+  "labels": [
+    "mg/dl"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "296"
+  }
+}

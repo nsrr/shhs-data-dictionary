@@ -1,0 +1,13 @@
+{
+  "id": "oardnop",
+  "display_name": "Obstructive Apnea per hour (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumoa_snpo_oa0u_f1t2"
+  ],
+  "other": {
+    "order": "901"
+  }
+}

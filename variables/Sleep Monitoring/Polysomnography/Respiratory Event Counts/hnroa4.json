@@ -1,0 +1,13 @@
+{
+  "id": "hnroa4",
+  "display_name": "Number of Hypopnea with >=4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "ttlnumhp_snpo_hp3x4u_f1t2"
+  ],
+  "other": {
+    "order": "989"
+  }
+}

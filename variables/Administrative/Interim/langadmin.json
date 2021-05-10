@@ -1,0 +1,13 @@
+{
+  "id": "langadmin",
+  "display_name": "Interim Follow-up: Language in which interview was administered",
+  "description": "",
+  "type": "choices",
+  "domain": "lang6",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "190"
+  }
+}

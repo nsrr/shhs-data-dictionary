@@ -1,0 +1,16 @@
+{
+  "id": "neck20",
+  "display_name": "Neck Circumference (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Neck circumference in centimeters",
+  "type": "numeric",
+  "units": "centimeters",
+  "labels": [
+    "cm"
+  ],
+  "forms": [
+    "shhs1_seated_bp_weight_neck_circumference_form"
+  ],
+  "other": {
+    "order": "264"
+  }
+}

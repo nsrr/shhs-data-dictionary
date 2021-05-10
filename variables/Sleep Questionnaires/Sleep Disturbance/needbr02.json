@@ -1,0 +1,16 @@
+{
+  "id": "needbr02",
+  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Frequency of being awakened with need to go to bathroom",
+  "description": "In the past year, how often, on average, have you been awakened with the need to go to the bathroom?",
+  "type": "choices",
+  "domain": "nevralw5",
+  "labels": [
+    "nocturia"
+  ],
+  "forms": [
+    "shhs1_sleep_habits_questionnaire"
+  ],
+  "other": {
+    "order": "1617"
+  }
+}

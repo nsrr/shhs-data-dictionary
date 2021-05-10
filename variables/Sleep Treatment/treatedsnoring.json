@@ -1,0 +1,15 @@
+{
+  "id": "treatedsnoring",
+  "display_name": "Interim Follow-up: Treated for snoring since sleep study",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "cpap",
+    "continuous positive airway pressure",
+    "interim"
+  ],
+  "other": {
+    "order": "249"
+  }
+}

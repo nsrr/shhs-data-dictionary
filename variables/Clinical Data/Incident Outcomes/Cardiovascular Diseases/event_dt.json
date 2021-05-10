@@ -1,0 +1,13 @@
+{
+  "id": "event_dt",
+  "display_name": "Days from baseline to first myocardial infarction (MI) or stroke",
+  "description": "",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "heart attack"
+  ],
+  "other": {
+    "order": "42"
+  }
+}

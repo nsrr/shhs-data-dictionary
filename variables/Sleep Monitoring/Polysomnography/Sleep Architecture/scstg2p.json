@@ -1,0 +1,13 @@
+{
+  "id": "scstg2p",
+  "display_name": "Time in stage 2 sleep (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_s2_f1t2"
+  ],
+  "other": {
+    "order": "1303"
+  }
+}

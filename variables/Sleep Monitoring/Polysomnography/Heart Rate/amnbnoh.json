@@ -1,0 +1,13 @@
+{
+  "id": "amnbnoh",
+  "display_name": "Minimum Heart Rate with arousal (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "minlvlhr_snsopo_dsgt0_f1t2"
+  ],
+  "other": {
+    "order": "352"
+  }
+}

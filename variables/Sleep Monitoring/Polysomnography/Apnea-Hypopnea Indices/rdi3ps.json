@@ -1,0 +1,13 @@
+{
+  "id": "rdi3ps",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) (Supine) at >=3% oxygen desaturation",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_pb_ap3uhp3x3u_f1t2"
+  ],
+  "other": {
+    "order": "1167"
+  }
+}

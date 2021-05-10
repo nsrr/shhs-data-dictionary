@@ -1,0 +1,14 @@
+{
+  "id": "sf_s1",
+  "display_name": "Short Form 36 Health Survey (SF-36) Calculated (Sleep Heart Health Study Visit One (SHHS1)): Social Functioning Standardized Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "sf36",
+    "qol",
+    "quality of life"
+  ],
+  "other": {
+    "order": "1595"
+  }
+}

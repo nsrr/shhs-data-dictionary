@@ -1,0 +1,14 @@
+{
+  "id": "fallasleeptrouble",
+  "display_name": "Interim Follow-up: Trouble falling asleep",
+  "description": "",
+  "type": "choices",
+  "domain": "nevalw",
+  "labels": [
+    "insomnia",
+    "interim"
+  ],
+  "other": {
+    "order": "175"
+  }
+}

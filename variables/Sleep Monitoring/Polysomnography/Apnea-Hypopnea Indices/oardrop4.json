@@ -1,0 +1,13 @@
+{
+  "id": "oardrop4",
+  "display_name": "Obstructive Apnea per hour (Rapid eye movement sleep (REM), Non-supine, >=4% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumoa_srpo_oa4u_f1t2"
+  ],
+  "other": {
+    "order": "924"
+  }
+}

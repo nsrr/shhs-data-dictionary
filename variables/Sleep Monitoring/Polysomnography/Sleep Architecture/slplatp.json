@@ -1,0 +1,14 @@
+{
+  "id": "slplatp",
+  "display_name": "Sleep latency",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "slp_lat",
+    "ttllatsp_f1t2"
+  ],
+  "other": {
+    "order": "1306"
+  }
+}

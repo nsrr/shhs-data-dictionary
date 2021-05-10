@@ -1,0 +1,14 @@
+{
+  "id": "systbp",
+  "display_name": "Average Systolic blood pressure (BP) (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Seated Systolic Blood Pressure (BP) (Average of two measurements)",
+  "type": "numeric",
+  "units": "millimeters of mercury",
+  "labels": [
+    "mmhg"
+  ],
+  "commonly_used": true,
+  "other": {
+    "order": "293"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sastopdrinking",
+  "display_name": "Interim Follow-up: Treatment prescribed - reduce or stop drinking",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "interim"
+  ],
+  "other": {
+    "order": "214"
+  }
+}

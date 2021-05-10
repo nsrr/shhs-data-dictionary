@@ -1,0 +1,19 @@
+{
+  "id": "copd15",
+  "display_name": "History of chronic obstructive pulmonary disease (COPD) (Sleep Heart Health Study Visit One (SHHS1))",
+  "description": "Doctor of Medicine (MD) said participant had chronic obstructive pulmonary disease (COPD)?",
+  "type": "choices",
+  "domain": "yesnod",
+  "labels": [
+    "bronchitis",
+    "emphysema"
+  ],
+  "forms": [
+    "shhs1_health_interview_form_aric_chs_tucson_strong_heart",
+    "shhs1_health_interview_form_framingham",
+    "shhs1_health_interview_form_new_york"
+  ],
+  "other": {
+    "order": "1331"
+  }
+}

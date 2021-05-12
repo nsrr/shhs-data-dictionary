@@ -139,6 +139,10 @@ data shhs1;
   rename stroke = prev_hx_stroke;
   rename mi = prev_hx_mi;
 
+  *convert remlaip and remlaiip from seconds to minutes;
+  remlaip = remlaip / 60;
+  remlaiip = remlaiip / 60;
+
   if yrssnr02 > 87 then yrssnr02 = .; /* should remove values of 88 or above */
   if mi2slp02 = 9999 then mi2slp02 = .;
   if minfa10 = 9999 then minfa10 = .;

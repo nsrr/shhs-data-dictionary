@@ -1,7 +1,7 @@
 {
   "id": "slpprdp",
   "display_name": "Total Sleep Duration: the interval between sleep onset and sleep offset while the participant is asleep from type II polysomnography",
-  "description": "Conventionally this variable would be called total sleep time (TST)(i.e. total time spent in stage 1 or greater).",
+  "description": "Conventionally this variable would be called total sleep time (TST) (i.e. total time spent in stage 1 or greater).",
   "type": "numeric",
   "units": "minutes",
   "labels": [

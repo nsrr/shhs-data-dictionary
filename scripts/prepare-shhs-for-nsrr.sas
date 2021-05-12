@@ -781,11 +781,11 @@ data shhs1;
   cent_obs_ratioa = (carba + caroa + canba + canoa) /
                     (oarba + oaroa + oanba + oanoa);
 
-  drop 
-    uenrbp--UEROP5A 
-    repsgpptid 
-    responqa 
-    blpsgdate 
+  drop
+    uenrbp--UEROP5A
+    repsgpptid
+    responqa
+    blpsgdate
     permiss
     ecgdt
     /* removed duplicate variables for 0.16.0 */
@@ -805,6 +805,7 @@ data shhs1;
     timest2p
     slptime
     minremp
+    scremp
     /* end set of removed vairables for 0.16.0 */
     ;
 run;
@@ -1554,9 +1555,9 @@ data shhs2;
   cent_obs_ratioa = (carba + caroa + canba + canoa) /
                     (oarba + oaroa + oanba + oanoa);
 
-  drop 
-    repsgpptid 
-    responqa 
+  drop
+    repsgpptid
+    responqa
     permiss
     /* removed duplicate variables for 0.16.0 */
     oahi
@@ -1643,7 +1644,7 @@ data shhs_cvd_summary;
 
   if permiss = 1;
 
-  drop 
+  drop
     omni blpsgdate permiss stent_date /* stent_date is removed because there is no data */
     ca15 cabg15 stroke15 mi15 /* baseline prevalent conditions exist in shhs1 and do not need to be duplicated */;
 

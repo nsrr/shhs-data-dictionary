@@ -4,6 +4,7 @@
   "description": "Total time scored as stage 3/4 rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",
+  "calculation": "mnstg34p",
   "labels": [
     "ttldursp_s3_f1t2"
   ]

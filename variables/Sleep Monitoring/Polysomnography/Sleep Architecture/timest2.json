@@ -4,6 +4,7 @@
   "description": "Total time scored as stage 2 rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",
+  "calculation": "minstg2p",
   "labels": [
     "ttldursp_s2_f1t2"
   ]

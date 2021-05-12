@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "percent",
+  "calculation": "100 * ( remepbp + nremepbp ) / slpprdp",
   "labels": [
     "pctdursp_pb_f1t2"
   ],

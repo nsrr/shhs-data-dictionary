@@ -4,6 +4,7 @@
   "description": "Percent of sleep time in non-supine body position",
   "type": "numeric",
   "units": "percent",
+  "calculation": "100 * ( remepop + nremepop ) / slpprdp",
   "labels": [
     "pctdursp_po_f1t2"
   ],

@@ -4,6 +4,7 @@
   "description": "The minimum of all oxygen saturation values in epochs scored as stage REM.",
   "type": "numeric",
   "units": "percent",
+  "calculation": "mnsao2rh",
   "labels": [
     "minlvlsa_sr_f1t2"
   ]

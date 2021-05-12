@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "events per hour",
+  "calculation": "60 * ( hremba3 + hroa3 + hnrba3 + hnroa3 + carba3 + caroa3 + canba3 + canoa3 + oarba3 + oaroa3 + oanba3 + oanoa3 ) / slpprdp",
   "labels": [
     "ahi_ap3rhp3x3r_f1t2"
   ],

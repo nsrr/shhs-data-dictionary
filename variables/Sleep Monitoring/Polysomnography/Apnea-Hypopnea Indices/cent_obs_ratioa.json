@@ -3,6 +3,7 @@
   "display_name": "Central/Obstructive Apnea ratio at all desaturations with an arousal",
   "description": "",
   "type": "numeric",
+  "calculation": "(carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa)",
   "labels": [
     "ratnumap_ca0r_oa0r_f1t2"
   ]

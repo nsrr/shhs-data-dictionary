@@ -4,6 +4,7 @@
   "description": "Total amount of time spent awake after going to sleep",
   "type": "numeric",
   "units": "minutes",
+  "calculation": "timebedp - slpprdp - slplatp",
   "labels": [
     "ttldurws_f1t2"
   ],

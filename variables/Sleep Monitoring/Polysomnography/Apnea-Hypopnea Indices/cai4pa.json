@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "events per hour",
+  "calculation": "60 * ( carba4 + caroa4 + canba4 + canoa4 ) / slpprdp",
   "labels": [
     "cai_ca4r_f1t2"
   ]

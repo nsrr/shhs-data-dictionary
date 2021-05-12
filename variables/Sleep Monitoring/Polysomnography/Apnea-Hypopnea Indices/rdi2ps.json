@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "events per hour",
+  "calculation": "60 * ( hrembp2 + hnrbp2 + carbp2 + canbp2 + oarbp2 + oanbp2 ) / ( remepbp + nremepbp )",
   "labels": [
     "ahi_pb_ap2uhp3x2u_f1t2"
   ]

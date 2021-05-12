@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "events per hour",
+  "calculation": "60 * ( oarbp +  oarop  + oanbp  + oanop ) / slpprdp",
   "labels": [
     "oai_oa0u_f1t2"
   ],

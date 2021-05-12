@@ -4,6 +4,7 @@
   "description": "Total time scored as rapid eye movement sleep (REM) rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",
+  "calculation": "minremp",
   "labels": [
     "minremp",
     "ttldursp_sr_f1t2"

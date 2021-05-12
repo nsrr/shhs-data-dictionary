@@ -7,5 +7,6 @@
   "labels": [
     "slp_eff",
     "ttleffsp_f1t2"
-  ]
+  ],
+  "commonly_used": true
 }

@@ -1,5 +1,8 @@
 ## 0.16.0
 
+- Revise variable folder structure
+- Remove duplicate/confusing polysomnography variables
+
 ## 0.15.0 (November 18, 2019)
 
 - Remove EEG spectral summary variables

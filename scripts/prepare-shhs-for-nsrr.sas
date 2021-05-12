@@ -777,7 +777,32 @@ data shhs1;
   cent_obs_ratioa = (carba + caroa + canba + canoa) /
                     (oarba + oaroa + oanba + oanoa);
 
-  drop uenrbp--UEROP5A repsgpptid responqa blpsgdate permiss ecgdt;
+  drop 
+    uenrbp--UEROP5A 
+    repsgpptid 
+    responqa 
+    blpsgdate 
+    permiss
+    ecgdt
+    /* removed duplicate variables for 0.16.0 */
+    oahi
+    pctlt75
+    pctlt80
+    pctlt85
+    pctlt90
+    slp_eff
+    slp_lat
+    slp_rdi
+    slp_time
+    time_bed
+    timeremp
+    times34p
+    timest1p
+    timest2p
+    slptime
+    minremp
+    /* end set of removed vairables for 0.16.0 */
+    ;
 run;
 
 proc sort data=s1_psgqual;
@@ -1525,7 +1550,29 @@ data shhs2;
   cent_obs_ratioa = (carba + caroa + canba + canoa) /
                     (oarba + oaroa + oanba + oanoa);
 
-  drop repsgpptid responqa permiss;
+  drop 
+    repsgpptid 
+    responqa 
+    permiss
+    /* removed duplicate variables for 0.16.0 */
+    oahi
+    pctlt75
+    pctlt80
+    pctlt85
+    pctlt90
+    slp_eff
+    slp_lat
+    slp_rdi
+    slp_time
+    time_bed
+    timeremp
+    times34p
+    timest1p
+    timest2p
+    slptime
+    minremp
+    /* end set of removed vairables for 0.16.0 */
+    ;
 run;
 
 proc sort data=shhs2;
@@ -1592,7 +1639,8 @@ data shhs_cvd_summary;
 
   if permiss = 1;
 
-  drop omni blpsgdate permiss stent_date /* stent_date is removed because there is no data */
+  drop 
+    omni blpsgdate permiss stent_date /* stent_date is removed because there is no data */
     ca15 cabg15 stroke15 mi15 /* baseline prevalent conditions exist in shhs1 and do not need to be duplicated */;
 
 run;

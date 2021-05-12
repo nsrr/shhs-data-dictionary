@@ -5,10 +5,7 @@
   "type": "choices",
   "domain": "visitnumber",
   "labels": [
-    "one",
-    "two",
-    "2",
-    "1"
+    "timepoint"
   ],
   "commonly_used": true
 }

@@ -1,11 +1,13 @@
 {
-  "id": "tmstg1p",
+  "id": "timest1p",
   "display_name": "Percent of sleep time in stage 1 sleep",
   "description": "",
   "type": "numeric",
   "units": "percent",
+  "calculation": "tmstg1p",
   "labels": [
-    "timest1p",
-    "pctdursp_s1_f1t2"
-  ]
+    "pctdursp_s1_f1t2",
+    "n1"
+  ],
+  "commonly_used": true
 }

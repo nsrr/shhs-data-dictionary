@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "minutes",
   "labels": [
-    "ttlprdsp_s1sr_f1t2"
+    "ttlprdsp_s1sr_f1t2",
+    "rem_lat1"
   ]
 }

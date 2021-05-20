@@ -799,13 +799,20 @@ data shhs1;
     slp_rdi
     slp_time
     time_bed
-    timeremp
-    times34p
-    timest1p
-    timest2p
+    tmremp
+    tmstg34p
+    tmstg1p
+    tmstg2p
     slptime
     minremp
+    minstg1p
+    minstg2p
+    mnstg34p
     scremp
+    scstg1p
+    scstg2p
+    scstg34p
+    rem_lat1
     /* end set of removed vairables for 0.16.0 */
     ;
 run;
@@ -1570,12 +1577,16 @@ data shhs2;
     slp_rdi
     slp_time
     time_bed
-    timeremp
-    times34p
-    timest1p
-    timest2p
+    tmremp
+    tmstg34p
+    tmstg1p
+    tmstg2p
     slptime
     minremp
+    minstg1p
+    minstg2p
+    mnstg34p
+    rem_lat1
     /* end set of removed vairables for 0.16.0 */
     ;
 run;

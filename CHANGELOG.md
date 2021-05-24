@@ -4,7 +4,7 @@
 - Remove duplicate/confusing polysomnography variables
 - Fix units from REM latency variables in SHHS1
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.16.0.pre\`
+  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.16.0.beta1\`
 
 ## 0.15.0 (November 18, 2019)
 

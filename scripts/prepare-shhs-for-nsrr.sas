@@ -23,7 +23,7 @@
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
   libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
-  %let release = 0.16.0.pre;
+  %let release = 0.16.0.beta1;
 
 *******************************************************************************;
 * pull in source data ;
@@ -142,6 +142,13 @@ data shhs1;
   *convert remlaip and remlaiip from seconds to minutes;
   remlaip = remlaip / 60;
   remlaiip = remlaiip / 60;
+
+  *calculate minsat and avgsat;
+  avgsat = ( ( avsao2nh ) * ( tmstg1p + tmstg2p + tmstg34p ) + ( avsao2rh ) * ( tmremp ) ) / 100;
+  *avgsat = ( ( avsao2nh ) * ( timest1p + timest2p + times34p ) + ( avsao2rh ) * ( timeremp ) ) / 100;
+  if mnsao2rh le 0 then mnsao2rh = .;
+  if mnsao2nh le 0 then mnsao2nh = .;
+  minsat = min(mnsao2rh,mnsao2nh);
 
   if yrssnr02 > 87 then yrssnr02 = .; /* should remove values of 88 or above */
   if mi2slp02 = 9999 then mi2slp02 = .;

@@ -6,7 +6,7 @@
   "units": "hours",
   "labels": [
     "avgprdsp_w2_f3",
-    "sleep_habits_questionnaire"
+    "sleep_habits_questionnaire_shhs"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "yesnod",
   "labels": [
-    "interim",
+    "interim_shhs",
     "sdb"
   ]
 }

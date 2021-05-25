@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "naps",
   "labels": [
-    "interim",
+    "interim_shhs",
     "sleep_hygiene"
   ]
 }

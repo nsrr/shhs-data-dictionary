@@ -6,7 +6,7 @@
   "domain": "noyes01",
   "labels": [
     "alzheimers",
-    "medication_form"
+    "medication_form_shhs"
   ],
   "forms": [
     "shhs2_medication_form"

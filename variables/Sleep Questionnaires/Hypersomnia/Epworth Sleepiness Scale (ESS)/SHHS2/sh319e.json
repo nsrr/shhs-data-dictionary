@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "sleep_habits_questionnaire",
+    "sleep_habits_questionnaire_shhs",
     "ess5",
     "ess_5lyingdown",
     "epworth"

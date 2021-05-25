@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "protocol",
   "labels": [
-    "interim"
+    "interim_shhs"
   ]
 }

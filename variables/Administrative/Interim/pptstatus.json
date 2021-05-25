@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "status",
   "labels": [
-    "interim"
+    "interim_shhs"
   ]
 }

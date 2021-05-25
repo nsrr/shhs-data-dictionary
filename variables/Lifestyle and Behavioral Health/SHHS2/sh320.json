@@ -6,7 +6,7 @@
   "domain": "noyes01",
   "labels": [
     "smoking",
-    "sleep_habits_questionnaire"
+    "sleep_habits_questionnaire_shhs"
   ],
   "forms": [
     "shhs2_sleep_habits_questionnaire"

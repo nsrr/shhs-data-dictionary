@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "restlf5",
   "labels": [
-    "morning_survey_form"
+    "morning_survey_form_shhs"
   ],
   "forms": [
     "shhs2_morning_survey_form"

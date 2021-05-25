@@ -5,7 +5,7 @@
   "type": "integer",
   "calculation": "sum(sitread-1,watchtv-1,sitpublic-1,ridecar-1,resting-1,sittalk-1,sitafterlunch-1,stoppedcar-1)",
   "labels": [
-    "interim",
+    "interim_shhs",
     "epworth",
     "ess_total"
   ]

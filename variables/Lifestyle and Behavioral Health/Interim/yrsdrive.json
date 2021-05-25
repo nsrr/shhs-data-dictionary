@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "years",
   "labels": [
-    "interim"
+    "interim_shhs"
   ]
 }

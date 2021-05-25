@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "car accidents",
   "labels": [
-    "interim"
+    "interim_shhs"
   ]
 }

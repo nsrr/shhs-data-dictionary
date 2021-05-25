@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "administered",
   "labels": [
-    "interim"
+    "interim_shhs"
   ]
 }

@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "csize",
   "labels": [
-    "interim"
+    "interim_shhs"
   ]
 }

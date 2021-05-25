@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "noyes01",
   "labels": [
-    "adverse_events_form"
+    "adverse_events_form_shhs"
   ],
   "forms": [
     "shhs1_adverse_events_form"

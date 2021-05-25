@@ -6,7 +6,7 @@
   "domain": "noyes01",
   "labels": [
     "rash",
-    "adverse_events_form"
+    "adverse_events_form_shhs"
   ],
   "forms": [
     "shhs1_adverse_events_form"

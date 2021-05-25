@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "reasonrefused",
   "labels": [
-    "interim"
+    "interim_shhs"
   ]
 }

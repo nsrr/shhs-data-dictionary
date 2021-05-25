@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "weight",
   "labels": [
-    "interim"
+    "interim_shhs"
   ]
 }

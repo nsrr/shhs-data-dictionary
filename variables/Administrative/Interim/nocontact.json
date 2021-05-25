@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "nocontactreason",
   "labels": [
-    "interim"
+    "interim_shhs"
   ]
 }

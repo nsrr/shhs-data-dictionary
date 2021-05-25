@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "wrsbet5",
   "labels": [
-    "health_interview"
+    "health_interview_shhs"
   ],
   "forms": [
     "shhs2_health_interview"

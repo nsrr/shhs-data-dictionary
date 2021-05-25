@@ -4,6 +4,6 @@
   "description": "Units are not consistent across observations; use [wtunits](https://sleepdata.org/datasets/shhs/variables/wtunits) to determine proper unit.",
   "type": "numeric",
   "labels": [
-    "interim"
+    "interim_shhs"
   ]
 }

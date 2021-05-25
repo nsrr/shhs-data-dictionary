@@ -6,6 +6,6 @@
   "units": "days from index date",
   "labels": [
     "heart attack",
-    "interim"
+    "interim_shhs"
   ]
 }

@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "snore6",
   "labels": [
-    "interim",
+    "interim_shhs",
     "sdb"
   ]
 }

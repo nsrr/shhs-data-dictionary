@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "nevrusu3",
   "labels": [
-    "sleep_habits_questionnaire"
+    "sleep_habits_questionnaire_shhs"
   ],
   "forms": [
     "shhs1_sleep_habits_questionnaire"

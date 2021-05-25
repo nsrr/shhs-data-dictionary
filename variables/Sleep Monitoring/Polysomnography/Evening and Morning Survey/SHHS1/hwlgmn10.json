@@ -6,7 +6,7 @@
   "units": "minutes",
   "labels": [
     "duration",
-    "morning_survey_form"
+    "morning_survey_form_shhs"
   ],
   "forms": [
     "shhs1_morning_survey_form"

@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "hours",
   "labels": [
-    "interim"
+    "interim_shhs"
   ]
 }

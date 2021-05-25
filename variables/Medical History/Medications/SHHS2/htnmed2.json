@@ -6,7 +6,7 @@
   "domain": "noyes01",
   "labels": [
     "hypertension",
-    "medication_form"
+    "medication_form_shhs"
   ],
   "commonly_used": true,
   "forms": [

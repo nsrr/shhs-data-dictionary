@@ -6,7 +6,7 @@
   "units": "cigarettes",
   "labels": [
     "smoking",
-    "health_interview"
+    "health_interview_shhs"
   ],
   "forms": [
     "shhs1_health_interview_form_new_york"

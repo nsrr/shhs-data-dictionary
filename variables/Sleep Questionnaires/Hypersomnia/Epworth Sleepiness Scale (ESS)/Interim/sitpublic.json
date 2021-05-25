@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "nhchan4",
   "labels": [
-    "interim",
+    "interim_shhs",
     "ess3",
     "epworth",
     "ess_3sitinactive"

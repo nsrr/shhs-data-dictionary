@@ -6,7 +6,7 @@
   "units": "drinks",
   "labels": [
     "alcohol",
-    "morning_survey_form"
+    "morning_survey_form_shhs"
   ],
   "forms": [
     "shhs2_morning_survey_form"

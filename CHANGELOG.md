@@ -1,10 +1,10 @@
-## 0.16.0
+## 0.16.0 (June 8, 2021)
 
 - Revise variable folder structure
 - Remove duplicate/confusing polysomnography variables
 - Fix units from REM latency variables in SHHS1
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.16.0.beta2\`
+  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.16.0\`
 
 ## 0.15.0 (November 18, 2019)
 

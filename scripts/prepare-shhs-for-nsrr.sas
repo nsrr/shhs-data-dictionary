@@ -23,7 +23,7 @@
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
   libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
-  %let release = 0.16.0.beta1;
+  %let release = 0.16.0.beta2;
 
 *******************************************************************************;
 * pull in source data ;
@@ -820,7 +820,11 @@ data shhs1;
     scstg2p
     scstg34p
     rem_lat1
-    /* end set of removed vairables for 0.16.0 */
+    losao2nr
+    losao2r
+    sao2nrem
+    sao2rem
+    /* end set of removed variables for 0.16.0 */
     ;
 run;
 
@@ -1594,6 +1598,10 @@ data shhs2;
     minstg2p
     mnstg34p
     rem_lat1
+    losao2nr
+    losao2r
+    sao2nrem
+    sao2rem
     /* end set of removed vairables for 0.16.0 */
     ;
 run;

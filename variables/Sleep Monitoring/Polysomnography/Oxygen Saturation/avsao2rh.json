@@ -1,10 +1,11 @@
 {
   "id": "avsao2rh",
-  "display_name": "Average oxygen saturation (SaO2)% during Rapid eye movement sleep (REM)",
-  "description": "",
+  "display_name": "Average oxygen saturation (SaO2) in rapid eye movement sleep (REM)",
+  "description": "The mean of all oxygen saturation (SaO2) values in epochs scored as stage REM (Rapid eye movement sleep).",
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "avglvlsa_sr_f1t2"
+    "avglvlsa_sr_f1t2",
+    "sao2rem"
   ]
 }

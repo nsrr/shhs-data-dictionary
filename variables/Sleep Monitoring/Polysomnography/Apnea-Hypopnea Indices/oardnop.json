@@ -1,10 +1,10 @@
 {
   "id": "oardnop",
-  "display_name": "Obstructive Apnea per hour (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "display_name": "Obstructive Apnea Index (NREM, Non-Supine): (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal) / hour of NREM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumoa_snpo_oa0u_f1t2"
+    "oai_snpo_oa0u_f1t2"
   ]
 }

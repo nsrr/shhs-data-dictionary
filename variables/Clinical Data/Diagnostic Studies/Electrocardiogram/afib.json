@@ -1,6 +1,6 @@
 {
   "id": "afib",
-  "display_name": "Atrial Fibrillation or Flutter",
+  "display_name": "Anterolateral myocardial infarction (MI)",
   "description": "Minnesota (MN) code 8-3-1 or 8-3-2. Data derived from standard resting 12-lead electrocardiogram (ECG) with the participant supine. Records were interpreted and Minnesota (MN) codes were provided by clinical cardiologists.",
   "type": "choices",
   "domain": "noyes01",

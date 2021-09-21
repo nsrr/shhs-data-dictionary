@@ -1,7 +1,7 @@
 {
   "id": "stonsetp",
-  "display_name": "Sleep onset time",
-  "description": "",
+  "display_name": "Sleep onset time from type II polysomnography",
+  "description": "Conventionally this variable would be called the start of total sleep time (TST)(i.e. total time spent in stage 1 or greater).",
   "type": "time",
   "labels": [
     "begtimsp_f1t2"

@@ -1,10 +1,10 @@
 {
   "id": "mxcaroa5",
-  "display_name": "Maximum Central Apnea length with >=5% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "display_name": "Maximum duration of central apnea in REM sleep in non-supine position: central apneas with >= 5% oxygen desaturation threshold used or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "maxdurca_srpo_ca5u_f1t2"
+    "maxdurca_srpo_ca5r_f1t2"
   ]
 }

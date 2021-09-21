@@ -1,7 +1,7 @@
 {
   "id": "sh319c",
-  "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Fall asleep while sitting inactive in a public place",
-  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=epworth)<br><br>Original question: 19. What is the chance that you would doze off or fall asleep (not just \"feel tired\") in each of the following situations? (Check one box for each situation.  If you are never or rarely in the situation, please give your best guess for what would happen.) c. Sitting inactive in a public place (such as a theater or a meeting).",
+  "display_name": "Epworth Sleepiness Scale: Chance of dozing while sitting, inactive in a public place",
+  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/abc/variables?search=epworth)",
   "type": "choices",
   "domain": "nhchan4",
   "labels": [

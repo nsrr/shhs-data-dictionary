@@ -1,10 +1,10 @@
 {
   "id": "hnroa5",
-  "display_name": "Number of Hypopnea with >=5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "display_name": "Total number of hypopnea in NREM sleep in non-supine position: hypopneas with >= 5% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "hypopnea events",
   "labels": [
-    "ttlnumhp_snpo_hp3x5u_f1t2"
+    "ttlnumhp_snpo_hp3x5r_f1t2"
   ]
 }

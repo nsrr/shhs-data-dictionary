@@ -1,6 +1,6 @@
 {
   "id": "rdinr3p",
-  "display_name": "Overall Respiratory Disturbance Index (RDI) (Non-rapid eye movement sleep (NREM)) at >=3% oxygen desaturation",
+  "display_name": "Apnea-Hypopnea Index (NREM): Apneas with >= 3% oxygen desaturation and with or without arousal+ hypopneas with > 30% flow reduction and with >= 3% oxygen desaturation and with or without arousal / hour of NREM sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

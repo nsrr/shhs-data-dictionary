@@ -1,10 +1,10 @@
 {
   "id": "davbnoh",
-  "display_name": "Average Heart Rate with arousal (Non-rapid eye movement sleep (NREM), Non-supine, >=3% oxygen desaturation)",
+  "display_name": "Average heart rate with oxygen desaturation >3% and with arousal during NREM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "avglvlhr_snsopo_dsge3_f1t2"
+    "avglvlhr_snsopo_dsgt3_f1t2"
   ]
 }

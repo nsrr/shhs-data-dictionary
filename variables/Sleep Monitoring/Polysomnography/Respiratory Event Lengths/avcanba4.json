@@ -1,10 +1,10 @@
 {
   "id": "avcanba4",
-  "display_name": "Average Central Apnea length with >=4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "display_name": "Average duration of central apnea in NREM sleep in supine position: central apneas with >= 4% oxygen desaturation threshold used or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "avgdurca_snpb_ca4u_f1t2"
+    "avgdurca_snpb_ca4r_f1t2"
   ]
 }

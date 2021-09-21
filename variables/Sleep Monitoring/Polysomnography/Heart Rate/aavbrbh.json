@@ -1,10 +1,10 @@
 {
   "id": "aavbrbh",
-  "display_name": "Average Heart Rate with arousal (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Average heart rate with arousal during REM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "avglvlhr_srsopb_dsgt0_f1t2"
+    "avglvlhr_srsopb_f1t2"
   ]
 }

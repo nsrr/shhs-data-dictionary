@@ -1,6 +1,6 @@
 {
   "id": "mncanbp5",
-  "display_name": "Minimum Central Apnea length (Non-rapid eye movement sleep (NREM), Supine, >=5% oxygen desaturation)",
+  "display_name": "Minimum duration of central apnea in NREM sleep in supine position: central apneas with >= 5% oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

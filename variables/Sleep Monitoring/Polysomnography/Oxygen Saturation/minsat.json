@@ -1,6 +1,6 @@
 {
   "id": "minsat",
-  "display_name": "Minimum oxygen saturation (SaO2) in sleep",
+  "display_name": "Minimum oxygen saturation during total sleep duration from type II polysomnography",
   "description": "Lowest oxygen saturation (SaO2)% during sleep",
   "type": "numeric",
   "units": "percent",

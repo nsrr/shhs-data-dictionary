@@ -1,6 +1,6 @@
 {
   "id": "rdi5ps",
-  "display_name": "Overall Respiratory Disturbance Index (RDI) (Supine) at >=5% oxygen desaturation",
+  "display_name": "Apnea-Hypopnea Index (Supine): Apneas with >=5% oxygen desaturation and with or without arousal+ hypopneas with > 30% flow reduction and >=5% oxygen desaturation and with or without arousal / hour of sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

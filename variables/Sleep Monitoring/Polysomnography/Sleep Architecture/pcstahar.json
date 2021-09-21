@@ -1,6 +1,6 @@
 {
   "id": "pcstahar",
-  "display_name": "Percent of sleep time in Apnea or Hypopnea with arousal",
+  "display_name": "Percentage duration of sleep ###NO_MATCH### from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

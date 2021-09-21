@@ -1,6 +1,6 @@
 {
   "id": "pctstapn",
-  "display_name": "Percent of sleep time in Apnea",
+  "display_name": "Percentage of total sleep duration with apneas with no oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

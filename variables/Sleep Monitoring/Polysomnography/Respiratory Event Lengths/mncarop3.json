@@ -1,6 +1,6 @@
 {
   "id": "mncarop3",
-  "display_name": "Minimum Central Apnea length (Rapid eye movement sleep (REM), Non-supine, >=3% oxygen desaturation)",
+  "display_name": "Minimum duration of central apnea in REM sleep in non-supine position: central apneas with >= 3% oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

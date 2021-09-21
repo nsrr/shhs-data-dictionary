@@ -1,6 +1,6 @@
 {
   "id": "smxbnoh",
-  "display_name": "Maximum Heart Rate (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "display_name": "Maximum heart rate with oxygen desaturation > 0% during NREM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",

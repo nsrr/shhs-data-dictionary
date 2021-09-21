@@ -1,0 +1,10 @@
+{
+  "id": "formdate_ql",
+  "display_name": "Medical Outcomes Study SF-36: Date completed",
+  "description": "Date of Quality of Life (QOL) form",
+  "type": "numeric",
+  "units": "days from index date",
+  "labels": [
+    "quality of life"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "timeremp",
-  "display_name": "Percent of sleep time in rapid eye movement sleep (REM)",
+  "display_name": "Percentage of total sleep duration in REM from type II polysomnography",
   "description": "The ratio of time in rapid eye movement sleep (REM) to total sleep time, expressed as a percentage.",
   "type": "numeric",
   "units": "percent",

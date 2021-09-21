@@ -1,6 +1,6 @@
 {
   "id": "canop3",
-  "display_name": "Number of Central Apnea (Non-rapid eye movement sleep (NREM), Non-supine, >=3% oxygen desaturation)",
+  "display_name": "Total number of central apnea in NREM sleep in non-supine position: central apneas with >= 3% oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "central apnea events",

@@ -1,6 +1,6 @@
 {
   "id": "rdirem2p",
-  "display_name": "Overall Respiratory Disturbance Index (RDI) (Rapid eye movement sleep (REM)) at >=2% oxygen desaturation",
+  "display_name": "Apnea-Hypopnea Index (REM): Apneas with >= 2% oxygen desaturation and with or without arousal+ hypopneas with > 30% flow reduction and with >= 2% oxygen desaturation and with or without arousal / hour of REM sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

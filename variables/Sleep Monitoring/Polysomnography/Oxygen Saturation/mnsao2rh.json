@@ -1,7 +1,7 @@
 {
   "id": "mnsao2rh",
-  "display_name": "Minimum oxygen saturation (SaO2) in rapid eye movement sleep (REM)",
-  "description": "The minimum of all oxygen saturation values in epochs scored as stage REM.",
+  "display_name": "Minimum oxygen saturation during REM sleep from type II polysomnography",
+  "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [

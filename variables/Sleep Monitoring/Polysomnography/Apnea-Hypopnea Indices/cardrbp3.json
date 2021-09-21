@@ -1,10 +1,10 @@
 {
   "id": "cardrbp3",
-  "display_name": "Central Apnea per hour (Rapid eye movement sleep (REM), Supine, >=3% oxygen desaturation)",
+  "display_name": "Central Apnea Index (REM, Supine): (Central apneas with >= 3% oxygen desaturation and with or without arousal) / hour of REM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumca_srpb_ca3u_f1t2"
+    "cai_srpb_ca3u_f1t2"
   ]
 }

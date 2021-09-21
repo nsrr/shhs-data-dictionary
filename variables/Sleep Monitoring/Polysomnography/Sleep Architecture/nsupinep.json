@@ -1,6 +1,6 @@
 {
   "id": "nsupinep",
-  "display_name": "Percent Time non-supine",
+  "display_name": "Percentage of total sleep duration in non-supine position from type II polysomnography",
   "description": "Percent of sleep time in non-supine body position",
   "type": "numeric",
   "units": "percent",

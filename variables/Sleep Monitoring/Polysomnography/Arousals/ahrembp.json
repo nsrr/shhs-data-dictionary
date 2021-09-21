@@ -1,6 +1,6 @@
 {
   "id": "ahrembp",
-  "display_name": "Arousals per hour (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Arousal Index (REM, Supine): Arousals with no oxygen desaturation threshold used / hour of REM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

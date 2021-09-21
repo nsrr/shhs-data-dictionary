@@ -1,7 +1,7 @@
 {
   "id": "stloutp",
-  "display_name": "Lights out time",
-  "description": "In Sleep Hearth Health Study Visit 1 (SHHS1), values are in number of epochs from start of recording. In Sleep Heart Health Study Visit 2(SHHS2), values are clock times.",
+  "display_name": "Clock time when the participant is in bed or lights are out from type II polysomnography",
+  "description": "Conventionally, this variable would be called the start of time in bed (TIB).",
   "type": "time",
   "labels": [
     "begtimbd_f1t2"

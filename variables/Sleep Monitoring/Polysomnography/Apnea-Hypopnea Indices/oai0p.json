@@ -1,7 +1,7 @@
 {
   "id": "oai0p",
-  "display_name": "Obstructive Apnea Index - number of [obstructive apneas] per hour of sleep",
-  "description": "",
+  "display_name": "Obstructive Apnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep from type II polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( oarbp +  oarop  + oanbp  + oanop ) / slpprdp",

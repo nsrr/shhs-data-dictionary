@@ -1,10 +1,10 @@
 {
   "id": "hremba4",
-  "display_name": "Number of Hypopnea with >=4% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "display_name": "Total number of hypopnea in REM sleep in supine position: hypopneas with >= 4% oxygen desaturation or with arousal  from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "hypopnea events",
   "labels": [
-    "ttlnumhp_srpb_hp3x4u_f1t2"
+    "ttlnumhp_srpb_hp3x4r_f1t2"
   ]
 }

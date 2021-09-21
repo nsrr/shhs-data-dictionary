@@ -1,10 +1,10 @@
 {
   "id": "mxcarba2",
-  "display_name": "Maximum Central Apnea length with >=2% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "display_name": "Maximum duration of central apnea in REM sleep in supine position: central apneas with >= 2% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "maxdurca_srpb_ca2u_f1t2"
+    "maxdurca_srpb_ca2r_f1t2"
   ]
 }

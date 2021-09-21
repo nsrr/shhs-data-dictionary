@@ -1,6 +1,6 @@
 {
   "id": "avoarop5",
-  "display_name": "Average Obstructive Apnea length (Rapid eye movement sleep (REM), Non-supine, >=5% oxygen desaturation)",
+  "display_name": "Average duration of obstructive apnea in REM sleep in non-supine position: obstructive apneas with >= 5% oxygen desaturation and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

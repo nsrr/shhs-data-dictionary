@@ -3,5 +3,8 @@
   "display_name": "Morning Survey (Sleep Heart Health Study Visit Two (SHHS2)): Date completed",
   "description": "Date of Morning Survey form",
   "type": "numeric",
-  "units": "days from index date"
+  "units": "days from index date",
+  "labels": [
+    "morning_survey_form_shhs"
+  ]
 }

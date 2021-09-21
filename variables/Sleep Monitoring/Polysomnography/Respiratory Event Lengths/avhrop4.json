@@ -1,6 +1,6 @@
 {
   "id": "avhrop4",
-  "display_name": "Average Hypopnea length (Rapid eye movement sleep (REM), Non-supine, >=4% oxygen desaturation)",
+  "display_name": "Average duration of hypopnea in REM sleep in non-supine position: hypopneas with >= 4% oxygen desaturation threshold used and with or without arousal  from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

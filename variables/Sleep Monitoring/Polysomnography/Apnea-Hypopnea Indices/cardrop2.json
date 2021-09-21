@@ -1,10 +1,10 @@
 {
   "id": "cardrop2",
-  "display_name": "Central Apnea per hour (Rapid eye movement sleep (REM), Non-supine, >=2% oxygen desaturation)",
+  "display_name": "Central Apnea Index (REM, Non-Supine): (Central apneas with >= 2% oxygen desaturation and with or without arousal) / hour of REM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumca_srpo_ca2u_f1t2"
+    "cai_srpo_ca2u_f1t2"
   ]
 }

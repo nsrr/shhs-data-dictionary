@@ -1,7 +1,7 @@
 {
   "id": "sittlk02",
-  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Fall asleep while sitting and talking",
-  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=epworth)<br><br>Original question: What is the chance that you would doze off or fall asleep while sitting and talking to someone?",
+  "display_name": "Epworth Sleepiness Scale: Chance of dozing while sitting and talking to someone",
+  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/abc/variables?search=epworth)",
   "type": "choices",
   "domain": "nhchan4",
   "labels": [

@@ -1,10 +1,10 @@
 {
   "id": "oardroa5",
-  "display_name": "Obstructive Apnea per hour with >=5% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "display_name": "Obstructive Apnea Index (REM, Non-Supine): (Obstructive apneas with >= 5% oxygen desaturation or with arousal) / hour of REM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumoa_srpo_oa5u_f1t2"
+    "oai_srpo_oa5r_f1t2"
   ]
 }

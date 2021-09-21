@@ -1,10 +1,10 @@
 {
   "id": "oardrba",
-  "display_name": "Obstructive Apnea per hour w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Obstructive Apnea Index (REM, Supine): (Obstructive apneas with no oxygen desaturation threshold used only with arousal) / hour of REM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumoa_srpb_oa0o_f1t2"
+    "oai_srpb_oa0o_f1t2"
   ]
 }

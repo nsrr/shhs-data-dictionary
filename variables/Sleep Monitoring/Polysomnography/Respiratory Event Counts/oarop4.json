@@ -1,6 +1,6 @@
 {
   "id": "oarop4",
-  "display_name": "Number of Obstructive Apnea (Rapid eye movement sleep (REM), Non-supine, >=4% oxygen desaturation)",
+  "display_name": "Total number of obstructive apnea in REM sleep in non-supine position: obstructive apneas with >= 4% oxygen desaturation and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "obstructive apnea events",

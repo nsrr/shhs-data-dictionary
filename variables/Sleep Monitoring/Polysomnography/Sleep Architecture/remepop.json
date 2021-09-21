@@ -1,6 +1,6 @@
 {
   "id": "remepop",
-  "display_name": "Sleep Time (Rapid eye movement sleep (REM), Non-supine)",
+  "display_name": "Total duration of sleep in REM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes",

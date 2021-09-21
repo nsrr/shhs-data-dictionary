@@ -1,6 +1,6 @@
 {
   "id": "pctsa70h",
-  "display_name": "Percent of sleep time oxygen saturation (SaO2) is below 70%",
+  "display_name": "Percentage duration of sleep with oxygen saturation < 70% from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

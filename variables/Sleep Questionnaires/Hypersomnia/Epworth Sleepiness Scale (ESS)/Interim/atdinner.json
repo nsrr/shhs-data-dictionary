@@ -1,6 +1,6 @@
 {
   "id": "atdinner",
-  "display_name": "Epworth Sleepiness Scale: Chance of dozing at dinner table",
+  "display_name": "Chance of dozing at dinner table",
   "description": "Additional item added to the Epworth Sleepiness Scale ",
   "type": "choices",
   "domain": "nhchan4",

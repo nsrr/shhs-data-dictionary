@@ -1,0 +1,17 @@
+{
+  "id": "ql209b",
+  "display_name": "Medical Outcomes Study SF-36: Been very nervous",
+  "description": "Item from the Medical Outcomes Study Short Form 36 (SF-36). [Ware JE and Sherbourne CD, 1992 (PubMed ID: 1593914)](https://www.ncbi.nlm.nih.gov/pubmed/1593914/)<br><br>Original question: *9. These questions are about how you feel and how things have been with you during the past 4 weeks.  For each question, check the box for the one answer that comes closest to the way you have been feeling.  During the past 4 weeks, how much of the time. b. Have you been a very nervous person?*<br><br>[Search for all SF-36 variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=mossf36)",
+  "type": "choices",
+  "domain": "allnone6",
+  "labels": [
+    "anxiety",
+    "anxious",
+    "mossf36",
+    "quality of life",
+    "mossf36_24nervous"
+  ],
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ]
+}

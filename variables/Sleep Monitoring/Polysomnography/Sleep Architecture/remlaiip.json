@@ -1,6 +1,6 @@
 {
   "id": "remlaiip",
-  "display_name": "Rapid eye movement sleep (REM) Latency II - excluding wake",
+  "display_name": "Total duration of sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes",

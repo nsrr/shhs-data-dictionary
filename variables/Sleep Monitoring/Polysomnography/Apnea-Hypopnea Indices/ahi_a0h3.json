@@ -1,7 +1,7 @@
 {
   "id": "ahi_a0h3",
-  "display_name": "Apnea-Hypopnea Index (AHI) >= 3% - number of [all apneas] and [hypopneas with >= 3% oxygen desaturation] per hour of sleep",
-  "description": "",
+  "display_name": "Apnea-Hypopnea Index: (Apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and >= 3% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop) / slpprdp",

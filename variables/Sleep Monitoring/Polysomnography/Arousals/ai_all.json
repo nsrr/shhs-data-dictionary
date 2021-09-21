@@ -1,6 +1,6 @@
 {
   "id": "ai_all",
-  "display_name": "Arousal Index",
+  "display_name": "Arousal Index: Arousals per hour of sleep from type II polysomnography",
   "description": "Total number of arousals per hour of sleep.  Ratio of count of arousals to total sleep time in hours.",
   "type": "numeric",
   "units": "events per hour",

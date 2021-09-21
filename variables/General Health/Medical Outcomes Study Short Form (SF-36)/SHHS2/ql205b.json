@@ -1,0 +1,15 @@
+{
+  "id": "ql205b",
+  "display_name": "Medical Outcomes Study SF-36: Emotional problems caused you to accomplish less than you would like",
+  "description": "Item from the Medical Outcomes Study Short Form 36 (SF-36). [Ware JE and Sherbourne CD, 1992 (PubMed ID: 1593914)](https://www.ncbi.nlm.nih.gov/pubmed/1593914/)<br><br>Original question: *5. During the past four weeks, have you had any of the following problems with regular daily activities as a result of EMOTIONAL PROBLEMS (such as feeling depressed or anxious)?  (Please check either Yes or No for each question) b. Accomplished less than you would like.*<br><br>[Search for all SF-36 variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=mossf36)",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "mossf36",
+    "quality of life",
+    "mossf36_18emoless"
+  ],
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ]
+}

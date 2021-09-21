@@ -1,6 +1,6 @@
 {
   "id": "mndrba",
-  "display_name": "Minimum oxygen saturation (SaO2) w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Minimum level of oxygen saturation in REM sleep with arousal in supine position with oxygen desaturation > 0% from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

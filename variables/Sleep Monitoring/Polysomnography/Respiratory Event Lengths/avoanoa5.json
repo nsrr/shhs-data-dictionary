@@ -1,10 +1,10 @@
 {
   "id": "avoanoa5",
-  "display_name": "Average Obstructive Apnea length with >=5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "display_name": "Average duration of obstructive apnea in NREM sleep in non-supine position: obstructive apneas with >= 5% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "avgduroa_snpo_oa5u_f1t2"
+    "avgduroa_snpo_oa5r_f1t2"
   ]
 }

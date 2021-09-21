@@ -1,10 +1,10 @@
 {
   "id": "hmnbnoh",
-  "display_name": "Minimum Heart Rate (Non-rapid eye movement sleep (NREM), Non-supine, >=3% oxygen desaturation)",
+  "display_name": "Minimum heart rate with oxygen desaturation > 3% during NREM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "minlvlhr_snpo_dsge3_f1t2"
+    "minlvlhr_snpo_dsgt3_f1t2"
   ]
 }

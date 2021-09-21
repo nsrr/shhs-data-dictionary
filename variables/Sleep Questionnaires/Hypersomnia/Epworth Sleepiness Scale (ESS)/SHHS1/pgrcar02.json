@@ -1,7 +1,7 @@
 {
   "id": "pgrcar02",
-  "display_name": "Sleep Habits (Sleep Heart Health Study Visit One (SHHS1)): Fall asleep while a passenger in a car",
-  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=epworth)<br><br>Original question: What is chance that you would doze off or fall asleep while as a passenger in a car for an hour without a break?",
+  "display_name": "Epworth Sleepiness Scale: Chance of dozing as a passenger in a car for an hour without a break",
+  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/abc/variables?search=epworth)",
   "type": "choices",
   "domain": "nhchan4",
   "labels": [

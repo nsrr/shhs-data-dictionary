@@ -1,10 +1,10 @@
 {
   "id": "mnhnba4",
-  "display_name": "Minimum Hypopnea length with >=4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "display_name": "Minimum duration of hypopnea in NREM sleep in supine position: hypopneas with >= 4% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "mindurhp_snpb_hp3x4u_f1t2"
+    "mindurhp_snpb_hp3x4r_f1t2"
   ]
 }

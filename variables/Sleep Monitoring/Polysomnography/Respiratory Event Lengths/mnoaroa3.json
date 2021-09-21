@@ -1,10 +1,10 @@
 {
   "id": "mnoaroa3",
-  "display_name": "Minimum Obstructive Apnea length with >=3% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "display_name": "Minimum duration of obstructive apnea in REM sleep in non-supine position: obstructive apneas with >= 3% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "minduroa_srpo_oa3u_f1t2"
+    "minduroa_srpo_oa3r_f1t2"
   ]
 }

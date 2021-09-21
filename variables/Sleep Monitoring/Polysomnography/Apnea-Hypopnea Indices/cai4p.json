@@ -1,7 +1,7 @@
 {
   "id": "cai4p",
-  "display_name": "Central Apnea Index >= 4% - number of [central apneas with >= 4% oxygen desaturation] per hour of sleep",
-  "description": "",
+  "display_name": "Central Apnea Index: (Central apneas with >= 4% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( carbp4 + carop4 + canbp4 + canop4 ) / slpprdp",

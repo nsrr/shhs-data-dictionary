@@ -1,7 +1,7 @@
 {
   "id": "oai4p",
-  "display_name": "Obstructive Apnea Index >= 4% - number of [obstructive apneas with >= 4% oxygen desaturation] per hour of sleep",
-  "description": "",
+  "display_name": "Obstructive Apnea Index: (Obstructive apneas with >= 4% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( oarbp4 + oarop4 + oanbp4 + oanop4 ) / slpprdp",

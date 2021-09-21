@@ -1,6 +1,6 @@
 {
   "id": "avgsat",
-  "display_name": "Average oxygen saturation (SaO2) in sleep",
+  "display_name": "Average level of oxygen saturation during total sleep duration from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

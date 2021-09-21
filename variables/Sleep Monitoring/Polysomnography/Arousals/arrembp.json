@@ -1,6 +1,6 @@
 {
   "id": "arrembp",
-  "display_name": "Number of Arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Total number of arousals associated with > 0% oxygen desaturation during REM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "arousals",

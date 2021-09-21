@@ -1,6 +1,6 @@
 {
   "id": "mndnbp4",
-  "display_name": "Minimum oxygen saturation (SaO2) (Non-rapid eye movement sleep (NREM), Supine, >=4% oxygen desaturation)",
+  "display_name": "Minimum level of oxygen saturation in NREM sleep in supine position with oxygen desaturation >= 4% from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

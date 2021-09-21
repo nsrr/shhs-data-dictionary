@@ -1,10 +1,10 @@
 {
   "id": "mxhnba3",
-  "display_name": "Maximum Hypopnea length with >=3% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "display_name": "Maximum duration of hypopnea in NREM sleep in supine position: hypopneas with >= 3% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "maxdurhp_snpb_hp3x3u_f1t2"
+    "maxdurhp_snpb_hp3x3r_f1t2"
   ]
 }

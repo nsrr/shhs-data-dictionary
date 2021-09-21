@@ -1,6 +1,6 @@
 {
   "id": "avcaroa",
-  "display_name": "Average Central Apnea length w/ arousals (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",
+  "display_name": "Average duration of central apnea in REM sleep in non-supine position: central apneas with no oxygen desaturation threshold used only with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

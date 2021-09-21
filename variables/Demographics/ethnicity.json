@@ -1,6 +1,6 @@
 {
   "id": "ethnicity",
-  "display_name": "Ethnicity",
+  "display_name": "Ethnicity (Hispanic or Latino) of the participant",
   "description": "Note: This variable was derived from `race` and was not asked as a separate demographic question. At the time of SHHS Visit 1, race and ethnicity were collected together in a single question. This variable was derived later on when the datasets were prepared for deposition in Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC).",
   "type": "choices",
   "domain": "ethnicity12",

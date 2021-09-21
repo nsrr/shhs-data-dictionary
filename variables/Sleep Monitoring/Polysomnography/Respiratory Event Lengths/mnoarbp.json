@@ -1,6 +1,6 @@
 {
   "id": "mnoarbp",
-  "display_name": "Minimum Obstructive Apnea length (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Minimum duration of obstructive apnea in REM sleep in supine position: obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

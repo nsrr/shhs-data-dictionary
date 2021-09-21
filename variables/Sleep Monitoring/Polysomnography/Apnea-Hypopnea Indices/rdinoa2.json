@@ -1,10 +1,10 @@
 {
   "id": "rdinoa2",
-  "display_name": "Hypopnea per hour with >=2% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "display_name": "Hypopnea Index (NREM, Non-Supine): (Hypopneas with > 30% flow reduction and with >= 2% oxygen desaturation or with arousal) / hour of NREM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumhp_snpo_hp3x2u_f1t2"
+    "hi_snpo_hp3x2r_f1t2"
   ]
 }

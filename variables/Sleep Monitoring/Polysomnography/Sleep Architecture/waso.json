@@ -1,6 +1,6 @@
 {
   "id": "waso",
-  "display_name": "Wake After Sleep Onset",
+  "display_name": "Wake after Sleep Onset: the total duration between sleep onset and sleep offset time while being awake from type II polysomnography",
   "description": "Total amount of time spent awake after going to sleep",
   "type": "numeric",
   "units": "minutes",

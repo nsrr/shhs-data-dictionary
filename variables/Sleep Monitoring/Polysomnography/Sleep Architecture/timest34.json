@@ -1,6 +1,6 @@
 {
   "id": "timest34",
-  "display_name": "Time in Stage 3/4 (Sleep Heart Health Study Visit Two (SHHS2))",
+  "display_name": "Total duration of Stage 3 and 4 sleep from type II polysomnography",
   "description": "Total time scored as stage 3/4 rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",

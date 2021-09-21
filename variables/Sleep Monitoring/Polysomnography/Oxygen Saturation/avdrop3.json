@@ -1,6 +1,6 @@
 {
   "id": "avdrop3",
-  "display_name": "Average oxygen desaturation (Rapid eye movement sleep (REM), Non-supine, >=3% oxygen desaturation)",
+  "display_name": "Average level of oxygen desaturation in REM sleep in non-supine position with oxygen desaturation >= 3% from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

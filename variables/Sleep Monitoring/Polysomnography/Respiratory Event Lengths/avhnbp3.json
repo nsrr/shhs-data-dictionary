@@ -1,6 +1,6 @@
 {
   "id": "avhnbp3",
-  "display_name": "Average Hypopnea length (Non-rapid eye movement sleep (NREM), Supine, >=3% oxygen desaturation)",
+  "display_name": "Average duration of hypopnea in NREM sleep in supine position: hypopneas with >= 3% oxygen desaturation threshold used and with or without arousal  from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

@@ -1,6 +1,6 @@
 {
   "id": "avdnbp",
-  "display_name": "Average oxygen desaturation (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "display_name": "Average level of oxygen desaturation in NREM sleep in supine position with oxygen desaturation > 0% from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

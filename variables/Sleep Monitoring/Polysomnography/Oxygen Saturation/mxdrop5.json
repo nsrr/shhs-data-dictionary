@@ -1,6 +1,6 @@
 {
   "id": "mxdrop5",
-  "display_name": "Maximum oxygen desaturation (Rapid eye movement sleep (REM), Non-supine, >=5% oxygen desaturation)",
+  "display_name": "Maximum level of oxygen saturation in REM sleep in non-supine position with oxygen desaturation >= 5% from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

@@ -1,6 +1,6 @@
 {
   "id": "avoanba",
-  "display_name": "Average Obstructive Apnea length w/ arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "display_name": "Average duration of obstructive apnea in NREM sleep in supine position: obstructive apneas with no oxygen desaturation threshold used only with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

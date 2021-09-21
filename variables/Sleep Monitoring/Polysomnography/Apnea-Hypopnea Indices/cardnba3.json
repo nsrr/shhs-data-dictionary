@@ -1,10 +1,10 @@
 {
   "id": "cardnba3",
-  "display_name": "Central Apnea per hour with >=3% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "display_name": "Central Apnea Index (NREM, Supine): (Central apneas with >=3% oxygen desaturation or with arousal) / hour of NREM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumca_snpb_ca3u_f1t2"
+    "cai_snpb_ca3r_f1t2"
   ]
 }

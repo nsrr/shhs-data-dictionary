@@ -1,6 +1,6 @@
 {
   "id": "ndes5ph",
-  "display_name": "Number of oxygen desaturation with at least >=5% oxygen desaturation",
+  "display_name": "Total number of oxygen saturation with oxygen desaturation >= 5% from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "oxygen desaturation events",

@@ -1,6 +1,6 @@
 {
   "id": "oanbp",
-  "display_name": "Number of Obstructive Apnea (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "display_name": "Total number of obstructive apnea in NREM sleep in supine position: obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "obstructive apnea events",

@@ -1,6 +1,6 @@
 {
   "id": "mxcanbp4",
-  "display_name": "Maximum Central Apnea length (Non-rapid eye movement sleep (NREM), Supine, >=4% oxygen desaturation)",
+  "display_name": "Maximum duration of central apnea in NREM sleep in supine position: central apneas with >= 4% oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

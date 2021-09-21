@@ -1,6 +1,6 @@
 {
   "id": "supinep",
-  "display_name": "Percent Time supine",
+  "display_name": "Percentage of total sleep duration in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

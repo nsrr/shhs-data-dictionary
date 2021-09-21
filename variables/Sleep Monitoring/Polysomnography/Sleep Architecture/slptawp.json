@@ -1,6 +1,6 @@
 {
   "id": "slptawp",
-  "display_name": "Number of sleep to awake shifts",
+  "display_name": "Total number of shift (sleep stages shift) from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "stage shifts",

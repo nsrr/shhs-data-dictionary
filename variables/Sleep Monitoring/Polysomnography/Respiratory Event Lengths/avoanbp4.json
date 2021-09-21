@@ -1,6 +1,6 @@
 {
   "id": "avoanbp4",
-  "display_name": "Average Obstructive Apnea length (Non-rapid eye movement sleep (NREM), Supine, >=4% oxygen desaturation)",
+  "display_name": "Average duration of obstructive apnea in NREM sleep in supine position: obstructive apneas with >= 4% oxygen desaturation and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

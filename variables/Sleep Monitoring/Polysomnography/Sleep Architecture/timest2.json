@@ -1,6 +1,6 @@
 {
   "id": "timest2",
-  "display_name": "Time in Stage 2 (Sleep Heart Health Study Visit Two (SHHS2))",
+  "display_name": "Total duration of Stage 2 sleep from type II polysomnography",
   "description": "Total time scored as stage 2 rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",

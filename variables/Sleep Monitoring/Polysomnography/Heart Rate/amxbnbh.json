@@ -1,10 +1,10 @@
 {
   "id": "amxbnbh",
-  "display_name": "Maximum Heart Rate with arousal (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "display_name": "Maximum heart rate with arousal during NREM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "maxlvlhr_snsopb_dsgt0_f1t2"
+    "maxlvlhr_snsopb_f1t2"
   ]
 }

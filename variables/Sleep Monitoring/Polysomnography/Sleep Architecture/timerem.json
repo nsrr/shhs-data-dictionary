@@ -1,6 +1,6 @@
 {
   "id": "timerem",
-  "display_name": "Minutes spent in rapid eye movement sleep (REM) ",
+  "display_name": "Total duration of REM sleep from type II polysomnography",
   "description": "Total time scored as rapid eye movement sleep (REM) rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",

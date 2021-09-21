@@ -1,6 +1,6 @@
 {
   "id": "rdi0pa",
-  "display_name": "Overall Respiratory Disturbance Index (RDI) all oxygen desaturations with an arousal",
+  "display_name": "Apnea-Hypopnea Index: Apneas with no oxygen desaturation threshold used and only with arousal+ hypopneas with > 30% flow reduction and with no oxygen desaturation used and only with arousal / hour of sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

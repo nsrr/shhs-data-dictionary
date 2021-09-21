@@ -1,10 +1,10 @@
 {
   "id": "dmxbrbh",
-  "display_name": "Maximum Heart Rate with arousal (Rapid eye movement sleep (REM), Supine, >=3% oxygen desaturation)",
+  "display_name": "Maximum heart rate with oxygen desaturation >3% and with arousal during REM sleep in supine position  from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "maxlvlhr_srsopb_dsge3_f1t2"
+    "maxlvlhr_srsopb_dsgt3_f1t2"
   ]
 }

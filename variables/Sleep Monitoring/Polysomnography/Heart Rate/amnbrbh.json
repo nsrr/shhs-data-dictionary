@@ -1,10 +1,10 @@
 {
   "id": "amnbrbh",
-  "display_name": "Minimum Heart Rate with arousal (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Minimum heart rate with arousal during REM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "minlvlhr_srsopb_dsgt0_f1t2"
+    "minlvlhr_srsopb_f1t2"
   ]
 }

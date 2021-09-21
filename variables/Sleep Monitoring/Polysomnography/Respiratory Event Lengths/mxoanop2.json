@@ -1,6 +1,6 @@
 {
   "id": "mxoanop2",
-  "display_name": "Maximum Obstructive Apnea length (Non-rapid eye movement sleep (NREM), Non-supine >=2% oxygen desaturation)",
+  "display_name": "Maximum duration of obstructive apnea in NREM sleep in non-supine position: obstructive apneas with >= 2% oxygen desaturation and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

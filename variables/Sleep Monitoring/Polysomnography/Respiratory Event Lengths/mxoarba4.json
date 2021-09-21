@@ -1,10 +1,10 @@
 {
   "id": "mxoarba4",
-  "display_name": "Maximum Obstructive Apnea length with >=4% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "display_name": "Maximum duration of obstructive apnea in REM sleep in supine position: obstructive apneas with >= 4% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "maxduroa_srpb_oa4u_f1t2"
+    "maxduroa_srpb_oa4r_f1t2"
   ]
 }

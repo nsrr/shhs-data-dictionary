@@ -1,6 +1,6 @@
 {
   "id": "gender",
-  "display_name": "Gender",
+  "display_name": "Gender of the participant",
   "description": "Gender as reported by Parent Cohort",
   "type": "choices",
   "domain": "gender12",

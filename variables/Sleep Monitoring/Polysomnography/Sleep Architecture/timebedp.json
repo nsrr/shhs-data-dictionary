@@ -1,7 +1,7 @@
 {
   "id": "timebedp",
-  "display_name": "Time in bed",
-  "description": "Time from lights out to lights on, rounded to nearest minute",
+  "display_name": "Total In-bed Period: the interval between lights out/in-bed time and lights off/out-bed time from type II polysomnography",
+  "description": "Calculated. Conventionally this variable would be called time in bed (TIB).",
   "type": "numeric",
   "units": "minutes",
   "labels": [

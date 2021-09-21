@@ -1,0 +1,15 @@
+{
+  "id": "happy25",
+  "display_name": "Medical Outcomes Study SF-36: Been happy",
+  "description": "Item from the Medical Outcomes Study Short Form 36 (SF-36). [Ware JE and Sherbourne CD, 1992 (PubMed ID: 1593914)](https://www.ncbi.nlm.nih.gov/pubmed/1593914/)<br><br>Original question: *During the past 4 weeks, how much of the time: Have you been a happy person?*<br><br>[Search for all SF-36 variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=mossf36)",
+  "type": "choices",
+  "domain": "allnone6",
+  "labels": [
+    "mossf36",
+    "quality of life",
+    "mossf36_30happy"
+  ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ]
+}

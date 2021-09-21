@@ -1,6 +1,6 @@
 {
   "id": "rdi4pa",
-  "display_name": "Overall Respiratory Disturbance Index (RDI) at >=4% oxygen desaturation or arousal",
+  "display_name": "Apnea-Hypopnea Index: Apneas with >=4% oxygen desaturation or with arousal+ hypopneas with > 30% flow reduction and >=4% oxygen desaturation or with arousal / hour of sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

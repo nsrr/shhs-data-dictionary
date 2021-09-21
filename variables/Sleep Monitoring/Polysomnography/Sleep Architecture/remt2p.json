@@ -1,6 +1,6 @@
 {
   "id": "remt2p",
-  "display_name": "Number of rapid eye movement sleep (REM) to stage 2 shifts during sleep",
+  "display_name": "Total number of shift (sleep stages shift) from REM sleep to stage 2 sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "stage shifts",

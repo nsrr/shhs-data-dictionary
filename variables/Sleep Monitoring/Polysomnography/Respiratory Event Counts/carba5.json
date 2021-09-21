@@ -1,10 +1,10 @@
 {
   "id": "carba5",
-  "display_name": "Number of Central Apnea with >=5% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "display_name": "Total number of central apnea in REM sleep in supine position: central apneas with >= 5% oxygen desaturation threshold used or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "central apnea events",
   "labels": [
-    "ttlnumca_srpb_ca5u_f1t2"
+    "ttlnumca_srpb_ca5r_f1t2"
   ]
 }

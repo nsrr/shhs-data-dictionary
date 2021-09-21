@@ -1,10 +1,10 @@
 {
   "id": "mncarba2",
-  "display_name": "Minimum Central Apnea length with >=2% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "display_name": "Minimum duration of central apnea in REM sleep in supine position: central apneas with >= 2% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "mindurca_srpb_ca2u_f1t2"
+    "mindurca_srpb_ca2r_f1t2"
   ]
 }

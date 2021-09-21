@@ -1,6 +1,6 @@
 {
   "id": "stg34t2p",
-  "display_name": "Number of stage 3/4 to stage 1/2 shifts during sleep",
+  "display_name": "Total number of shift (sleep stages shift) from stage 3/4 to stage 1/2 sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "stage shifts",

@@ -1,6 +1,6 @@
 {
   "id": "caroa",
-  "display_name": "Number of Central Apnea w/ arousals (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",
+  "display_name": "Total number of central apnea in REM sleep in non-supine position: central apneas with no oxygen desaturation threshold used only with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "central apnea events",

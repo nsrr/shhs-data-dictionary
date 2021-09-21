@@ -1,10 +1,10 @@
 {
   "id": "avhrba3",
-  "display_name": "Average Hypopnea length with >=3% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "display_name": "Average duration of hypopnea in REM sleep in supine position: hypopneas with >= 3% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "avgdurhp_srpb_hp3x3u_f1t2"
+    "avgdurhp_srpb_hp3x3r_f1t2"
   ]
 }

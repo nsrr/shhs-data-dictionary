@@ -1,11 +1,11 @@
 {
   "id": "sf_s1",
-  "display_name": "Short Form 36 Health Survey (SF-36) Calculated (Sleep Heart Health Study Visit One (SHHS1)): Social Functioning Standardized Score",
-  "description": "",
+  "display_name": "Medical Outcomes Study SF-36: Social functioning subscale standardized score ",
+  "description": "The subscale score is based on 2 items from the Medical Outcomes Study Short Form 36 (SF-36). A high score suggests the participant \"performs normal social activities without interference due to physical or emotional problems in the past 4 weeks\". [Ware JE and Sherbourne CD, 1992 (PubMed ID: 1593914)](https://www.ncbi.nlm.nih.gov/pubmed/1593914/)<br><br>[Search for all SF-36 variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=mossf36)",
   "type": "numeric",
   "labels": [
-    "sf36",
-    "qol",
-    "quality of life"
+    "mossf36",
+    "quality of life",
+    "mossf36_sfscore"
   ]
 }

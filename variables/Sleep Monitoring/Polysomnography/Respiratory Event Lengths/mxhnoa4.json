@@ -1,10 +1,10 @@
 {
   "id": "mxhnoa4",
-  "display_name": "Maximum Hypopnea length with >=4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "display_name": "Maximum duration of hypopnea in NREM sleep in non-supine position: hypopneas with >= 4% oxygen desaturation threshold used or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "maxdurhp_snpo_hp3x4u_f1t2"
+    "maxdurhp_snpo_hp3x4r_f1t2"
   ]
 }

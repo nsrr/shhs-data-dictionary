@@ -1,0 +1,15 @@
+{
+  "id": "ql203f",
+  "display_name": "Medical Outcomes Study SF-36: Health limits bending, kneeling, or stooping",
+  "description": "Item from the Medical Outcomes Study Short Form 36 (SF-36). [Ware JE and Sherbourne CD, 1992 (PubMed ID: 1593914)](https://www.ncbi.nlm.nih.gov/pubmed/1593914/)<br><br>Original question: *3. The following questions are about activities you might do during a typical day. Does your health now limit you in these activities? If so, how much? (Check one box for each question.) f. Bending, kneeling, or stooping*<br><br>[Search for all SF-36 variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=mossf36)",
+  "type": "choices",
+  "domain": "lotlitn",
+  "labels": [
+    "mossf36",
+    "quality of life",
+    "mossf36_08bend"
+  ],
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "pctsthyp",
-  "display_name": "Percent of sleep time in Hypopnea",
+  "display_name": "Percentage of total sleep duration with hypopneas with > 30% flow reduction and with no oxygen desaturation threhold or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

@@ -1,6 +1,6 @@
 {
   "id": "avdrbp",
-  "display_name": "Average oxygen desaturation (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Average level of oxygen desaturation in REM sleep in supine position with oxygen desaturation > 0% from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

@@ -1,6 +1,6 @@
 {
   "id": "ahnremop",
-  "display_name": "Arousals per hour (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "display_name": "Arousal Index (NREM, Non-Supine): Arousals with no oxygen desaturation threshold used / hour of NREM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

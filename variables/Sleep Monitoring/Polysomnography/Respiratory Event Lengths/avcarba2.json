@@ -1,10 +1,10 @@
 {
   "id": "avcarba2",
-  "display_name": "Average Central Apnea length with >=2% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "display_name": "Average duration of central apnea in REM sleep in supine position: central apneas with >= 2% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",
   "labels": [
-    "avgdurca_srpb_ca2u_f1t2"
+    "avgdurca_srpb_ca2r_f1t2"
   ]
 }

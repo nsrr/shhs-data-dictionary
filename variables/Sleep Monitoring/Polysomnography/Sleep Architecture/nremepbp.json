@@ -1,6 +1,6 @@
 {
   "id": "nremepbp",
-  "display_name": "Sleep Time (Non-rapid eye movement sleep (NREM), Supine)",
+  "display_name": "Total duration of sleep in NREM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes",

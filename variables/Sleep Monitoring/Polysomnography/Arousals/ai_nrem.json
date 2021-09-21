@@ -1,6 +1,6 @@
 {
   "id": "ai_nrem",
-  "display_name": "Arousal Index (Non-rapid eye movement sleep (NREM))",
+  "display_name": "Arousal Index (NREM): Arousals per hour of NREM sleep from type II polysomnography",
   "description": "Non-rapid eye movement sleep (NREM) Arousal Index - total arousals in non-rapid eye movement sleep (NREM) per hours of non-rapid eye movement sleep (NREM)",
   "type": "numeric",
   "units": "events per hour",

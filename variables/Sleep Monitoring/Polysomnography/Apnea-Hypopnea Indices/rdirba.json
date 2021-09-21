@@ -1,10 +1,10 @@
 {
   "id": "rdirba",
-  "display_name": "Hypopnea per hour w/ arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Hypopnea Index (REM, Supine): (Hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with arousal only) / hour of REM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumhp_srpb_hp3x0o_f1t2"
+    "hi_srpb_hp3x0o_f1t2"
   ]
 }

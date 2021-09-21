@@ -1,0 +1,15 @@
+{
+  "id": "carful25",
+  "display_name": "Medical Outcomes Study SF-36: Emotional problems caused you to not do work or other activities as carefully as usual",
+  "description": "Item from the Medical Outcomes Study Short Form 36 (SF-36). [Ware JE and Sherbourne CD, 1992 (PubMed ID: 1593914)](https://www.ncbi.nlm.nih.gov/pubmed/1593914/)<br><br>Original question: *During the past 4 weeks, have you had this problem with work or other regular daily activities because of emotional problems: Didn't do work or other activities as carefully as usual*<br><br>[Search for all SF-36 variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=mossf36)",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "mossf36",
+    "quality of life",
+    "mossf36_19emocareful"
+  ],
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ]
+}

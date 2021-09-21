@@ -1,0 +1,10 @@
+{
+  "id": "date25",
+  "display_name": "Date completed",
+  "description": "Date questionnaire was completed (days from index date)",
+  "type": "numeric",
+  "units": "days from index date",
+  "forms": [
+    "shhs1_quality_of_life_sf_36_form"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ql204c",
+  "display_name": "Medical Outcomes Study SF-36: Physical health caused you to be limited in the kind of work or other activities",
+  "description": "Item from the Medical Outcomes Study Short Form 36 (SF-36). [Ware JE and Sherbourne CD, 1992 (PubMed ID: 1593914)](https://www.ncbi.nlm.nih.gov/pubmed/1593914/)<br><br>Original question: *4. During the past four weeks, have you had any of the following problems with your work or other regular daily activities as a result of your PHYSICAL HEALTH? c. Were limited in the kind of work or other activities you were able to do.*<br><br>[Search for all SF-36 variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=mossf36)",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "mossf36",
+    "quality of life",
+    "mossf36_15phylimit"
+  ],
+  "forms": [
+    "shhs2_quality_of_life_sf_36_form"
+  ]
+}

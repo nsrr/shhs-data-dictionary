@@ -1,10 +1,10 @@
 {
   "id": "cardnoa",
-  "display_name": "Central Apnea per hour w/ arousals (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "display_name": "Central Apnea Index (NREM, Non-Supine): (Central apneas with no oxygen desaturation threshold used only with arousal) / hour of NREM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumca_snpo_ca0o_f1t2"
+    "cai_snpo_ca0o_f1t2"
   ]
 }

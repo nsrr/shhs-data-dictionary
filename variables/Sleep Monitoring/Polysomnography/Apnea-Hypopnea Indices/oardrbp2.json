@@ -1,10 +1,10 @@
 {
   "id": "oardrbp2",
-  "display_name": "Obstructive Apnea per hour (Rapid eye movement sleep (REM), Supine, >=2% oxygen desaturation)",
+  "display_name": "Obstructive Apnea Index (REM, Supine): (Obstructive apneas with >= 2% oxygen desaturation and with or without arousal) / hour of REM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumoa_srpb_oa2u_f1t2"
+    "oai_srpb_oa2u_f1t2"
   ]
 }

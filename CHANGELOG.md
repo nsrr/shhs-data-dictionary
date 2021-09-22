@@ -1,3 +1,8 @@
+## 0.17.0
+
+- Update display names for many sleep variables
+- Update labels for many variables
+
 ## 0.16.0 (June 8, 2021)
 
 - Revise variable folder structure

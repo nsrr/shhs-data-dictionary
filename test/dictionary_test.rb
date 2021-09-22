@@ -4,7 +4,21 @@ require "test_helper"
 
 class DictionaryTest < Minitest::Test
   # This line includes all default Spout Dictionary tests.
-  include Spout::Tests
+  include Spout::Tests::JsonValidation
+  include Spout::Tests::DomainExistenceValidation
+  include Spout::Tests::DomainFormat
+  include Spout::Tests::DomainNameFormat
+  include Spout::Tests::DomainNameUniqueness
+  include Spout::Tests::DomainSpecified
+  include Spout::Tests::FormExistenceValidation
+  include Spout::Tests::FormNameFormat
+  include Spout::Tests::FormNameMatch
+  include Spout::Tests::FormNameUniqueness
+  # include Spout::Tests::VariableDisplayNameLength
+  include Spout::Tests::VariableNameFormat
+  include Spout::Tests::VariableNameMatch
+  include Spout::Tests::VariableNameUniqueness
+  include Spout::Tests::VariableTypeValidation
 
   # This line provides access to @variables, @forms, and @domains iterators
   # iterators that can be used to write custom tests.

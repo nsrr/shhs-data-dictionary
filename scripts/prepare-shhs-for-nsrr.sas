@@ -1696,15 +1696,13 @@
 data shhs1_harmonized;
 	set shhs1;
 	*create encounter variable for Spout to use for graph generation;
-    encounter = 1;
+    *encounter = 1;
 
 *demographics
 *age;
 *use age_s1;
 	format nsrr_age 8.2;
-	if age_s1 lt 39 then nsrr_age = '.'; *add flag for value too low;
-	else if age_s1 gt 100 then nsrr_age = '.'; *add flag for value too high;
-	else nsrr_age = age_s1;
+ 	nsrr_age = age_s1;
 
 *age_gt89;
 *use age_s1;
@@ -1738,25 +1736,18 @@ data shhs1_harmonized;
 *bmi;
 *use bmi_s1;
 	format nsrr_bmi 10.9;
-	if bmi_s1 
-	if bmi_s1 lt 12 then nsrr_bmi = .; *add flag for value too low;
-	else if bmi_s1 gt 60 then nsrr_bmi = .; *add flag for value too high;
-	else nsrr_bmi = bmi_s1;
+ 	nsrr_bmi = bmi_s1;
 
 *clinical data/vital signs
 *bp_systolic;
 *use systbp;
 	format nsrr_bp_systolic 8.2;
-	if systbp lt 40 then nsrr_bp_systolic = .; *add flag for value too low;
-	else if systbp gt 250 then nsrr_bp_systolic = .; *add flag for value too high;
-	else nsrr_bp_systolic = systbp;
+	nsrr_bp_systolic = systbp;
 
 *bp_diastolic;
 *use diasbp;
 	format nsrr_bp_diastolic 8.2;
-	if diasbp lt 0 then nsrr_bp_diastolic = .; *add flag for value too low;
-	else if diasbp gt 150 then nsrr_bp_diastolic = .; *add flag for value too high;
-	else nsrr_bp_diastolic = diasbp;
+ 	nsrr_bp_diastolic = diasbp;
 
 *lifestyle and behavioral health
 *current_smoker;
@@ -1765,7 +1756,7 @@ data shhs1_harmonized;
 	if smokstat_s1 = 0 then nsrr_current_smoker = 'false';
 	else if smokstat_s1 = 01 then nsrr_current_smoker = 'true';
 	else if smokstat_s1 = 02 then nsrr_current_smoker = 'false';
-	*else if smokstat_s1 = . then nsrr_cureent_smoker = 'not reported';
+	else if smokstat_s1 = . then nsrr_current_smoker = 'not reported';
 
 
 *ever_smoker;
@@ -1773,12 +1764,12 @@ data shhs1_harmonized;
 	format nsrr_ever_smoker $100.;
 	if smokstat_s1 = 00 then nsrr_ever_smoker = 'false';
 	else if smokstat_s1 ge 01 then nsrr_ever_smoker = 'true';
-	*else if smokerstat_s1 = 2 then nsrr_ever_smoker = 'true';
-	*else if smokstat_s1 = . then nsrr_ever_smoker = 'not reported';
+	else if smokerstat_s1 = 2 then nsrr_ever_smoker = 'true';
+	else if smokstat_s1 = . then nsrr_ever_smoker = 'not reported';
 
 	keep 
 		nsrrid
-		encounter
+		vt_s1
 		nsrr_age
 		nsrr_age_gt89
 		nsrr_sex
@@ -1792,32 +1783,29 @@ data shhs1_harmonized;
 		;
 run;
 
+*******************************************************************************;
+* checking harmonized datasets ;
+*******************************************************************************;
 
+/* Checking for extreme values for continuous variables */
 
-/*
-
-proc means data=shhs1;
-VAR bmi_s1 systbp diasbp age_s1;
+proc means data=shhs1_harmonized;
+VAR 	nsrr_age
+		nsrr_bmi
+		nsrr_bp_systolic
+		nsrr_bp_diastolic;
 run;
 
-proc freq data=shhs1_harmonized_temp;
-table nsrr_ever_smoker;
-table nsrr_current_smoker;
+/* Checking categorical variables */
+
+proc freq data=shhs1_harmonized;
+table 	nsrr_age_gt89
+		nsrr_sex
+		nsrr_race
+		nsrr_ethnicity
+		nsrr_current_smoker
+		nsrr_ever_smoker;
 run;
-
-proc freq data=shhs1;
-table smokstat_s1;
-run;
-
-proc print data=shhs1_harmonized_temp;
-run;
-
-proc contents data=shhs1_harmonized_temp;
-run;
-*/
-
-
-
 
 *******************************************************************************;
 * make all variable names lowercase ;

@@ -1693,6 +1693,131 @@
 *******************************************************************************;
 * create harmonized datasets ;
 *******************************************************************************;
+data shhs1_harmonized;
+	set shhs1;
+	*create encounter variable for Spout to use for graph generation;
+    encounter = 1;
+
+*demographics
+*age;
+*use age_s1;
+	format nsrr_age 8.2;
+	if age_s1 lt 39 then nsrr_age = '.'; *add flag for value too low;
+	else if age_s1 gt 100 then nsrr_age = '.'; *add flag for value too high;
+	else nsrr_age = age_s1;
+
+*age_gt89;
+*use age_s1;
+	format nsrr_age_gt89; 
+	if age_s1 gt 89 then nsrr_age_gt89=1;
+	else if age_s1 le 89 then nsrr_age_gt89=0;
+
+*sex;
+*use gender;
+	format nsrr_sex $10.;
+	if gender = '01' then nsrr_sex = 'male';
+	else if gender = '02' then nsrr_sex = 'female';
+	else if gender = '.' then nsrr_sex = 'not reported';
+
+*race;
+*use race;
+    format nsrr_race $100.;
+    if race = '01' then nsrr_race = 'white';
+    else if race = '02' then nsrr_race = 'black or african-american';
+    else if race = '03' then nsrr_race = 'other';
+	else if race = '.' then nsrr_race = 'not reported';
+
+*ethnicity;
+*use ethnicity;
+	format nsrr_ethnicity $100.;
+    if ethnicity = '01' then nsrr_ethnicity = 'hispanic or latino';
+    else if ethnicity = '02' then nsrr_ethnicity = 'not hispanic or latino';
+	else if ethnicity = '.' then nsrr_ethnicity = 'not reported';
+
+*anthropometry
+*bmi;
+*use bmi_s1;
+	format nsrr_bmi 10.9;
+	if bmi_s1 
+	if bmi_s1 lt 12 then nsrr_bmi = .; *add flag for value too low;
+	else if bmi_s1 gt 60 then nsrr_bmi = .; *add flag for value too high;
+	else nsrr_bmi = bmi_s1;
+
+*clinical data/vital signs
+*bp_systolic;
+*use systbp;
+	format nsrr_bp_systolic 8.2;
+	if systbp lt 40 then nsrr_bp_systolic = .; *add flag for value too low;
+	else if systbp gt 250 then nsrr_bp_systolic = .; *add flag for value too high;
+	else nsrr_bp_systolic = systbp;
+
+*bp_diastolic;
+*use diasbp;
+	format nsrr_bp_diastolic 8.2;
+	if diasbp lt 0 then nsrr_bp_diastolic = .; *add flag for value too low;
+	else if diasbp gt 150 then nsrr_bp_diastolic = .; *add flag for value too high;
+	else nsrr_bp_diastolic = diasbp;
+
+*lifestyle and behavioral health
+*current_smoker;
+*use smokstat_s1;
+	format nsrr_current_smoker $100.;
+	if smokstat_s1 = 0 then nsrr_current_smoker = 'false';
+	else if smokstat_s1 = 01 then nsrr_current_smoker = 'true';
+	else if smokstat_s1 = 02 then nsrr_current_smoker = 'false';
+	*else if smokstat_s1 = . then nsrr_cureent_smoker = 'not reported';
+
+
+*ever_smoker;
+*use smokstat_s1; 
+	format nsrr_ever_smoker $100.;
+	if smokstat_s1 = 00 then nsrr_ever_smoker = 'false';
+	else if smokstat_s1 ge 01 then nsrr_ever_smoker = 'true';
+	*else if smokerstat_s1 = 2 then nsrr_ever_smoker = 'true';
+	*else if smokstat_s1 = . then nsrr_ever_smoker = 'not reported';
+
+	keep 
+		nsrrid
+		encounter
+		nsrr_age
+		nsrr_age_gt89
+		nsrr_sex
+		nsrr_race
+		nsrr_ethnicity
+		nsrr_bmi
+		nsrr_bp_systolic
+		nsrr_bp_diastolic
+		nsrr_current_smoker
+		nsrr_ever_smoker
+		;
+run;
+
+
+
+/*
+
+proc means data=shhs1;
+VAR bmi_s1 systbp diasbp age_s1;
+run;
+
+proc freq data=shhs1_harmonized_temp;
+table nsrr_ever_smoker;
+table nsrr_current_smoker;
+run;
+
+proc freq data=shhs1;
+table smokstat_s1;
+run;
+
+proc print data=shhs1_harmonized_temp;
+run;
+
+proc contents data=shhs1_harmonized_temp;
+run;
+*/
+
+
+
 
 *******************************************************************************;
 * make all variable names lowercase ;
@@ -1717,6 +1842,7 @@
   %lowcase(shhs2);
   %lowcase(shhs_cvd_summary);
   %lowcase(shhs_cvd_event);
+  %lowercase(shhs1_harmonized);
 
 *******************************************************************************;
 * export datasets to csv ;
@@ -1751,6 +1877,13 @@
   proc export
     data=shhs_cvd_event
     outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-cvd-events-dataset-&release..csv"
+    dbms=csv
+    replace;
+  run;
+
+  proc export
+    data=shhs1_harmonized
+    outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs1-harmonized-dataset-&release..csv"
     dbms=csv
     replace;
   run;

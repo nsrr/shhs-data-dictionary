@@ -1,7 +1,7 @@
 {
   "id": "nsrr_age",
-  "display_name": "Age at Sleep Heart Health Study Visit One (SHHS1)",
-  "description": "Age at time of study in years, based on start date of Sleep Heart Health Study Visit One (SHHS1) Polysomnography (PSG) recording.",
+  "display_name": "Subject age",
+  "description": "Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: [age_s1](../shhs/variables/age_s1)",
   "type": "numeric",
   "units": "years",
   "commonly_used": true

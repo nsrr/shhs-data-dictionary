@@ -1,0 +1,8 @@
+{
+  "id": "nsrr_current_smoker",
+  "display_name": "Subject BMI at visit one",
+  "description": "Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: [bmi_s1](../shhs/variables/bmi_s1)",
+  "type": "numeric",
+  "units": "",
+  "commonly_used": true
+}

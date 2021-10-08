@@ -1695,8 +1695,8 @@
 *******************************************************************************;
 data shhs1_harmonized;
 	set shhs1;
-	*create encounter variable for Spout to use for graph generation;
-    *encounter = 1;
+	*create visitnumber variable for Spout to use for graph generation;
+    visitnumber = 1;
 
 *demographics
 *age;
@@ -1769,7 +1769,7 @@ data shhs1_harmonized;
 
 	keep 
 		nsrrid
-		vt_s1
+		visitnumber
 		nsrr_age
 		nsrr_age_gt89
 		nsrr_sex

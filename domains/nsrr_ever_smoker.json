@@ -1,12 +1,12 @@
 [
   {
     "value": "false",
-    "display_name": "never regularly smoked",
+    "display_name": "no",
     "description": ""
   },
   {
     "value": "true",
-    "display_name": "ever regularly smoked",
+    "display_name": "yes",
     "description": ""
   },
   {

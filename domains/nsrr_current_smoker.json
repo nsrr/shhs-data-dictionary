@@ -1,12 +1,12 @@
 [
   {
     "value": "false",
-    "display_name": "not current smoker",
+    "display_name": "no",
     "description": ""
   },
   {
     "value": "true",
-    "display_name": "current smoker",
+    "display_name": "yes",
     "description": ""
   },
   {

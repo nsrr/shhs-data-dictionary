@@ -1,12 +1,12 @@
 [
   {
     "value": "1",
-    "display_name": "Age greater than or equal to 89 years",
+    "display_name": "yes",
     "description": ""
   },
   {
     "value": "0",
-    "display_name": "Age less than 89 years",
+    "display_name": "no",
     "description": ""
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "hispanic or latino",
+    "display_name": "hispanic or latino",
+    "description": ""
+  },
+  {
+    "value": "not hispanic or latino",
+    "display_name": "not hispanic or latino",
+    "description": ""
+  },
+  {
+    "value": "not reported",
+    "display_name": "not reported",
+    "description": ""
+  }
+]

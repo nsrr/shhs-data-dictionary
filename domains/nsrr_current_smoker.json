@@ -1,0 +1,18 @@
+[
+  {
+    "value": "false",
+    "display_name": "not current smoker",
+    "description": ""
+  },
+  {
+    "value": "true",
+    "display_name": "current smoker",
+    "description": ""
+  },
+  {
+    "value": "not reported",
+    "display_name": "not reported",
+    "description": ""
+  }
+]
+

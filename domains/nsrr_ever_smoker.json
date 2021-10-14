@@ -1,0 +1,18 @@
+[
+  {
+    "value": "false",
+    "display_name": "never regularly smoked",
+    "description": ""
+  },
+  {
+    "value": "true",
+    "display_name": "ever regularly smoked",
+    "description": ""
+  },
+  {
+    "value": "not reported",
+    "display_name": "not reported",
+    "description": ""
+  }
+]
+

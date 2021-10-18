@@ -6,6 +6,6 @@
   "units": "events per hour",
   "calculation": "60 * ( arnrembp + arnremop ) / ( slpprdp - minremp )",
   "labels": [
-    "phrnumrs_sn_f1t2"
+    "phrnumar_sn_f1t2"
   ]
 }

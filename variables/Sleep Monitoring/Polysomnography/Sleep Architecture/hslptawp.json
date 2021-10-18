@@ -1,6 +1,6 @@
 {
   "id": "hslptawp",
-  "display_name": "Per hour number of shift (sleep stages shift) from type II polysomnography",
+  "display_name": "Per hour number of shift (sleep stages shift) from sleep to awake from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "stage shifts",

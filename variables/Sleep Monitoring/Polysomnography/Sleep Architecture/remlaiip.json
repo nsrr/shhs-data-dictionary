@@ -1,6 +1,6 @@
 {
   "id": "remlaiip",
-  "display_name": "Total duration of sleep from type II polysomnography",
+  "display_name": "REM Sleep Latency: interval between first sleep epoch and REM sleep excluding wake from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes",

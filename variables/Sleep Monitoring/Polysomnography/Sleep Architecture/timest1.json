@@ -1,6 +1,6 @@
 {
   "id": "timest1",
-  "display_name": "Total duration of Stage 1 sleep from type II polysomnography",
+  "display_name": "Total duration of stage 1 sleep from type II polysomnography",
   "description": "Total time scored as stage 1 rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",

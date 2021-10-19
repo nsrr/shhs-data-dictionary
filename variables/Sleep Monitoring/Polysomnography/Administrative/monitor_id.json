@@ -4,5 +4,7 @@
   "description": "",
   "type": "integer",
   "units": "",
-  "labels": "unit"
+  "labels": [
+    "unit"
+  ]
 }

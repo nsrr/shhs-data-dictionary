@@ -2,6 +2,8 @@
 
 - Update display names for many sleep variables
 - Update labels for many variables
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.17.0.pre\`
 
 ## 0.16.0 (June 8, 2021)
 

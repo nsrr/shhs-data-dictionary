@@ -1,0 +1,8 @@
+{
+  "id": "monitor_id",
+  "display_name": "PSG Monitor ID",
+  "description": "",
+  "type": "integer",
+  "units": "",
+  "labels": "unit"
+}

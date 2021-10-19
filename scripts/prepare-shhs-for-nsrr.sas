@@ -42,7 +42,18 @@
     rcrdtime = timepart(rcrdtime2);
     format rcrdtime time8.;
 
-    keep pptid Abdodur Abdoqual Airdur Airqual Chestdur Chindur Chinqual Chstqual EEG1dur EEG1qual EEG2dur EEG2qual EOGLdur EOGLqual EOGRdur EOGRqual Hrdur Hrqual LightOff Oximdur Oximqual Posdur Posqual RcrdTime oximet51;
+    *rename monitor/headbox/scorer variables to match shhs2;
+    rename 
+      monid51 = monitor_id
+      hboxid51 = headbox_id
+      scoridsn = scorer_id
+      ;
+
+    keep 
+      pptid Abdodur Abdoqual Airdur Airqual Chestdur Chindur Chinqual Chstqual 
+      EEG1dur EEG1qual EEG2dur EEG2qual EOGLdur EOGLqual EOGRdur EOGRqual Hrdur 
+      Hrqual LightOff Oximdur Oximqual Posdur Posqual RcrdTime oximet51 scoridsn
+      HBOXID51 MONID51;
   run;
 
   data shhs1_ecg;
@@ -67,7 +78,15 @@
   data shhs2_investigator;
     set shhspsg.Shhs2final_15jan2014_4586_psg;
 
-    keep pptid STLOUTP STONSETP latreliable eogldur eogrdur chindur eeg1dur eeg2dur hrdur airdur ligh chestdur abdodur oximdur queogl queogr quchin queeg1 queeg2 quhr quair quchest quabdo quoxim posn;
+    *rename monitor/headbox/scorer variables to match shhs2;
+    rename 
+      scorerid = scorer_id
+      ;
+
+    keep 
+      pptid STLOUTP STONSETP latreliable eogldur eogrdur chindur eeg1dur 
+      eeg2dur hrdur airdur ligh chestdur abdodur oximdur queogl queogr quchin 
+      queeg1 queeg2 quhr quair quchest quabdo quoxim posn scorerid;
   run;
 
   data shhs2_ecg;
@@ -842,6 +861,26 @@
     if a;
 
     drop permiss;
+  run;
+
+  proc import datafile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\start-date-of-recording\nsrr-shhs1-edf-start-date-of-recording-month.csv"
+    out=shhs1_psgmonth_in
+    dbms=csv
+    replace;
+  run;
+
+  data shhs1_psgmonth;
+    set shhs1_psgmonth_in;
+
+    keep
+      nsrrid
+      psg_month
+      ;
+  run;
+
+  data shhs1;
+    merge shhs1 shhs1_psgmonth;
+    by nsrrid;
   run;
 
   data shhs2;
@@ -1635,6 +1674,47 @@
     drop permiss;
   run;
 
+  proc import datafile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\start-date-of-recording\nsrr-shhs2-edf-start-date-of-recording-month.csv"
+    out=shhs2_psgmonth_in
+    dbms=csv
+    replace;
+  run;
+
+  data shhs2_psgmonth;
+    set shhs2_psgmonth_in;
+
+    keep
+      nsrrid
+      psg_month
+      ;
+  run;
+
+  data shhs2;
+    merge shhs2 shhs2_psgmonth;
+    by nsrrid;
+  run;
+
+  proc import datafile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\unit-headbox-ids\shhs2-monitor-headbox.csv"
+    out=shhs2_monitor_in
+    dbms=csv
+    replace;
+  run;
+
+  data shhs2_monitor;
+    set shhs2_monitor_in;
+
+    keep
+      nsrrid
+      monitor_id
+      headbox_id
+      ;
+  run;
+
+  data shhs2;
+    merge shhs2 shhs2_monitor;
+    by nsrrid;
+  run;
+
   data shhs_cvd_event;
     length nsrrid 8.;
     merge shhs_cvd_event(in=a) obfid;
@@ -1694,93 +1774,93 @@
 * create harmonized datasets ;
 *******************************************************************************;
 data shhs1_harmonized;
-	set shhs1;
-	*create visitnumber variable for Spout to use for graph generation;
+  set shhs1;
+  *create visitnumber variable for Spout to use for graph generation;
     visitnumber = 1;
 
 *demographics
 *age;
 *use age_s1;
-	format nsrr_age 8.2;
- 	nsrr_age = age_s1;
+  format nsrr_age 8.2;
+  nsrr_age = age_s1;
 
 *age_gt89;
 *use age_s1;
-	format nsrr_age_gt89; 
-	if age_s1 gt 89 then nsrr_age_gt89=1;
-	else if age_s1 le 89 then nsrr_age_gt89=0;
+  format nsrr_age_gt89; 
+  if age_s1 gt 89 then nsrr_age_gt89=1;
+  else if age_s1 le 89 then nsrr_age_gt89=0;
 
 *sex;
 *use gender;
-	format nsrr_sex $10.;
-	if gender = '01' then nsrr_sex = 'male';
-	else if gender = '02' then nsrr_sex = 'female';
-	else if gender = '.' then nsrr_sex = 'not reported';
+  format nsrr_sex $10.;
+  if gender = '01' then nsrr_sex = 'male';
+  else if gender = '02' then nsrr_sex = 'female';
+  else if gender = '.' then nsrr_sex = 'not reported';
 
 *race;
 *use race;
     format nsrr_race $100.;
     if race = '01' then nsrr_race = 'white';
-    else if race = '02' then nsrr_race = 'black or african-american';
+    else if race = '02' then nsrr_race = 'black or african american';
     else if race = '03' then nsrr_race = 'other';
-	else if race = '.' then nsrr_race = 'not reported';
+  else if race = '.' then nsrr_race = 'not reported';
 
 *ethnicity;
 *use ethnicity;
-	format nsrr_ethnicity $100.;
+  format nsrr_ethnicity $100.;
     if ethnicity = '01' then nsrr_ethnicity = 'hispanic or latino';
     else if ethnicity = '02' then nsrr_ethnicity = 'not hispanic or latino';
-	else if ethnicity = '.' then nsrr_ethnicity = 'not reported';
+  else if ethnicity = '.' then nsrr_ethnicity = 'not reported';
 
 *anthropometry
 *bmi;
 *use bmi_s1;
-	format nsrr_bmi 10.9;
- 	nsrr_bmi = bmi_s1;
+  format nsrr_bmi 10.9;
+  nsrr_bmi = bmi_s1;
 
 *clinical data/vital signs
 *bp_systolic;
 *use systbp;
-	format nsrr_bp_systolic 8.2;
-	nsrr_bp_systolic = systbp;
+  format nsrr_bp_systolic 8.2;
+  nsrr_bp_systolic = systbp;
 
 *bp_diastolic;
 *use diasbp;
-	format nsrr_bp_diastolic 8.2;
- 	nsrr_bp_diastolic = diasbp;
+  format nsrr_bp_diastolic 8.2;
+  nsrr_bp_diastolic = diasbp;
 
 *lifestyle and behavioral health
 *current_smoker;
 *use smokstat_s1;
-	format nsrr_current_smoker $100.;
-	if smokstat_s1 = 0 then nsrr_current_smoker = 'false';
-	else if smokstat_s1 = 01 then nsrr_current_smoker = 'true';
-	else if smokstat_s1 = 02 then nsrr_current_smoker = 'false';
-	else if smokstat_s1 = . then nsrr_current_smoker = 'not reported';
+  format nsrr_current_smoker $100.;
+  if smokstat_s1 = 0 then nsrr_current_smoker = 'false';
+  else if smokstat_s1 = 01 then nsrr_current_smoker = 'true';
+  else if smokstat_s1 = 02 then nsrr_current_smoker = 'false';
+  else if smokstat_s1 = . then nsrr_current_smoker = 'not reported';
 
 
 *ever_smoker;
 *use smokstat_s1; 
-	format nsrr_ever_smoker $100.;
-	if smokstat_s1 = 00 then nsrr_ever_smoker = 'false';
-	else if smokstat_s1 ge 01 then nsrr_ever_smoker = 'true';
-	else if smokerstat_s1 = 2 then nsrr_ever_smoker = 'true';
-	else if smokstat_s1 = . then nsrr_ever_smoker = 'not reported';
+  format nsrr_ever_smoker $100.;
+  if smokstat_s1 = 00 then nsrr_ever_smoker = 'false';
+  else if smokstat_s1 ge 01 then nsrr_ever_smoker = 'true';
+  else if smokerstat_s1 = 2 then nsrr_ever_smoker = 'true';
+  else if smokstat_s1 = . then nsrr_ever_smoker = 'not reported';
 
-	keep 
-		nsrrid
-		visitnumber
-		nsrr_age
-		nsrr_age_gt89
-		nsrr_sex
-		nsrr_race
-		nsrr_ethnicity
-		nsrr_bmi
-		nsrr_bp_systolic
-		nsrr_bp_diastolic
-		nsrr_current_smoker
-		nsrr_ever_smoker
-		;
+  keep 
+    nsrrid
+    visitnumber
+    nsrr_age
+    nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic
+    nsrr_current_smoker
+    nsrr_ever_smoker
+    ;
 run;
 
 *******************************************************************************;
@@ -1790,21 +1870,21 @@ run;
 /* Checking for extreme values for continuous variables */
 
 proc means data=shhs1_harmonized;
-VAR 	nsrr_age
-		nsrr_bmi
-		nsrr_bp_systolic
-		nsrr_bp_diastolic;
+VAR   nsrr_age
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic;
 run;
 
 /* Checking categorical variables */
 
 proc freq data=shhs1_harmonized;
-table 	nsrr_age_gt89
-		nsrr_sex
-		nsrr_race
-		nsrr_ethnicity
-		nsrr_current_smoker
-		nsrr_ever_smoker;
+table   nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_current_smoker
+    nsrr_ever_smoker;
 run;
 
 *******************************************************************************;

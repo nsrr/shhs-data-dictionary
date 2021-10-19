@@ -1,6 +1,6 @@
 {
   "id": "remlaip",
-  "display_name": "REM Sleep Latency: interval between first sleep epoch and REM sleep including wake from type II polysomnography",
+  "display_name": "REM Sleep Latency: interval between the first sleep epoch and REM sleep including wake from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "minutes",

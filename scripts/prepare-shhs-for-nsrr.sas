@@ -1786,9 +1786,9 @@ data shhs1_harmonized;
 
 *age_gt89;
 *use age_s1;
-  format nsrr_age_gt89; 
-  if age_s1 gt 89 then nsrr_age_gt89=1;
-  else if age_s1 le 89 then nsrr_age_gt89=0;
+  format nsrr_age_gt89 $10.; 
+  if age_s1 gt 89 then nsrr_age_gt89='yes';
+  else if age_s1 le 89 then nsrr_age_gt89='no';
 
 *sex;
 *use gender;
@@ -1833,18 +1833,18 @@ data shhs1_harmonized;
 *current_smoker;
 *use smokstat_s1;
   format nsrr_current_smoker $100.;
-  if smokstat_s1 = 0 then nsrr_current_smoker = 'false';
-  else if smokstat_s1 = 01 then nsrr_current_smoker = 'true';
-  else if smokstat_s1 = 02 then nsrr_current_smoker = 'false';
+  if smokstat_s1 = 0 then nsrr_current_smoker = 'no';
+  else if smokstat_s1 = 01 then nsrr_current_smoker = 'yes';
+  else if smokstat_s1 = 02 then nsrr_current_smoker = 'no';
   else if smokstat_s1 = . then nsrr_current_smoker = 'not reported';
 
 
 *ever_smoker;
 *use smokstat_s1; 
   format nsrr_ever_smoker $100.;
-  if smokstat_s1 = 00 then nsrr_ever_smoker = 'false';
-  else if smokstat_s1 ge 01 then nsrr_ever_smoker = 'true';
-  else if smokerstat_s1 = 2 then nsrr_ever_smoker = 'true';
+  if smokstat_s1 = 00 then nsrr_ever_smoker = 'no';
+  else if smokstat_s1 ge 01 then nsrr_ever_smoker = 'yes';
+  else if smokerstat_s1 = 2 then nsrr_ever_smoker = 'yes';
   else if smokstat_s1 = . then nsrr_ever_smoker = 'not reported';
 
   keep 

@@ -1,12 +1,12 @@
 [
   {
-    "value": "yes",
-    "display_name": "yes",
+    "value": "no",
+    "display_name": "no",
     "description": ""
   },
   {
-    "value": "no",
-    "display_name": "no",
+    "value": "yes",
+    "display_name": "yes",
     "description": ""
   }
 ]

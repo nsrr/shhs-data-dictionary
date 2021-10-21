@@ -1,7 +1,7 @@
 {
   "id": "nsrr_ethnicity",
   "display_name": "Subject ethnicity",
-  "description": "Original missing value is recoded as \"not reported\". <br><br> Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: [ethnicity](../shhs/variables/ethnicity)",
+  "description": "Original missing value is recoded as \"not reported\". <br><br> Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: [ethnicity](https://sleepdata.org/datasets/shhs/variables/ethnicity)",
   "type": "choices",
   "domain": "nsrr_ethnicity",
   "labels": [

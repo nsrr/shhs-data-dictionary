@@ -1,7 +1,7 @@
 {
   "id": "nsrr_bmi",
   "display_name": "Body mass index (BMI)",
-  "description": "Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: [bmi_s1](../shhs/variables/bmi_s1) at Visit 1",
+  "description": "Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: [bmi_s1](https://sleepdata.org/datasets/shhs/variables/bmi_s1) at Visit 1",
   "type": "numeric",
   "units": "kilograms per square meter",
   "labels": [

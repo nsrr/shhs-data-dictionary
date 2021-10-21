@@ -1,6 +1,6 @@
 {
   "id": "hrembp5",
-  "display_name": "Total number of hypopnea in REM sleep in supine position: hypopneas with >= 5% oxygen desaturation threshold used and with or without arousal from type II polysomnography",
+  "display_name": "Total number of hypopnea in REM sleep in supine position: Hypopneas with >= 5% oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "hypopnea events",

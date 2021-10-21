@@ -1,6 +1,6 @@
 {
   "id": "ndes3ph",
-  "display_name": "Total number of oxygen saturation with oxygen desaturation >= 3% from type II polysomnography",
+  "display_name": "Total number of oxygen saturation with desat >= 3% from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "oxygen desaturation events",

@@ -1,6 +1,6 @@
 {
   "id": "pcstah3d",
-  "display_name": "Percentage of total sleep duration: (apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and > 3% oxygen desaturation and with or without arousal) from type II polysomnography",
+  "display_name": "Percentage of total sleep duration: (Apneas with no oxygen desaturation threshold used and with or without arousal + hypopneas with > 30% flow reduction and > 3% oxygen desaturation and with or without arousal) from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

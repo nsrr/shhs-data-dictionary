@@ -1,6 +1,6 @@
 {
   "id": "oanba3",
-  "display_name": "Total number of obstructive apnea in NREM sleep in supine position: obstructive apneas with >= 3% oxygen desaturation or with arousal from type II polysomnography",
+  "display_name": "Total number of obstructive apnea in NREM sleep in supine position: Obstructive apneas with >= 3% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "obstructive apnea events",

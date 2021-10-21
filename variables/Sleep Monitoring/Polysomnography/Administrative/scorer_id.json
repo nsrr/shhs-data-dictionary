@@ -2,6 +2,5 @@
   "id": "scorer_id",
   "display_name": "PSG Scorer ID",
   "description": "",
-  "type": "integer",
-  "units": ""
+  "type": "integer"
 }

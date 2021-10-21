@@ -1,6 +1,6 @@
 {
   "id": "mxhnba5",
-  "display_name": "Maximum duration of hypopnea in NREM sleep in supine position: hypopneas with >= 5% oxygen desaturation threshold used or with arousal from type II polysomnography",
+  "display_name": "Maximum duration of hypopnea in NREM sleep in supine position: Hypopneas with >= 5% oxygen desaturation threshold used or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

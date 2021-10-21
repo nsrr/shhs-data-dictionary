@@ -1,6 +1,6 @@
 {
   "id": "carbp4",
-  "display_name": "Total number of central apnea in REM sleep in supine position: central apneas with >= 4% oxygen desaturation threshold used and with or without arousal from type II polysomnography",
+  "display_name": "Total number of central apnea in REM sleep in supine position: Central apneas with >= 4% oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "central apnea events",

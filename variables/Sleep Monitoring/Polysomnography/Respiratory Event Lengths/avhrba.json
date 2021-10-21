@@ -1,6 +1,6 @@
 {
   "id": "avhrba",
-  "display_name": "Average duration of hypopnea in REM sleep in supine position: hypopneas with no oxygen desaturation threshold used only with arousal  from type II polysomnography",
+  "display_name": "Average duration of hypopnea in REM sleep in supine position: Hypopneas with no oxygen desaturation threshold used only with arousal  from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

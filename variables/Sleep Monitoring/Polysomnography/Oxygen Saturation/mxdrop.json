@@ -1,6 +1,6 @@
 {
   "id": "mxdrop",
-  "display_name": "Maximum level of oxygen saturation in REM sleep in non-supine position with oxygen desaturation > 0% from type II polysomnography",
+  "display_name": "Maximum oxygen saturation in REM sleep in non-supine position with oxygen desaturation > 0% from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

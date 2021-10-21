@@ -1,6 +1,6 @@
 {
   "id": "mxcarba",
-  "display_name": "Maximum duration of central apnea in REM sleep in supine position: central apneas with no oxygen desaturation threshold used only with arousal from type II polysomnography",
+  "display_name": "Maximum duration of central apnea in REM sleep in supine position: Central apneas with no oxygen desaturation threshold used only with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

@@ -1,6 +1,6 @@
 {
   "id": "ahremop",
-  "display_name": "Arousal Index (REM, Non-Supine): Arousals with no oxygen desaturation threshold used / hour of REM sleep in non-supine position from type II polysomnography",
+  "display_name": "Arousal Index (REM, Non-Supine): Arousals associated with > 0% oxygen desaturation / hour of REM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

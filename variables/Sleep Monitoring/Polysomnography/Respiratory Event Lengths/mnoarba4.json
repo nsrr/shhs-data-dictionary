@@ -1,6 +1,6 @@
 {
   "id": "mnoarba4",
-  "display_name": "Minimum duration of obstructive apnea in REM sleep in supine position: obstructive apneas with >= 4% oxygen desaturation or with arousal from type II polysomnography",
+  "display_name": "Minimum duration of obstructive apnea in REM sleep in supine position: Obstructive apneas with >= 4% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

@@ -1,6 +1,6 @@
 {
   "id": "avhnba5",
-  "display_name": "Average duration of hypopnea in NREM sleep in supine position: hypopneas with >= 5% oxygen desaturation or with arousal from type II polysomnography",
+  "display_name": "Average duration of hypopnea in NREM sleep in supine position: Hypopneas with >= 5% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

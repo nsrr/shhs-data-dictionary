@@ -1,6 +1,6 @@
 {
   "id": "timest2p",
-  "display_name": "Percentage of total sleep duration in Stage 2 from type II polysomnography",
+  "display_name": "Percentage of total sleep duration in stage 2 from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

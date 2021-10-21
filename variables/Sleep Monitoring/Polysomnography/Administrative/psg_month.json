@@ -2,6 +2,5 @@
   "id": "psg_month",
   "display_name": "Month of PSG recording start date",
   "description": "",
-  "type": "integer",
-  "units": ""
+  "type": "integer"
 }

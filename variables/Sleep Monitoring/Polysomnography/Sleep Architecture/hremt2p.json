@@ -1,6 +1,6 @@
 {
   "id": "hremt2p",
-  "display_name": "Per hour number of shift (sleep stages shift) from REM sleep to stage 2 sleep from type II polysomnography",
+  "display_name": "Number of shift (sleep stages shift) from REM sleep to stage 2 sleep per hour of sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "stage shifts",

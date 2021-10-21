@@ -1,6 +1,6 @@
 {
   "id": "avoanba",
-  "display_name": "Average duration of obstructive apnea in NREM sleep in supine position: obstructive apneas with no oxygen desaturation threshold used only with arousal from type II polysomnography",
+  "display_name": "Average duration of obstructive apnea in NREM sleep in supine position: Obstructive apneas with no oxygen desaturation threshold used only with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

@@ -1,6 +1,6 @@
 {
   "id": "times34p",
-  "display_name": "Percentage of total sleep duration in Stage 3 and 4 from type II polysomnography",
+  "display_name": "Percentage of total sleep duration in stage 3 and 4 from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",

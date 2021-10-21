@@ -1,6 +1,6 @@
 {
   "id": "canba2",
-  "display_name": "Total number of central apnea in NREM sleep in supine position: central apneas with >=2% oxygen desaturation or with arousal from type II polysomnography",
+  "display_name": "Total number of central apnea in NREM sleep in supine position: Central apneas with >=2% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "central apnea events",

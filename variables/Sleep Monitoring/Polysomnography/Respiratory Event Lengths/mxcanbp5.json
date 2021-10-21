@@ -1,6 +1,6 @@
 {
   "id": "mxcanbp5",
-  "display_name": "Maximum duration of central apnea in NREM sleep in supine position: central apneas with >= 5% oxygen desaturation threshold used and with or without arousal from type II polysomnography",
+  "display_name": "Maximum duration of central apnea in NREM sleep in supine position: Central apneas with >= 5% oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

@@ -1,6 +1,6 @@
 {
   "id": "mnhroa5",
-  "display_name": "Minimum duration of hypopnea in REM sleep in non-supine position: hypopneas with >= 5% oxygen desaturation or with arousal from type II polysomnography",
+  "display_name": "Minimum duration of hypopnea in REM sleep in non-supine position: Hypopneas with >= 5% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

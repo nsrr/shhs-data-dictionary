@@ -1,6 +1,6 @@
 {
   "id": "hroa2",
-  "display_name": "Total number of hypopnea in REM sleep in non-supine position: hypopneas with >= 2% oxygen desaturation or with arousal from type II polysomnography",
+  "display_name": "Total number of hypopnea in REM sleep in non-supine position: Hypopneas with >= 2% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "hypopnea events",

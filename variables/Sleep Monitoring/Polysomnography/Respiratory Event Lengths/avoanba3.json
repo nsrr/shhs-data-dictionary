@@ -1,6 +1,6 @@
 {
   "id": "avoanba3",
-  "display_name": "Average duration of obstructive apnea in NREM sleep in supine position: obstructive apneas with >= 3% oxygen desaturation or with arousal from type II polysomnography",
+  "display_name": "Average duration of obstructive apnea in NREM sleep in supine position: Obstructive apneas with >= 3% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

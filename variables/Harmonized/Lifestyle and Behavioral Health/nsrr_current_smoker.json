@@ -1,7 +1,7 @@
 {
   "id": "nsrr_current_smoker",
   "display_name": "Currently smoking cigarettes",
-  "description": "Indicates whether subject currently smokes cigarettes. <br><br>Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: [smokstat_s1](../shhs/variables/smokstat_s1)",
+  "description": "Indicates whether subject currently smokes cigarettes. <br><br>Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: [smokstat_s1](../shhs/variables/smokstat_s1) at Visit 1",
   "type": "choices",
   "domain": "nsrr_current_smoker",
   "labels": [

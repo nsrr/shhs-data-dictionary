@@ -1,7 +1,7 @@
 {
   "id": "nsrr_age_gt89",
   "display_name": "Indicates whether the subject's age (in years) used during date obfuscation is greater than 89 years",
-  "description": "Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: [age_s1](../shhs/variables/age_s1)",
+  "description": "Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: [age_s1](../shhs/variables/age_s1) at Visit 1",
   "type": "choices",
   "domain": "nsrr_age_gt89",
   "labels": [

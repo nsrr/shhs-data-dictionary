@@ -1,6 +1,6 @@
 {
   "id": "avcaroa2",
-  "display_name": "Average duration of central apnea in REM sleep in non-supine position: central apneas with >= 2% oxygen desaturation or with arousal from type II polysomnography",
+  "display_name": "Average duration of central apnea in REM sleep in non-supine position: Central apneas with >= 2% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

@@ -3,7 +3,6 @@
   "display_name": "PSG Headbox ID",
   "description": "",
   "type": "integer",
-  "units": "",
   "labels": [
     "unit"
   ]

@@ -1,6 +1,6 @@
 {
   "id": "hnrba3",
-  "display_name": "Total number of hypopnea in NREM sleep in supine position: hypopneas with >= 3% oxygen desaturation or with arousal from type II polysomnography",
+  "display_name": "Total number of hypopnea in NREM sleep in supine position: Hypopneas with >= 3% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "hypopnea events",

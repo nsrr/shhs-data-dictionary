@@ -1,6 +1,6 @@
 {
   "id": "avoarba5",
-  "display_name": "Average duration of obstructive apnea in REM sleep in supine position: obstructive apneas with >= 5% oxygen desaturation or with arousal from type II polysomnography",
+  "display_name": "Average duration of obstructive apnea in REM sleep in supine position: Obstructive apneas with >= 5% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "seconds",

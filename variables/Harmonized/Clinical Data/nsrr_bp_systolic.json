@@ -1,7 +1,7 @@
 {
   "id": "nsrr_bp_systolic",
   "display_name": "Systolic blood pressure",
-  "description": "Average resting systolic blood pressure of two measurements collected from the upper arm in a single clinic visit. When more than two measurements were collected, the average was calculated using the second and third measurements. In cases where either of the measurements was missing, the average was calculated discarding the missing value. <br><br>Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: [systbp](https://sleepdata.org/datasets/shhs/variables/systbp) at Visit 1",
+  "description": "Average resting systolic blood pressure of two measurements collected from the upper arm in a single clinic visit. When more than two measurements were collected, the average was calculated using the second and third measurements. In cases where either of the measurements was missing, the average was calculated discarding the missing value. <br><br>Harmonized by the NSRR team to align with <a href=\"https://github.com/UW-GAC/topmed-dcc-harmonized-phenotypes\" target=\"_blank\">TOPMed</a> and <a href=\"https://github.com/uc-cdis/gtex-dictionary/tree/master/gdcdictionary/schemas/\" target=\"_blank\">BioDataCatalyst standards</a>. Source: :systbp: at Visit 1",
   "type": "numeric",
   "units": "millimeters of mercury",
   "labels": [

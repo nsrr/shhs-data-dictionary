@@ -1,10 +1,10 @@
 {
   "id": "avdrbp5",
-  "display_name": "Average oxygen desaturation in REM sleep in supine position with oxygen desaturation >= 5% from type II polysomnography",
+  "display_name": "Average oxygen desaturation for all respiratory events with >= 5% desat and with or without arousal in REM sleep in supine position: Apneas with >= 5% oxygen desaturation and with or without arousal + hypopneas with > 30% flow reduction and >= 5% oxygen desaturation and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "avglvlds_srpb_dsge5_f1t2"
+    "avglvlds_srpb_ap5uhp3x5u_f1t2"
   ]
 }

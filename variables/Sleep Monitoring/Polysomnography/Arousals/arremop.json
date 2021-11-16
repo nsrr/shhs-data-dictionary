@@ -1,10 +1,10 @@
 {
   "id": "arremop",
-  "display_name": "Total number of arousals associated with > 0% oxygen desaturation during REM sleep in non-supine position from type II polysomnography",
+  "display_name": "Total number of arousals during REM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "arousals",
   "labels": [
-    "ttlnumar_srpo_dsgt0_f1t2"
+    "ttlnumar_srpo_f1t2"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "id": "dmxbroh",
-  "display_name": "Maximum heart rate with oxygen desaturation >3% and with arousal during REM sleep in non-supine position  from type II polysomnography",
+  "display_name": "Maximum heart rate with oxygen desaturation >3%  during REM sleep in non-supine position  from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "maxlvlhr_srsopo_dsgt3_f1t2"
+    "maxlvlhr_srpo_dsgt3_f1t2"
   ]
 }

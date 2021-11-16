@@ -1,7 +1,7 @@
 {
   "id": "cardroa3",
   "display_name": "Central Apnea Index (REM, Non-Supine): (Central apneas with >= 3% oxygen desaturation or with arousal) / hour of REM sleep in non-supine position from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

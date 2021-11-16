@@ -1,6 +1,6 @@
 {
   "id": "oxyund70",
-  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Medical Alert - oxygen saturation (SaO2) < 70",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Medical Alert - oxygen saturation (SaO2) < 70 for >10% total sleep time",
   "description": "Medical Alert for oxygen saturation (SaO2) under 70.",
   "type": "choices",
   "domain": "yesnon",

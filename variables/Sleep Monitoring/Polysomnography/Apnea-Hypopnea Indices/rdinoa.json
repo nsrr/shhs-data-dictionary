@@ -1,7 +1,7 @@
 {
   "id": "rdinoa",
   "display_name": "Hypopnea Index (NREM, Non-Supine): (Hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with arousal only) / hour of NREM sleep in non-supine position from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

@@ -1,10 +1,10 @@
 {
   "id": "smnbrbh",
-  "display_name": "Minimum heart rate with oxygen desaturation > 0% during REM sleep in supine position from type II polysomnography",
+  "display_name": "Minimum heart rate during REM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "minlvlhr_srpb_dsgt0_f1t2"
+    "minlvlhr_srpb_f1t2"
   ]
 }

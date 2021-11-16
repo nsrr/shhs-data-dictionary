@@ -1,7 +1,7 @@
 {
   "id": "rdi5ps",
   "display_name": "Apnea-Hypopnea Index (Supine): Apneas with >=5% oxygen desaturation and with or without arousal+ hypopneas with > 30% flow reduction and >=5% oxygen desaturation and with or without arousal / hour of sleep in supine position from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp5 + hnrbp5 + carbp5 + canbp5 + oarbp5 + oanbp5 ) / ( remepbp + nremepbp )",

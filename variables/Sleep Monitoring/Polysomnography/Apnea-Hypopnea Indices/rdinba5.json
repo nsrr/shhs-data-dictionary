@@ -1,7 +1,7 @@
 {
   "id": "rdinba5",
   "display_name": "Hypopnea Index (NREM, Supine): (Hypopneas with > 30% flow reduction and with >= 5% oxygen desaturation or with arousal) / hour of NREM sleep in supine position from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

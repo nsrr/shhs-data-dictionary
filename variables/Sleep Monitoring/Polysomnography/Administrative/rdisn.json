@@ -1,6 +1,6 @@
 {
   "id": "rdisn",
-  "display_name": "Polysomnogram (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Respiratory Disturbance Index (RDI) as assessed by scorer",
+  "display_name": "Polysomnogram (PSG) Scoring Notes (Sleep Heart Health Study Visit One (SHHS1)): Respiratory Disturbance Index (RDI) as assessed by scorer - total number of apnea and hypopneas associated with a >=3% desat per hour of sleep.",
   "description": "The Quality Assessment forms were completed by the scorer during preliminary review of the study, finalized after final scoring",
   "type": "numeric",
   "units": "events per hour",

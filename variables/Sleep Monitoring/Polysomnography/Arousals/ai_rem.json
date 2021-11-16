@@ -1,7 +1,7 @@
 {
   "id": "ai_rem",
   "display_name": "Arousal Index (REM): Arousals per hour of REM sleep from type II polysomnography",
-  "description": "Rapid eye movement sleep (REM) Arousal Index - total arousals in Rapid eye movement sleep (REM) per hours of Rapid eye movement sleep (REM)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( arrembp + arremop ) / minremp",

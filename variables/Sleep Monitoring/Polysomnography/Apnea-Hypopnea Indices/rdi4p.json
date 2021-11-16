@@ -1,7 +1,7 @@
 {
   "id": "rdi4p",
   "display_name": "Apnea-Hypopnea Index: Apneas with >=4% oxygen desaturation and with or without arousal+ hypopneas with > 30% flow reduction and >=4% oxygen desaturation and with or without arousal / hour of sleep from type II polysomnography",
-  "description": "Ratio of the count of all apneas (central and obstructive) and hypopneas associated with at least a >=4% oxygen desaturation to the total sleep time expressed in hours",
+  "description": "Ratio of the count of all apneas (central and obstructive) and hypopneas associated with at least a >=4% oxygen desaturation to the total sleep time",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp4 + carop4 + canbp4 + canop4 + oarbp4 + oarop4 + oanbp4 + oanop4 ) / slpprdp",

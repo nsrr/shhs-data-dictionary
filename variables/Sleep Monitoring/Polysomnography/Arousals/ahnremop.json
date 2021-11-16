@@ -1,10 +1,10 @@
 {
   "id": "ahnremop",
-  "display_name": "Arousal Index (NREM, Non-Supine): Arousals associated with > 0% oxygen desaturation / hour of NREM sleep in non-supine position from type II polysomnography",
+  "display_name": "Arousal Index (NREM, Non-Supine): Arousals per hour of NREM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumar_snpo_dsgt0_f1t2"
+    "phrnumar_snpo_f1t2"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "oardnba4",
   "display_name": "Obstructive Apnea Index (NREM, Supine): (Obstructive apneas with >= 4% oxygen desaturation or with arousal) / hour of NREM sleep in supine position from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

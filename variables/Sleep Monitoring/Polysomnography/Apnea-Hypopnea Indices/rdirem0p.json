@@ -1,7 +1,7 @@
 {
   "id": "rdirem0p",
   "display_name": "Apnea-Hypopnea Index (REM): Apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and with no oxygen desaturation threshold used and with or without arousal / hour of REM sleep from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp + hrop + carbp + carop + oarbp + oarop ) / minremp",

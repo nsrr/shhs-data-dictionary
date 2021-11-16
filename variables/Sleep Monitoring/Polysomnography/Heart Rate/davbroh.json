@@ -1,10 +1,10 @@
 {
   "id": "davbroh",
-  "display_name": "Average heart rate with oxygen desaturation >3% and with arousal during REM sleep in non-supine position from type II polysomnography",
+  "display_name": "Average heart rate with oxygen desaturation >3%  during REM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
   "units": "beats per minute",
   "labels": [
-    "avglvlhr_srsopo_dsgt3_f1t2"
+    "avglvlhr_srpo_dsgt3_f1t2"
   ]
 }

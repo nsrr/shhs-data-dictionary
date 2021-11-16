@@ -1,7 +1,7 @@
 {
   "id": "rdi0ps",
   "display_name": "Apnea-Hypopnea Index (Supine): Apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and with no oxygen desaturation used and with or without arousal / hour of sleep in supine position from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp + hnrbp + carbp + canbp + oarbp + oanbp ) / ( remepbp + nremepbp )",

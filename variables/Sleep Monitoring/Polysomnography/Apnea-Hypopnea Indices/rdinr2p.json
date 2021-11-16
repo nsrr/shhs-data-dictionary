@@ -1,7 +1,7 @@
 {
   "id": "rdinr2p",
   "display_name": "Apnea-Hypopnea Index (NREM): Apneas with >= 2% oxygen desaturation and with or without arousal+ hypopneas with > 30% flow reduction and with >= 2% oxygen desaturation and with or without arousal / hour of NREM sleep from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hnrbp2 + hnrop2 + canbp2 + canop2 + oanbp2 + oanop2 ) / ( slpprdp - minremp )",

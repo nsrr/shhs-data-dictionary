@@ -1,7 +1,7 @@
 {
   "id": "oardrbp",
   "display_name": "Obstructive Apnea Index (REM, Supine): (obstructive apneas with no oxygen desaturation threshold used and with or without arousal) / hour of REM sleep in supine position from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

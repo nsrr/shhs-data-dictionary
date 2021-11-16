@@ -1,7 +1,7 @@
 {
   "id": "rdi4ps",
   "display_name": "Apnea-Hypopnea Index (Supine): Apneas with >=4% oxygen desaturation and with or without arousal+ hypopneas with > 30% flow reduction and >=4% oxygen desaturation and with or without arousal / hour of sleep in supine position from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * ( hrembp4 + hnrbp4 + carbp4 + canbp4 + oarbp4 + oanbp4 ) / ( remepbp + nremepbp )",

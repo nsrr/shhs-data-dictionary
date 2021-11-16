@@ -1,7 +1,7 @@
 {
   "id": "cardrba",
   "display_name": "Central Apnea Index (REM, Supine): (Central apneas with no oxygen desaturation threshold used only with arousal) / hour of REM sleep in supine position from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

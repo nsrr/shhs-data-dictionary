@@ -1,7 +1,7 @@
 {
   "id": "cardnop5",
   "display_name": "Central Apnea Index (NREM): (Central apneas with >= 5% oxygen desaturation and with or without arousal) / hour of sleep from type II polysomnography",
-  "description": "",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

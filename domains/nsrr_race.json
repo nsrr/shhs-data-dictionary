@@ -5,8 +5,33 @@
     "description": ""
   },
   {
+    "value": "american indian or alaska native",
+    "display_name": "american indian or alaska native",
+    "description": ""
+  },
+  {
     "value": "black or african american",
     "display_name": "black or african american",
+    "description": ""
+  },
+  {
+    "value": "asian",
+    "display_name": "asian",
+    "description": ""
+  },
+  {
+    "value": "native hawaiian or other pacific islander",
+    "display_name": "native hawaiian or other pacific islander",
+    "description": ""
+  },
+  {
+    "value": "hispanic",
+    "display_name": "hispanic",
+    "description": ""
+  },
+  {
+    "value": "multiple",
+    "display_name": "multiple",
     "description": ""
   },
   {
@@ -15,8 +40,18 @@
     "description": ""
   },
   {
+    "value": "unknown",
+    "display_name": "unknown",
+    "description": ""
+  },
+  {
     "value": "not reported",
     "display_name": "not reported",
+    "description": ""
+  },
+  {
+    "value": "not allowed to collect",
+    "display_name": "not allowed to collect",
     "description": ""
   }
 ]

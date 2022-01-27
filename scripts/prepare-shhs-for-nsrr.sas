@@ -23,7 +23,7 @@
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
   libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
-  %let release = 0.17.0.pre;
+  %let release = 0.17.0;
 
 *******************************************************************************;
 * pull in source data ;
@@ -847,6 +847,7 @@
       sao2nrem
       sao2rem
       /* end set of removed variables for 0.16.0 */
+      prerdi /* scorer-recorded AHI, not necesary */
       ;
   run;
 
@@ -1645,6 +1646,7 @@
       sao2nrem
       sao2rem
       /* end set of removed vairables for 0.16.0 */
+      medalert /* extraneous, other alert variables exist */
       ;
   run;
 

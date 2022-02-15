@@ -1,3 +1,8 @@
+## 0.18.0 
+
+- Add harmonized core polysomnography variables
+
+
 ## 0.17.0 (January 27, 2022)
 
 - Update display names for many sleep variables

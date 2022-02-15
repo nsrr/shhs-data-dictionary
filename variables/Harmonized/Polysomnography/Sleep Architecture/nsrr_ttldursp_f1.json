@@ -1,0 +1,10 @@
+{
+  "id": "nsrr_ttldursp_f1",
+  "display_name": "Total Sleep Duration: the interval between sleep onset and sleep offset while the participant is asleep from polysomnography",
+  "description": "Conventionally, this would be called total sleep time (TST) (i.e. total time spent in stage 1 or greater).<br><br>Harmonized by the NSRR team. Source: :slpprdp:",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "ttldursp_f1t2"
+  ]
+}

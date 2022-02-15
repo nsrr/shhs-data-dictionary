@@ -1,0 +1,7 @@
+{
+  "id": "nsrr_flag_spsw",
+  "display_name": "Study scored sleep/wake rather than with full sleep staging if there is not sufficient quality on EEG lead. Studies scored as sleep wake have all sleep stages scored using a default of Stage 2 and no arousals are scored.  ",
+  "description": "Harmonized by the NSRR team. Source: :staging5:",
+  "type": "choices",
+  "domain": "nsrr_flag_spsw"
+}

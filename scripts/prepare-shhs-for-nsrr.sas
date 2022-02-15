@@ -23,7 +23,7 @@
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
   libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
-  %let release = 0.17.0;
+  %let release = 0.18.0.pre;
 
 *******************************************************************************;
 * pull in source data ;
@@ -1849,6 +1849,45 @@ data shhs1_harmonized;
   else if smokerstat_s1 = 2 then nsrr_ever_smoker = 'yes';
   else if smokstat_s1 = . then nsrr_ever_smoker = 'not reported';
 
+*polysomnography;
+*nsrr_ahi_hp3u;
+*use ahi_a0h3;
+  format nsrr_ahi_hp3u 8.2;
+  nsrr_ahi_hp3u = ahi_a0h3;
+
+*nsrr_ahi_hp3r_aasm15;
+*use ahi_a0h3a;
+  format nsrr_ahi_hp3r_aasm15 8.2;
+  nsrr_ahi_hp3r_aasm15 = ahi_a0h3a;
+ 
+*nsrr_ahi_hp4u_aasm15;
+*use ahi_a0h4;
+  format nsrr_ahi_hp4u_aasm15 8.2;
+  nsrr_ahi_hp4u_aasm15 = ahi_a0h4;
+  
+*nsrr_ahi_hp4r;
+*use ahi_a0h4a;
+  format nsrr_ahi_hp4r 8.2;
+  nsrr_ahi_hp4r = ahi_a0h4a;
+ 
+*nsrr_ttldursp_f1;
+*use slpprdp;
+  format nsrr_ttldursp_f1 8.2;
+  nsrr_ttldursp_f1 = slpprdp;
+  
+*nsrr_phrnumar_f1;
+*use ai_all;
+  format nsrr_phrnumar_f1 8.2;
+  nsrr_phrnumar_f1 = ai_all;  
+
+*nsrr_flag_spsw;
+*use staging5;
+  format nsrr_flag_spsw $100.;
+    if staging5 = 1 then nsrr_flag_spsw = 'sleep/wake only';
+    else if staging5 = 0 then nsrr_flag_spsw = 'full scoring';
+  else if staging5 = . then nsrr_flag_spsw = 'unknown';  
+  
+  
   keep 
     nsrrid
     visitnumber
@@ -1862,6 +1901,13 @@ data shhs1_harmonized;
     nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
+	nsrr_ahi_hp3u
+	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp4u_aasm15
+	nsrr_ahi_hp4r
+	nsrr_ttldursp_f1
+	nsrr_phrnumar_f1
+	nsrr_flag_spsw
     ;
 run;
 
@@ -1875,7 +1921,13 @@ proc means data=shhs1_harmonized;
 VAR   nsrr_age
     nsrr_bmi
     nsrr_bp_systolic
-    nsrr_bp_diastolic;
+    nsrr_bp_diastolic
+	nsrr_ahi_hp3u
+	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp4u_aasm15
+	nsrr_ahi_hp4r
+	nsrr_ttldursp_f1
+	nsrr_phrnumar_f1;
 run;
 
 /* Checking categorical variables */
@@ -1886,7 +1938,8 @@ table   nsrr_age_gt89
     nsrr_race
     nsrr_ethnicity
     nsrr_current_smoker
-    nsrr_ever_smoker;
+    nsrr_ever_smoker
+	nsrr_flag_spsw;
 run;
 
 *******************************************************************************;

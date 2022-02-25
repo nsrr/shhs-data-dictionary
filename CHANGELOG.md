@@ -1,4 +1,4 @@
-## 0.18.0 
+## 0.18.0 (February 25, 2022)
 
 - Add harmonized core polysomnography variables
 - The CSV datasets generated from a SAS export are located here:

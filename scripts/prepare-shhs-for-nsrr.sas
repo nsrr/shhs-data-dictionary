@@ -1784,7 +1784,8 @@ data shhs1_harmonized;
 *age;
 *use age_s1;
   format nsrr_age 8.2;
-  nsrr_age = age_s1;
+  if age_s1 gt 89 then nsrr_age = 90;
+  else if age_s1 le 89 then nsrr_age = age_s1;
 
 *age_gt89;
 *use age_s1;

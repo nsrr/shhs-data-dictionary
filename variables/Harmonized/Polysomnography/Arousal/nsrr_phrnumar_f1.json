@@ -6,5 +6,6 @@
   "units": "events per hour",
   "labels": [
     "phrnumar_f1t2"
-  ]
+  ],
+  "commonly_used": true
 }

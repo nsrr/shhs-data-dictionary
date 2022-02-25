@@ -6,5 +6,6 @@
   "units": "minutes",
   "labels": [
     "ttldursp_f1t2"
-  ]
+  ],
+  "commonly_used": true
 }

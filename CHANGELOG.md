@@ -1,3 +1,8 @@
+## 0.19.0
+
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.19.0.pre\`
+
 ## 0.18.0 (February 25, 2022)
 
 - Add harmonized core polysomnography variables

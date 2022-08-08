@@ -29,11 +29,11 @@
 * pull in source data ;
 *******************************************************************************;
   data obfid;
-    set obf.all_ids (keep=npptid nsrrid permiss rename=(npptid=pptid));
+    set obf.all_ids (keep=npptid nsrrid pptidr permiss rename=(npptid=pptid));
   run;
 
   data obfid_c;
-    set obf.all_ids (keep=pptid nsrrid permiss);
+    set obf.all_ids (keep=pptid nsrrid permiss pptidr);
   run;
 
   data shhs1_investigator;
@@ -161,9 +161,16 @@
     rename stroke = prev_hx_stroke;
     rename mi = prev_hx_mi;
 
-    *convert remlaip and remlaiip from seconds to minutes;
+    *convert variables from seconds to minutes;
     remlaip = remlaip / 60;
     remlaiip = remlaiip / 60;
+    scremp = scremp/60;
+    scstg1p = scstg1p/60;
+    scstg2p = scstg2p/60;
+    scstg34p = scstg34p/60;
+    slpprdp = slpprdp/60;
+    slplatp = slplatp/60;
+    timebedp = timebedp/60;
 
     *calculate minsat and avgsat;
     avgsat = ( ( avsao2nh ) * ( tmstg1p + tmstg2p + tmstg34p ) + ( avsao2rh ) * ( tmremp ) ) / 100;
@@ -171,6 +178,88 @@
     if mnsao2rh le 0 then mnsao2rh = .;
     if mnsao2nh le 0 then mnsao2nh = .;
     minsat = min(mnsao2rh,mnsao2nh);
+
+   *compute % sleep time in respiratory event types;
+    *time in central apneas;
+    pslp_ca0 = 
+      100 * (
+      ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in obstructive apneas;
+    pslp_oa0 = 
+      100 * (
+      ((((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all apneas (central + obstructive);
+    pslp_ap0 = 
+      100 * (
+      ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all apneas (central + obstructive) with >=3% desaturation;
+    pslp_ap3 = 
+      100 * (
+      ((((CARBP3 * AVCARBP3) + (CAROP3 * AVCAROP3) + (CANBP3 * AVCANBP3) + (CANOP3 * AVCANOP3))/ 60) + (((OARBP3 * AVOARBP3) + (OAROP3 * AVOAROP3) + (OANBP3 * AVOANBP3) + (OANOP3 * AVOANOP3)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all hypopneas;
+    pslp_hp0 = 
+      100 * (
+      (((HREMBP*AVHRBP) + (HROP*AVHROP) + (HNRBP*AVHNBP) + (HNROP*AVHNOP)) / 60)
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all hypopneas with >=3% desaturation;
+    pslp_hp3 = 
+      100 * (
+      (((HREMBP3*AVHRBP3) + (HROP3*AVHROP3) + (HNRBP3*AVHNBP3) + (HNROP3*AVHNOP3)) / 60)
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all hypopneas with >=3% desaturation or arousal;
+    pslp_hp3a = 
+      100 * (
+      (((HREMBA3*AVHRBA3) + (HROA3*AVHROA3) + (HNRBA3*AVHNBA3) + (HNROA3*AVHNOA3)) / 60)
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all apneas + hypopneas w/ >=3% desaturation;
+    pslp_ap0hp3 = 
+      100 * (
+      ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60) + (((HREMBP3*AVHRBP3) + (HROP3*AVHROP3) + (HNRBP3*AVHNBP3) + (HNROP3*AVHNOP3)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all apneas + hypopneas w/ >=3% desaturation or arousal;
+    pslp_ap0hp3a = 
+      100 * (
+      ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60) + (((HREMBA3*AVHRBA3) + (HROA3*AVHROA3) + (HNRBA3*AVHNBA3) + (HNROA3*AVHNOA3)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
 
     if yrssnr02 > 87 then yrssnr02 = .; /* should remove values of 88 or above */
     if mi2slp02 = 9999 then mi2slp02 = .;
@@ -757,13 +846,6 @@
     if mndroa4 = 255 then mndroa4 = .;
     if mndroa = 255 then mndroa = .;
     if mndnbp = 255 then mndnbp = .;
-    scremp = scremp/60;
-    scstg1p = scstg1p/60;
-    scstg2p = scstg2p/60;
-    scstg34p = scstg34p/60;
-    slpprdp = slpprdp/60;
-    slplatp = slplatp/60;
-    timebedp = timebedp/60;
 
     visitnumber = 1;
 
@@ -1009,6 +1091,88 @@
     rename prgstn2 = progst2;
     rename prmrn2 = premar2;
     rename overall = overall_shhs2;
+
+   *compute % sleep time in respiratory event types;
+    *time in central apneas;
+    pslp_ca0 = 
+      100 * (
+      ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in obstructive apneas;
+    pslp_oa0 = 
+      100 * (
+      ((((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all apneas (central + obstructive);
+    pslp_ap0 = 
+      100 * (
+      ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all apneas (central + obstructive) with >=3% desaturation;
+    pslp_ap3 = 
+      100 * (
+      ((((CARBP3 * AVCARBP3) + (CAROP3 * AVCAROP3) + (CANBP3 * AVCANBP3) + (CANOP3 * AVCANOP3))/ 60) + (((OARBP3 * AVOARBP3) + (OAROP3 * AVOAROP3) + (OANBP3 * AVOANBP3) + (OANOP3 * AVOANOP3)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all hypopneas;
+    pslp_hp0 = 
+      100 * (
+      (((HREMBP*AVHRBP) + (HROP*AVHROP) + (HNRBP*AVHNBP) + (HNROP*AVHNOP)) / 60)
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all hypopneas with >=3% desaturation;
+    pslp_hp3 = 
+      100 * (
+      (((HREMBP3*AVHRBP3) + (HROP3*AVHROP3) + (HNRBP3*AVHNBP3) + (HNROP3*AVHNOP3)) / 60)
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all hypopneas with >=3% desaturation or arousal;
+    pslp_hp3a = 
+      100 * (
+      (((HREMBA3*AVHRBA3) + (HROA3*AVHROA3) + (HNRBA3*AVHNBA3) + (HNROA3*AVHNOA3)) / 60)
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all apneas + hypopneas w/ >=3% desaturation;
+    pslp_ap0hp3 = 
+      100 * (
+      ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60) + (((HREMBP3*AVHRBP3) + (HROP3*AVHROP3) + (HNRBP3*AVHNBP3) + (HNROP3*AVHNOP3)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
+
+    *time in all apneas + hypopneas w/ >=3% desaturation or arousal;
+    pslp_ap0hp3a = 
+      100 * (
+      ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60) + (((HREMBA3*AVHRBA3) + (HROA3*AVHROA3) + (HNRBA3*AVHNBA3) + (HNROA3*AVHNOA3)) / 60))
+      /
+      (SLPPRDP)
+      )
+      ;
 
     if mxsao2rh le 0 then mxsao2rh = .;
     if mxdrop5 le 0 then mxdrop5 = .;
@@ -1902,13 +2066,13 @@ data shhs1_harmonized;
     nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
-	nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm15
-	nsrr_ahi_hp4u_aasm15
-	nsrr_ahi_hp4r
-	nsrr_ttldursp_f1
-	nsrr_phrnumar_f1
-	nsrr_flag_spsw
+  nsrr_ahi_hp3u
+  nsrr_ahi_hp3r_aasm15
+  nsrr_ahi_hp4u_aasm15
+  nsrr_ahi_hp4r
+  nsrr_ttldursp_f1
+  nsrr_phrnumar_f1
+  nsrr_flag_spsw
     ;
 run;
 
@@ -1923,12 +2087,12 @@ VAR   nsrr_age
     nsrr_bmi
     nsrr_bp_systolic
     nsrr_bp_diastolic
-	nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm15
-	nsrr_ahi_hp4u_aasm15
-	nsrr_ahi_hp4r
-	nsrr_ttldursp_f1
-	nsrr_phrnumar_f1;
+  nsrr_ahi_hp3u
+  nsrr_ahi_hp3r_aasm15
+  nsrr_ahi_hp4u_aasm15
+  nsrr_ahi_hp4r
+  nsrr_ttldursp_f1
+  nsrr_phrnumar_f1;
 run;
 
 /* Checking categorical variables */
@@ -1940,7 +2104,7 @@ table   nsrr_age_gt89
     nsrr_ethnicity
     nsrr_current_smoker
     nsrr_ever_smoker
-	nsrr_flag_spsw;
+  nsrr_flag_spsw;
 run;
 
 *******************************************************************************;

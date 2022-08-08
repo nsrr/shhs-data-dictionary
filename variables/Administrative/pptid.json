@@ -1,7 +1,6 @@
 {
   "id": "pptid",
-  "display_name": "Randomized ID: Incorporates parent study random ID",
-  "description": "This participant ID matches what is present in Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC).",
-  "type": "identifier",
-  "commonly_used": true
+  "display_name": "New SHHS participant ID assigned by BioLINCC",
+  "description": "This participant ID matches what is present in Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC). From BioLINCC, this column may be called 'npptid'.",
+  "type": "identifier"
 }

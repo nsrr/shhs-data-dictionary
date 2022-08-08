@@ -1,0 +1,7 @@
+{
+  "id": "pslp_ca0",
+  "display_name": "Percent of sleep time in central apneas",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "pslp_ap0",
+  "display_name": "Percent of sleep time in apneas",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "pslp_ap0hp3",
+  "display_name": "Percent of sleep time in [apneas] and [hypopneas with >= 3% oxygen desaturation]",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)"
+}

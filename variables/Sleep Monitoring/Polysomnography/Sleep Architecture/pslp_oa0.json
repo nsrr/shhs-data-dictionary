@@ -1,0 +1,7 @@
+{
+  "id": "pslp_oa0",
+  "display_name": "Percent of sleep time in obstructive apneas",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)"
+}

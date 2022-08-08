@@ -1,7 +1,7 @@
 {
   "id": "stloutp",
   "display_name": "Clock time when the participant is in bed or lights are out from type II polysomnography",
-  "description": "Conventionally, this variable would be called the start of time in bed (TIB).",
+  "description": "Conventionally, this variable would be called the start of time in bed (TIB). <br><br> In Visit 1 this variable represents the number of epochs from recording start.",
   "type": "time",
   "labels": [
     "begtimbd_f1t2"

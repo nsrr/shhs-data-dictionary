@@ -1,10 +1,10 @@
-## 0.19.0
+## 0.19.0 (August 8, 2022)
 
 - Clarify that 'stloutp' and 'stonsetp' represent epochs from recording start in Visit 1 dataset
 - Add percent sleep in respiratory event varaibles (pslp_*)
 - Add another BioLINCC linking identifier (pptidr)
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.19.0.pre\`
+  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.19.0\`
 
 ## 0.18.0 (February 25, 2022)
 

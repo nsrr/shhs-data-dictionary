@@ -37,7 +37,8 @@ class DictionaryTest < Minitest::Test
     "millimeters of mercury", "minutes", "naps", "number of events",
     "obstructive apnea events", "oxygen desaturation events", "pack years",
     "percent", "seconds", "stage shifts", "years",
-    "seconds from start of recording", "milliseconds", "milliseconds squared"]
+    "seconds from start of recording", "milliseconds", "milliseconds squared",
+    "percent (%)"]
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|
     define_method("test_units: #{variable.path}") do
       message = "\"#{variable.units}\"".red + " invalid units.\n" +

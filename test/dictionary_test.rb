@@ -36,7 +36,7 @@ class DictionaryTest < Minitest::Test
     "liters", "milligrams per deciliter", "millimeters",
     "millimeters of mercury", "minutes", "naps", "number of events",
     "obstructive apnea events", "oxygen desaturation events", "pack years",
-    "percent", "seconds", "stage shifts", "years",
+    "percent", "seconds", "stage shifts", "years", "minutes (min)",
     "seconds from start of recording", "milliseconds", "milliseconds squared",
     "percent (%)"]
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|

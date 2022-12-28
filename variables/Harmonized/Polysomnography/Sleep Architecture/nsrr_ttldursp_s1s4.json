@@ -1,0 +1,11 @@
+{
+  "id": "nsrr_ttldursp_s1s4",
+  "display_name": "REM Sleep Latency: the interval between the first sleep epoch and REM sleep excluding wake",
+  "description": "Harmonized by the NSRR team. Source: :remlaiip:",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttlprdsp_s1sr_f1t2"
+  ],
+  "commonly_used": true
+}

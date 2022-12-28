@@ -1,0 +1,11 @@
+{
+  "id": "nsrr_pctdursp_s2",
+  "display_name": "Percentage of total sleep duration (i.e., total sleep time, TST) in stage 2 from polysomnography",
+  "description": "Harmonized by the NSRR team. Source: :timest2p:",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_s2_f1t2"
+  ],
+  "commonly_used": true
+}

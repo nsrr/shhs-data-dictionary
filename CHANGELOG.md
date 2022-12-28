@@ -1,3 +1,12 @@
+## 0.20.0 
+
+- Add harmonized sleep architecture variables
+- Add NSRR harmonized terms for SHHS2
+- Add ORP data
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.20.0\`
+
+
 ## 0.19.0 (August 8, 2022)
 
 - Clarify that 'stloutp' and 'stonsetp' represent epochs from recording start in Visit 1 dataset

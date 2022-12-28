@@ -23,7 +23,7 @@
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
   libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
-  %let release = 0.19.0;
+  %let release = 0.20.0.pre;
 
 *******************************************************************************;
 * pull in source data ;
@@ -1939,6 +1939,7 @@
 *******************************************************************************;
 * create harmonized datasets ;
 *******************************************************************************;
+*create harmonized data for visit 1;
 data shhs1_harmonized;
   set shhs1;
   *create visitnumber variable for Spout to use for graph generation;
@@ -1959,7 +1960,7 @@ data shhs1_harmonized;
 
 *sex;
 *use gender;
-  format nsrr_sex $10.;
+  format nsrr_sex $100.;
   if gender = '01' then nsrr_sex = 'male';
   else if gender = '02' then nsrr_sex = 'female';
   else if gender = '.' then nsrr_sex = 'not reported';
@@ -2051,7 +2052,56 @@ data shhs1_harmonized;
     if staging5 = 1 then nsrr_flag_spsw = 'sleep/wake only';
     else if staging5 = 0 then nsrr_flag_spsw = 'full scoring';
   else if staging5 = . then nsrr_flag_spsw = 'unknown';  
+
+*nsrr_ttleffsp_f1;
+*use slpeffp;
+  format nsrr_ttleffsp_f1 8.2;
+  nsrr_ttleffsp_f1 = slpeffp;  
+
+*nsrr_ttllatsp_f1;
+*use slplatp;
+  format nsrr_ttllatsp_f1 8.2;
+  nsrr_ttllatsp_f1 = slplatp; 
+
+*nsrr_ttlprdsp_s1s4;
+*use remlaip;
+  format nsrr_ttlprdsp_s1s4 8.2;
+  nsrr_ttlprdsp_s1s4 = remlaip; 
+
+*nsrr_ttldursp_s1s4;
+*use remlaiip;
+  format nsrr_ttldursp_s1s4 8.2;
+  nsrr_ttldursp_s1s4 = remlaiip; 
+
+*nsrr_ttldurws_f1;
+*use waso;
+  format nsrr_ttldurws_f1 8.2;
+  nsrr_ttldurws_f1 = waso;
   
+*nsrr_pctdursp_s1;
+*use timest1p;
+  format nsrr_pctdursp_s1 8.2;
+  nsrr_pctdursp_s1 = timest1p;
+
+*nsrr_pctdursp_s2;
+*use timest2p;
+  format nsrr_pctdursp_s2 8.2;
+  nsrr_pctdursp_s2 = timest2p;
+
+*nsrr_pctdursp_s3;
+*use times34p;
+  format nsrr_pctdursp_s3 8.2;
+  nsrr_pctdursp_s3 = times34p;
+
+*nsrr_pctdursp_sr;
+*use timeremp;
+  format nsrr_pctdursp_sr 8.2;
+  nsrr_pctdursp_sr = timeremp;
+
+*nsrr_ttlprdbd_f1;
+*use timebedp;
+  format nsrr_ttlprdbd_f1 8.2;
+  nsrr_ttlprdbd_f1 = timebedp;  
   
   keep 
     nsrrid
@@ -2066,14 +2116,226 @@ data shhs1_harmonized;
     nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
-  nsrr_ahi_hp3u
-  nsrr_ahi_hp3r_aasm15
-  nsrr_ahi_hp4u_aasm15
-  nsrr_ahi_hp4r
-  nsrr_ttldursp_f1
-  nsrr_phrnumar_f1
-  nsrr_flag_spsw
+    nsrr_ahi_hp3u
+    nsrr_ahi_hp3r_aasm15
+    nsrr_ahi_hp4u_aasm15
+    nsrr_ahi_hp4r
+    nsrr_ttldursp_f1
+    nsrr_phrnumar_f1
+    nsrr_flag_spsw
+  	nsrr_ttleffsp_f1
+	nsrr_ttllatsp_f1
+	nsrr_ttlprdsp_s1s4
+	nsrr_ttldursp_s1s4
+	nsrr_ttldurws_f1
+	nsrr_pctdursp_s1
+	nsrr_pctdursp_s2
+	nsrr_pctdursp_s3
+	nsrr_pctdursp_sr
+	nsrr_ttlprdbd_f1
     ;
+run;
+
+*create harmonized data for visit 2;
+data shhs2_harmonized;
+  set shhs2;
+  *create visitnumber variable for Spout to use for graph generation;
+    visitnumber = 2;
+
+*demographics
+*age;
+*use age_s2;
+  format nsrr_age 8.2;
+  if age_s2 gt 89 then nsrr_age = 90;
+  else if age_s2 le 89 then nsrr_age = age_s2;
+
+*age_gt89;
+*use age_s2;
+  format nsrr_age_gt89 $10.; 
+  if age_s2 gt 89 then nsrr_age_gt89='yes';
+  else if age_s2 le 89 then nsrr_age_gt89='no';
+
+*sex;
+*use gender;
+  format nsrr_sex $100.;
+  if gender = '01' then nsrr_sex = 'male';
+  else if gender = '02' then nsrr_sex = 'female';
+  else if gender = '.' then nsrr_sex = 'not reported';
+
+*race;
+*use race;
+    format nsrr_race $100.;
+    if race = '01' then nsrr_race = 'white';
+    else if race = '02' then nsrr_race = 'black or african american';
+    else if race = '03' then nsrr_race = 'other';
+  else if race = '.' then nsrr_race = 'not reported';
+
+*ethnicity;
+*use ethnicity;
+  format nsrr_ethnicity $100.;
+    if ethnicity = '01' then nsrr_ethnicity = 'hispanic or latino';
+    else if ethnicity = '02' then nsrr_ethnicity = 'not hispanic or latino';
+  else if ethnicity = '.' then nsrr_ethnicity = 'not reported';
+
+*anthropometry
+*bmi;
+*use bmi_s2;
+  format nsrr_bmi 10.9;
+  nsrr_bmi = bmi_s2;
+
+*clinical data/vital signs
+*bp_systolic;
+*use systbp;
+  format nsrr_bp_systolic 8.2;
+  nsrr_bp_systolic = systbp;
+
+*bp_diastolic;
+*use diasbp;
+  format nsrr_bp_diastolic 8.2;
+  nsrr_bp_diastolic = diasbp;
+
+*lifestyle and behavioral health
+*current_smoker;
+*use smokstat_s2;
+  format nsrr_current_smoker $100.;
+  if smokstat_s2 = 0 then nsrr_current_smoker = 'no';
+  else if smokstat_s2 = 01 then nsrr_current_smoker = 'yes';
+  else if smokstat_s2 = 02 then nsrr_current_smoker = 'no';
+  else if smokstat_s2 = . then nsrr_current_smoker = 'not reported';
+
+
+*ever_smoker;
+*use smokstat_s2; 
+  format nsrr_ever_smoker $100.;
+  if smokstat_s2 = 00 then nsrr_ever_smoker = 'no';
+  else if smokstat_s2 ge 01 then nsrr_ever_smoker = 'yes';
+  else if smokerstat_s2 = 2 then nsrr_ever_smoker = 'yes';
+  else if smokstat_s2 = . then nsrr_ever_smoker = 'not reported';
+
+*polysomnography;
+*nsrr_ahi_hp3u;
+*use ahi_a0h3;
+  format nsrr_ahi_hp3u 8.2;
+  nsrr_ahi_hp3u = ahi_a0h3;
+
+*nsrr_ahi_hp3r_aasm15;
+*use ahi_a0h3a;
+  format nsrr_ahi_hp3r_aasm15 8.2;
+  nsrr_ahi_hp3r_aasm15 = ahi_a0h3a;
+ 
+*nsrr_ahi_hp4u_aasm15;
+*use ahi_a0h4;
+  format nsrr_ahi_hp4u_aasm15 8.2;
+  nsrr_ahi_hp4u_aasm15 = ahi_a0h4;
+  
+*nsrr_ahi_hp4r;
+*use ahi_a0h4a;
+  format nsrr_ahi_hp4r 8.2;
+  nsrr_ahi_hp4r = ahi_a0h4a;
+ 
+*nsrr_ttldursp_f1;
+*use slpprdp;
+  format nsrr_ttldursp_f1 8.2;
+  nsrr_ttldursp_f1 = slpprdp;
+  
+*nsrr_phrnumar_f1;
+*use ai_all;
+  format nsrr_phrnumar_f1 8.2;
+  nsrr_phrnumar_f1 = ai_all;  
+
+*nsrr_flag_spsw;
+*use staging5;
+  format nsrr_flag_spsw $100.;
+    if staging5 = 1 then nsrr_flag_spsw = 'sleep/wake only';
+    else if staging5 = 0 then nsrr_flag_spsw = 'full scoring';
+  else if staging5 = . then nsrr_flag_spsw = 'unknown';  
+
+*nsrr_ttleffsp_f1;
+*use slpeffp;
+  format nsrr_ttleffsp_f1 8.2;
+  nsrr_ttleffsp_f1 = slpeffp;  
+
+*nsrr_ttllatsp_f1;
+*use slplatp;
+  format nsrr_ttllatsp_f1 8.2;
+  nsrr_ttllatsp_f1 = slplatp; 
+
+*nsrr_ttlprdsp_s1s4;
+*use remlaip;
+  format nsrr_ttlprdsp_s1s4 8.2;
+  nsrr_ttlprdsp_s1s4 = remlaip; 
+
+*nsrr_ttldursp_s1s4;
+*use remlaiip;
+  format nsrr_ttldursp_s1s4 8.2;
+  nsrr_ttldursp_s1s4 = remlaiip; 
+
+*nsrr_ttldurws_f1;
+*use waso;
+  format nsrr_ttldurws_f1 8.2;
+  nsrr_ttldurws_f1 = waso;
+  
+*nsrr_pctdursp_s1;
+*use timest1p;
+  format nsrr_pctdursp_s1 8.2;
+  nsrr_pctdursp_s1 = timest1p;
+
+*nsrr_pctdursp_s2;
+*use timest2p;
+  format nsrr_pctdursp_s2 8.2;
+  nsrr_pctdursp_s2 = timest2p;
+
+*nsrr_pctdursp_s3;
+*use times34p;
+  format nsrr_pctdursp_s3 8.2;
+  nsrr_pctdursp_s3 = times34p;
+
+*nsrr_pctdursp_sr;
+*use timeremp;
+  format nsrr_pctdursp_sr 8.2;
+  nsrr_pctdursp_sr = timeremp;
+
+*nsrr_ttlprdbd_f1;
+*use timebedp;
+  format nsrr_ttlprdbd_f1 8.2;
+  nsrr_ttlprdbd_f1 = timebedp;  
+  
+  keep 
+    nsrrid
+    visitnumber
+    nsrr_age
+    nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic
+    nsrr_current_smoker
+    nsrr_ever_smoker
+    nsrr_ahi_hp3u
+    nsrr_ahi_hp3r_aasm15
+    nsrr_ahi_hp4u_aasm15
+    nsrr_ahi_hp4r
+    nsrr_ttldursp_f1
+    nsrr_phrnumar_f1
+    nsrr_flag_spsw
+  	nsrr_ttleffsp_f1
+	nsrr_ttllatsp_f1
+	nsrr_ttlprdsp_s1s4
+	nsrr_ttldursp_s1s4
+	nsrr_ttldurws_f1
+	nsrr_pctdursp_s1
+	nsrr_pctdursp_s2
+	nsrr_pctdursp_s3
+	nsrr_pctdursp_sr
+	nsrr_ttlprdbd_f1
+    ;
+run;
+
+* concatenate shhs1, and shhs2 harmonized datasets;
+data shhs_harmonized;
+   set shhs1_harmonized shhs2_harmonized;
 run;
 
 *******************************************************************************;
@@ -2082,29 +2344,39 @@ run;
 
 /* Checking for extreme values for continuous variables */
 
-proc means data=shhs1_harmonized;
+proc means data=shhs_harmonized;
 VAR   nsrr_age
     nsrr_bmi
     nsrr_bp_systolic
     nsrr_bp_diastolic
-  nsrr_ahi_hp3u
-  nsrr_ahi_hp3r_aasm15
-  nsrr_ahi_hp4u_aasm15
-  nsrr_ahi_hp4r
-  nsrr_ttldursp_f1
-  nsrr_phrnumar_f1;
+    nsrr_ahi_hp3u
+    nsrr_ahi_hp3r_aasm15
+    nsrr_ahi_hp4u_aasm15
+    nsrr_ahi_hp4r
+    nsrr_ttldursp_f1
+    nsrr_phrnumar_f1
+  	nsrr_ttleffsp_f1
+	nsrr_ttllatsp_f1
+	nsrr_ttlprdsp_s1s4
+	nsrr_ttldursp_s1s4
+	nsrr_ttldurws_f1
+	nsrr_pctdursp_s1
+	nsrr_pctdursp_s2
+	nsrr_pctdursp_s3
+	nsrr_pctdursp_sr
+	nsrr_ttlprdbd_f1;
 run;
 
 /* Checking categorical variables */
 
-proc freq data=shhs1_harmonized;
+proc freq data=shhs_harmonized;
 table   nsrr_age_gt89
     nsrr_sex
     nsrr_race
     nsrr_ethnicity
     nsrr_current_smoker
     nsrr_ever_smoker
-  nsrr_flag_spsw;
+    nsrr_flag_spsw;
 run;
 
 *******************************************************************************;
@@ -2130,7 +2402,7 @@ run;
   %lowcase(shhs2);
   %lowcase(shhs_cvd_summary);
   %lowcase(shhs_cvd_event);
-  %lowercase(shhs1_harmonized);
+  %lowercase(shhs_harmonized);
 
 *******************************************************************************;
 * export datasets to csv ;
@@ -2170,8 +2442,8 @@ run;
   run;
 
   proc export
-    data=shhs1_harmonized
-    outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs1-harmonized-dataset-&release..csv"
+    data=shhs_harmonized
+    outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs-harmonized-dataset-&release..csv"
     dbms=csv
     replace;
   run;

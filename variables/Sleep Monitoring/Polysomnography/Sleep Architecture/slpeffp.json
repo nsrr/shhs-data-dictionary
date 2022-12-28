@@ -1,7 +1,7 @@
 {
   "id": "slpeffp",
-  "display_name": "Sleep Maintenance Efficiency: the proportion of sleep duration in sleep period from type II polysomnography",
-  "description": "Sleep duration (i.e. total sleep time, TST) is the interval between sleep onset and sleep offset time while asleep. Sleep period is just the interval between sleep onset and sleep offset time. ",
+  "display_name": "Sleep Efficiency: the ratio of sleep duration (i.e., total sleep time) to in-bed period (i.e., time in bed) from type II polysomnography",
+  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep (i.e. total sleep time, TST), while in-bed period is the interval between lights off/in-bed time and lights on/out-bed time (i.e. time in bed, TIB).Percentage of time in bed that was spent sleeping, or the ratio of total sleep time to total time in bed, expressed as a percentage.",
   "type": "numeric",
   "units": "percent",
   "labels": [

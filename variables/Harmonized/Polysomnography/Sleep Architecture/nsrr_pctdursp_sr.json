@@ -1,0 +1,11 @@
+{
+  "id": "nsrr_pctdursp_sr",
+  "display_name": "Percentage of total sleep duration (i.e., total sleep time, TST) in REM from polysomnography",
+  "description": "Harmonized by the NSRR team. Source: :timeremp:",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_sr_f1t2"
+  ],
+  "commonly_used": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "nsrr_ttleffsp_f1",
+  "display_name": "Sleep Efficiency: the ratio of total sleep duration (i.e., total sleep time) to in-bed period (i.e., time in bed) from polysomnography",
+  "description": "Harmonized by the NSRR team. Source: :slpeffp:",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "ttleffsp_f1t2"
+  ],
+  "commonly_used": true
+}

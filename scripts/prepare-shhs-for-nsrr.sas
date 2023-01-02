@@ -2063,15 +2063,15 @@ data shhs1_harmonized;
   format nsrr_ttllatsp_f1 8.2;
   nsrr_ttllatsp_f1 = slplatp; 
 
-*nsrr_ttlprdsp_s1s4;
+*nsrr_ttlprdsp_s1sr;
 *use remlaip;
-  format nsrr_ttlprdsp_s1s4 8.2;
-  nsrr_ttlprdsp_s1s4 = remlaip; 
+  format nsrr_ttlprdsp_s1sr 8.2;
+  nsrr_ttlprdsp_s1sr = remlaip; 
 
-*nsrr_ttldursp_s1s4;
+*nsrr_ttldursp_s1sr;
 *use remlaiip;
-  format nsrr_ttldursp_s1s4 8.2;
-  nsrr_ttldursp_s1s4 = remlaiip; 
+  format nsrr_ttldursp_s1sr 8.2;
+  nsrr_ttldursp_s1sr = remlaiip; 
 
 *nsrr_ttldurws_f1;
 *use waso;
@@ -2125,8 +2125,8 @@ data shhs1_harmonized;
     nsrr_flag_spsw
   	nsrr_ttleffsp_f1
 	nsrr_ttllatsp_f1
-	nsrr_ttlprdsp_s1s4
-	nsrr_ttldursp_s1s4
+	nsrr_ttlprdsp_s1sr
+	nsrr_ttldursp_s1sr
 	nsrr_ttldurws_f1
 	nsrr_pctdursp_s1
 	nsrr_pctdursp_s2
@@ -2260,15 +2260,15 @@ data shhs2_harmonized;
   format nsrr_ttllatsp_f1 8.2;
   nsrr_ttllatsp_f1 = slplatp; 
 
-*nsrr_ttlprdsp_s1s4;
+*nsrr_ttlprdsp_s1sr;
 *use remlaip;
-  format nsrr_ttlprdsp_s1s4 8.2;
-  nsrr_ttlprdsp_s1s4 = remlaip; 
+  format nsrr_ttlprdsp_s1sr 8.2;
+  nsrr_ttlprdsp_s1sr = remlaip; 
 
-*nsrr_ttldursp_s1s4;
+*nsrr_ttldursp_s1sr;
 *use remlaiip;
-  format nsrr_ttldursp_s1s4 8.2;
-  nsrr_ttldursp_s1s4 = remlaiip; 
+  format nsrr_ttldursp_s1sr 8.2;
+  nsrr_ttldursp_s1sr = remlaiip; 
 
 *nsrr_ttldurws_f1;
 *use waso;
@@ -2322,8 +2322,8 @@ data shhs2_harmonized;
     nsrr_flag_spsw
   	nsrr_ttleffsp_f1
 	nsrr_ttllatsp_f1
-	nsrr_ttlprdsp_s1s4
-	nsrr_ttldursp_s1s4
+	nsrr_ttlprdsp_s1sr
+	nsrr_ttldursp_s1sr
 	nsrr_ttldurws_f1
 	nsrr_pctdursp_s1
 	nsrr_pctdursp_s2
@@ -2357,8 +2357,8 @@ VAR   nsrr_age
     nsrr_phrnumar_f1
   	nsrr_ttleffsp_f1
 	nsrr_ttllatsp_f1
-	nsrr_ttlprdsp_s1s4
-	nsrr_ttldursp_s1s4
+	nsrr_ttlprdsp_s1sr
+	nsrr_ttldursp_s1sr
 	nsrr_ttldurws_f1
 	nsrr_pctdursp_s1
 	nsrr_pctdursp_s2

@@ -1,0 +1,9 @@
+{
+  "id": "change_in_hr_perh_trt",
+  "display_name": "Arousal Characteristics - Change in HR per hr of TRT",
+  "description": "Heart rate in repsonse to arousals. <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs) ",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

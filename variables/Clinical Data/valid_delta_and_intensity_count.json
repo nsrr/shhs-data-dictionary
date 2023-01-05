@@ -1,0 +1,9 @@
+{
+  "id": "valid_delta_and_intensity_count",
+  "display_name": "Arousal Characteristics - Valid Delta & Intensity Count",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "avg_orp_last120m_nrem",
+  "display_name": "Avg ORP Last 120 min NREM",
+  "description": "Used (along with :min_orp_firsthalf_nrem:) to calculate :diff_orp:.  <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs) ",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "orpto9",
+  "display_name": "Orp-9 ",
+  "description": "Rate of sleep recovery following arousals. A high value reflects slow recovery and suggests high central arousability (Hyperarousal state).<br><br>[Younes et al. 2021 (PubMed ID: 34156473)](https://pubmed.ncbi.nlm.nih.gov/34156473/)<br>[Younes and Hanley 2016 (PubMed ID: 26718786)](https://pubmed.ncbi.nlm.nih.gov/26718786/)<br>[Younes and Giannouli 2020 (PubMed ID: 31992415)](https://pubmed.ncbi.nlm.nih.gov/31992415/) <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs) ",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

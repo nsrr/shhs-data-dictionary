@@ -1,7 +1,7 @@
 {
   "id": "afibincident",
   "display_name": "Incident Atrial Fibrillation (AF) after SHHS Visit 1",
-  "description": "Variable created as part of the analysis for [Tung et al. 2017 (PMID: 28668820)](https://www.ncbi.nlm.nih.gov/pubmed/28668820). Incident AF was considered present if AF was identified on a 12-lead ECG obtained at the second SHHS exam or was adjudicated by the parent cohorts at any time between the baseline PSG and the final follow-up date for AF ascertainment of June 30, 2006.",
+  "description": "Variable created as part of the analysis for [Tung et al. 2017 (PubMed ID: 28668820)](https://www.ncbi.nlm.nih.gov/pubmed/28668820). Incident AF was considered present if AF was identified on a 12-lead ECG obtained at the second SHHS exam or was adjudicated by the parent cohorts at any time between the baseline PSG and the final follow-up date for AF ascertainment of June 30, 2006.",
   "type": "choices",
   "domain": "noyes",
   "labels": [

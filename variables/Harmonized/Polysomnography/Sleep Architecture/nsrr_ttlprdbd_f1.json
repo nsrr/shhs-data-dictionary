@@ -1,7 +1,7 @@
 {
   "id": "nsrr_ttlprdbd_f1",
   "display_name": "Total In-bed Period: the interval between lights off/in-bed time and lights on/out-bed time from polysomnography",
-  "description": "Harmonized by the NSRR team. Conventionally, this would be called time in bed (TIB) <br><br> Source: :timebedp:",
+  "description": "Harmonized by the NSRR team. Conventionally, this would be called time in bed (TIB) <br><br>Source: :timebedp:",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [

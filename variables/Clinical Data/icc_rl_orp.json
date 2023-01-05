@@ -1,0 +1,9 @@
+{
+  "id": "icc_rl_orp",
+  "display_name": "Icc R/L Orp  ",
+  "description": "Intraclass correlation between right and left ORP across all epochs in TRT. A high correlation indicates good agreement in sleep depth between right and left hemispheres. The reasons for a low correlation could be: <br>a)  reduced range of ORP across TRT (e.g., little stage wake or deep sleep) <br> b) systematic difference between the two electrodes (e.g. noise in one electrode or unilateral brain pathology) <br> c) true dissociation between right and left sleep (Dolphin sleep). <br><br>:icc_ms_rows:, :icc_ms_col: and :icc_ms_error: distinguish between these three possibilities, respectively. <br><br>[Younes et al. 2021 (PubMed ID: 34156473)](https://pubmed.ncbi.nlm.nih.gov/34156473/) <br>[Dres et al. 2019 (PubMed ID: 30818966)](https://pubmed.ncbi.nlm.nih.gov/30818966/)<br>[Azarbarzin et al. 2021 (PubMed ID: 32441843)](https://pubmed.ncbi.nlm.nih.gov/32441843/)  <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs) ",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

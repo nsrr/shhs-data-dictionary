@@ -1,0 +1,9 @@
+{
+  "id": "delta_hr",
+  "display_name": "Arousal Characteristics - Delta HR",
+  "description": "Heart rate in repsonse to arousals. <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs) ",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

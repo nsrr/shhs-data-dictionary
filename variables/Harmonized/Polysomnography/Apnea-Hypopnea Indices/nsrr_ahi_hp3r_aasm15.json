@@ -1,7 +1,7 @@
 {
   "id": "nsrr_ahi_hp3r_aasm15",
   "display_name": "Apnea-Hypopnea Index : (All apneas + hypopneas with >=30% nasal cannula [or alternative sensor] reduction and >= 3% oxygen desaturation or with arousal) / hour of sleep ",
-  "description": "Harmonized by the NSRR team. <br><br> The definition for hypopneas is consistent with the following clinical guidelines: (1) American Academy of Sleep Medicine (AASM) 2007 Manual (2012 update) (recommended). [Berry RB et al. 2012 (PubMed ID:23066376)] (https://www.ncbi.nlm.nih.gov/pubmed/23066376), and (2) American Academy of Sleep Medicine (AASM) 2015 (recommended) [Berry RB et al. The AASM Manual for the Scoring of Sleep and Associated Events: Rules, Terminology and Technical Specifications, Version 2.2. American Academy of Sleep Medicine, Darien, IL, 2015.]<br><br> Refer to the source for detailed definition for respiratory events: :ahi_a0h3a:",
+  "description": "Harmonized by the NSRR team. <br><br>The definition for hypopneas is consistent with the following clinical guidelines: (1) American Academy of Sleep Medicine (AASM) 2007 Manual (2012 update) (recommended). [Berry RB et al. 2012 (PubMed ID:23066376)] (https://www.ncbi.nlm.nih.gov/pubmed/23066376), and (2) American Academy of Sleep Medicine (AASM) 2015 (recommended) [Berry RB et al. The AASM Manual for the Scoring of Sleep and Associated Events: Rules, Terminology and Technical Specifications, Version 2.2. American Academy of Sleep Medicine, Darien, IL, 2015.]<br><br>Refer to the source for detailed definition for respiratory events: :ahi_a0h3a:",
   "type": "numeric",
   "units": "events per hour",
   "labels": [

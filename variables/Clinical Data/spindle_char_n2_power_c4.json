@@ -1,0 +1,9 @@
+{
+  "id": "spindle_char_n2_power_c4",
+  "display_name": "Spindle Characteristics (Stage N2) - Power (C4)",
+  "description": "Spindle characteristics in stage N2. For detection methods and validation see Method A10: [Goldschmied et al. 2021 (PubMed ID: 33165618)](https://pubmed.ncbi.nlm.nih.gov/33165618/), and [Guadagni et al. 2021 (PubMed ID:32281182)](https://pubmed.ncbi.nlm.nih.gov/32281182/)<br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs)",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

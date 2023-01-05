@@ -1,0 +1,9 @@
+{
+  "id": "icc_ms_rows",
+  "display_name": "Breakdown of ICC components - MS Rows",
+  "description": "Component of ICC, eee :icc_rl_orp: for more information. <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs) ",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

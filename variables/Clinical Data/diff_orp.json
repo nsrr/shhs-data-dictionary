@@ -1,0 +1,9 @@
+{
+  "id": "diff_orp",
+  "display_name": "Change in ORP across the night",
+  "description": "Change in ORP across the night, a greater increase in ORP from the beginning of to end of the night suggests more restorative sleep. [Younes et al. 2020 (PubMed ID: 32729619)](https://pubmed.ncbi.nlm.nih.gov/32729619/). <br><br>Source: :avg_orp_last120m_nrem: and :min_orp_firsthalf_nrem:. <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs) ",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

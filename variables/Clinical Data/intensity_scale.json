@@ -1,0 +1,9 @@
+{
+  "id": "intensity_scale",
+  "display_name": "Arousal Characteristics - Intensity Scale",
+  "description": "Arousal intensity on a scale from 1 to 9 ([Younes 2017](https://sleep.biomedcentral.com/articles/10.1186/s41606-016-0005-0)). <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs) ",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

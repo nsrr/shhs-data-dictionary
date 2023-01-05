@@ -1,0 +1,9 @@
+{
+  "id": "avg_normalized_eeg_power",
+  "display_name": "Average Normalized EEG Power ",
+  "description": "In some PSGs the EEG is generally low in amplitude in all frequency ranges while in others it is high. The reasons for these differences could be technical (distance between active and reference electrode, electrode impedance), biological (e.g. age, skin or skull impedance) or some other reason [Younes et al. 2021 (PubMed ID: 34156473)](https://pubmed.ncbi.nlm.nih.gov/34156473/). <br><br>This index was recently found to be a risk factor for future development of dementia  [(Stone et al. 2018)](https://doi.org/10.1093/sleep/zsy061.1012). In addition, it was found to be highly reproducible across 5 years of follow up. A high value also results in artifactually high spindle power and density and higher alpha intrusion.  <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs) ",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

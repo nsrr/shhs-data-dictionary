@@ -1,0 +1,9 @@
+{
+  "id": "clinical_category",
+  "display_name": "Clinical Category",
+  "description": "Clinical Category as per [Younes et al. 2021 (PubMed ID: 34156473)](https://pubmed.ncbi.nlm.nih.gov/34156473/)<br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs)",
+  "type": "text",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

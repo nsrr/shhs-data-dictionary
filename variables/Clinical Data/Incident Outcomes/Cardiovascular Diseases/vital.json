@@ -1,7 +1,7 @@
 {
   "id": "vital",
   "display_name": "Vital status at last contact",
-  "description": "Deaths from any cause were identified and confirmed for the cohort using multiple concurrent approaches including follow-up interviews, written annual questionnaires or telephone contacts with study participants or next-of-kin, surveillance of local hospital records and community obituaries, and linkage with the Social Security Administration Death Master File. (For more information, see [Punjabi et al. 2009 (PMID: 19688045)](https://www.ncbi.nlm.nih.gov/pubmed/19688045))",
+  "description": "Deaths from any cause were identified and confirmed for the cohort using multiple concurrent approaches including follow-up interviews, written annual questionnaires or telephone contacts with study participants or next-of-kin, surveillance of local hospital records and community obituaries, and linkage with the Social Security Administration Death Master File. (For more information, see [Punjabi et al. 2009 (PubMed ID: 19688045)](https://www.ncbi.nlm.nih.gov/pubmed/19688045))",
   "type": "choices",
   "domain": "vitalstat",
   "labels": [

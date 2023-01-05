@@ -1,0 +1,9 @@
+{
+  "id": "pct_epoch_2_25to2_5pct",
+  "display_name": "Distribution of epochs in 2.25-2.5% ORP decile",
+  "description": "Distribution of 30-s epochs, as a percent of total recording time in different ORP deciles. [Younes et al. 2022 (PubMed ID: 35272350)](https://pubmed.ncbi.nlm.nih.gov/35272350/) <br><br>ORP is a continuous index of sleep depth and wake propensity. A value of 0 indicates very deep sleep; a value of 2.5 indicates full wakefulness. These values are used to construct the ORP histogram and ORP phenotype (:orp_type:).  <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs) ",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "sh319d",
   "display_name": "Epworth Sleepiness Scale: Chance of dozing as a passenger in a car for an hour without a break",
-  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/abc/variables?search=epworth)",
+  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br>[Search for all ESS variables within this dataset](https://sleepdata.org/datasets/abc/variables?search=epworth)",
   "type": "choices",
   "domain": "nhchan4",
   "labels": [

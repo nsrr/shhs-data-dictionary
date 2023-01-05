@@ -1,0 +1,9 @@
+{
+  "id": "avg_orp_nonrem",
+  "display_name": "Average ORP During non-REM",
+  "description": "Average of ORP in all 30-s epochs during manually scored sleep stages. <br><br>ORP is a continuous index of sleep depth and wake propensity. A value of 0 indicates very deep sleep, a value of 2.5 indicates full wakefulness. <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs)",
+  "type": "numeric",
+  "labels": [
+    "eeg_shhs"
+  ]
+}

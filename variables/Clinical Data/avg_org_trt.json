@@ -1,7 +1,7 @@
 {
   "id": "avg_org_trt",
   "display_name": "Average ORP Over Total Recording Time",
-  "description": "Average of ORP in all 30-s epochs during total recording time. <br><br>ORP is a continuous index of sleep depth and wake propensity. A value of 0 indicates very deep sleep, a value of 2.5 indicates full wakefulness. <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs)",
+  "description": "Average Odds Ratio Product (ORP) in all 30-s epochs during total recording time. <br><br>ORP is a continuous index of sleep depth and wake propensity. A value of 0 indicates very deep sleep, a value of 2.5 indicates full wakefulness. <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs)",
   "type": "numeric",
   "labels": [
     "eeg_shhs"

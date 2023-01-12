@@ -1936,51 +1936,25 @@
     if a and b and c;
   run;
 
-  * EEG data;
+*******************************************************************************;
+* create eeg dataset ;
+*******************************************************************************;
+  	proc import datafile="\\rfawin.partners.org\bwh-sleepepi-shhs\nsrr-prep\eeg-biomarkers-younes\_source\EEG_Biomarkers_SHHS1_v4.xlsx"
+	        out=eeg
+	        dbms=xlsx
+	        replace;
+	run;
 
-proc import datafile="\\rfawin.partners.org\bwh-sleepepi-shhs\nsrr-prep\eeg-biomarkers-younes\EEG_Biomarkers_SHHS1_v4.xlsx"
-        out=eeg
-        dbms=xlsx
-        replace;
-run;
+	  data shhs_eeg;
+	set eeg;
 
-  data shhs_eeg;
-set eeg;
-*sex;
-*use gender;
- * format sex2 $100.;
- * if gender = '1' then sex2 = 'male';
- * else if gender = '2' then sex2 = 'female';
- * else if gender = '.' then sex2 = 'not reported';
+	format visitnumber $8.;
+	visitnumber = 1;
 
-*race;
-*use race;
-   * format race2 $100.;
-
-  *  if race = '1' then race2 = 'white';
-  *  else if race = '2' then race2 = 'black or african american';
-  *  else if race = '3' then race2 = 'other';
-  * else if race = '.' then race2 = 'not reported';
-
-*drop gender race;
-
-run;
-
-
-* rename variables to match existing dictionary;
-data shhs_eeg;
-set shhs_eeg;
-
-*rename sex2 = gender;
-*rename race2 = race;
-rename file_id = nsrrid;
-rename bmi = bmi_s1;
-rename age = age_s1;
-
-
-run;
-
-
+	rename file_id = nsrrid;
+	rename bmi = bmi_s1;
+	rename age = age_s1;
+	run;
 
 
 
@@ -2453,7 +2427,8 @@ run;
   %lowcase(shhs_cvd_summary);
   %lowcase(shhs_cvd_event);
   %lowercase(shhs_harmonized);
-  %lowcase(shhs_eeg);
+  %lowercase(shhs_egg);
+  
 
 *******************************************************************************;
 * export datasets to csv ;
@@ -2499,10 +2474,26 @@ run;
     replace;
   run;
 
-   proc export
-    data=shhs_eeg
-    outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release\shhs1-eeg-biomarkers-dataset-&release..csv"
-    dbms=csv
-    replace;
-  run;
 
+* eeg exports;
+
+	proc export
+	    data=shhs_eeg
+	    outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\eeg-biomarkers-younes\_datasets\shhs1-eeg-biomarkers-dataset.csv"
+	    dbms=csv
+	    replace;
+	  run;
+
+	  proc export
+	    data=shhs_eeg
+	    outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\eeg-biomarkers-younes\_archive\shhs1-eeg-biomarkers-dataset-&rundate..csv"
+	    dbms=csv
+	  run;
+
+%let datetoday = %sysfunc(putn(%sysfunc(today()), mmddyy8.));
+	  proc export
+	    data=shhs_eeg
+	    outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release.\eeg-biomarkers\shhs1-eeg-biomarkers-dataset-&datetoday..csv"
+	    dbms=csv
+	    replace;
+	  run;

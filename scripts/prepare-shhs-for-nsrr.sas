@@ -7,6 +7,7 @@
 *                       sleepdata.org.
 * Revision History  :
 *   Date      Author    Revision
+*   20230112  MKT       Add EEG Biomarkers dataset
 *   20190528  MR        Add new variables for 0.14.0
 *   20171121  MR        Add variables from AF dataset
 *   20170928  MR        Finalize 0.12.0
@@ -23,7 +24,7 @@
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
   libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
-  %let release = 0.20.0.pre;
+  %let release = 0.20.0;
 
 *******************************************************************************;
 * pull in source data ;
@@ -1945,7 +1946,7 @@
 	        replace;
 	run;
 
-	  data shhs_eeg;
+	data shhs_eeg;
 	set eeg;
 
 	format visitnumber $8.;
@@ -2493,7 +2494,7 @@ run;
 %let datetoday = %sysfunc(putn(%sysfunc(today()), mmddyy8.));
 	  proc export
 	    data=shhs_eeg
-	    outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release.\eeg-biomarkers\shhs1-eeg-biomarkers-dataset-&datetoday..csv"
+	    outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\&release.\eeg-biomarkers\shhs1-eeg-biomarkers-dataset-&release..csv"
 	    dbms=csv
 	    replace;
 	  run;

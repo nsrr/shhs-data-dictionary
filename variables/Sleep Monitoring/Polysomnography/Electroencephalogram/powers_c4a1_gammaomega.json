@@ -1,6 +1,6 @@
 {
-  "id": "powers_c4a1_alpha",
-  "display_name": "Powers C4/A1  (µV^2) - Alpha  (7.33-12.0)",
+  "id": "powers_c4a1_gammaomega",
+  "display_name": "Powers C4/A1  (æV^2) - Gamma Omega (35.3-60.0)",
   "description": "Average power in all 3-s epochs in the indicated frequency range after excluding the highest 10% of values, which generally represent noise. <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs)",
   "type": "numeric",
   "labels": [

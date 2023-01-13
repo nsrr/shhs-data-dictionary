@@ -1,6 +1,6 @@
 {
   "id": "powers_c4a1_sigma",
-  "display_name": "Powers C4/A1  (µV^2) - Sigma   (12.33-14.0)",
+  "display_name": "Powers C4/A1  (æV^2) - Sigma   (12.33-14.0)",
   "description": "Average power in all 3-s epochs in the indicated frequency range after excluding the highest 10% of values, which generally represent noise. <br><br>[Search for all EEG variables within this dataset](https://sleepdata.org/datasets/shhs/variables?search=eeg_shhs)",
   "type": "numeric",
   "labels": [

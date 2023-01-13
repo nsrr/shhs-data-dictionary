@@ -1,8 +1,9 @@
-## 0.20.0 
+## 0.20.0 (Janurary 12, 2023)
 
 - Add harmonized sleep architecture variables
 - Add NSRR harmonized terms for SHHS2
 - Add ORP data
+- Add EEG Biomarkers data
 - The CSV datasets generated from a SAS export are located here:
   - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.20.0\`
 

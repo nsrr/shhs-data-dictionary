@@ -7,6 +7,7 @@
 *                       sleepdata.org.
 * Revision History  :
 *   Date      Author    Revision
+*   20230112  MKT       Add EEG Biomarkers dataset
 *   20190528  MR        Add new variables for 0.14.0
 *   20171121  MR        Add variables from AF dataset
 *   20170928  MR        Finalize 0.12.0
@@ -23,7 +24,7 @@
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
   libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
-  %let release = 0.20.0.pre;
+  %let release = 0.20.0;
 
 *******************************************************************************;
 * pull in source data ;

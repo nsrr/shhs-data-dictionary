@@ -1,4 +1,4 @@
-## 0.21.0 
+## 0.21.0 (July 2, 2024)
 
 - Exclude certain datasets (HRV 5min) from Spout deploy process
 - Clean up metadata on some variables

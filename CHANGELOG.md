@@ -1,4 +1,10 @@
-## 0.20.0 (Janurary 12, 2023)
+## 0.21.0 
+
+- Exclude certain datasets from Spout deploy process
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.21.0\`
+
+## 0.20.0 (January 12, 2023)
 
 - Add harmonized sleep architecture variables
 - Add NSRR harmonized terms for SHHS2

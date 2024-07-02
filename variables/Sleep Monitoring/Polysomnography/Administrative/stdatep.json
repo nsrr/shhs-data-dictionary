@@ -3,5 +3,6 @@
   "display_name": "Polysomnogram (PSG) Start Date (Sleep Heart Health Study Visit Two (SHHS2))",
   "description": "",
   "type": "numeric",
-  "units": "days from index date"
+  "units": "days from index date",
+  "commonly_used": true
 }

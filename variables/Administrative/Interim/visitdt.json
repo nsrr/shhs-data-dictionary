@@ -1,7 +1,7 @@
 {
   "id": "visitdt",
   "display_name": "Interim Follow-up: Days from index date to follow-up visit",
-  "description": "",
+  "description": "For polysomnography visit, refer to :stdydtqa: (SHHS1) and :stdatep: (SHHS2)",
   "type": "numeric",
   "units": "days from index date",
   "labels": [

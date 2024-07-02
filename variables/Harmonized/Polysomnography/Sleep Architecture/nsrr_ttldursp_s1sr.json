@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [
-    "ttlprdsp_s1sr_f1t2"
+    "ttldursp_s1sr_f1t2"
   ],
   "commonly_used": true
 }

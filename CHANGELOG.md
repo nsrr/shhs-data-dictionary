@@ -1,6 +1,7 @@
 ## 0.21.0 
 
-- Exclude certain datasets from Spout deploy process
+- Exclude certain datasets (HRV 5min) from Spout deploy process
+- Clean up metadata on some variables
 - The CSV datasets generated from a SAS export are located here:
   - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.21.0\`
 

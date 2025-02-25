@@ -3,7 +3,7 @@
   "display_name": "Percentage of total sleep duration in stage 3 and 4 from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "tmstg34p",
   "labels": [
     "pctdursp_s3_f1t2",

@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (Sleep Heart Health Study Visit One (SHHS1)): cigars before bed",
   "description": "How many cigars 4 hours before going to sleep last night? (number, up to 2 digits)",
   "type": "numeric",
-  "units": "cigars",
+  "units": "number of servings",
   "labels": [
     "smoking",
     "morning_survey_form_shhs"

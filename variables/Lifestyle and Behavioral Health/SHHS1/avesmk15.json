@@ -3,7 +3,7 @@
   "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): cigarettes per day on average",
   "description": "How many cigarettes per day did you average over all the time you smoked? (number per day, up to 2 digits)",
   "type": "numeric",
-  "units": "cigarettes",
+  "units": "number of servings",
   "labels": [
     "smoking",
     "health_interview_shhs"

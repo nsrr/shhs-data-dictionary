@@ -3,7 +3,7 @@
   "display_name": "Average oxygen desaturation for all respiratory events with >= 2% desat or arousal in NREM sleep in supine position: Apneas with >= 2% oxygen desaturation or with arousal + hypopneas with > 30% flow reduction and >= 2% oxygen desaturation or arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "avglvlds_snpb_ap2rhp3x2r_f1t2"
   ]

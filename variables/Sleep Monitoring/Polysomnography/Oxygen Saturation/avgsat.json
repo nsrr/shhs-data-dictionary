@@ -3,7 +3,7 @@
   "display_name": "Average oxygen saturation during total sleep duration from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "( ( avsao2nh ) * ( timest1p + timest2p + times34p ) + ( avsao2rh ) * ( timeremp ) ) / 100",
   "labels": [
     "avglvlsa_f1t2"

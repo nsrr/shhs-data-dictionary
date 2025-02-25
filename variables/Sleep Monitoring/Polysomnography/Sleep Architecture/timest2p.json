@@ -3,7 +3,7 @@
   "display_name": "Percentage of total sleep duration in stage 2 from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "tmstg2p",
   "labels": [
     "pctdursp_s2_f1t2",

@@ -3,7 +3,7 @@
   "display_name": "Percent total sleep duration with below 75% oxygen saturation from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "pctlt75",
     "pctdursp_salt75_f1t2"

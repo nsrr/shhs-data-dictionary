@@ -3,7 +3,7 @@
   "display_name": "Average duration of hypopnea in REM sleep in non-supine position: Hypopneas with >= 2% oxygen desaturation or with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "avgdurhp_srpo_hp3x2r_f1t2"
   ]

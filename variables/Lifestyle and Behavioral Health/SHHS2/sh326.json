@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Cups of tea per day",
   "description": "26. How many cups of regular tea (with caffeine) do you drink on a typical day?",
   "type": "numeric",
-  "units": "cups",
+  "units": "number of servings",
   "labels": [
     "caffeine",
     "sleep_habits_questionnaire_shhs"

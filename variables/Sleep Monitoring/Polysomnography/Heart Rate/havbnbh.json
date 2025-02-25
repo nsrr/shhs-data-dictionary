@@ -3,7 +3,7 @@
   "display_name": "Average heart rate associated with apneas with >=3% oxygen desaturation and with or without arousal+ hypopneas with > 30% flow reduction and >=3% oxygen desaturation and with or without arousal during NREM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "labels": [
     "avglvlhr_snpb_ap3uhp3x3u_f1t2"
   ]

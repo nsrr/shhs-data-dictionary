@@ -3,7 +3,7 @@
   "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): Hours slept during naps",
   "description": "Hours slept during naps, if any (hours component of time, up to 2 digits) 0=no naps taken",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "health_interview_shhs",
     "sleep_hygiene"

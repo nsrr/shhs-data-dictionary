@@ -3,7 +3,7 @@
   "display_name": "Total number of arousals during REM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "arousals",
+  "units": "number of events",
   "labels": [
     "ttlnumar_srpo_f1t2"
   ]

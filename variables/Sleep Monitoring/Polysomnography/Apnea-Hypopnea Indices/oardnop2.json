@@ -3,7 +3,7 @@
   "display_name": "Obstructive Apnea Index (NREM, Non-Supine)): (Obstructive apneas with >= 2% oxygen desaturation and with or without arousal) / hour of NREM sleep in non-supine position from type II polysomnography",
   "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "oai_snpo_oa2u_f1t2"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Apnea-Hypopnea Index: Apneas with >=2% oxygen desaturation or with arousal+ hypopneas with > 30% flow reduction and >=2% oxygen desaturation or with arousal / hour of sleep from type II polysomnography",
   "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "calculation": "60 * ( hremba2 + hroa2 + hnrba2 + hnroa2 + carba2 + caroa2 + canba2 + canoa2 + oarba2 + oaroa2 + oanba2 + oanoa2 ) / slpprdp",
   "labels": [
     "ahi_ap2rhp3x2r_f1t2"

@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Number of 5+ minute naps during week",
   "description": "a. Number of times during a usual week that you nap for 5 minutes or more:",
   "type": "numeric",
-  "units": "naps",
+  "units": "number of events per week",
   "labels": [
     "frequency",
     "sleep_hygiene",

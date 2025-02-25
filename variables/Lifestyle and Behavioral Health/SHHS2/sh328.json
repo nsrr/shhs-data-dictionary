@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Glasses of wine per week",
   "description": "28. How many glasses (4 oz.) of wine do you usually have per week?",
   "type": "numeric",
-  "units": "glasses",
+  "units": "number of servings",
   "labels": [
     "alcohol",
     "sleep_habits_questionnaire_shhs"

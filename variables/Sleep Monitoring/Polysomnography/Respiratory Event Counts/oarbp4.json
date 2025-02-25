@@ -3,7 +3,7 @@
   "display_name": "Total number of obstructive apnea in REM sleep in supine position: Obstructive apneas with >= 4% oxygen desaturation and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "obstructive apnea events",
+  "units": "number of events",
   "labels": [
     "ttlnumoa_srpb_oa4u_f1t2"
   ]

@@ -1,9 +1,9 @@
 {
   "id": "event04end",
   "display_name": "Respiratory event (04) end time",
-  "description": "",
+  "description": "From the start of recording",
   "type": "numeric",
-  "units": "seconds from start of recording",
+  "units": "seconds (s)",
   "labels": [
     "heart rate variability"
   ]

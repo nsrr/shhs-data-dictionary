@@ -3,7 +3,7 @@
   "display_name": "Arousal Index (REM, Supine): Arousals per hour of REM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "phrnumar_srpb_f1t2"
   ]

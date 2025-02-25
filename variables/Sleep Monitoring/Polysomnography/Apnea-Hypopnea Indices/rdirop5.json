@@ -3,7 +3,7 @@
   "display_name": "Hypopnea Index (REM, Non-Supine): (Hypopneas with > 30% flow reduction and with >= 5% oxygen desaturation and with or without arousal) / hour of REM sleep in non-supine position from type II polysomnography",
   "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "hi_srpo_hp3x5u_f1t2"
   ]

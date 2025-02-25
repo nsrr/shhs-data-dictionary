@@ -3,7 +3,7 @@
   "display_name": "Interim Follow-up: Hours participant drives each day",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "interim_shhs"
   ]

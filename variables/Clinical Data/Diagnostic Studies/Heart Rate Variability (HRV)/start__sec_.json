@@ -1,9 +1,9 @@
 {
   "id": "start__sec_",
   "display_name": "5 minute window start time",
-  "description": "",
+  "description": "From the start of recording",
   "type": "numeric",
-  "units": "seconds from start of recording",
+  "units": "seconds (s)",
   "labels": [
     "heart rate variability"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Average number of cigarettes/day",
   "description": "24. On average, during the entire time you smoked, how many cigarettes did you usually smoke per day?",
   "type": "numeric",
-  "units": "cigarettes",
+  "units": "number of servings",
   "labels": [
     "smoking",
     "sleep_habits_questionnaire_shhs"

@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (Sleep Heart Health Study Visit Two (SHHS2)): Reported time actually slept last night",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "morning_survey_form_shhs"
   ]

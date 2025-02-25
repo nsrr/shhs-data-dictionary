@@ -3,7 +3,7 @@
   "display_name": "Health Interview (Sleep Heart Health Study Visit Two (SHHS2)): Total minutes slept during nap",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "sleep_hygiene"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Percentage of total sleep duration in non-supine position from type II polysomnography",
   "description": "Percent of sleep time in non-supine body position",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "100 * ( remepop + nremepop ) / slpprdp",
   "labels": [
     "pctdursp_po_f1t2"

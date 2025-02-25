@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (Sleep Heart Health Study Visit One (SHHS1)): cups of tea before bed",
   "description": "How many cups of tea (with caffeine) 4 hours before going to sleep last night? (number, up to 2 digits)",
   "type": "numeric",
-  "units": "cups",
+  "units": "number of servings",
   "labels": [
     "caffeine",
     "morning_survey_form_shhs"

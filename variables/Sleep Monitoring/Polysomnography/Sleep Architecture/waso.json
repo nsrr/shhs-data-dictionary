@@ -3,7 +3,7 @@
   "display_name": "Wake after Sleep Onset: the total duration between sleep onset and sleep offset time while being awake from type II polysomnography",
   "description": "Total amount of time spent awake after going to sleep",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "timebedp - slpprdp - slplatp",
   "labels": [
     "ttldurws_f1t2"

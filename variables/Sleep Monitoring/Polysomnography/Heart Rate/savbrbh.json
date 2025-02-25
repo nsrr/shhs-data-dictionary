@@ -3,7 +3,7 @@
   "display_name": "Average heart rate during REM sleep in supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "labels": [
     "avglvlhr_srpb_f1t2"
   ]

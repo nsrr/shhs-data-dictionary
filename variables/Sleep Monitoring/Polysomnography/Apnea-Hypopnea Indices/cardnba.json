@@ -3,7 +3,7 @@
   "display_name": "Central Apnea Index (NREM, Supine): (Central apneas with no oxygen desaturation threshold used only with arousal) / hour of NREM sleep in supine position from type II polysomnography",
   "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "cai_snpb_ca0o_f1t2"
   ]

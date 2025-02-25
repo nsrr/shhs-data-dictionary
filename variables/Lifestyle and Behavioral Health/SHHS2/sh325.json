@@ -3,7 +3,7 @@
   "display_name": "Sleep Habits (Sleep Heart Health Study Visit Two (SHHS2)): Cups of coffee per day",
   "description": "25. On a typical day, how many cups of regular coffee (with caffeine) do you drink?",
   "type": "numeric",
-  "units": "cups",
+  "units": "number of servings",
   "labels": [
     "caffeine",
     "sleep_habits_questionnaire_shhs"

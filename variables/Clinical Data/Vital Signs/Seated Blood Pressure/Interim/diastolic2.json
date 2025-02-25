@@ -3,7 +3,7 @@
   "display_name": "Interim Follow-up: Diastolic blood pressure (BP) - second reading",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "labels": [
     "mmhg",
     "interim_shhs"

@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (Sleep Heart Health Study Visit One (SHHS1)): pipe bowls before bed",
   "description": "How many pipe bowls 4 hours before going to sleep last night? (number, up to 2 digits)",
   "type": "numeric",
-  "units": "bowls",
+  "units": "number of servings",
   "labels": [
     "morning_survey_form_shhs"
   ],

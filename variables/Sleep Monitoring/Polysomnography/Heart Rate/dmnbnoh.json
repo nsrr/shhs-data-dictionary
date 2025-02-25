@@ -3,7 +3,7 @@
   "display_name": "Minimum heart rate with oxygen desaturation >3%  during NREM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "labels": [
     "minlvlhr_snpo_dsgt3_f1t2"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Total number of oxygen saturation with desat >= 5% from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "oxygen desaturation events",
+  "units": "number of events",
   "labels": [
     "ttlnumsa_dsge5_f1t2"
   ]

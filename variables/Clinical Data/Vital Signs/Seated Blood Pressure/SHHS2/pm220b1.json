@@ -3,7 +3,7 @@
   "display_name": "Systolic blood pressure (BP) (measurement 2) (Sleep Heart Health Study Visit Two (SHHS2))",
   "description": "20. Seated Blood Pressure (BP): b. Second reading: systolic",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "labels": [
     "mmhg",
     "2nd"

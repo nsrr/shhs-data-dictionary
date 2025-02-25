@@ -3,7 +3,7 @@
   "display_name": "Interim Follow-up: Average systolic blood pressure",
   "description": "Sleep Heart Health Study (SHHS) protocol: average of 2nd and 3rd reading   PARENT STUDY: average of all three readings",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "labels": [
     "blood pressure",
     "mmhg",

@@ -3,7 +3,7 @@
   "display_name": "Average duration of central apnea in REM sleep in non-supine position: Central apneas with no oxygen desaturation threshold used only with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "avgdurca_srpo_ca0o_f1t2"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Arousal Index: Arousals per hour of sleep from type II polysomnography",
   "description": "Total number of arousals per hour of sleep.  Ratio of count of arousals to total sleep time in hours.",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "calculation": "60 * ( arrembp + arremop + arnrembp + arnremop ) / slpprdp",
   "labels": [
     "phrnumar_f1t2"

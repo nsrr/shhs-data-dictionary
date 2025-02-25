@@ -3,7 +3,7 @@
   "display_name": "Cholesterol",
   "description": "",
   "type": "numeric",
-  "units": "milligrams per deciliter",
+  "units": "milligrams per deciliter (mg/dL)",
   "labels": [
     "mg/dl"
   ],

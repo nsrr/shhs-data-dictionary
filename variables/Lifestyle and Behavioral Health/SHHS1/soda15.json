@@ -3,7 +3,7 @@
   "display_name": "Health Interview (Sleep Heart Health Study Visit One (SHHS1)): cups of soda (with caffeine) on a regular day",
   "description": "How many cups/glasses of cola/soda (with caffeine) do you drink on a regular day?  (Number of cups/glasses of soda, up to 2 digits)",
   "type": "numeric",
-  "units": "cups",
+  "units": "number of servings",
   "labels": [
     "pop",
     "health_interview_shhs"

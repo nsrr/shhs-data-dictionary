@@ -3,7 +3,7 @@
   "display_name": "Arousal Index (NREM, Non-Supine): Arousals per hour of NREM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "labels": [
     "phrnumar_snpo_f1t2"
   ]

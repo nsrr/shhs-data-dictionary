@@ -3,7 +3,7 @@
   "display_name": "Physical Measurements (Sleep Heart Health Study Visit Two (SHHS2)): 2nd: Left leg posterior systolic blood pressure (BP)",
   "description": "Wait 30 seconds before second readings. Second readings: Record in order shown (If no second reading, code as \"n__\".) f. Left leg posterior tibial systolic blood pressure (BP):",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "labels": [
     "mmhg"
   ],

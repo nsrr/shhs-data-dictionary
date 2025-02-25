@@ -3,7 +3,7 @@
   "display_name": "Number of shift (sleep stages shift) from REM sleep to stage 1 sleep per hour of sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "stage shifts",
+  "units": "number of events per hour",
   "labels": [
     "phrnumsf_srs1_f1t2"
   ]

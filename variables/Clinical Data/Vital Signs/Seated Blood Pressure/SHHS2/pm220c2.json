@@ -3,7 +3,7 @@
   "display_name": "Diastolic blood pressure (BP) (measurement 3) (Sleep Heart Health Study Visit Two (SHHS2))",
   "description": "20. Seated Blood Pressure (BP): c. Third reading: diastolic",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "labels": [
     "mmhg",
     "3rd"

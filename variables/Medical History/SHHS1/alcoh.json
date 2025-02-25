@@ -1,7 +1,7 @@
 {
   "id": "alcoh",
   "display_name": "Alcohol use (Sleep Heart Health Study Visit One (SHHS1))",
-  "description": "Usual Alcohol Intake per day",
+  "description": "Usual Alcohol Intake (number of drinks) per day",
   "type": "numeric",
   "units": "drinks per day",
   "labels": [

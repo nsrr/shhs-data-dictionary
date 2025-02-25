@@ -3,7 +3,7 @@
   "display_name": "Interim Follow-up: Number of automobile accidents in lifetime",
   "description": "",
   "type": "numeric",
-  "units": "car accidents",
+  "units": "counts",
   "labels": [
     "interim_shhs"
   ]

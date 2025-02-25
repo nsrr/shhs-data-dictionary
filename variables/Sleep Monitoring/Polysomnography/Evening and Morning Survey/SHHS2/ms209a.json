@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (Sleep Heart Health Study Visit Two (SHHS2)): glasses of wine before bed",
   "description": "9. How many of the following drinks did you have during the 4 hours before you went to sleep last night?  (Please write \"0\" if you did not drink any of that beverage.)  a. ____ glasses of wine (4 oz.)",
   "type": "numeric",
-  "units": "drinks",
+  "units": "number of servings",
   "labels": [
     "alcohol",
     "morning_survey_form_shhs"

@@ -3,7 +3,7 @@
   "display_name": "Average oxygen saturation during REM sleep from type II polysomnography",
   "description": "The mean of all oxygen saturation (SaO2) values in epochs scored as stage REM (Rapid eye movement sleep).",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "avglvlsa_sr_f1t2",
     "sao2rem"

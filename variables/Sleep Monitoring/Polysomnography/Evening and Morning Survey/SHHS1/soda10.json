@@ -3,7 +3,7 @@
   "display_name": "Morning Survey (Sleep Heart Health Study Visit One (SHHS1)): glasses or cans of soda before bed",
   "description": "How many glasses or cans of soda (with caffeine) 4 hours before going to sleep last night? (number, up to 2 digits)",
   "type": "numeric",
-  "units": "glasses",
+  "units": "number of servings",
   "labels": [
     "caffeine",
     "morning_survey_form_shhs"

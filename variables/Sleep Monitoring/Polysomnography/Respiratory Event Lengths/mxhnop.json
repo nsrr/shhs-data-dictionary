@@ -3,7 +3,7 @@
   "display_name": "Maximum duration of hypopnea in NREM sleep in non-supine position: Hypopneas with no oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "maxdurhp_snpo_hp3x0u_f1t2"
   ]

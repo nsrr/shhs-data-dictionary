@@ -3,7 +3,7 @@
   "display_name": "Total number of central apnea in REM sleep in non-supine position: Central apneas with no oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "central apnea events",
+  "units": "number of events",
   "labels": [
     "ttlnumca_srpo_ca0u_f1t2"
   ]

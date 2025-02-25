@@ -3,7 +3,7 @@
   "display_name": "Average duration of obstructive apnea in NREM sleep in non-supine position: Obstructive apneas with >= 4% oxygen desaturation and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "avgduroa_snpo_oa4u_f1t2"
   ]

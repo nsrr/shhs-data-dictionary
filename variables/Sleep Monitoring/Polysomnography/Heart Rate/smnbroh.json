@@ -3,7 +3,7 @@
   "display_name": "Minimum heart rate during REM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "labels": [
     "minlvlhr_srpo_f1t2"
   ]

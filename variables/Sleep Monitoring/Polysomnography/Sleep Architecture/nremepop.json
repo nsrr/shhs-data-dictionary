@@ -3,7 +3,7 @@
   "display_name": "Total duration of sleep in NREM sleep in non-supine position from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "ttldursp_snpo_f1t2"
   ]

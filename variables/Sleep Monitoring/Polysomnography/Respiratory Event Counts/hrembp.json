@@ -3,7 +3,7 @@
   "display_name": "Total number of hypopnea in REM sleep in supine position: Hypopneas with no oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "hypopnea events",
+  "units": "number of events",
   "labels": [
     "ttlnumhp_srpb_hp3x0u_f1t2"
   ]

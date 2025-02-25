@@ -3,7 +3,7 @@
   "display_name": "Central Apnea Index: (Central apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep from type II polysomnography",
   "description": "Calculated - Summary metric of sleep disordered breathing events",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "calculation": "60 * ( carbp + carop + canbp + canop ) / slpprdp",
   "labels": [
     "cai_ca0u_f1t2"

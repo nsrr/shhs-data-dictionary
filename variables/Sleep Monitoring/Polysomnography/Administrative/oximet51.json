@@ -3,7 +3,7 @@
   "display_name": "PSG Signal Verification (SHHS1): Value of Oximeter (SaO2%)",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "baseline",
     "saturation"

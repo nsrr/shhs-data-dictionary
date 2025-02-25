@@ -3,7 +3,7 @@
   "display_name": "Interim Follow-up: Usual number of naps per week",
   "description": "",
   "type": "numeric",
-  "units": "naps",
+  "units": "number of events per week",
   "labels": [
     "interim_shhs",
     "sleep_hygiene"

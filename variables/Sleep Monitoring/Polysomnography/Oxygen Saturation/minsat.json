@@ -3,7 +3,7 @@
   "display_name": "Minimum oxygen saturation during total sleep duration from type II polysomnography",
   "description": "Lowest oxygen saturation (SaO2)% during sleep",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "min(losao2r,losao2nr)",
   "labels": [
     "minlvlsa_f1t2"

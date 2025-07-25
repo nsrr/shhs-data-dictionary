@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "pack years",
   "labels": [
+    "smoking",
     "health_interview_shhs"
   ],
   "commonly_used": true

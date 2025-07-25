@@ -1,0 +1,6 @@
+{
+  "id": "nsrr_oahi_hp3u",
+  "display_name": "Obstructive Apnea-Hypopnea Index: (Obstructive apneas + hypopneas with >= 3% oxygen desaturation) / hour of sleep ",
+  "description": "Harmonized by the NSRR team. Source: :ahi_o0h3:",
+  "type": "numeric"
+}

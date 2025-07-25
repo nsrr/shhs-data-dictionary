@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "years",
   "labels": [
+    "smoking",
     "health_interview_shhs"
   ],
   "forms": [

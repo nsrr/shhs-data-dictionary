@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "smoker",
   "labels": [
+    "smoking",
     "cigarettes"
   ],
   "commonly_used": true

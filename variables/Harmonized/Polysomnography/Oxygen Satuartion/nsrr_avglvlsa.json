@@ -1,0 +1,6 @@
+{
+  "id": "nsrr_avglvlsa",
+  "display_name": "Average oxygen saturation in sleep",
+  "description": "Harmonized by the NSRR team. Source: :avgsat:",
+  "type": "numeric"
+}

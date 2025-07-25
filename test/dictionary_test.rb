@@ -27,18 +27,14 @@ class DictionaryTest < Minitest::Test
   # Example 1: Create custom tests to show that `integer` and `numeric`
   # variables have a valid unit type.
   VALID_UNITS = [
-    nil, "", "microvolts squared per hertz", "hertz", "arousals",
-    "car accidents", "miles", "beats per minute", "bottles", "bowls", "cans",
-    "centimeters", "central apnea events", "cigarettes", "cigarettes per day",
-    "cigars", "cups", "days", "days from index date", "drinks",
-    "drinks per day", "events per hour", "glasses", "hours",
-    "hypopnea events", "index", "kilograms", "kilograms per square meter",
-    "liters", "milligrams per deciliter", "millimeters",
-    "millimeters of mercury", "minutes", "naps", "number of events",
-    "obstructive apnea events", "oxygen desaturation events", "pack years",
-    "percent", "seconds", "stage shifts", "years", "minutes (min)",
-    "seconds from start of recording", "milliseconds", "milliseconds squared",
-    "percent (%)"]
+    nil, "", "days from index date", "NA", "kilograms per meter squared (kg/m2)", 
+    "centimeters (cm)", "kilograms (kg)", "millimeters (mm)", "beats per minute (bpm)", 
+    "milliseconds (ms)", "seconds (s)", "seconds from start of recording",
+    "milliseconds squared", "percent (%)", "liters (L)", "number of events", "days", 
+    "milligrams per deciliter (mg/dL)", "millimeters of mercury (mmHg)", "years", 
+    "number of events per hour", "minutes (min)", "hours (hr)", "miles", "counts", 
+    "number of servings", "number of servings per day", "drinks per day", "pack years", 
+    "H:mm:ss", "number of events per week", "hours"]
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|
     define_method("test_units: #{variable.path}") do
       message = "\"#{variable.units}\"".red + " invalid units.\n" +

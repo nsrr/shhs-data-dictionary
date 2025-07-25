@@ -1,0 +1,6 @@
+{
+  "id": "nsrr_oai",
+  "display_name": "Obstructive Apnea Index: (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep",
+  "description": "Harmonized by the NSRR team. Source: :oai0p:",
+  "type": "numeric"
+}

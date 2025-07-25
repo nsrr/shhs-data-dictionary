@@ -2,7 +2,8 @@
   "id": "event09start",
   "display_name": "Respiratory event (09) start time",
   "description": "From the start of recording",
-  "units": "seconds (s) ",
+  "type": "numeric",
+  "units": "seconds (s)",
   "labels": [
     "heart rate variability"
   ]

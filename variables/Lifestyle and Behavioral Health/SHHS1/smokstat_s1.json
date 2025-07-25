@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "smoker",
   "labels": [
+    "smoking",
     "sleep_habits_questionnaire_shhs"
   ],
   "commonly_used": true,

@@ -3,4 +3,8 @@
   "display_name": "Minimum duration of hypopnea in REM sleep in non-supine position: Hypopneas with >= 2% oxygen desaturation threshold used and with or without arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)
+  "units": "seconds (s)",
+  "labels": [
+    "mindurhp_srpo_hp3x2u_f1t2"
+  ]
+}

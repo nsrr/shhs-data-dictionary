@@ -2127,7 +2127,62 @@ data shhs1_harmonized;
 *use timebedp;
   format nsrr_ttlprdbd_f1 8.2;
   nsrr_ttlprdbd_f1 = timebedp;  
-  
+
+*----------------------------------------------*
+****UNTESTED harmonized variables July 2025*****
+*----------------------------------------------*
+
+  *nsrr_tst_f1; 
+  *use slpprdp; 
+    format nsrr_tst_f1 8.2;   
+    nsrr_tst_f1 = slpprdp;
+
+  *nsrr_waso_f1;  
+  *use waso;  
+    format nsrr_waso_f1 8.2;    
+    nsrr_waso_f1 = waso;
+
+  *nsrr_tib_f1; 
+  *use timebedp;  
+    format nsrr_tib_f1 8.2;   
+    nsrr_tib_f1 = timebedp;
+
+  *nsrr_cai;  
+  *use cai0p; 
+    format nsrr_cai 8.2;    
+    nsrr_cai = cai0p;
+
+  *nsrr_oai;  
+  *use oai0p;   
+    format nsrr_oai 8.2;     
+    nsrr_oai = oai0p;
+
+  *nsrr_oahi_hp4u;  
+  *use ahi_o0h4;  
+    format nsrr_oahi_hp4u 8.2;    
+    nsrr_oahi_hp4u = ahi_o0h4;
+
+  *nsrr_oahi_hp3u;  
+  *use ahi_o0h3;  
+    format nsrr_oahi_hp3u 8.2;    
+    nsrr_oahi_hp3u = ahi_o0h3;
+
+  *nsrr_avglvlsa; 
+  *use avgsat;  
+    format nsrr_avglvlsa 8.2;   
+    nsrr_avglvlsa = avgsat;
+
+  *nsrr_minlvlsa; 
+  *use minsat;  
+    format nsrr_minlvlsa 8.2;   
+    nsrr_minlvlsa = minsat;
+
+  *nsrr_ahi_hp3r_aasm07;
+  *use ahi_a0h3a;
+    format nsrr_ahi_hp3r_aasm07 8,2;
+    nsrr_ahi_hp3r_aasm07 = ahi_a0h3a;
+
+
   keep 
     nsrrid
     visitnumber
@@ -2158,6 +2213,17 @@ data shhs1_harmonized;
 	nsrr_pctdursp_s3
 	nsrr_pctdursp_sr
 	nsrr_ttlprdbd_f1
+*nsrr_ahi_hp3r_aasm07
+*nsrr_tst_f1
+*nsrr_waso_f1
+*nsrr_tib_f1
+*nsrr_cai
+*nsrr_oai
+*nsrr_oahi_hp4u
+*nsrr_oahi_hp3u
+*nsrr_avglvlsa
+*nsrr_minlvlsa
+
     ;
 run;
 
@@ -2275,6 +2341,14 @@ data shhs2_harmonized;
     else if staging5 = 0 then nsrr_flag_spsw = 'full scoring';
   else if staging5 = . then nsrr_flag_spsw = 'unknown';  
 
+** UNTESTED replacement for nsrr_flag_spsw, using slewake as the new source for visit 2 only;
+* description for slewake: (0=no (full scoring); 1=yes (sleep/wake only));
+*  format nsrr_flag_spsw $100.;
+*    if slewake = 1 then nsrr_flag_spsw = 'sleep/wake only';
+*    else if slewake = 0 then nsrr_flag_spsw = 'full scoring';
+*  else if slewake = . then nsrr_flag_spsw = 'unknown';  
+* DROP previous nsrr_flag_spsw section above when adding this;
+
 *nsrr_ttleffsp_f1;
 *use slpeffp;
   format nsrr_ttleffsp_f1 8.2;
@@ -2325,6 +2399,61 @@ data shhs2_harmonized;
   format nsrr_ttlprdbd_f1 8.2;
   nsrr_ttlprdbd_f1 = timebedp;  
   
+*----------------------------------------------*
+****UNTESTED harmonized variables July 2025*****
+*----------------------------------------------*
+
+  *nsrr_tst_f1; 
+  *use slpprdp; 
+    format nsrr_tst_f1 8.2;   
+    nsrr_tst_f1 = slpprdp;
+
+  *nsrr_waso_f1;  
+  *use waso;  
+    format nsrr_waso_f1 8.2;    
+    nsrr_waso_f1 = waso;
+
+  *nsrr_tib_f1; 
+  *use timebedp;  
+    format nsrr_tib_f1 8.2;   
+    nsrr_tib_f1 = timebedp;
+
+  *nsrr_cai;  
+  *use cai0p; 
+    format nsrr_cai 8.2;    
+    nsrr_cai = cai0p;
+
+  *nsrr_oai;  
+  *use oai0p;   
+    format nsrr_oai 8.2;     
+    nsrr_oai = oai0p;
+
+  *nsrr_oahi_hp4u;  
+  *use ahi_o0h4;  
+    format nsrr_oahi_hp4u 8.2;    
+    nsrr_oahi_hp4u = ahi_o0h4;
+
+  *nsrr_oahi_hp3u;  
+  *use ahi_o0h3;  
+    format nsrr_oahi_hp3u 8.2;    
+    nsrr_oahi_hp3u = ahi_o0h3;
+
+  *nsrr_avglvlsa; 
+  *use avgsat;  
+    format nsrr_avglvlsa 8.2;   
+    nsrr_avglvlsa = avgsat;
+
+  *nsrr_minlvlsa; 
+  *use minsat;  
+    format nsrr_minlvlsa 8.2;   
+    nsrr_minlvlsa = minsat;
+
+  *nsrr_ahi_hp3r_aasm07;
+  *use ahi_a0h3a;
+    format nsrr_ahi_hp3r_aasm07 8,2;
+    nsrr_ahi_hp3r_aasm07 = ahi_a0h3a;
+
+
   keep 
     nsrrid
     visitnumber
@@ -2355,6 +2484,16 @@ data shhs2_harmonized;
 	nsrr_pctdursp_s3
 	nsrr_pctdursp_sr
 	nsrr_ttlprdbd_f1
+*nsrr_tst_f1
+*nsrr_waso_f1
+*nsrr_tib_f1
+*nsrr_cai
+*nsrr_oai
+*nsrr_oahi_hp4u
+*nsrr_oahi_hp3u
+*nsrr_avglvlsa
+*nsrr_minlvlsa
+*nsrr_ahi_hp3r_aasm07
     ;
 run;
 

@@ -1,7 +1,7 @@
 {
   "id": "snstopdrinking",
   "display_name": "Interim Follow-up: Treatment prescribed - reduce or stop drinking",
-  "description": "",
+  "description": "If answered 'yes' to: Treated for snoring since SHHS1 sleep study (:treatedsnoring:)",
   "type": "choices",
   "domain": "noyes01",
   "labels": [

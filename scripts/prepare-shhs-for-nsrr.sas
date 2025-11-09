@@ -1968,7 +1968,9 @@
 data shhs1_harmonized;
   set shhs1;
   *create visitnumber variable for Spout to use for graph generation;
-    visitnumber = 1;
+  
+  * OLD:  visitnumber = 1;
+  * NEW:  nsrr_visit = 1; (untested)
 
 *demographics
 *age;
@@ -2185,7 +2187,8 @@ data shhs1_harmonized;
 
   keep 
     nsrrid
-    visitnumber
+    * OLD: visitnumber
+    * NEW: nsrr_visit
     nsrr_age
     nsrr_age_gt89
     nsrr_sex
@@ -2231,7 +2234,8 @@ run;
 data shhs2_harmonized;
   set shhs2;
   *create visitnumber variable for Spout to use for graph generation;
-    visitnumber = 2;
+  * OLD: visitnumber = 2;
+  * NEW: nsrr_visit = 2; (untested)
 
 *demographics
 *age;
@@ -2456,7 +2460,8 @@ data shhs2_harmonized;
 
   keep 
     nsrrid
-    visitnumber
+  * OLD: visitnumber
+  * NEW: nsrr_visit 
     nsrr_age
     nsrr_age_gt89
     nsrr_sex

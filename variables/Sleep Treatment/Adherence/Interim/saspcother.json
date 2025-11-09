@@ -1,7 +1,7 @@
 {
   "id": "saspcother",
   "display_name": "Interim Follow-up: Treatment prescribed - other (text)",
-  "description": "",
+  "description": "If answered 'yes' to: Treated for sleep apnea since SHHS1 sleep study (:treatedsleepapnea:)",
   "type": "text",
   "labels": [
     "interim_shhs"

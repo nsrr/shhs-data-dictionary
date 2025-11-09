@@ -1,7 +1,7 @@
 {
   "id": "spcothernottreated",
   "display_name": "Interim Follow-up: Other reason sleep apnea not treated",
-  "description": "",
+  "description": "If answered 'yes' to: Treated for snoring since SHHS1 sleep study (:treatedsnoring:)",
   "type": "text",
   "labels": [
     "noncompliance",

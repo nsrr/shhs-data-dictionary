@@ -1,7 +1,7 @@
 {
   "id": "stdydtqa",
   "display_name": "Polysomnogram (PSG) Quality Assessment (Sleep Heart Health Study Visit One (SHHS1)): Date of Study",
-  "description": "",
+  "description": "This is the 'index date' used to anchor other study visit dates.",
   "type": "numeric",
   "units": "days from index date",
   "forms": [

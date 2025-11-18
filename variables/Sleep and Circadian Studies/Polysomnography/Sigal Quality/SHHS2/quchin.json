@@ -6,5 +6,8 @@
   "domain": "sigqual2",
   "labels": [
     "emg"
+  ],
+  "forms": [
+    "shhs2_sleep_data_quality_assessment_and_preliminary_report_form"
   ]
 }

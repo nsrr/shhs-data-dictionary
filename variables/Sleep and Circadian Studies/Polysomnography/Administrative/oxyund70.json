@@ -1,12 +1,16 @@
 {
   "id": "oxyund70",
   "display_name": "Polysomnography (PSG) Quality Assessment: Medical Alert - oxygen saturation (SaO2) < 70 for >10% total sleep time",
-  "description": "Medical Alert for oxygen saturation (SaO2) under 70.",
+  "description": "Medical Alert for oxygen saturation (SaO2) under 70. Note differences in branching logic between SHHS1 and SHHS2, see forms",
   "type": "choices",
   "domain": "yesnon",
   "labels": [
     "oximetry",
     "hypoxemia",
     "hypoxia"
+  ],
+  "forms": [
+    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form",
+    "shhs2_sleep_data_quality_assessment_and_preliminary_report_form"
   ]
 }

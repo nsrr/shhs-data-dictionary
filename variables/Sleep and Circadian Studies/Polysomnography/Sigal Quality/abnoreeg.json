@@ -1,10 +1,11 @@
 {
   "id": "abnoreeg",
   "display_name": "Polysomnography (PSG) Quality Assessment : Abnormal EEG",
-  "description": "Scorer observed abnormal EEG during study.",
+  "description": "Scorer observed abnormal EEG during study. Note differences in branching logic between SHHS1 and SHHS2, see forms",
   "type": "choices",
   "domain": "yesnon",
   "forms": [
-    "shhs1_psg_scoring_notes_form"
+    "shhs1_psg_scoring_notes_form",
+    "shhs2_sleep_data_quality_assessment_and_preliminary_report_form"
   ]
 }

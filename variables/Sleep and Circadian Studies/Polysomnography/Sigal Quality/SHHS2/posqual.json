@@ -3,5 +3,8 @@
   "display_name": "Quality of the position signal",
   "description": "Sleep Heart Health Study Visit 1 (SHHS1)-These vary from 1 (poorest) to 5 (best) and reflect the proportion of sleep time the signals were useable. ",
   "type": "choices",
-  "domain": "sigqual"
+  "domain": "sigqual",
+  "forms": [
+    "shhs2_sleep_data_quality_assessment_and_preliminary_report_form"
+  ]
 }

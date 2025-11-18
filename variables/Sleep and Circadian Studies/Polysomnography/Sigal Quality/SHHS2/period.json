@@ -1,6 +1,6 @@
 {
   "id": "period",
-  "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Periodic breathing (5 min)",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Periodic breathing (5 min)",
   "description": "Scorer observed periodic breathing for a period of at least 5 minutes during study.",
   "type": "choices",
   "domain": "yesnon",
@@ -8,5 +8,9 @@
     "cheyne stokes",
     "cheyne-stokes",
     "csr"
+  ],
+  "forms": [
+    "shhs1_psg_scoring_notes_form",
+    "shhs2_sleep_data_quality_assessment_and_preliminary_report_form"
   ]
 }

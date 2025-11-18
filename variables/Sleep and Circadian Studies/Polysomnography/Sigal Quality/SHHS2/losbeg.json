@@ -3,5 +3,8 @@
   "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Data Lost at beginning of study",
   "description": "Data was lost at the beginning of study due to unscorable signals.  Variable not used for Sleep Heart Health Study Visit 1 (SHHS1)",
   "type": "choices",
-  "domain": "yesnon"
+  "domain": "yesnon",
+  "forms": [
+    "shhs2_sleep_data_quality_assessment_and_preliminary_report_form"
+  ]
 }

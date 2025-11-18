@@ -5,6 +5,7 @@
   "type": "numeric",
   "units": "hours (hr)",
   "forms": [
-    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
+    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form",
+    "shhs2_sleep_data_quality_assessment_and_preliminary_report_form"
   ]
 }

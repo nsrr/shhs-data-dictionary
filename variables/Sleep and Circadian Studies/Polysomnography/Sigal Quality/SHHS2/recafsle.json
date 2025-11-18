@@ -3,5 +3,8 @@
   "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Data Lost - Recording began after sleep",
   "description": "Data was lost at the beginning of sleep period because recording began after sleep onset.",
   "type": "choices",
-  "domain": "yesnon"
+  "domain": "yesnon",
+  "forms": [
+    "shhs2_sleep_data_quality_assessment_and_preliminary_report_form"
+  ]
 }

@@ -1,7 +1,11 @@
 {
   "id": "hrov150",
   "display_name": "Polysomnography (PSG) Quality Assessment: Medical Alert - heart rate > 150 for >= 2 minutes",
-  "description": "Medical Alert for heart rate over 150.",
+  "description": "Medical Alert for heart rate over 150. Note differences in branching logic between SHHS1 and SHHS2, see forms",
   "type": "choices",
-  "domain": "yesnon"
+  "domain": "yesnon",
+  "forms": [
+    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form",
+    "shhs2_sleep_data_quality_assessment_and_preliminary_report_form"
+  ]
 }

@@ -2,5 +2,8 @@
   "id": "comm",
   "display_name": "Polysomnography (PSG) Quality Assessment (Sleep Heart Health Study Visit Two (SHHS2)): Signal Quality comments",
   "description": "Scorer comments on signal quality issues observed.",
-  "type": "text"
+  "type": "text",
+  "forms": [
+    "shhs2_sleep_data_quality_assessment_and_preliminary_report_form"
+  ]
 }

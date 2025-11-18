@@ -1,10 +1,11 @@
 {
   "id": "abnoreye",
   "display_name": "Polysomnography (PSG) Quality Assessment : Abnormal Eye movements",
-  "description": "Scorer observed abnormal eye movements during study.  Presence of the rhythmical lateral eye movements in Non-REM sleep, or asymmetrical or disconjugate movements. ",
+  "description": "Scorer observed abnormal eye movements during study.  Presence of the rhythmical lateral eye movements in Non-REM sleep, or asymmetrical or disconjugate movements. Note differences in branching logic between SHHS1 and SHHS2, see forms",
   "type": "choices",
   "domain": "yesnon",
   "forms": [
-    "shhs1_psg_scoring_notes_form"
+    "shhs1_psg_scoring_notes_form",
+    "shhs2_sleep_data_quality_assessment_and_preliminary_report_form"
   ]
 }

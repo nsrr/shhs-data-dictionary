@@ -1,0 +1,10 @@
+{
+  "id": "stlonp",
+  "display_name": "Clock time when the participant is out of bed or lights are on from type II polysomnography",
+  "description": "Conventionally, this variable would be called the end of time in bed (TIB). Derived from :stloup: and :timebedp: <br><br>For Visit 1, this variable is provided as minutes from recording start time.",
+  "type": "time",
+  "units": "H:mm:ss",
+  "labels": [
+    "endtimbd_f1t2"
+  ]
+}

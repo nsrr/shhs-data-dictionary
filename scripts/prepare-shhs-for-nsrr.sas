@@ -262,6 +262,11 @@
       )
       ;
 
+  * UNTESTED -----------------------------------------------
+  * lights on = inbed period (mins) + lights out (# epoch, therefore x 2 for mins);
+    stlonp = timebedp + 2*stloutp ;
+  * /UNTESTED -----------------------------------------------
+
     if yrssnr02 > 87 then yrssnr02 = .; /* should remove values of 88 or above */
     if mi2slp02 = 9999 then mi2slp02 = .;
     if minfa10 = 9999 then minfa10 = .;
@@ -1174,6 +1179,20 @@
       (SLPPRDP)
       )
       ;
+
+  * UNTESTED -----------------------------------------------
+
+  * lights on = inbed period (min, x 60 for secs) + lights out (clocktime);
+  * This calculation assumes stloup (which is a time var in visit 2 HH:MM:SS) is stored in seconds since midnight and allows for standard arithmetic. 
+
+   stlonp = timebedp * 60 + stloutp ; 
+   if stlonp ge 60*60*24 then stlonp = stlonp - 60*60*24; 
+   * Most will cross into the next day, so subtract a day to get a normal clocktime?
+
+   format stlonp time8.;  *?
+
+  * /UNTESTED -----------------------------------------------
+
 
     if mxsao2rh le 0 then mxsao2rh = .;
     if mxdrop5 le 0 then mxdrop5 = .;

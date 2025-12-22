@@ -24,7 +24,7 @@
   libname shhspsg "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_datasets\investigator-cd";
   libname shhsafib "\\rfawin\bwh-sleepepi-shhs\nsrr-prep\incident-afib\_datasets";
 
-  %let release = 0.21.0;
+  %let release = 0.22.0.pre;
 
 *******************************************************************************;
 * pull in source data ;
@@ -262,10 +262,8 @@
       )
       ;
 
-  * UNTESTED -----------------------------------------------
   * lights on = inbed period (mins) + lights out (# epoch, therefore x 2 for mins);
     stlonp = timebedp + 2*stloutp ;
-  * /UNTESTED -----------------------------------------------
 
     if yrssnr02 > 87 then yrssnr02 = .; /* should remove values of 88 or above */
     if mi2slp02 = 9999 then mi2slp02 = .;
@@ -1180,18 +1178,22 @@
       )
       ;
 
-  * UNTESTED -----------------------------------------------
+/* 
+  lights on (stlonp) = lights out time-of-day (stloutp) + time in bed (timebedp, minutes)
+  Assumptions:
+    - stloutp is a SAS TIME value (seconds since midnight), displayed as HH:MM:SS
+    - timebedp is a duration in minutes
+  Output:
+    - stlonp is a SAS TIME value (seconds since midnight), displayed as HH:MM:SS
+*/
 
-  * lights on = inbed period (min, x 60 for secs) + lights out (clocktime);
-  * This calculation assumes stloup (which is a time var in visit 2 HH:MM:SS) is stored in seconds since midnight and allows for standard arithmetic. 
+format stlonp time8.;
 
-   stlonp = timebedp * 60 + stloutp ; 
-   if stlonp ge 60*60*24 then stlonp = stlonp - 60*60*24; 
-   * Most will cross into the next day, so subtract a day to get a normal clocktime?
-
-   format stlonp time8.;  *?
-
-  * /UNTESTED -----------------------------------------------
+if nmiss(timebedp, stloutp)=0 then do;
+  /* Convert minutes to seconds, add to clock time, wrap across midnight */
+  stlonp = mod(stloutp + (timebedp * 60), 24*60*60);
+end;
+else stlonp = .;
 
 
     if mxsao2rh le 0 then mxsao2rh = .;
@@ -1987,9 +1989,7 @@
 data shhs1_harmonized;
   set shhs1;
   *create visitnumber variable for Spout to use for graph generation;
-  
-  * OLD:  visitnumber = 1;
-  * NEW:  nsrr_visit = 1; (untested)
+   nsrr_visit = 1; 
 
 *demographics
 *age;
@@ -2149,10 +2149,6 @@ data shhs1_harmonized;
   format nsrr_ttlprdbd_f1 8.2;
   nsrr_ttlprdbd_f1 = timebedp;  
 
-*----------------------------------------------*
-****UNTESTED harmonized variables July 2025*****
-*----------------------------------------------*
-
   *nsrr_tst_f1; 
   *use slpprdp; 
     format nsrr_tst_f1 8.2;   
@@ -2200,14 +2196,13 @@ data shhs1_harmonized;
 
   *nsrr_ahi_hp3r_aasm07;
   *use ahi_a0h3a;
-    format nsrr_ahi_hp3r_aasm07 8,2;
+    format nsrr_ahi_hp3r_aasm07 8.2;
     nsrr_ahi_hp3r_aasm07 = ahi_a0h3a;
 
 
   keep 
     nsrrid
-    * OLD: visitnumber
-    * NEW: nsrr_visit
+    nsrr_visit
     nsrr_age
     nsrr_age_gt89
     nsrr_sex
@@ -2235,26 +2230,23 @@ data shhs1_harmonized;
 	nsrr_pctdursp_s3
 	nsrr_pctdursp_sr
 	nsrr_ttlprdbd_f1
-*nsrr_ahi_hp3r_aasm07
-*nsrr_tst_f1
-*nsrr_waso_f1
-*nsrr_tib_f1
-*nsrr_cai
-*nsrr_oai
-*nsrr_oahi_hp4u
-*nsrr_oahi_hp3u
-*nsrr_avglvlsa
-*nsrr_minlvlsa
-
-    ;
+    nsrr_ahi_hp3r_aasm07
+    nsrr_tst_f1
+    nsrr_waso_f1
+    nsrr_tib_f1
+    nsrr_cai
+    nsrr_oai
+    nsrr_oahi_hp4u
+    nsrr_oahi_hp3u
+    nsrr_avglvlsa
+    nsrr_minlvlsa;
 run;
 
 *create harmonized data for visit 2;
 data shhs2_harmonized;
   set shhs2;
   *create visitnumber variable for Spout to use for graph generation;
-  * OLD: visitnumber = 2;
-  * NEW: nsrr_visit = 2; (untested)
+   nsrr_visit = 2; 
 
 *demographics
 *age;
@@ -2358,19 +2350,12 @@ data shhs2_harmonized;
   nsrr_phrnumar_f1 = ai_all;  
 
 *nsrr_flag_spsw;
-*use staging5;
+*use slewake;
   format nsrr_flag_spsw $100.;
-    if staging5 = 1 then nsrr_flag_spsw = 'sleep/wake only';
-    else if staging5 = 0 then nsrr_flag_spsw = 'full scoring';
-  else if staging5 = . then nsrr_flag_spsw = 'unknown';  
+    if slewake = 1 then nsrr_flag_spsw = 'sleep/wake only';
+    else if slewake = 0 then nsrr_flag_spsw = 'full scoring';
+  else if slewake = . then nsrr_flag_spsw = 'unknown';  
 
-** UNTESTED replacement for nsrr_flag_spsw, using slewake as the new source for visit 2 only;
-* description for slewake: (0=no (full scoring); 1=yes (sleep/wake only));
-*  format nsrr_flag_spsw $100.;
-*    if slewake = 1 then nsrr_flag_spsw = 'sleep/wake only';
-*    else if slewake = 0 then nsrr_flag_spsw = 'full scoring';
-*  else if slewake = . then nsrr_flag_spsw = 'unknown';  
-* DROP previous nsrr_flag_spsw section above when adding this;
 
 *nsrr_ttleffsp_f1;
 *use slpeffp;
@@ -2422,10 +2407,6 @@ data shhs2_harmonized;
   format nsrr_ttlprdbd_f1 8.2;
   nsrr_ttlprdbd_f1 = timebedp;  
   
-*----------------------------------------------*
-****UNTESTED harmonized variables July 2025*****
-*----------------------------------------------*
-
   *nsrr_tst_f1; 
   *use slpprdp; 
     format nsrr_tst_f1 8.2;   
@@ -2479,8 +2460,7 @@ data shhs2_harmonized;
 
   keep 
     nsrrid
-  * OLD: visitnumber
-  * NEW: nsrr_visit 
+    nsrr_visit 
     nsrr_age
     nsrr_age_gt89
     nsrr_sex
@@ -2508,16 +2488,16 @@ data shhs2_harmonized;
 	nsrr_pctdursp_s3
 	nsrr_pctdursp_sr
 	nsrr_ttlprdbd_f1
-*nsrr_tst_f1
-*nsrr_waso_f1
-*nsrr_tib_f1
-*nsrr_cai
-*nsrr_oai
-*nsrr_oahi_hp4u
-*nsrr_oahi_hp3u
-*nsrr_avglvlsa
-*nsrr_minlvlsa
-*nsrr_ahi_hp3r_aasm07
+    nsrr_tst_f1
+    nsrr_waso_f1
+    nsrr_tib_f1
+    nsrr_cai
+    nsrr_oai
+    nsrr_oahi_hp4u
+    nsrr_oahi_hp3u
+    nsrr_avglvlsa
+    nsrr_minlvlsa
+    nsrr_ahi_hp3r_aasm07
     ;
 run;
 
@@ -2552,7 +2532,17 @@ VAR   nsrr_age
 	nsrr_pctdursp_s2
 	nsrr_pctdursp_s3
 	nsrr_pctdursp_sr
-	nsrr_ttlprdbd_f1;
+	nsrr_ttlprdbd_f1
+	nsrr_tst_f1
+    nsrr_waso_f1
+    nsrr_tib_f1
+    nsrr_cai
+    nsrr_oai
+    nsrr_oahi_hp4u
+    nsrr_oahi_hp3u
+    nsrr_avglvlsa
+    nsrr_minlvlsa
+    nsrr_ahi_hp3r_aasm07;
 run;
 
 /* Checking categorical variables */
@@ -2652,6 +2642,7 @@ run;
 	    data=shhs_eeg
 	    outfile="\\rfawin\bwh-sleepepi-shhs\nsrr-prep\eeg-biomarkers-younes\_archive\shhs1-eeg-biomarkers-dataset-&rundate..csv"
 	    dbms=csv
+		replace;
 	  run;
 
 %let datetoday = %sysfunc(putn(%sysfunc(today()), mmddyy8.));

@@ -1,3 +1,8 @@
+## 0.22.0
+
+-
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-shhs\nsrr-prep\_releases\0.22.0\`
 ## 0.21.0 (July 2, 2024)
 
 - Exclude certain datasets (HRV 5min) from Spout deploy process

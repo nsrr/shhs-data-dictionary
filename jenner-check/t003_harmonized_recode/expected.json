@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-06-13T17:23:56Z",
+  "_captured_run_id": "r_019ec202fefb73009eb3460a926c1071",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: DATA shhs1_harmonized",
+    "NOTE: Read 5 rows from shhs1.",
+    "NOTE: Wrote shhs1_harmonized (5 rows, 4 columns).",
+    "NOTE: PROC PRINT completed: 5 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

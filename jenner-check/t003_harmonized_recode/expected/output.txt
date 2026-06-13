@@ -1,0 +1,9 @@
+
+  Obs  NSRRID                                                                                              NSRR_SEX                                                                                             NSRR_RACE                                                                                        NSRR_ETHNICITY
+-----  ------  ----------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------
+    1  200001  male                                                                                                  white                                                                                                 not hispanic or latino
+    2  200002  female                                                                                                black or african american                                                                             hispanic or latino
+    3  200003  male                                                                                                  other                                                                                                 not hispanic or latino
+    4  200004  female                                                                                                white                                                                                                 not hispanic or latino
+    5  200005  not reported                                                                                          not reported                                                                                          not reported
+

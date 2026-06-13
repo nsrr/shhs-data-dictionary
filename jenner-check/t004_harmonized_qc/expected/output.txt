@@ -1,0 +1,44 @@
+                                                  The MEANS Procedure
+
+ Variable                 N            Mean        Std Dev         Minimum         Maximum
+ -----------------------------------------------------------------------------------------
+ nsrr_age                 5      60.6000000      9.2357999      48.0000000      71.0000000
+ nsrr_bmi                 5      27.7400000      2.4521419      24.5000000      31.0000000
+ nsrr_bp_systolic         5     133.2000000     10.5688221     118.0000000     145.0000000
+ nsrr_bp_diastolic        5      81.0000000      6.8556546      72.0000000      90.0000000
+ nsrr_ahi_hp3u            5      17.7800000      9.4719058       5.3000000      30.2000000
+ nsrr_ttldursp_f1         5     379.0000000     24.5967478     350.0000000     410.0000000
+ -----------------------------------------------------------------------------------------
+
+                                                   The FREQ Procedure
+
+                                      Cumulative    Cumulative
+nsrr_sex    Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------
+female              2     40.00            2        40.00
+male                3     60.00            5       100.00
+
+                                                       Cumulative    Cumulative
+nsrr_race                    Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------------------
+black_or_african_american            1     20.00            1        20.00
+other                                1     20.00            2        40.00
+white                                3     60.00            5       100.00
+
+                                                    Cumulative    Cumulative
+nsrr_ethnicity            Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------------------------
+hispanic_or_latino                1     20.00            1        20.00
+not_hispanic_or_latino            4     80.00            5       100.00
+
+                                                 Cumulative    Cumulative
+nsrr_current_smoker    Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------------
+no                             3     60.00            3        60.00
+yes                            2     40.00            5       100.00
+
+                                             Cumulative    Cumulative
+nsrr_flag_spsw     Frequency    Percent     Frequency      Percent
+------------------------------------------------------------------------
+full_scoring               4     80.00            4        80.00
+sleep_wake_only            1     20.00            5       100.00

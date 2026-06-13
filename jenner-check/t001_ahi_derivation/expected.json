@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-06-13T17:23:53Z",
+  "_captured_run_id": "r_019ec202f1737c12b0ced8e8fd719f3a",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: DATA shhs1_ahi",
+    "NOTE: Read 3 rows from shhs1_events.",
+    "NOTE: Wrote shhs1_ahi (3 rows, 35 columns).",
+    "NOTE: PROC PRINT completed: 3 observations printed, 6 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

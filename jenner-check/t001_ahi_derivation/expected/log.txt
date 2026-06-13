@@ -1,0 +1,24 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA shhs1_events
+
+NOTE: Processing inline DATALINES (3 lines)
+
+NOTE: Read 3 rows from DATALINES.
+NOTE: Wrote shhs1_events (3 rows, 26 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA shhs1_ahi
+
+
+NOTE: Read 3 rows from shhs1_events.
+NOTE: Wrote shhs1_ahi (3 rows, 35 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=shhs1_ahi
+
+NOTE: PROC PRINT completed: 3 observations printed, 6 variables

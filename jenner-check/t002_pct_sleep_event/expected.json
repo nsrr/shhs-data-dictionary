@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-06-13T17:23:54Z",
+  "_captured_run_id": "r_019ec202f82476d1a9e0a326ea514f2a",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: DATA shhs1_pslp",
+    "NOTE: Read 2 rows from shhs1_pslp_in.",
+    "NOTE: Wrote shhs1_pslp (2 rows, 30 columns).",
+    "NOTE: PROC PRINT completed: 2 observations printed, 5 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

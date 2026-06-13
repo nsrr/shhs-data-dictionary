@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_pct_sleep_event",
+  "source_file": "scripts/prepare-shhs-for-nsrr.sas",
+  "source_blob_sha": "2ca9a254a70291cf8185a446ed06b6ab9753c413",
+  "source_commit": "413a24254aee4baee7b18a172cd48b654cc72acb",
+  "tier": "mock_data",
+  "notes": "SHHS1 percent-of-sleep-time-in-respiratory-event-type derivation (pslp_ca0/oa0/ap0/hp0) from the shhs1 base-dataset DATA step. Mock event counts + average durations substitute for the BioLINCC source dataset (libname biolincc)."
+}

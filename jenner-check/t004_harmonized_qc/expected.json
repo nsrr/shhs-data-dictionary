@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-06-13T17:23:59Z",
+  "_captured_run_id": "r_019ec20305777e43a97028e3f1aca334",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote shhs_harmonized (5 rows, 13 columns).",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: PROC FREQ statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
